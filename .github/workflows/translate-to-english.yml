@@ -65,7 +65,8 @@ jobs:
           - Préserve exactement la syntaxe GitBook : {% hint %}, {% tabs %}, {% details %}, tableaux, cards, liens.
           - Copie les balises <figure>, <img ...> et tout emoji exactement tels quels.
           - Conserve la même structure de titres (même nombre de #).
-          - "Bilan Carbone®" ne se traduit pas. Conserve aussi les sigles : GES, ADEME, ABC, CSRD, GHG, ISO.
+          - "Bilan Carbone®" ne se traduit pas. Conserve aussi les sigles : ADEME, ABC, CSRD, GHG, ISO.
+          - "GES" se traduit par "GHG", sauf quand il fait partie d'un sigle composé comme "BEGES-r" (à conserver tel quel).
           - Si le fichier est SUMMARY.md, traduis uniquement les titres affichés, jamais les chemins entre parenthèses.
           - Réponds uniquement avec le contenu traduit du fichier, sans commentaire ni balise supplémentaire."""
 
