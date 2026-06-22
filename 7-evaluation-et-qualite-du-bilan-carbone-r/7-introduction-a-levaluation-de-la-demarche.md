@@ -1,65 +1,64 @@
 ---
 description: >-
-  Introduction au déroulement de l'étape 7 : définitions, gouvernance, exigences
-  et livrables.
+  Introduction to Step 7: definitions, governance, requirements
+  and deliverables.
 ---
 
-# 7 - Introduction à l'évaluation de la démarche
+# 7 - Introduction to the Evaluation of the Approach
 
-<figure><img src="../.gitbook/assets/2149367141.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2149367141.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-L’un des aspects fondamentaux de la méthode Bilan Carbone® est la transparence sur tout le processus de calcul, du choix des périmètres jusqu’aux moyens de communication aux parties prenantes.
+One of the fundamental aspects of the Bilan Carbone® method is transparency throughout the entire calculation process, from the choice of boundaries to the means of communication with stakeholders.
 
-L’[évaluation](../annexes/glossaire.md#evaluation-dun-bilan) d’un Bilan Carbone® garantit ainsi la fiabilité des résultats. Elle permet également d’identifier des points bloquants et d’amélioration entre deux bilans d’une organisation. L'évaluation est une étape volontaire ayant deux objectifs :&#x20;
+The [evaluation](../annexes/glossaire.md#evaluation-dun-bilan) of a Bilan Carbone® thus ensures the reliability of results. It also makes it possible to identify blocking points and areas for improvement between two assessments carried out by an organisation. Evaluation is a voluntary step with two objectives:&#x20;
 
-* [Vérifier ](../annexes/glossaire.md#verification)que le bilan respecte les exigences de la méthode Bilan Carbone®
-* Confirmer le niveau de maturité de l'organisation réalisant son bilan (ce point peut être utile pour savoir quelle démarche complémentaire au Bilan Carbone® peut être amorcée par la suite)
+* [Verifying](../annexes/glossaire.md#verification) that the assessment meets the requirements of the Bilan Carbone® method
+* Confirming the maturity level of the organisation carrying out its assessment (this point can be useful for knowing which complementary approach to the Bilan Carbone® can be initiated thereafter)
 
-L'organisation doit :
+The organisation must:
 
-* [Étape 7.1](7.1-preparer-levaluation-de-son-bilan.md) : préparer l'évaluation de son bilan (contractualiser avec une équipe d'évaluation habilitée et constituer les livrables pour l'évaluation)
-* [Étape 7.2](7.2-le-process-devaluation.md) : comprendre le process d'évaluation
-* [Étape 7.3](7.3-resultat-de-levaluation.md) : comprendre le résultat de l'évaluation
+* [Step 7.1](7.1-preparer-levaluation-de-son-bilan.md): prepare the evaluation of its assessment (enter into a contract with an authorised evaluation team and compile the deliverables for the evaluation)
+* [Step 7.2](7.2-le-process-devaluation.md): understand the evaluation process
+* [Step 7.3](7.3-resultat-de-levaluation.md): understand the evaluation result
 
-> :mag\_right: _L'évaluation du Bilan Carbone® suit le processus décrit dans le_ [_Guide d'évaluation des bilans_](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)_. Ce processus est également détaillé dans la sous-section "_[_Le processus d'évaluation_](7.2-le-process-devaluation.md)_" du présent guide et est en libre accès pour les organisations souhaitant s'_[_autoévaluer_](7.3-resultat-de-levaluation.md)_._&#x20;
+> :mag\_right: _The evaluation of the Bilan Carbone® follows the process described in the_ [_Assessment Evaluation Guide_](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)_. This process is also detailed in the sub-section "_[_The evaluation process_](7.2-le-process-devaluation.md)_" of this guide and is freely accessible to organisations wishing to_ [_self-evaluate_](7.3-resultat-de-levaluation.md)_._&#x20;
 
-## Glossaire relatif à l'Évaluation
+## Glossary relating to Evaluation
 
-L'ensemble des termes relatif aux étapes d'identification des périmètres sont explicités dans le [glossaire](../annexes/glossaire.md). Il font l'objet d'un rappel ci-dessous :&#x20;
+All terms relating to the stages of boundary identification are explained in the [glossary](../annexes/glossaire.md). They are recalled below:&#x20;
 
-* Évaluation des bilans : Processus garantissant la fiabilité et transparence des bilans et leurs résultats. Il permet également d’identifier des points bloquants et d’amélioration entre deux bilans d’une organisation. L'évaluation inclut la vérification et la validation des bilans. L'évaluation du Bilan Carbone® suit les consignes décrites dans le [Guide d'évaluation des bilans](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).&#x20;
-* Validation des bilans : Évaluation des effets n’ayant pas encore eu lieu, concernant le bilan évalué. Par exemple : la validation du plan de transition (notion issue de l'[ISO 17029](../annexes/bibliographie/) et ISO 14066).
-* Vérification des bilans : Évaluation des effets déjà survenus, dans le cadre du bilan évalué. Par exemple : la vérification des données employés lors du calcul du profil GES, la vérification des résultats obtenus, la vérification des incertitudes, entre autres (notion issue de l'[ISO 17029](../annexes/bibliographie/) et ISO 14066).
-* Autoévaluation : Suivi du processus d'évaluation d'un Bilan Carbone® en interne et en autonomie, à partir du guide d'évaluation en accès libre. L'autoévaluation ne fait donc pas appel au process d'évaluation par un évaluateur habilité (formé et certifié). Une autoévaluation permet un usage interne : cibler l'atteinte ou non de certains critères des niveaux de maturité visés, progresser en amélioration continue, vérifier la pertinence de lancer une évaluation externe, confirmer en interne sa maturité et donc l'intérêt d'enchaîner avec des démarches complémentaires de transition bas carbone. Une autoévaluation ne permet pas de déclarer sa démarche Bilan Carbone® comme étant évaluée, ni de communiquer à l'externe le résultat obtenu.
-* Équipe d'évaluation : Ensemble des personnes chargées de la vérification et validation du bilan. L'ensemble de l'équipe répond aux compétences et principes exigés [ci-après](7.1-preparer-levaluation-de-son-bilan.md). L'équipe d'évaluation est dirigée par un chef de projet d’évaluation, qui dirige l'évaluation d'un bilan donné, garantit son bon déroulement et établit le rapport final d'évaluation. Il peut être accompagné de différents experts selon les compétences complémentaires nécessaires au bon déroulement du process d'évaluation.
+* Evaluation of assessments: Process ensuring the reliability and transparency of assessments and their results. It also makes it possible to identify blocking points and areas for improvement between two assessments carried out by an organisation. Evaluation includes the verification and validation of assessments. The evaluation of the Bilan Carbone® follows the instructions described in the [Assessment Evaluation Guide](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).&#x20;
+* Validation of assessments: Evaluation of effects that have not yet occurred, concerning the evaluated assessment. For example: validation of the transition plan (concept derived from [ISO 17029](../annexes/bibliographie/) and ISO 14066).
+* Verification of assessments: Evaluation of effects that have already occurred, within the framework of the evaluated assessment. For example: verification of data used during the calculation of the GHG emission profile, verification of results obtained, verification of uncertainties, among others (concept derived from [ISO 17029](../annexes/bibliographie/) and ISO 14066).
+* Self-evaluation: Following the Bilan Carbone® evaluation process internally and independently, using the freely accessible evaluation guide. Self-evaluation therefore does not involve the evaluation process by an authorised evaluator (trained and certified). A self-evaluation allows for internal use: targeting whether or not certain criteria of the targeted maturity levels are achieved, progressing in continuous improvement, verifying the relevance of launching an external evaluation, confirming one's maturity internally and therefore the interest in moving on to complementary low-carbon transition approaches. A self-evaluation does not allow an organisation to declare its Bilan Carbone® approach as having been evaluated, nor to communicate the result obtained externally.
+* Evaluation team: All persons responsible for the verification and validation of the assessment. The entire team meets the competencies and principles required [below](7.1-preparer-levaluation-de-son-bilan.md). The evaluation team is led by an evaluation lead, who directs the evaluation of a given assessment, ensures it runs smoothly and produces the final evaluation report. They may be accompanied by various experts depending on the complementary competencies required for the smooth running of the evaluation process.
 
-## Gouvernance relative à l'Évaluation
+## Governance relating to Evaluation
 
-La gouvernance de l'étape d'évaluation s'inscrit dans la [gouvernance globale](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) de la démarche Bilan Carbone® présentée précédemment. C'est le coordinateur ou la coordinatrice qui pilote la préparation des livrables nécessaires à l'évaluation, et échange avec l'équipe d'évaluation.
+The governance of the evaluation step falls within the [overall governance](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) of the Bilan Carbone® approach presented previously. The coordinator is responsible for steering the preparation of the deliverables required for the evaluation, and liaises with the evaluation team.
 
-L'évaluation étant réalisée par des tiers indépendants (voir l'[équipe d'évaluation](7.1-preparer-levaluation-de-son-bilan.md)), la réalisation de cette étape est nécessairement externalisée par l'organisation cible du bilan GES.
+As the evaluation is carried out by independent third parties (see the [evaluation team](7.1-preparer-levaluation-de-son-bilan.md)), the completion of this step is necessarily outsourced by the target organisation of the GHG assessment.
 
-## Mobilisation relative à l'Évaluation
+## Awareness relating to Evaluation
 
-Une [action de mobilisation](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/) est possible à l'issue de l'étape 7. Elle vise la [restitution et la communication](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md) autours des résultats de l'évaluation, en synthèse de la démarche.
+A [mobilisation action](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/) is possible at the end of Step 7. It aims at the [reporting and communication](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md) around the evaluation results, in summary of the approach.
 
-## Exigences relatives à l'Évaluation
+## Requirements relating to Evaluation
 
-Pour rappel, l'étape 7 est volontaire : il n'y a pas d'exigence spécifique associée à l'évaluation. C'est à l'inverse l'évaluation qui pourra vérifier l'atteinte de l'ensemble des [exigences](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#comparatif-des-criteres-des-niveaux-de-maturite-pour-lamelioration-continue-du-bilan-carbone-r) pour chacun des niveaux de maturités.
+As a reminder, Step 7 is voluntary: there are no specific requirements associated with evaluation. Conversely, it is the evaluation that will verify whether all the [requirements](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#comparatif-des-criteres-des-niveaux-de-maturite-pour-lamelioration-continue-du-bilan-carbone-r) for each of the maturity levels have been met.
 
-## **Livrables** relatifs à l'Évaluation
+## **Deliverables** relating to Evaluation
 
-Les informations et livrables à transmettre pour l'évaluation sont détaillés [ici.](7.2-le-process-devaluation.md#pieces-justificatives-et-livrables-pour-levaluation)
+The information and deliverables to be submitted for evaluation are detailed [here.](7.2-le-process-devaluation.md#pieces-justificatives-et-livrables-pour-levaluation)
 
-Les informations et livrables obtenus à l'issu de l'évaluation sont :&#x20;
+The information and deliverables obtained following the evaluation are:&#x20;
 
-* [x] Un [rapport d'évaluation](7.2-le-process-devaluation.md#rapport-devaluation)
-* [x] Une [attestation d'évaluation](7.3-resultat-de-levaluation.md)
-
+* [x] An [evaluation report](7.2-le-process-devaluation.md#rapport-devaluation)
+* [x] An [evaluation certificate](7.3-resultat-de-levaluation.md)
 
 
 
 
 ***
 
-_Vous avez une question de compréhension ?_ [_Consultez la FAQ_](../annexes/faq.md)_. La méthode est vivante et donc susceptible d'évoluer (précisions, compléments) : retrouvez le_ [_suivi des modifications ici_](../avant-propos/historique-et-suivi-des-modifications.md)_._
+_Do you have a comprehension question?_ [_Consult the FAQ_](../annexes/faq.md)_. The method is living and therefore subject to change (clarifications, additions): find the_ [_change log here_](../avant-propos/historique-et-suivi-des-modifications.md)_._

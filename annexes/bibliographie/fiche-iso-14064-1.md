@@ -1,179 +1,175 @@
 ---
-description: International Organization for Standardization 14064-1 et 14069
+description: International Organization for Standardization 14064-1 and 14069
 ---
 
-# Fiche ISO 14064-1
+# ISO 14064-1 Sheet
 
 {% hint style="success" %}
-**Type** : Standard international
+**Type**: International standard
 
-**Date** : Dernière version respectivement en 2013 et 2018
+**Date**: Latest version in 2013 and 2018 respectively
 
-**Auteur** : Communauté internationale
+**Author**: International community
 
-**Cible** : Collectivités & Entreprises
+**Target**: Local authorities & Companies
 {% endhint %}
 
-**L’International Standard Organisation (ISO)** est une organisation indépendante depuis 1947, dont les 169 membres sont des organismes nationaux de normalisation. L’ISO réunit des experts pour créer des normes internationales, pertinentes pour le marché, et proposant des solutions aux enjeux mondiaux. &#x20;
+**The International Standard Organisation (ISO)** is an independent organisation since 1947, whose 169 members are national standardisation bodies. ISO brings together experts to create international standards, relevant to the market, and proposing solutions to global challenges.
 
-La série de normes **ISO 14000** concerne les **questions environnementales** : système de management environnemental, audit, communication, étiquetage et analyse du cycle de vie… &#x20;
+The **ISO 14000** series of standards concerns **environmental issues**: environmental management systems, audits, communication, labelling and lifecycle analysis...
 
-**L’ISO 14064 traite du changement climatique.** Elle propose une méthodologie pour faire le reporting des émissions de GES y intégrant la notion de significativité. Nous vous proposons ici une présentation des normes 14064-1 (2018) et 14069 (2013) qui concernent plus spécifiquement le reporting des émissions d’une organisation. &#x20;
+**ISO 14064 deals with climate change.** It proposes a methodology for reporting GHG emissions, integrating the notion of significance. We present here an overview of standards 14064-1 (2018) and 14069 (2013) which more specifically concern the reporting of an organisation's emissions.
 
-## **Quels sont les objectifs de la démarche ?**
+## **What are the objectives of the approach?**
 
-La démarche vise à fournir une vision claire et cohérente pour la quantification, la surveillance, la rédaction de rapports, ainsi que la validation ou la vérification des inventaires ou projets en matière de GES. &#x20;
+The approach aims to provide a clear and coherent vision for the quantification, monitoring, reporting, as well as validation or verification of GHG inventories or projects.
 
-**L’ISO 14064-1 propose des principes et exigences au niveau des organismes pour la quantification, le reporting et la suppression des émissions de GES.** Le terme “organisme” inclut : les travailleurs indépendants, entreprises, administrations, associations, ou leurs combinaisons, qu'elles soient à responsabilité limitée ou non, de droit public ou privé. Cette norme permet ainsi non seulement d’améliorer la complétude, la transparence et la cohérence de la comptabilité de GES, mais également de faciliter dans un deuxième temps le développement et la mise en œuvre de stratégies de réduction de GES. &#x20;
+**ISO 14064-1 proposes principles and requirements at organisational level for the quantification, reporting and removal of GHG emissions.** The term "organisation" includes: self-employed workers, companies, administrations, associations, or their combinations, whether limited liability or not, under public or private law. This standard thus not only enables the completeness, transparency and coherence of GHG accounting to be improved, but also facilitates in a second step the development and implementation of GHG reduction strategies.
 
-**L’ISO 14069 apporte des compléments techniques concernant l’inventaire des GES.**&#x20;
+**ISO 14069 provides additional technical information regarding the GHG inventory.**
 
 {% hint style="info" %}
-Un projet est en cours pour remplacer cette norme par l'ISO 14064-4. 
+A project is underway to replace this standard with ISO 14064-4.
 {% endhint %}
 
-## **Quelle(s) est (sont)** la (les) cible(s) de la démarche ? 
+## **What is (are) the target(s) of the approach?**
 
-**Les normes 14064-1 & 14069 sont à destination des organismes.** La démarche bénéficie principalement aux gouvernements, aux entreprises, et aux investisseurs, ainsi qu'aux parties prenantes du monde entier. &#x20;
+**Standards 14064-1 & 14069 are intended for organisations.** The approach primarily benefits governments, companies, and investors, as well as stakeholders worldwide.
 
-## **La démarche s’appuie-t-elle sur une base scientifique partagée ?**
+## **Does the approach draw on a shared scientific basis?**
 
-Les normes ISO sont basées sur des échanges entre experts provenant de divers secteurs. La création d'une norme est le résultat d'une longue période de consultation, permettant d'étayer les normes sur les pratiques du terrain. La démarche elle-même est neutre, c'est-à-dire que l’ISO 14064-1 peut être appliqué dans le contexte spécifique d'un organisme sans conflit avec d'autres programmes de gestion des GES. &#x20;
+ISO standards are based on exchanges between experts from various sectors. The creation of a standard is the result of a lengthy consultation period, enabling standards to be grounded in field practices. The approach itself is neutral, meaning that ISO 14064-1 can be applied in the specific context of an organisation without conflict with other GHG management programmes.
 
 {% hint style="info" %}
-L'ISO 14064-1 comptabilise les gaz suivants : CO2, CH4, N2O, NF3, SF6, et autres groupes de GES tels que HFC et PFC en tonnes de CO2e, ainsi que les suppressions directes de GES.  &#x20;
+ISO 14064-1 accounts for the following gases: CO2, CH4, N2O, NF3, SF6, and other groups of GHGs such as HFC and PFC in tonnes of CO2e, as well as direct GHG removals.
 {% endhint %}
 
-Les normes 14064-1 & 14069 s’appuient sur les derniers PRG du GIEC. Dans le cas où un organisme choisirait de ne pas utiliser les PRGs les plus récents, une justification doit être fournie pour expliquer ce choix.
+Standards 14064-1 & 14069 draw on the latest IPCC GWPs. In the event that an organisation chooses not to use the most recent GWPs, a justification must be provided to explain this choice.
 
-## **La démarche s’appuie-t-elle sur une méthodologie spécifique ?** 
+## **Does the approach draw on a specific methodology?**
 
-Les étapes de la méthode ISO sont les suivantes :   &#x20;
+The steps of the ISO method are as follows:
 
-1. Périmètre de l'inventaire de GES &#x20;
-2. Quantification des émissions et suppressions de GES &#x20;
-3. Activités d'atténuation &#x20;
-4. Management de la qualité de l'inventaire de GES &#x20;
-5. Rapport GES  &#x20;
+1. GHG inventory boundary
+2. Quantification of GHG emissions and removals
+3. Mitigation activities
+4. GHG inventory quality management
+5. GHG report
 
 <details>
 
-<summary>Les émissions de GES dans le cadre de l’ISO 14064-1 doivent être regroupées selon 6 catégories principales, couvrant 22 postes d'émissions spécifiques.</summary>
+<summary>GHG emissions within the framework of ISO 14064-1 must be grouped according to 6 main categories, covering 22 specific emission entries.</summary>
 
-1\. Émissions et suppressions directes de GES. &#x20;
+1\. Direct GHG emissions and removals.
 
-2\. Émissions indirectes de GES dues à l’énergie importée. &#x20;
+2\. Indirect GHG emissions from imported energy.
 
-3\. Émissions indirectes de GES dues au transport. &#x20;
+3\. Indirect GHG emissions from transport.
 
-4\. Émissions indirectes de GES dues aux produits utilisés par l’organisme. &#x20;
+4\. Indirect GHG emissions from products used by the organisation.
 
-5\. Émissions indirectes de GES associées à l’utilisation des produits de l’organisme. &#x20;
+5\. Indirect GHG emissions associated with the use of the organisation's products.
 
-6\. Émissions indirectes de GES dues à d’autres sources. &#x20;
+6\. Indirect GHG emissions from other sources.
 
 </details>
 
-**L'ISO 14069 décrit les étapes à suivre pour définir le périmètre organisationnel et le périmètre opérationnel.**&#x20;
+**ISO 14069 describes the steps to follow to define the organisational boundary and the operational boundary.**
 
 {% tabs %}
-{% tab title="Périmètre organisationnel" %}
-Pour le périmètre organisationnel, l'approche peut se baser sur le contrôle financier ou opérationnel, ou sur la participation au capital. &#x20;
+{% tab title="Organisational boundary" %}
+For the organisational boundary, the approach can be based on financial or operational control, or on equity share.
 
-Parallèlement, une identification des sources et puits de GES doit être réalisée, couvrant à la fois les émissions et le captage des GES.
+In parallel, an identification of GHG sources and sinks must be carried out, covering both GHG emissions and capture.
 {% endtab %}
 
-{% tab title="Périmètre opérationnel" %}
-Concernant le périmètre opérationnel, il s'agit d'identifier les émissions directes et indirectes que l'organisme doit prendre en compte.
+{% tab title="Operational boundary" %}
+Regarding the operational boundary, this involves identifying the direct and indirect emissions that the organisation must take into account.
 
-Parallèlement, une identification des sources et puits de GES doit être réalisée, couvrant à la fois les émissions et le captage des GES.
+In parallel, an identification of GHG sources and sinks must be carried out, covering both GHG emissions and capture.
 {% endtab %}
 {% endtabs %}
 
-Les émissions ou suppressions de l’année de référence peuvent être quantifiées en fonction d’une période spécifique (par exemple une année ou une période de l’année si l’activité de l’organisme a un caractère saisonnier) ou moyennées sur plusieurs périodes (plusieurs années, par exemple). Si les informations disponibles sur l’historique des émissions ou suppressions de GES sont insuffisantes, l’organisme peut utiliser sa première période d’inventaire de GES en tant qu’année de référence. &#x20;
+Emissions or removals for the reference year can be quantified based on a specific period (for example one year or a period of the year if the organisation's activity has a seasonal character) or averaged over several periods (several years, for example). If available information on the history of GHG emissions or removals is insufficient, the organisation may use its first GHG inventory period as the reference year.
 
-**Il est recommandé que les données GES soient enregistrées et quantifiées par source, puits et type, au moins au niveau de l’installation.** Il convient que ces données soient conservées sous leur forme désagrégée pour assurer une souplesse maximale dans le respect des exigences de déclaration. C’est à l’organisation de décider de la méthode de quantification, et de la justifier. 
+**It is recommended that GHG data be recorded and quantified by source, sink and type, at minimum at installation level.** This data should be retained in its disaggregated form to ensure maximum flexibility in meeting reporting requirements. It is for the organisation to decide on the quantification method, and to justify it.
 
 <details>
 
-<summary>La version 2018 de l’ISO 14064 a fait l’objet de changements importants</summary>
+<summary>The 2018 version of ISO 14064 underwent significant changes</summary>
 
-* Elle intègre la notion de **significativité**&#x20;
-* Elle fait **disparaître la notion de scopes 1, 2 et 3 en proposant 6 catégories d’émissions à prendre en compte**. &#x20;
-* **Les émissions indirectes sont désormais à prendre en compte** &#x20;
-* Elle **ajoute de nouvelles exigences et recommandations** concernant le traitement du carbone biogénique et les émissions de GES liées à l’électricité au sein du rapport sur les GES &#x20;
+* It integrates the notion of **significance**
+* It **removes the notion of scopes 1, 2 and 3 by proposing 6 emission categories to take into account**.
+* **Indirect emissions are now to be taken into account**
+* It **adds new requirements and recommendations** concerning the treatment of biogenic carbon and GHG emissions related to electricity within the GHG report
 
 </details>
 
-L’organisme doit appliquer et documenter un processus permettant de **déterminer les émissions indirectes dites « significatives »** à inclure dans son inventaire des GES et justifier celles exclues.&#x20;
+The organisation must apply and document a process enabling it to **determine the "significant" indirect emissions** to include in its GHG inventory and justify those excluded.
 
-Les **6 critères d’évaluation de la significativité**, identiques à ceux du BEGES®, sont :&#x20;
+The **6 significance assessment criteria**, identical to those of the BEGES-R, are:
 
-1. l’importance quantitative
-2. le niveau d'influence
-3. la liste des risques/opportunités
-4. les lignes directrices du secteur
-5. la sous-traitance
-6. l’engagement du personnel.  &#x20;
+1. quantitative importance
+2. level of influence
+3. list of risks/opportunities
+4. sector guidelines
+5. subcontracting
+6. staff engagement.
 
-**L’ISO 14064-1 inclut des exigences et des recommandations concernant le management de la qualité de l’inventaire**, notamment sur l'application des approches de consolidation et la gestion du double comptage. L’ISO 14069 apporte des compléments sur le calcul de l’incertitude, associé aux approches de quantification, y compris les données et modèles utilisés. Le [Guide ISO/IEC 98-3](https://www.iso.org/standard/50461.html) établit, quant à lui, les règles générales pour l’évaluation et l’expression de l’incertitude. **Si une estimation quantitative de l'incertitude est impossible ou trop coûteuse, une justification doit être fournie et une évaluation qualitative doit être réalisée.**&#x20;
+**ISO 14064-1 includes requirements and recommendations concerning GHG inventory quality management**, notably on the application of consolidation approaches and the management of double counting. ISO 14069 provides additional guidance on uncertainty calculation, associated with quantification approaches, including the data and models used. [ISO/IEC Guide 98-3](https://www.iso.org/standard/50461.html) establishes, for its part, the general rules for the evaluation and expression of uncertainty. **If a quantitative estimate of uncertainty is impossible or too costly, a justification must be provided and a qualitative assessment must be carried out.**
 
-**L'organisme doit établir et mettre à jour des procédures de gestion des informations sur les GES pour garantir la conformité, la cohérence, et minimiser les erreurs et omissions.** Cela inclut des contrôles réguliers de l'exactitude, des audits internes et des revues techniques périodiques. &#x20;
+**The organisation must establish and update GHG information management procedures to ensure compliance, coherence, and minimise errors and omissions.** This includes regular accuracy checks, internal audits and periodic technical reviews.
 
-## **La démarche s’appuie-t-elle sur des outils ?**
+## **Does the approach draw on tools?**
 
-**Aucun outil n’est proposé : les normes ISO laissent l’utilisateur choisir.** &#x20;
+**No tool is proposed: ISO standards leave the choice to the user.**
 
-Un format spécifique de l’inventaire des émissions GES (tCO2eq) est cependant proposé : &#x20;
+A specific format for the GHG emission inventory (tCO2eq) is however proposed:
 
-* Émissions directes, suppressions de GES si quantifiées, émissions indirectes &#x20;
-* Année de référence &#x20;
-* Évaluation et réduction de l’incertitude, gestion de la qualité &#x20;
-* Recommandé : temporelles, méthode utilisée, détermination et classification des différences d’émission ou de suppression selon les scopes) ou des projets GES &#x20;
-* Vérification du rapport GES &#x20;
+* Direct emissions, GHG removals if quantified, indirect emissions
+* Reference year
+* Uncertainty assessment and reduction, quality management
+* Recommended: temporal, method used, determination and classification of emission or removal differences according to scopes) or GHG projects
+* GHG report verification
 
-## **D'autres méthodes et outils de la transition bas carbone peuvent-ils être utilisés afin d’atteindre les objectifs de cette démarche ?**
+## **Can other low-carbon transition methods and tools be used to achieve the objectives of this approach?**
 
-**Le Bilan Carbone® permet de répondre aux exigences d’identification des périmètres à comptabiliser, de collecte et exploitation des données requises dans le cadre du reporting de l’ISO 14064-1.** Il permet également d’**aller plus loin dans la démarche de reporting** des initiatives de réduction des GES avec le développement d’un plan de réduction des émissions de GES (stratégie climat) et sa mise en application.  &#x20;
+**The Bilan Carbone® enables the requirements of boundary identification to be accounted for, data collection and analysis required within the framework of ISO 14064-1 reporting to be met.** It also enables **going further in the reporting approach** of GHG reduction initiatives with the development of a GHG emission reduction plan (climate strategy) and its implementation.
 
-Cependant, la partie suppression et captage des GES n’est pas encore traitée dans la méthode Bilan Carbone®, mais elle sera incluse dans une mise à jour ultérieure. &#x20;
+However, the GHG removal and capture section is not yet addressed in the Bilan Carbone® method, but it will be included in a future update.
 
-## **Permet-elle une reconnaissance tierce partie ? Si oui, de quelle manière ?**
+## **Does it allow for third-party recognition? If so, in what way?**
 
-L’organisme doit documenter séparément les initiatives de réduction de GES et les différences de niveau d’émission ou de suppression de GES associées, et il doit décrire : &#x20;
+The organisation must separately document the GHG reduction initiatives and the associated GHG emission or removal level differences, and it must describe:
 
-* les initiatives de réduction de GES &#x20;
-* les limites spatiales et temporelles des initiatives de réduction de GES &#x20;
-* l’approche (indicateurs appropriés) utilisée pour quantifier les différences de niveau d’émission ou de suppression de GES &#x20;
-* la détermination et la classification des différences de niveau d’émission ou de suppression de GES imputables aux initiatives de réduction de GES, en tant qu’émissions ou suppressions directes ou indirectes de GES &#x20;
+* the GHG reduction initiatives
+* the spatial and temporal boundaries of the GHG reduction initiatives
+* the approach (appropriate indicators) used to quantify the GHG emission or removal level differences
+* the determination and classification of GHG emission or removal level differences attributable to GHG reduction initiatives, as direct or indirect GHG emissions or removals
 
 {% hint style="info" %}
-**Dans le cadre de l’ISO, une certification est proposée aux organisations.** L’organisation choisit un personnel de vérification administrativement indépendant des opérations faisant l’objet de la vérification. L'ISO 14064-3, en particulier, détaille les processus de validation et de vérification des déclarations des émissions de gaz à effet de serre (GES). &#x20;
+**Within the ISO framework, a certification is proposed to organisations.** The organisation chooses a verification body administratively independent of the operations subject to verification. ISO 14064-3, in particular, details the validation and verification processes for greenhouse gas (GHG) declarations.
 {% endhint %}
 
-Un avis de vérification doit être émis par le vérificateur (description des objectifs & périmètres & critères des activités de vérification, niveau d’assurance, conclusion du vérificateur indiquant une réserve ou une limitation quelconque). &#x20;
+A verification opinion must be issued by the verifier (description of objectives & boundaries & criteria of verification activities, level of assurance, verifier's conclusion indicating any reservation or limitation).
 
-## **Cette démarche peut-elle s'harmoniser avec d'autres référentiels internationaux ?** 
+## **Can this approach be harmonised with other international reference frameworks?**
 
-La norme ISO 14064-1 est reconnue comme une référence du reporting des GES aujourd'hui, servant de fondement à de nombreux standards et méthodes internationaux. **A titre d’exemple, le GHG Protocol aligne ses principes méthodologiques sur ceux de l'ISO 14064-1**, garantissant ainsi une cohérence et une fiabilité dans les rapports d'émissions à travers différentes organisations et pays. 
+ISO 14064-1 is recognised as a reference for GHG reporting today, serving as a foundation for many international standards and methods. **For example, the GHG Protocol aligns its methodological principles with those of ISO 14064-1**, thus ensuring coherence and reliability in emission reports across different organisations and countries.
 
-## Pour aller plus loin
+## Further reading
 
-| N° ISO     | Description                                                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 14064-1    | Spécification et lignes directrices, au niveau des organisations, pour la quantification et la déclaration des émissions et des suppressions des GES.                                               |
-| 14064- 2   | Spécification et lignes directrices, au niveau des projets, pour la quantification, la surveillance et la déclaration des réductions des émissions ou des augmentations des suppressions des GES.   |
-| 14064- 3   | Spécification et lignes directrices pour la validation et la vérification des déclarations relatives aux GES.                                                                                       |
-| 14065      | Exigences pour les organismes validant et vérifiant les informations relatives aux GES.                                                                                                             |
-| 14066      | Compétence des équipes de validation et de vérification des GES                                                                                                                                     |
-| 14067      | Empreinte carbone des produits – Exigences et lignes directrices pour la quantification et la communication                                                                                         |
-| 14068      | Neutralité carbone – Spécification avec des lignes directrices, au niveau de l'organisation                                                                                                         |
-| 14069      | Quantification et reporting des émissions de gaz à effet de serre pour les organisations – Guide pour l’application de l’ISO 14064-1                                                                |
-
-
-
-
+| ISO No.   | Description                                                                                                                                                                                               |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 14064-1   | Specification with guidance at the organisation level for quantification and reporting of greenhouse gas emissions and removals.                                                                           |
+| 14064-2   | Specification with guidance at the project level for quantification, monitoring and reporting of greenhouse gas emission reductions or removal enhancements.                                               |
+| 14064-3   | Specification with guidance for the validation and verification of greenhouse gas statements.                                                                                                              |
+| 14065     | Requirements for bodies validating and verifying greenhouse gas information.                                                                                                                               |
+| 14066     | Competence requirements for greenhouse gas validation teams and verification teams.                                                                                                                        |
+| 14067     | Carbon footprint of products — Requirements and guidelines for quantification and communication.                                                                                                           |
+| 14068     | Carbon neutrality — Specification with guidance, at organisational level.                                                                                                                                 |
+| 14069     | Quantification and reporting of greenhouse gas emissions for organisations — Guidance for the application of ISO 14064-1.                                                                                  |
 
 ***
 
-_Les fiches du_ [_Panorama des méthodes et outils de la comptabilité carbone_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _sont issues d'un travail de synthèse de l'ABC. Nous restons preneurs de vos retours ou questions sur ce_ [_formulaire_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
+_The sheets from the_ [_Overview of carbon accounting methods and tools_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _are the result of a synthesis work by the ABC. We welcome your feedback or questions via this_ [_form_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._

@@ -1,8 +1,8 @@
-# Autres formats recommandés
+# Other Recommended Formats
 
-Cette section concentre les meilleures pratiques en ce qui concerne les phases de mobilisation d’un Bilan Carbone®. Ces formats sont possibles mais facultatifs.&#x20;
+This section brings together best practices regarding the mobilisation phases of a Bilan Carbone®. These formats are possible but optional.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Cette première liste est non exhaustive et sera complétée. L'ABC et sa communauté étant une source continuelle de nouvelles idées et propositions.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] This first list is non-exhaustive and will be supplemented. The ABC and its community being a continual source of new ideas and proposals.</mark>
 
 ## La Fresque du Climat
 
@@ -19,4 +19,3 @@ Cette section concentre les meilleures pratiques en ce qui concerne les phases d
 ## MyCO2
 
 {% embed url="https://www.myco2.fr/" %}
-

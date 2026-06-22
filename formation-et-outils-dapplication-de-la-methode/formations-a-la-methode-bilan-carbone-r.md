@@ -1,23 +1,22 @@
 ---
-description: Quelles formations suivre ?
+description: What training should you follow?
 ---
 
-# Formations à la méthode Bilan Carbone®
+# Bilan Carbone® method training
 
-<figure><img src="../.gitbook/assets/2148199832.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2148199832.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-Les [formations actuelles](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) sont valables jusqu'à leurs mises à jour.
+The [current training courses](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) are valid until their updates.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Suite à la mise à jour de la méthode Bilan Carbone®, l'ABC et ses partenaires de formation travaillent à proposer un ensemble de nouveaux modules de formation, correspondants aux différentes parties de la démarche Bilan Carbone®, et s'adressant à différents types d'acteurs de la transition.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Following the update of the Bilan Carbone® method, ABC and its training partners are working to offer a set of new training modules, corresponding to the different parts of the Bilan Carbone® approach, and addressing different types of transition actors.</mark>
 >
-> <mark style="background-color:blue;">Il est question par exemple d'un parcours de formation dédié aux consultants des bureaux d'étude et de conseil, aux chargés de mission en entreprise ou collectivité, aux managers et aux spécialistes de la communication sur les sujets de la transition, etc.</mark>
+> <mark style="background-color:blue;">For example, there will be a dedicated training pathway for consultants from engineering and consulting firms, project managers in companies or local authorities, managers and communication specialists on transition topics, etc.</mark>
 >
-> <mark style="background-color:blue;">Ces contenus de formation seront officiellement disponibles après tests. Pour toutes les personnes formées préalablement, des sessions de mise à jour seront disponibles pour vous assurer de la maîtrise des nouveautés méthodologiques et techniques.</mark>
-
+> <mark style="background-color:blue;">These training contents will be officially available after testing. For all previously trained individuals, update sessions will be available to ensure mastery of the new methodological and technical developments.</mark>
 
 
 
 
 ***
 
-_Vous avez une question de compréhension ?_ [_Consultez la FAQ_](../annexes/faq.md)_. La méthode est vivante et donc susceptible d'évoluer (précisions, compléments) : retrouvez le_ [_suivi des modifications ici_](../avant-propos/historique-et-suivi-des-modifications.md)_._
+_Do you have a question about the content?_ [_Consult the FAQ_](../annexes/faq.md)_. The method is a living document and therefore subject to change (clarifications, additions): find the_ [_change log here_](../avant-propos/historique-et-suivi-des-modifications.md)_._

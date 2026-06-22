@@ -1,27 +1,26 @@
 ---
-description: Quels sont les messages à transmettre pour mobiliser ?
+description: What messages need to be delivered to engage stakeholders?
 ---
 
-# 3.1 - Programmer les phases de mobilisation
+# 3.1 - Scheduling the engagement phases
 
-<figure><img src="../../.gitbook/assets/30070.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/30070.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-La méthode définit les attendus, c'est à dire les messages et les contenus à transmettre dans le cadre de la [Mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes).
+The method defines the expected outcomes, i.e. the messages and content to be delivered within the framework of [Stakeholder Engagement](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes).
 
-A l’inverse, la méthode se veut souple et n'impose ni moyens, ni outils ou formats spécifiques. Des [ressources](../../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) sont proposées en annexe pour donner quelques exemples inspirants.
+Conversely, the method is designed to be flexible and does not impose specific means, tools or formats. [Resources](../../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) are provided in the appendix to give some inspiring examples.
 
-Voici les différentes recommandations pour **adapter** les phases de mobilisations aux différents  [niveaux de maturité](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)**, étapes, parties prenantes et profils d'organisation.**
+Here are the various recommendations for **adapting** the engagement phases to the different [maturity levels](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)**, steps, stakeholders and organisational profiles.**
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/Mobilisation-VF-2024.jpg" alt=""><figcaption><p>Figure 3.1 : Actions de mobilisation à mener au cours de la démarche Bilan Carbone®.</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Mobilisation-VF-2024.jpg" alt=""><figcaption><p>Figure 3.1: Engagement actions to be carried out during the Bilan Carbone® approach.</p></figcaption></figure></div>
 
 <mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Stakeholder-engagement-actions.png) _<mark style="color:$info;">of this image.</mark>_
 
-Ces recommandations permettent de respecter les [exigences](../3-introduction-a-la-mobilisation.md#exigences-relatives-aux-etapes-de-mobilisation) en termes de Mobilisation. Elles sont détaillées dans les sous-sections suivantes.
-
+These recommendations make it possible to comply with the [requirements](../3-introduction-a-la-mobilisation.md#exigences-relatives-aux-etapes-de-mobilisation) in terms of Engagement. They are detailed in the following sub-sections.
 
 
 
 
 ***
 
-_Vous avez une question de compréhension ?_ [_Consultez la FAQ_](../../annexes/faq.md)_. La méthode est vivante et donc susceptible d'évoluer (précisions, compléments) : retrouvez le_ [_suivi des modifications ici_](../../avant-propos/historique-et-suivi-des-modifications.md)_._
+_Do you have a question? [Consult the FAQ](../../annexes/faq.md). The method is a living document and may therefore evolve (clarifications, additions): find the [change history here](../../avant-propos/historique-et-suivi-des-modifications.md)._

@@ -1,405 +1,404 @@
 ---
 description: >-
-  Quels sont les principes fondamentaux à respecter par la comptabilisation du
-  Bilan Carbone® ?
+  What are the fundamental accounting principles to be respected by the Bilan
+  Carbone®?
 ---
 
-# Annexe 1 - Grands principes de comptabilisation du Bilan Carbone®
+# Annex 1 - Core Accounting Principles of the Bilan Carbone®
 
-La méthode Bilan Carbone® s’appuie sur des principes de comptabilisation. L'annexe présente ces règles et principes génériques pour [chacun des 10 postes du Bilan Carbone®](../../4-comptabilisation/4.5-profil-demission.md#profil-demission-au-format-bilan-carbone-r).
+The Bilan Carbone® method is based on accounting principles. This annex presents these generic rules and principles for [each of the 10 Bilan Carbone® categories](../../4-comptabilisation/4.5-profil-demission.md#profil-demission-au-format-bilan-carbone-r).
 
 {% hint style="warning" %}
-Le Bilan Carbone® Organisation est généraliste. Il s'applique à toute organisation, quelque soit sa taille, son secteur d'activité ou son profil.
+The Bilan Carbone® Organisation is generalist. It applies to any organisation, regardless of its size, sector of activity or profile.
 
-La méthode Bilan Carbone® n'a pas vocation à expliciter les cas particuliers ou conventions spécifiques aux différents secteurs ou profils d'organisation.
+The Bilan Carbone® method does not aim to specify particular cases or conventions specific to different sectors or organisation profiles.
 {% endhint %}
 
-> :mag\_right: _Plusieurs ressources complémentaires font office de_ [_guides pratiques_](../bibliographie/#guides-pratiques-de-comptabilisation) _pour la mise en application des principes ici formulés par la méthode Bilan Carbone® (Plan Carbone Général, Guides Sectoriels ADEME). Ces ressources proposent notamment les facteurs d'émission usuels, des conseils pratiques ou hypothèses en l'absence de certaines données, des durées de vie moyennes, etc._
+> :mag\_right: _Several complementary resources serve as_ [_practical guides_](../bibliographie/#guides-pratiques-de-comptabilisation) _for the implementation of the principles formulated here by the Bilan Carbone® method (Plan Carbone Général, ADEME Sectoral Guides). These resources notably provide common emission factors, practical advice or assumptions in the absence of certain data, average service lives, etc._
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/Description des postes et sous postes du Bilan Carbone.png" alt=""><figcaption><p>Figure Annexe 1 : Description des postes et sous-postes du Bilan Carbone®</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Description des postes et sous postes du Bilan Carbone.png" alt=""><figcaption><p>Figure Annex 1: Description of Bilan Carbone® categories and sub-categories</p></figcaption></figure></div>
 
-Les définitions des postes, des sources d'émissions qu'ils incluent, et des grands principes de comptabilisation associés sont  détaillés ci-dessous :&#x20;
+The definitions of categories, the emission sources they include, and the associated core accounting principles are detailed below:
 
-## Energie
+## Energy
 
-Ce poste recouvre :&#x20;
+This category covers:
 
-* [x] L'utilisation de combustibles fossiles pour le chauffage, les procédés industriels, la production d'électricité ou de vapeur
-* [x] L'utilisation de combustibles organiques (autrement appelés biocombustibles) pour le chauffage, les procédés industriels, la production d'électricité ou de vapeur
-* [x] L'utilisation de vapeur pour le chauffage et les procédés industriels &#x20;
-* [x] L'utilisation de froid pour le refroidissement et les procédés industriels&#x20;
-* [x] L'utilisation d'électricité, quelque soit l'usage (chauffage, électricité spécifique, usages du quotidien, procédés industriels, et production d'électricité en propre)
+* [x] The use of fossil fuels for heating, industrial processes, electricity or steam production
+* [x] The use of organic fuels (also called biofuels) for heating, industrial processes, electricity or steam production
+* [x] The use of steam for heating and industrial processes
+* [x] The use of cold for cooling and industrial processes
+* [x] The use of electricity, regardless of use (heating, specific electricity, everyday uses, industrial processes, and own electricity production)
 
-Le poste Énergie regroupe donc les consommations énergétiques de sources dites « fixes » : locaux, machines, etc. Les émissions associées à ces consommations d'énergie des biens ou locaux **utilisés** par l'organisation, sont à prendre en compte, qu'elle soit [propriétaire ou locataire](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#proprietaire-ou-locataire).
+The Energy category therefore groups together energy consumption from so-called "fixed" sources: premises, machines, etc. The emissions associated with these energy consumptions of goods or premises **used** by the organisation are to be taken into account, whether it is the [owner or tenant](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#owner-or-tenant).
 
-La consommation d'énergie des véhicules ou autres sources « mobiles » (combustibles fossiles, combustibles organiques, électricité) ne sont normalement pas à prendre en compte dans le poste Énergie, mais dans les postes [Fret](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fret) et [Déplacements](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#deplacements).
+The energy consumption of vehicles or other "mobile" sources (fossil fuels, organic fuels, electricity) is not normally to be taken into account in the Energy category, but in the [Freight](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#freight) and [Travel](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#travel) categories.
 
-Les hydrocarbures ne sont pris en compte que dans la mesure où ils sont brûlés. S'ils sont utilisés comme matière première (par exemple les produits pétroliers en pétrochimie), ils ne doivent pas être pris en compte ici mais dans les postes [Intrants](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres).
+Hydrocarbons are only taken into account insofar as they are burned. If they are used as raw materials (e.g. petroleum products in petrochemicals), they must not be taken into account here but in the [Inputs](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) categories.
 
-Pour la consommation d'énergie issue d'un réseau de distribution (électricité et gaz), il existe dans la littérature deux manières différentes d'évaluer les émissions de GES :&#x20;
+For energy consumption from a distribution network (electricity and gas), there are two different approaches in the literature for assessing GHG emissions:
 
-* L'approche location-based qui se conforme à la réalité physique du réseau de distribution, réseau unique et partagé par tous dans lequel il n’est pas possible de faire la différence entre un électron issu d’énergie renouvelable et un électron issu d'une centrale thermique ou nucléaire,  ou entre une molécule de méthane issu de gaz naturel (i.e. fossile) ou de méthanisation (biogaz). Il faut donc dans tous les cas utiliser le facteur d'émission du réseau (pour le gaz il s’agit du FE “gaz naturel” de la Base Empreinte® qui contient en réalité une proportion très faible de biogaz) GC : Parenthèse à suppr ou on garde ?.
-* L’approche market-based qui se conforme aux offres de contrats (contrats d'électricité verte, de biogaz, ...) et permet donc d’appliquer le facteur d’émission spécifique du fournisseur, qui est en général différent de celui du réseau.&#x20;
+* The location-based approach conforms to the physical reality of the distribution network, a unique and shared network in which it is not possible to distinguish between an electron from renewable energy and an electron from a thermal or nuclear power plant, or between a molecule of methane from natural gas (i.e. fossil) or from methanisation (biogas). It is therefore necessary in all cases to use the network emission factor (for gas, this is the "natural gas" EF from Base Empreinte® which in reality contains a very small proportion of biogas).
+* The market-based approach conforms to contract offers (green electricity contracts, biogas contracts, etc.) and therefore makes it possible to apply the supplier-specific emission factor, which is generally different from that of the network.
 
-**Seule l'approche location-based est conforme à la méthode Bilan Carbone®**. En revanche, les outils Bilan Carbone® pourront proposer les deux approches dans le but de pouvoir exporter les résultats au format GHG Protocol ou CSRD, pour lesquels il est requis d'indiquer à la fois les émissions en location-based  et en market-based. Les contrats d'électricité verte de biogaz peuvent également être mis en valeur en comptabilisant par ailleurs des [émissions évitées](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md#emissions-evitees-pilier-b) (la souscription à ce type de contrat permettant parfois et sous certaines conditions la décarbonation des réseaux). L’organisation ne doit pas déduire ces émissions évitées des émissions totales, mais peut les comptabiliser et le cas échéant les déclarer à part.&#x20;
+**Only the location-based approach is compliant with the Bilan Carbone® method**. However, Bilan Carbone® tools may offer both approaches in order to be able to export results in GHG Protocol or CSRD format, for which it is required to indicate both location-based and market-based emissions. Green electricity and biogas contracts can also be leveraged by accounting for [avoided emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md#emissions-evitees-pilier-b) (subscribing to this type of contract sometimes and under certain conditions enabling the decarbonisation of networks). The organisation must not deduct these avoided emissions from total emissions, but may account for them and, where applicable, declare them separately.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront plus en détail sur la notion d'émissions évitées prochainement.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the notion of avoided emissions shortly.</mark>
 
-Dans le cas où l'organisation produit de l'énergie, trois cas sont à différencier :&#x20;
+In the case where the organisation produces energy, three cases are to be distinguished:
 
-* L'énergie est générée à partir d'un combustible produit au sein de l'organisation (déchets en matière plastique, bois, ...). Dans ce cas, celle-ci doit éviter tout double compte au sein du bilan. Pour des combustibles fossiles ou organiques, l'organisation devrait uniquement renseigner les émissions liées à la _combustion_ de ces combustibles dans les sous-postes adaptés, les émissions _amont_ étant déjà prises en compte dans le reste du bilan.
-* L'énergie est générée à partir d'un combustible non produit par l'organisation. Dans ce cas, le risque de double compte n'existe pas. Pour des combustibles fossiles ou organiques, l'organisation devrait renseigner les émissions liées à l'_amont_ et à la _combustion_ de ces combustibles dans les sous-postes adaptés.
-* L'énergie est générée à partir d'une source renouvelable ou nucléaire implantée sur le site de l'organisation. Dans ce cas, aucune émission liée à la _combustion_ n'est générée. En revanche l'_amont_ de cette production d'énergie, à savoir l'installation de la source et la fabrication de l'équipement, doit être pris en compte. Cette prise en compte peut s'effectuer soit dans le poste Énergie, soit dans le poste [Immobilisations](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) (selon la logique de l'organisation), ce qui évite un double compte.
-* Si une partie de l'électricité produite par l'organisation est destinée à être directement autoconsommée (autoconsommation individuelle ou autoconsommation collective), sans utiliser le réseau national, elle peut être comptabilisée dans le Bilan Carbone® sur la base du contenu ACV des différents moyens de production mobilisés.
-* Si une partie de l'électricité produite par l'organisation est destinée à être vendue, il reste obligatoire de prendre en compte la totalité des émissions évoquées ci-dessus, car le Bilan Carbone® a vocation à comptabiliser toutes les émissions engendrées par l'organisation. En revanche, l'organisation pourra valoriser cette production d'énergie vendue en comptabilisant par ailleurs des [émissions évitées](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). L’organisation ne doit pas déduire ces émissions évitées des émissions totales, mais peut les comptabiliser et le cas échéant les déclarer à part.&#x20;
+* The energy is generated from a fuel produced within the organisation (plastic waste, wood, ...). In this case, it must avoid any double counting within the assessment. For fossil or organic fuels, the organisation should only enter the emissions linked to the _combustion_ of these fuels in the appropriate sub-categories, the _upstream_ emissions already being taken into account in the rest of the assessment.
+* The energy is generated from a fuel not produced by the organisation. In this case, there is no risk of double counting. For fossil or organic fuels, the organisation should enter the emissions linked to the _upstream_ and _combustion_ of these fuels in the appropriate sub-categories.
+* The energy is generated from a renewable or nuclear source installed on the organisation's site. In this case, no emissions linked to _combustion_ are generated. However, the _upstream_ of this energy production, namely the installation of the source and the manufacture of the equipment, must be taken into account. This can be done either in the Energy category or in the [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) category (according to the organisation's logic), which avoids double counting.
+* If part of the electricity produced by the organisation is intended to be directly self-consumed (individual or collective self-consumption), without using the national grid, it can be accounted for in the Bilan Carbone® on the basis of the LCA content of the various production means mobilised.
+* If part of the electricity produced by the organisation is intended to be sold, it remains mandatory to take into account all of the above-mentioned emissions, as the Bilan Carbone® aims to account for all emissions generated by the organisation. However, the organisation may leverage this sold energy production by also accounting for [avoided emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). The organisation must not deduct these avoided emissions from total emissions, but may account for them and, where applicable, declare them separately.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront plus en détail sur la notion d'émissions évitées prochainement.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the notion of avoided emissions shortly.</mark>
 
-## Autres émissions directes
+## Other Direct Emissions
 
-Ce poste recouvre les émissions directes dites « non énergétiques », c'est à dire toutes les émissions directes de GES qui ne sont pas liées à l'utilisation d'[énergie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energie) :
+This category covers direct so-called "non-energy" emissions, i.e. all direct GHG emissions that are not linked to the use of [energy](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energy):
 
-* [x] Les émissions directes (non énergétiques) liées à l'agriculture (fermentation entérique des ruminants, déjections d'élevage, usage des engrais azotés, émissions de méthane de la riziculture, …)
-* [x] Les émissions directes (non énergétiques) liées au changement d'affectation des terres (imperméabilisation des sols, …)
-* [x] Les émissions directes (non énergétiques) liées à la production de froid (fuites de fluides réfrigérants)
-* [x] Les émissions directes (non énergétiques) liées aux procédés industriels (décarbonatation des producteurs de ciment ; torchage des gaz des raffineurs, émissions de process dans l'industrie des semiconducteurs ou de l’appareillage électrique, procédés chimiques, fermentation dans le traitement des déchets organiques, ventilation des mines de charbon, décomposition lors de l'assainissement, …)
-* [x] D'autres émissions directes (non énergétiques) de GES
+* [x] Direct (non-energy) emissions linked to agriculture (enteric fermentation of ruminants, livestock manure, use of nitrogenous fertilisers, methane emissions from rice cultivation, etc.)
+* [x] Direct (non-energy) emissions linked to land use change (soil sealing, etc.)
+* [x] Direct (non-energy) emissions linked to refrigeration production (refrigerant fluid leaks)
+* [x] Direct (non-energy) emissions linked to industrial processes (decarbonation of cement producers; flaring of gases by refiners, process emissions in the semiconductor or electrical equipment industry, chemical processes, fermentation in organic waste treatment, ventilation of coal mines, decomposition during sanitation, etc.)
+* [x] Other direct (non-energy) GHG emissions
 
-Dans l'ensemble de ces sous-postes, [tous les GES](../../4-comptabilisation/4.1-methode-de-quantification-des-emissions.md) doivent être pris en compte, y compris ceux qui ne sont pas pris en compte dans le cadre du [Protocole de Kyoto](../glossaire.md#p). Ces émissions sont fréquentes au sein des sous-postes Procédés Industriels, Production de froid et Autres émissions directes de GES. L'organisation devra donc être particulièrement vigilante à intégrer ces GES au sein de son Bilan Carbone®. Plusieurs exemples (non exhaustifs) des GES concernés en fonction des procédés :&#x20;
+In all of these sub-categories, [all GHGs](../../4-comptabilisation/4.1-methode-de-quantification-des-emissions.md) must be taken into account, including those not covered by the [Kyoto Protocol](../glossaire.md#p). These emissions are frequent in the Industrial Processes, Refrigeration Production and Other Direct GHG Emissions sub-categories. The organisation must therefore be particularly vigilant in integrating these GHGs into its Bilan Carbone®.
 
-Pour le sous-poste « Émissions directes de GES liées à l'agriculture », la fermentation de déchets agricoles n'est pas à prendre en compte : il s'agit en effet d'une simple restitution à l'atmosphère du CO₂ qui a été prélevé peu de temps auparavant lors de la photosynthèse des végétaux.
+For the sub-category "Direct GHG emissions linked to agriculture", the fermentation of agricultural waste is not to be taken into account: this is indeed a simple return to the atmosphere of the CO₂ that was removed shortly beforehand during the photosynthesis of plants.
 
-Pour le sous-poste « Émissions directes de GES liées à la production de froid », seules les fuites de fluides réfrigérants qui surviennent pendant l'utilisation par l'organisation sont à prendre en compte. Les fuites qui surviennent lors de la fin de vie des équipements sont à prendre en compte dans le poste [Déchets directs](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#dechets-directs). Dans le cas où l'organisation est productrice d'équipements pour lesquels ces fuites surviennent, celles-ci seraient à comptabiliser dans les postes [Utilisation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#utilisation-and-dependance) et [Fin de vie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fin-de-vie). La consommation d'énergie nécessaire à la production de froid, est par définition dans le poste [Energie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energie).
+For the sub-category "Direct GHG emissions linked to refrigeration production", only refrigerant fluid leaks that occur during use by the organisation are to be taken into account. Leaks occurring at the end of life of equipment are to be taken into account in the [Direct Waste](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#direct-waste) category. In the case where the organisation manufactures equipment for which these leaks occur, these would be accounted for in the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) and [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) categories. The energy consumption necessary for refrigeration production is by definition in the [Energy](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energy) category.
 
-Pour le sous-poste « Émissions directes de GES liées au changement d'affectation des terres » :
+For the sub-category "Direct GHG emissions linked to land use change":
 
-* Pour un changement d'affectation des terres menant à un déstockage instantanné de GES, l'organisation doit prendre en compte l'ensemble du déstockage associé, sans amortissement, l'année du bilan. Pour les changements dont la [cinétique est plus lente](../bibliographie/#guides-pratiques-de-comptabilisation) (forêt vers culture par exemple), le temps de retour à l’équilibre dépend des conditions pédologiques et climatiques. Cette durée est une valeur locale, régionale ou nationale si possible. Sinon, la variation de stock est par convention considérée comme s'effectuant sur 20 ans (valeur par défaut définie par la CCNUCC). L'entièreté de cet impact doit être pris en compte l'année du bilan durant lequel ce changement s'effectue. En réalité, des GES vont être déstockés pendant 20 ans jusqu'à atteindre un nouveau point d'équilibre. Attention à ne pas double-compte ce changement d'affectation des terres dans le cas de l['Immobilisation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) d'une construction.
-* Les changements d'affectation des sols menant à un stockage de GES **ne doivent en aucun cas être pris en compte** au sein du Bilan Carbone®. En revanche, ils peuvent être estimés en comptabilisant par ailleurs des [émissions séquestrées](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). L’organisation ne doit pas déduire ces émissions séquestrées des émissions totales, mais peut les comptabiliser et le cas échéant les déclarer à part.&#x20;
+* For a land use change leading to an instantaneous release of GHGs, the organisation must take into account the total associated release, without depreciation, in the year of the assessment. For changes whose [kinetics are slower](../bibliographie/#guides-pratiques-de-comptabilisation) (forest to cropland for example), the time to return to equilibrium depends on pedological and climatic conditions. This duration is a local, regional or national value where possible. Otherwise, the stock variation is by convention considered to occur over 20 years (default value defined by the UNFCCC). The entirety of this impact must be taken into account in the year of the assessment in which this change occurs. In reality, GHGs will be released over 20 years until a new equilibrium point is reached. Care must be taken not to double-count this land use change in the case of the [Fixed Asset](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) of a construction.
+* Land use changes leading to GHG storage **must under no circumstances be taken into account** within the Bilan Carbone®. However, they can be estimated by also accounting for [sequestered emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). The organisation must not deduct these sequestered emissions from total emissions, but may account for them and, where applicable, declare them separately.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront plus en détail sur la notion d'émissions séquestrées prochainement.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the notion of sequestered emissions shortly.</mark>
 
-## Intrants : biens et matières
+## Inputs: Goods and Materials
 
-Ce poste recouvre :
+This category covers:
 
-* [x] Les émissions liées aux différents flux de biens et de matières qui entrent dans l'organisation. Il est divisé en différents sous-postes qui recouvrent chacun une catégorie de matériaux
-* [x] Afin de pouvoir faire porter des actions du plan de transition sur les emballages, un sous-poste est dédié à la matière destinée à ces emballages est disponible
-* [x] Un sous-poste est également dédié aux matières pour lesquelles des facteurs d'émission en ratios monétaires sont utilisés
+* [x] Emissions linked to the various flows of goods and materials entering the organisation. It is divided into different sub-categories each covering a category of materials
+* [x] In order to be able to apply transition plan actions to packaging, a sub-category is dedicated to the material intended for this packaging
+* [x] A sub-category is also dedicated to materials for which emission factors in monetary ratios are used
 
-Ce poste recouvre tous les flux de biens et de matières qui entrent dans l'organisation, que ce soit pour y être consommés sur place (et potentiellement retrouvés dans ses [Déchets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#dechets-directs)), ou pour être incorporés dans la production de l'organisation. Les seuls biens ne devant pas être pris en compte au sein de ce poste sont ceux qui rentreront dans le poste [Immobilisations](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations).&#x20;
+This category covers all flows of goods and materials entering the organisation, whether to be consumed on site (and potentially found in its [Waste](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#direct-waste)), or to be incorporated into the organisation's production. The only goods that must not be taken into account in this category are those that will be included in the [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) category.
 
-Ce poste ne comprend pas uniquement les matières premières, mais également les produits semi-finis ou les produits manufacturés « incorporés » dans les activités de l'organisation. En particulier, il recouvre les matériaux utilisés par l’activité pour être incorporés à sa propre production, par exemple :&#x20;
+This category does not only include raw materials, but also semi-finished products or manufactured products "incorporated" into the organisation's activities. In particular, it covers materials used by the activity to be incorporated into its own production, for example:
 
-* Les matériaux de base (métaux, plastiques, verres, etc.) pour un fabriquant d’objets manufacturés&#x20;
-* Les produits agricoles dans le cas des entreprises agroalimentaires, ou pour un restaurant (y compris d’entreprise)&#x20;
-* Les matières premières et réactifs dans le cas des entreprises chimiques&#x20;
-* Les matériaux nécessaires pour emballer les matériaux entrants.
+* Base materials (metals, plastics, glass, etc.) for a manufacturer of manufactured goods
+* Agricultural products in the case of agri-food companies, or for a restaurant (including corporate canteens)
+* Raw materials and reagents in the case of chemical companies
+* Materials necessary to package incoming materials.
 
-Dans le cas d’une activité de commercialisation, les émissions découlant de l'amont, à savoir la fabrication des produits vendus sont ainsi à prendre en compte dans ce poste « Intrants : biens et matières ». En revanche, les émissions associées à l'[Utilisation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#utilisation-and-dependance) et à la [Fin de vie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fin-de-vie) de ces produits (ou services) vendus sont des postes dits «  aval ».
+In the case of a commercialisation activity, the emissions from upstream, namely the manufacture of products sold, are thus to be taken into account in this "Inputs: goods and materials" category. On the other hand, the emissions associated with the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) and [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) of these products (or services) sold are so-called "downstream" categories.
 
-L'organisation qui fait l'acquisition de biens ou matières issus du recyclage prend en compte l'impact du processus de recyclage (et donc la régénération de la matière) au sein de ce poste.
+An organisation that acquires goods or materials from recycling takes into account the impact of the recycling process (and therefore the regeneration of the material) in this category.
 
-La consommation des repas des collaborateur.ices de l'organisation pendant la période d'activité est à prendre en compte au sein de ce poste, et ce même si les collaborateur.ices consomment ces repas à l'extérieur de l'organisation.
+The consumption of meals by the organisation's employees during the period of activity is to be taken into account in this category, even if employees consume these meals outside the organisation.
 
-Les biens et matières doivent être comptabilisés, qu'ils soient achetés, loués ou issus de dons. Dans le cas particulier où des intrants seraient récupérés par l'organisation alors qu'ils n'étaient destinés à aucun usage (denrées alimentaires périmées, vêtements, etc.), et sous réserve que celle-ci puisse le justifier, l'organisation ne prendra pas en compte les émissions de GES associées à la production de ces intrants. En revanche, les émissions de GES associées au reste de la chaîne d'approvisionnement (la distribution notamment) devront toujours être prises en compte. Attention, pour la réutilisation des biens immobilisés, se référer au poste « [Immobilisations](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) » (numérique, bâtiments, véhicules, machines, mobilier, …).
+Goods and materials must be accounted for, whether purchased, rented or received as donations. In the particular case where inputs are recovered by the organisation when they were not intended for any use (expired foodstuffs, clothing, etc.), and provided the organisation can justify this, the organisation will not take into account the GHG emissions associated with the production of these inputs. However, the GHG emissions associated with the rest of the supply chain (distribution in particular) must always be taken into account. Note that for the reuse of capitalised goods, refer to the "[Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets)" category (digital, buildings, vehicles, machines, furniture, etc.).
 
-Concernant le sous poste « Biens et matières en approche monétaire », dans le cas où l'organisation utiliserai des ratios monétaires, celle-ci peut corriger ces ratios monétaires en fonction de l'[inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#prise-en-compte-de-linflation) qui s'applique à ses achats ou location de biens et de services.&#x20;
+Regarding the sub-category "Goods and materials by monetary approach", if the organisation uses monetary ratios, it may correct these monetary ratios based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
 
-Le sous-poste « Matière destinée aux emballages » des produits vendus ou distribués permet de visualiser la contribution globale des « déchets par destination » que sont ces emballages, bien que ceux-ci ne soient pas jetés directement par l’entité qui les mets en circulation. Les émissions prises en compte dans ce sous-poste sont liées à la production des plastiques, papiers, métaux, etc. qui sont nécessaires à la réalisation de l’emballage. Les émissions liées à la [Fin de vie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fin-de-vie) de ces emballages (qui interviendra quasiment immédiatement après leur mise en circulation) sont considérées dans le poste concerné. Ces sous-postes individualisés peuvent être [agrégés](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#futurs-emballages).
+The sub-category "Material intended for packaging" of products sold or distributed makes it possible to visualise the overall contribution of "waste by destination" that these packaging items represent, even though they are not thrown away directly by the entity that puts them into circulation. The emissions taken into account in this sub-category are linked to the production of plastics, paper, metals, etc. necessary for the production of the packaging. The emissions linked to the [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) of this packaging (which will occur almost immediately after it is put into circulation) are considered in the relevant category. These individualised sub-categories can be [aggregated](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging).
 
-Il est rare que ce poste "Intrants : biens et matières" ne nécessite pas une investigation à l’extérieur de l'organisation pour disposer de quelques facteurs d’émission spécifiques. Cela pourra nécessiter de demander à certains fournisseurs de faire leur propre reporting GES et de le transmettre à l’organisation. En cas d'absence des informations réelles, physiques ou personnalisées, un sous-poste est néanmoins dédié aux matières pour lesquelles des facteurs d'émission en ratios monétaires sont utilisés. Toutes les [limites évoquées dans la méthode Bilan Carbone®](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) s'appliquent à ce sous-poste.
+It is rare that this "Inputs: goods and materials" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. In the absence of real, physical or personalised information, a sub-category is nevertheless dedicated to materials for which emission factors in monetary ratios are used. All the [limits referred to in the Bilan Carbone® method](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) apply to this sub-category.
 
-## Intrants : services
+## Inputs: Services
 
-Ce poste recouvre :
+This category covers:
 
-* [x] Les émissions liées aux différents services reçus par l'organisation
-* [x] Les émissions liées aux services et usages numérique de l'organisation
-* [x] Les émissions liées aux différents services reçus par l'organisation comptabilisés via des facteurs d'émission en ratios monétaires
+* [x] Emissions linked to the various services received by the organisation
+* [x] Emissions linked to the digital services and uses of the organisation
+* [x] Emissions linked to the various services received by the organisation, accounted for via emission factors in monetary ratios
 
-Les services tertiaires (hors transport) consommés par l’organisation peuvent par exemple recouvrer :&#x20;
+Tertiary services (excluding transport) consumed by the organisation may for example include:
 
-* &#x20;Les prestations informatiques&#x20;
-* Les services de télécommunication
-* La maintenance, l’entretien, le nettoyage
-* Les services bancaires
-* &#x20;La formation&#x20;
-* La publicité&#x20;
-* &#x20;Les honoraires de toute nature (avocats, comptables, etc.)&#x20;
+* IT services
+* Telecommunications services
+* Maintenance, upkeep, cleaning
+* Banking services
+* Training
+* Advertising
+* Fees of all kinds (lawyers, accountants, etc.)
 
-Concernant le numérique, ce poste recouvre les « usages numériques » de l'organisation qui impliquent un impact indirect (serveurs externes, traitement et stockage de données, transport des données sur les réseaux, etc.). Les autres impacts du numérique font l'objet de [sous-postes différents](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#numerique).
+Regarding digital, this category covers the organisation's "digital uses" that involve an indirect impact (external servers, data processing and storage, data transport over networks, etc.). Other digital impacts are covered by [different sub-categories](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#digital).
 
-Dans le cas où l'organisation utiliserai des ratios monétaires, celle-ci peut corriger ces ratios monétaires en fonction de l'[inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#prise-en-compte-de-linflation) qui s'applique à ses achats ou location de biens et de services.&#x20;
+If the organisation uses monetary ratios, it may correct these monetary ratios based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
 
-Il est rare que ce poste "Intrants : services" ne nécessite pas une investigation à l’extérieur de l'organisation pour disposer de quelques facteurs d’émission spécifiques. Cela pourra nécessiter de demander à certains fournisseurs de faire leur propre reporting GES et de le transmettre à l’organisation. L'utilisation du Bilan Carbone® Organisation du fournisseur est alloué au prorata des dépenses de l'organisation et du chiffre d'affaire du fournisseur (le chiffre d'affaire est représentatif si homogénéité de l’activité du fournisseur). Il permet ainsi de construire un ratio monétaire dit "[spécifique](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires)".
+It is rare that this "Inputs: services" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. The use of the supplier's Bilan Carbone® Organisation is allocated pro rata to the organisation's expenditure and the supplier's turnover (turnover is representative if the supplier's activity is homogeneous). It thus makes it possible to build a so-called "[specific](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires)" monetary ratio.
 
-En cas d'absence des informations réelles, physiques ou personnalisées, un sous-poste est néanmoins dédié aux matières pour lesquelles des facteurs d'émission en ratios monétaires sont utilisés. Toutes les [limites évoquées dans la méthode Bilan Carbone®](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) s'appliquent à ce sous-poste.
+In the absence of real, physical or personalised information, a sub-category is nevertheless dedicated to materials for which emission factors in monetary ratios are used. All the [limits referred to in the Bilan Carbone® method](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) apply to this sub-category.
 
-## Fret
+## Freight
 
-Ce poste recouvre :
+This category covers:
 
-* [x] Les émissions liées au fret entrant dans l'organisation
-* [x] Les émissions liées au fret interne à l'organisation, dans le cas où les points de départ et d'arrivée feraient partie du périmètre organisationnel
-* [x] Les émissions liées au fret sortant de l'organisation
+* [x] Emissions linked to incoming freight to the organisation
+* [x] Emissions linked to freight internal to the organisation, in cases where the points of departure and arrival are part of the organisational boundary
+* [x] Emissions linked to outgoing freight from the organisation
 
-Ce poste recouvre tous les transports de marchandises effectués pour le compte de l’organisation, sans que la propriété du moyen de transport n’entre en ligne de compte, la discrimination se faisant par nature de trajet. On y trouve :&#x20;
+This category covers all the transport of goods carried out on behalf of the organisation, without the ownership of the means of transport being relevant, with the distinction being made by the nature of the journey. It includes:
 
-* Le transport des produits qui proviennent de l’extérieur et sont livrés dans le périmètre organisationnel (transport des achats depuis les fournisseurs jusqu’à l'organisation, par exemple).
-* Les transports dits internes, dont le point de départ et le point d’arrivée font partie du [périmètre organisationnel](../../2-perimetre-de-la-demarche/2.2-perimetre-organisationnel.md)
-* Le transport des produits qui quittent l’organisation et sont expédiés « ailleurs » (chez des clients, des usagers, ou des fournisseurs dans certains cas très particuliers)
+* The transport of products that come from outside and are delivered within the organisational boundary (transport of purchases from suppliers to the organisation, for example).
+* So-called internal transport, whose point of departure and arrival are part of the [organisational boundary](../../2-perimetre-de-la-demarche/2.2-perimetre-organisationnel.md)
+* The transport of products that leave the organisation and are sent "elsewhere" (to customers, users, or suppliers in certain very specific cases)
 
-Le "Fert entrant", et le "Fret sortant" ne doivent pas être confondus avec les dénominations "Fret amont" et "Fret aval" issues du [Bilan GES règlementaire](../bibliographie/). Ces notions sont distinctes : Au sein du Bilan Carbone®, les types de fret sont distingués en fonction du périmètre organisationnel, tandis que dans le Bilan GES règlementaire, le fret amont correspond au fret dont les coûts sont [supportés](../glossaire.md#e) par l'organisation, et le fret aval correspond au fret dont les coûts ne sont pas supportés par l'organisation. Des liens de [correspondances](../../4-comptabilisation/4.5-profil-demission.md#beges-r) sont possibles entre ces deux nomenclatures.
+"Incoming freight" and "outgoing freight" must not be confused with the designations "upstream freight" and "downstream freight" from the [regulatory GHG assessment](../bibliographie/). These notions are distinct: within the Bilan Carbone®, types of freight are distinguished based on the organisational boundary, whereas in the regulatory GHG assessment, upstream freight corresponds to freight whose costs are [borne](../glossaire.md#e) by the organisation, and downstream freight corresponds to freight whose costs are not borne by the organisation. [Correspondence links](../../4-comptabilisation/4.5-profil-demission.md#beges-r) are possible between these two nomenclatures.
 
-Le poste prend en compte les transports routiers, aériens, maritimes, fluviaux et ferroviaires. Il tient compte de tous les critères ayant une influence forte sur les émissions, dont : la distance, la durée du trajet, le taux de remplissage du véhicule, etc. L'organisation doit tenir compte du trajet aller, et du taux de retour à vide sur le trajet retour.
+The category takes into account road, air, maritime, river and rail transport. It takes into account all criteria having a strong influence on emissions, including: distance, journey duration, vehicle load rate, etc. The organisation must take into account the outward journey and the empty return rate on the return journey.
 
-Dans le cas du transport aérien, l'organisation doit par défaut prendre en compte la formation des [traînées de condensation](../glossaire.md#trainees-de-condensation-usd). En cas de non prise en compte, l'organisation doit le justifier, par exemple en prouvant que les trainées de condensation ne se forment pas sur le trajet en question (cette formation étant dépendante de l'altitude et de différents facteurs météorologiques).&#x20;
+In the case of air transport, the organisation must by default take into account the formation of [condensation trails](../glossaire.md#trainees-de-condensation-usd). In the event of non-inclusion, the organisation must justify this, for example by proving that condensation trails do not form on the journey in question (this formation being dependent on altitude and various meteorological factors).
 
-Dans le cas où le transport serait effectué via des véhicules possédés par l'organisation, celle-ci pourra au choix comptabiliser les émissions associées à la fabrication du véhicule dans les postes "[Fret](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fret)" ou "[Immobilisations](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations)", en prenant soin de ne pas faire de double compte.
+In the case where transport is carried out via vehicles owned by the organisation, it may choose to account for the emissions associated with vehicle manufacture either in the "[Freight](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#freight)" or "[Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets)" categories, taking care not to double count.
 
-## Déplacements
+## Travel
 
-Ce poste recouvre :
+This category covers:
 
-* [x] Les émissions liées aux déplacements domicile - travail des collaborateur.ices présent.es au sein de l'organisation, y compris intérimaires, sous-traitants, bénévoles et contractuels
-* [x] Les émissions liées aux déplacements de ces mêmes collaborateur.ices dans le cadre de leur activité professionnelle, que l'organisation soit [propriétaire ou non](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#proprietaire-ou-locataire) du moyen de transport, et que le déplacement ait lieu ou non pendant les heures ouvrées
-* [x] Les émissions liées aux déplacements de visiteurs (clients, usagers, bénéficiaires, touristes, ...)
+* [x] Emissions linked to the home-work travel of employees present within the organisation, including temporary staff, subcontractors, volunteers and contractors
+* [x] Emissions linked to the travel of these same employees in the context of their professional activity, whether the organisation [owns or not](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#owner-or-tenant) the means of transport, and whether or not the travel takes place during working hours
+* [x] Emissions linked to visitor travel (customers, users, beneficiaries, tourists, ...)
 
-Le poste prend en compte les transports routiers, aériens, maritimes, fluviaux et ferroviaires.
+The category takes into account road, air, maritime, river and rail transport.
 
-Le sous-poste Déplacements domicile ‐ travail recouvre tous les trajets pour venir travailler. Il s'agit donc, au sens large, des déplacements effectués du lieu de résidence du moment vers le lieu de prise de fonctions et le retour associé, sans oublier les éventuels trajets liés à la pause déjeuner.&#x20;
+The Home-work travel sub-category covers all journeys made to come to work. It therefore covers, in the broad sense, travel made from the current place of residence to the place of work and the associated return journey, not forgetting any journeys related to the lunch break.
 
-Le sous-poste Déplacements des visiteurs recouvre a minima les cas suivants et tout autre cas similaire :&#x20;
+The Visitor travel sub-category covers at minimum the following cases and any other similar case:
 
-* Déplacements des clients d’un magasin ou d’une entreprise
-* Visites pour des motifs professionnels (fournisseurs, certificateurs, auditeurs, etc.) ou assimilé (candidats à l’embauche)
-* Déplacements des usagers de l’organisation
-* Déplacements des publics, touristes et visiteurs accueillis dans l'organisation
-* Visites dans le cadre de la politique de relations publiques de l'organisation
+* Travel by customers of a shop or company
+* Visits for professional reasons (suppliers, certifiers, auditors, etc.) or equivalent (job candidates)
+* Travel by the organisation's users
+* Travel by audiences, tourists and visitors received by the organisation
+* Visits within the framework of the organisation's public relations policy
 
-Dans le cas où l'organisation est en mesure de prouver que certains déplacements des visiteurs ne sont pas fait exclusivement pour une activité rentrant dans son périmètre opérationnel, voir sont faits pour une tout autre raison, la participation à ladite activité étant alors un effet d'aubaine, celle-ci pourra utiliser des règles d'allocation qu'elle définira afin de ne prendre en compte qu'une part de ces déplacements.
+In cases where the organisation is able to prove that certain visitor journeys are not made exclusively for an activity within its operational boundary, or are made for a completely different reason, participation in the said activity being an incidental benefit, it may use allocation rules it defines in order to take into account only a portion of these journeys.
 
-Dans le cas du transport aérien, l'organisation doit par défaut prendre en compte la formation des [traînées de condensation](../glossaire.md#trainees-de-condensation-usd). En cas de non prise en compte, l'organisation doit le justifier, par exemple en prouvant que les trainées de condensation ne se forment pas sur le trajet en question (cette formation étant dépendante de l'altitude et de différents facteurs météorologiques).&#x20;
+In the case of air transport, the organisation must by default take into account the formation of [condensation trails](../glossaire.md#trainees-de-condensation-usd). In the event of non-inclusion, the organisation must justify this, for example by proving that condensation trails do not form on the journey in question (this formation being dependent on altitude and various meteorological factors).
 
-Dans le cas où le transport serait effectué via des véhicules possédés par l'organisation, celle-ci pourra au choix comptabiliser les émissions associées à la fabrication du véhicule dans les postes [Déplacements](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#deplacements) ou [Immobilisations](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations), en prenant soin de ne pas faire de double compte.
+In the case where transport is carried out via vehicles owned by the organisation, it may choose to account for the emissions associated with vehicle manufacture either in the [Travel](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#travel) or [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) categories, taking care not to double count.
 
-## Déchets directs
+## Direct Waste
 
-Ce poste recouvre l'ensemble des émissions liées à la gestion des déchets produits (collecte et traitement) au sein de l'organisation. Il est divisé en différents sous-postes qui recouvrent chacun une catégorie de déchets :&#x20;
+This category covers all the emissions linked to the management of waste produced (collection and treatment) within the organisation. It is divided into different sub-categories each covering a category of waste:
 
-* [x] Les émissions liées aux déchets d'emballages plastiques et autres plastiques
-* [x] Les émissions liées aux déchets organiques (déchets alimentaires, déchets verts, ...)
-* [x] Les émissions liées aux ordures ménagères&#x20;
-* [x] Les émissions liées aux déchets dangereux
-* [x] Les émissions liées aux déchets matériaux
-* [x] &#x20;Les émissions liées aux autres types de déchets (DEEE, textiles, etc.)
-* [x] Les émissions non énergétiques et les fuites de GES liées aux déchets
-* [x] Les émissions liées aux eaux usées (dont impact du traitement)
+* [x] Emissions linked to plastic packaging waste and other plastics
+* [x] Emissions linked to organic waste (food waste, green waste, ...)
+* [x] Emissions linked to household waste
+* [x] Emissions linked to hazardous waste
+* [x] Emissions linked to material waste
+* [x] Emissions linked to other types of waste (WEEE, textiles, etc.)
+* [x] Non-energy emissions and GHG leaks linked to waste
+* [x] Emissions linked to wastewater (including treatment impact)
 
-Ce poste inclus les déchets sous toutes ses formes (solides, liquides ou gazeux). L'origine des déchets est variable (consommables après usage, déchets et résidus de fabrication, emballages des achats, restaurant du personnel, etc.). Les sous-postes ventilent les déchets par catégorie de déchets ce qui implique une politique de suivi interne.
+This category includes waste in all its forms (solid, liquid or gaseous). The origin of waste varies (consumables after use, manufacturing waste and residues, purchase packaging, staff restaurant, etc.). The sub-categories sort waste by waste category, which implies an internal monitoring policy.
 
-Les traitements des déchets peuvent classiquement conduire à des émissions de GES :&#x20;
+Waste treatments can conventionally lead to GHG emissions:
 
-* Soit par le biais de la fermentation des déchets organiques mis en décharge ou dans des centres de traitement biologique (station de méthanisation ou centre de compostage)&#x20;
-* Soit par la combustion de plastiques (le plastique est souvent issu d'énergies fossiles, comme du pétrole ou du gaz transformé).&#x20;
-* Soit par les processus de régénération de la matière dans le cas du recyclage (_voir ci-dessous_)
+* Either through the fermentation of organic waste placed in landfill or in biological treatment centres (methanisation plants or composting centres)
+* Or through the combustion of plastics (plastic is often derived from fossil fuels, such as oil or transformed gas).
+* Or through the material regeneration processes in the case of recycling (_see below_)
 
-Dans tous les cas, à ces émissions s'ajoutent les émissions liées au fonctionnement du processus de gestion des déchets (collecte des déchets, bâtiments pour le stockage, etc.).
+In all cases, these emissions are supplemented by emissions linked to the operation of the waste management process (waste collection, storage buildings, etc.).
 
-Pour ce poste, il faudra le plus souvent interroger les gestionnaires de déchets qui gèrent ces processus.
+For this category, it will most often be necessary to consult the waste managers who manage these processes.
 
-A titre informatif, les déchets dangereux (par exemple les Déchets Industriels Spéciaux - DIS - ou les Déchets d'Activité de Soin - DAS) n’engendrent pas des émissions à raison de leur toxicité, mais à raison de la quantité d’énergie fossile utilisée pour leur transport, leur confinement, leur stockage ou leur traitement.
+For information, hazardous waste (for example Special Industrial Waste or Healthcare Activity Waste) does not generate emissions due to their toxicity, but due to the quantity of fossil energy used for their transport, confinement, storage or treatment.
 
-La plupart des facteurs d'émission utilisés pour les déchets intègrent la collecte de ces déchets. Si cette collecte a déjà été comptabilisée au sein du poste [Fret](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fret) par l'organisation, il convient de ne pas faire de double compte ici.
+Most of the emission factors used for waste include the collection of this waste. If this collection has already been accounted for in the [Freight](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#freight) category by the organisation, care must be taken not to double count here.
 
-### Zoom sur le recyclage des déchets
+### Focus on recycling of waste
 
-Du point de vue des émissions de gaz à effet de serre, le recyclage engendre d'une part des émissions liées à sa nouvelle transformation en matériau utilisable (par exemple fusion des métaux), et d'autre part permet d'éviter des émissions pour la fabrication d'un même matériau neuf ou faiblement recyclé.
+From the point of view of greenhouse gas emissions, recycling generates on the one hand emissions linked to its re-transformation into usable material (e.g. melting of metals), and on the other hand makes it possible to avoid emissions for the manufacture of the same new or lightly recycled material.
 
-Dans le cas du traitement des déchets par recyclage, l’émetteur du déchet intègre les impacts de collecte & fonctionnement du centre de tri. L’émetteur du déchet n’intègre pas l’impact du processus de régénération (recyclage) de la matière. Avec cette méthode, les déchets orientés vers la filière recyclage ne sont pas comptabilisés comme déchets, mais comme un flux secondaire d’approvisionnement en matière première.
+In the case of treating waste by recycling, the waste producer integrates the impacts of collection and operation of the sorting centre. The waste producer does not integrate the impact of the material regeneration (recycling) process. With this method, waste directed towards the recycling channel is not accounted for as waste, but as a secondary supply flow of raw materials.
 
-C’est à l'organisation qui organise ce recyclage, ainsi qu'aux organisations qui consomment de la matière recyclée (dans leurs Intrants - biens et matières), d’inclure la phase de régénération de la matière. Si les déchets de l'organisation qui sont recyclés sont utilisés par la suite comme intrant, par cette même organisation, il n’y a alors pas de double compte du processus de recyclage.
+It is up to the organisation that organises this recycling, as well as organisations that consume recycled material (in their Inputs - goods and materials), to include the material regeneration phase. If the organisation's waste that is recycled is subsequently used as an input by that same organisation, there is then no double counting of the recycling process.
 
-Il convient d’être vigilant à la quantité de déchets effectivement recyclée, en se basant sur les déclarations de l'organisation recyclant les déchets, ou à défaut sur des statistiques nationales ou locales.
+Care must be taken to consider the quantity of waste actually recycled, based on declarations from the recycling organisation, or failing that on national or local statistics.
 
-🔎 _Le_ _Bilan Carbone® et le GHG Protocole sont alignés sur cette allocation méthodologique du recyclage._ _A l’inverse la norme ISO 14064-1 et le Bilan GES règlementaire attribuent l’impact de ce recyclage à l'émetteur du déchet, au même titre que les autres modes de traitement. Ces deux types d’_[_exports_](../../4-comptabilisation/4.5-profil-demission.md) _sont prévus et s’expliquent pédagogiquement._
+🔎 _The Bilan Carbone® and the GHG Protocol are aligned on this methodological allocation of recycling. Conversely, the ISO 14064-1 standard and the regulatory GHG assessment attribute the impact of this recycling to the waste producer, in the same way as other treatment methods. Both types of_ [_exports_](../../4-comptabilisation/4.5-profil-demission.md) _are provided for and are explained pedagogically._
 
-Il est essentiel d’accompagner l’analyse des résultats d’une explication pédagogique, en restituant non seulement les impacts du poste _Déchets_, mais aussi de quantifier leurs répercussions sur l’ensemble de la chaîne de valeur de l’organisation.
+It is essential to accompany the analysis of results with a pedagogical explanation, reporting not only the impacts of the Waste category, but also quantifying their repercussions on the organisation's entire value chain.
 
-* Impact du recyclage : Envoyer un déchet au recyclage ne signifie pas qu’il n’émet plus d’émissions de gaz à effet de serre. Leur quantification permet d’estimer les impacts liés à la régénération de la matière. Cette mise en perspective rappelle que la meilleure stratégie reste la réduction de la production de déchets (et de pertes matières) à la source.
-* Émissions évitées par l’utilisation de matière recyclée : les déchets résiduels et recyclés permettent à d'autres acteurs d’utiliser de la matière recyclée à la place de matière vierge, évitant ainsi certaines émissions associées à l’extraction et la transformation de ressources primaires.
+* Impact of recycling: Sending waste for recycling does not mean it no longer emits greenhouse gases. Quantifying them makes it possible to estimate the impacts linked to material regeneration. This perspective serves as a reminder that the best strategy remains reducing waste production (and material losses) at source.
+* Emissions avoided by the use of recycled material: residual and recycled waste enables other actors to use recycled material instead of virgin material, thereby avoiding certain emissions associated with the extraction and transformation of primary resources.
 
-> <mark style="background-color:blue;">⏳\[WIP] L'ABC et sa communauté approfondiront la méthodologie liée aux</mark> [<mark style="background-color:blue;">émissions évitées</mark>](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)<mark style="background-color:blue;">. À ce stade, ces émissions ne doivent pas être déduites des émissions totales de l'organisation, mais elles peuvent être comptabilisées séparément et déclarées si nécessaire.</mark>
+> <mark style="background-color:blue;">⏳\[WIP] The ABC and its community will deepen the methodology linked to</mark> [<mark style="background-color:blue;">avoided emissions</mark>](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)<mark style="background-color:blue;">. At this stage, these emissions must not be deducted from the organisation's total emissions, but they can be accounted for separately and declared if necessary.</mark>
 
-## Immobilisations
+## Fixed Assets
 
-Ce poste recouvre l'ensemble des émissions liées à la fabrication matérielle de biens durables (d'une certaine durée de vie ou faisant l'objet d'un amortissement comptable par l'organisation) dont :
+This category covers all the emissions linked to the material manufacture of durable goods (of a certain service life or subject to accounting depreciation by the organisation), including:
 
-* [x] Les bâtiments achetés ou loués par l'organisation
-* [x] Les infrastructures achetées ou louées par l'organisation
-* [x] Les équipements, mobiliers, machines, véhicules achetés ou loués par l'organisation
-* [x] Les équipements informatiques achetés ou loués par l'organisation
+* [x] Buildings purchased or rented by the organisation
+* [x] Infrastructure purchased or rented by the organisation
+* [x] Equipment, furniture, machines, vehicles purchased or rented by the organisation
+* [x] IT equipment purchased or rented by the organisation
 
-Le poste Immobilisations concerne l'[achat ou la location](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#proprietaire-ou-locataire) longue durée de ces biens.
+The Fixed Assets category concerns the [purchase or long-term rental](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#owner-or-tenant) of these goods.
 
-Dans le cas des infrastructures, cela concerne généralement toute autre construction qu'un bâtiment (voirie, parking, etc.).
+In the case of infrastructure, this generally concerns all construction other than a building (roads, car parks, etc.).
 
-Dans le cas des véhicules, si la comptabilisation effectuée au sein du poste [Déplacements](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#deplacements) incluent une composante dédiée à la fabrication du véhicule, l'organisation devra veiller à ne pas double compter ces émissions, qui peuvent être au choix prises en compte au sein du poste "Immobilisations" ou "Déplacements".
+In the case of vehicles, if the accounting carried out in the [Travel](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#travel) category includes a component dedicated to vehicle manufacture, the organisation must ensure it does not double count these emissions, which may be optionally taken into account either in the "Fixed Assets" or "Travel" category.
 
-Lorsque l’organisation est une entité large qui gère un flux annuel de renouvellement ou d’accroissement de ses immobilisations, il est recommandé de traiter ce poste en flux annuel et non plus en amortissement du parc existant. Ce choix sera alors le plus pertinent pour définir des actions de réduction des émissions, en se basant sur les achats annuels récurrents. C'est particulièrement pertinent pour des organisations de la promotion ou construction immobilière, pour des concessionnaires automobiles, etc.
+When the organisation is a large entity managing an annual flow of renewal or increase of its fixed assets, it is recommended to treat this category as an annual flow and no longer as depreciation of the existing fleet. This choice will then be the most relevant for defining emission reduction actions, based on recurring annual purchases. This is particularly relevant for real estate development or construction organisations, car dealerships, etc.
 
-Enfin, les émissions incorporelles (marques, concessions, licences, etc.) ne doivent pas être amorties.
+Finally, intangible emissions (brands, concessions, licences, etc.) must not be depreciated.
 
-**Durée d'amortissement :**&#x20;
+**Depreciation period:**
 
-Par convention dans la méthode, les émissions de fabrication de ces biens sont réparties sur une certaine durée, qui doit être la durée de vie théorique du bien en question, au sein de l'organisation. Soit cette durée est estimée à l'achat ou au début de l'utilisation du bien (par le constructeur, via une ACV, ...), soit elle est une valeur par défaut qui diffère selon le type de bien. La durée de vie théorique au sein de l'organisation (durée d'utilisation programmée) peut différer de la durée de vie physique. Par exemple une organisation qui renouvelle son parc automobile tous les 3 ans.
+By convention in the method, the emissions from the manufacture of these goods are spread over a certain period, which must be the theoretical service life of the good in question, within the organisation. Either this period is estimated at purchase or at the start of use of the good (by the manufacturer, via an LCA, ...), or it is a default value that differs depending on the type of good. The theoretical service life within the organisation (planned period of use) may differ from the physical service life. For example, an organisation that renews its vehicle fleet every 3 years.
 
-Cette durée s'appelle la durée d'amortissement, et doit être indiquée au sein du Bilan Carbone®. On dit que les émissions font l'objet d'un amortissement, ou encore que le bien est immobilisé. Ces émissions doivent être prises en compte tous les ans (quand l'organisation réalise un bilan), jusqu'à la fin de la durée d'amortissement du bien, après quoi le bien est considéré comme physiquement "amorti" et plus aucune émission ne doit être prise en compte. Cette répartition est faite afin de rendre les profils d'émission, réalisés à intervalles successifs, comparables entre eux.
+This period is called the depreciation period, and must be indicated within the Bilan Carbone®. The emissions are said to be subject to depreciation, or alternatively that the good is capitalised. These emissions must be taken into account every year (when the organisation carries out an assessment), until the end of the good's depreciation period, after which the good is considered as physically "depreciated" and no further emissions need to be taken into account. This distribution is made in order to make emission profiles, carried out at successive intervals, comparable to each other.
 
-**Période et durée de prise en compte dans le bilan :**
+**Period and duration of inclusion in the assessment:**
 
-Si l'organisation n'utilise plus le bien amortit, et que ce bien est transmis à un.e autre utilisateur.ice (locaux, véhicules, mobilier encore en bon état, ...), l'organisation ne doit plus comptabiliser les émissions associées. Si le bien n'est pas réutilisé, l'organisation doit continuer de prendre en compte ces émissions.
+If the organisation no longer uses the depreciated good, and this good is transferred to another user (premises, vehicles, furniture still in good condition, ...), the organisation must no longer account for the associated emissions. If the good is not reused, the organisation must continue to take these emissions into account.
 
-Si l'organisation acquiert un bien déjà en partie amorti (emménagement dans des locaux construits, acquisition de matériel numérique reconditionné, réemploi, ...), elle ne doit prendre en compte les émissions amorties que sur la durée restante d'amortissement du bien. Dans le cas où l'organisation ne connaîtrait pas la précédente durée d'utilisation, la méthode Bilan Carbone® recommande d'utiliser des estimations conservatrices (i.e des durées de précédente utilisation relativement faible). Dans le cas où le bien est considéré amorti, les émissions liées à la fabrication ne sont plus à immobiliser (cela n'exclut pas les éventuelles émissions liées à l'approvisionnement, rénovation, réparation, etc.)
+If the organisation acquires a good that is already partially depreciated (moving into constructed premises, acquisition of reconditioned digital equipment, reuse, ...), it must only take into account the depreciated emissions over the remaining depreciation period of the good. In cases where the organisation does not know the previous period of use, the Bilan Carbone® method recommends using conservative estimates (i.e. relatively short previous periods of use). In cases where the good is considered depreciated, the emissions linked to manufacture are no longer to be capitalised (this does not exclude any emissions linked to supply, renovation, repair, etc.)
 
-## Fin de vie
+## End of Life
 
-Ce poste recouvre l'ensemble des émissions liées à la future fin de vie des produits qui ont été vendus ou distribués sur le périmètre temporel :&#x20;
+This category covers all the emissions linked to the future end of life of products that have been sold or distributed within the temporal boundary:
 
-* [x] Consommation d'énergie en fin de vie
-* [x] Traitement des déchets en fin de vie
-* [x] Traitement des emballages en fin de vie
-* [x] Les émissions non énergétiques et les fuites de GES liées aux déchets en fin de vie (par exemple fuites de fluides frigorigènes pour un réfrigérateur mis en décharge)
+* [x] Energy consumption at end of life
+* [x] Waste treatment at end of life
+* [x] Packaging treatment at end of life
+* [x] Non-energy emissions and GHG leaks linked to waste at end of life (e.g. refrigerant fluid leaks for a refrigerator sent to landfill)
 
-Il s’agira de calculer la quantité de GES qu’émettra l’ensemble des produits/services fournis ou distribués l'année du bilan (ou à défaut pendant le [périmètre temporel](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) du bilan), lors de leur fin de vie. Par exemple, si vous produisez des réfrigérateurs, à raison de 5 000 unités par an, chaque équipement émettant en fin de vie 500 grammes de gaz, les émissions imputables à la fin de vie de votre production annuelle valent : 5 000 x 0,5 = 2 500 kilos, soit 2,5 tonnes de gaz par an. &#x20;
+This involves calculating the quantity of GHGs that all products/services provided or distributed in the year of the assessment (or failing that during the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) of the assessment) will emit at their end of life. For example, if you produce refrigerators, at a rate of 5,000 units per year, each piece of equipment emitting 500 grams of gas at end of life, the emissions attributable to the end of life of your annual production are: 5,000 x 0.5 = 2,500 kilos, i.e. 2.5 tonnes of gas per year.
 
-Lors de sa « fin de vie », un produit ou service peut engendrer des émissions : fermentation pour les épluchures des carottes mises en décharge, émissions de CO2 d’un jouet en plastique envoyé en incinérateur, etc. L'organisation peut ne pas connaître avec certitude la fin de vie des produits (biens ou services) distribués l'année du bilan (ou à défaut pendant le [périmètre temporel](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) du bilan). Il sera alors nécessaire de définir des scénarios de fin de vie : soit en estimant l'énergie nécessaire pour le traitement en fin de vie (sous-poste « Consommation d'énergie en fin de vie »), soit en considérant les filières de traitement des matériaux utilisés dans les produits distribués, et leurs mix dans les territoires de distribution (sous-poste « Traitement des déchets en fin de vie » et « Traitement des emballages en fin de vie »).
+At its "end of life", a product or service may generate emissions: fermentation of carrot peelings placed in landfill, CO₂ emissions from a plastic toy sent to an incinerator, etc. The organisation may not know with certainty the end of life of the products (goods or services) distributed in the year of the assessment (or failing that during the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) of the assessment). It will then be necessary to define end-of-life scenarios: either by estimating the energy required for end-of-life treatment (sub-category "Energy consumption at end of life"), or by considering the treatment channels for the materials used in the distributed products, and their mix in the distribution territories (sub-categories "Waste treatment at end of life" and "Packaging treatment at end of life").
 
-Le poste Fin de vie ne concerne pas les produits ou services dont l’usage même suppose la destruction : une bougie, un litre de carburant, une fusée de feu d’artifice, ... Dans ces cas de figure, les émissions relèvent du poste [Utilisation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#utilisation).
+The End of Life category does not concern products or services whose very use implies destruction: a candle, a litre of fuel, a firework rocket, etc. In these cases, the emissions fall under the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) category.
 
-Le sous-poste « Traitement des emballages en fin de vie » des produits vendus ou distribués permet de visualiser la contribution globale des « déchets par destination » que sont ces [futurs emballages](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#futurs-emballages), bien que ceux-ci ne soient pas jetés directement par l’entité qui les mets en circulation. Les émissions prises en compte dans ce sous-poste sont liées à la Fin de vie de ces emballages (qui interviendra quasiment immédiatement après leur mise en circulation). Les émissions liées à la production des plastiques, papiers, métaux, etc. qui sont nécessaires à la réalisation de l’emballage  sont considérées dans le sous-poste [Matière destinée aux emballages](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres). Ces sous-postes individualisés peuvent être [agrégés](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#futurs-emballages).
+The sub-category "Packaging treatment at end of life" of products sold or distributed makes it possible to visualise the overall contribution of "waste by destination" that these [future packaging items](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging) represent, even though they are not thrown away directly by the entity that puts them into circulation. The emissions taken into account in this sub-category are linked to the End of Life of this packaging (which will occur almost immediately after it is put into circulation). The emissions linked to the production of plastics, paper, metals, etc. necessary for the production of the packaging are considered in the [Material intended for packaging](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) sub-category. These individualised sub-categories can be [aggregated](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging).
 
-## Utilisation & Dépendance
+## Use & Dependence
 
-Ce poste recouvre :
+This category covers:
 
-* [x] Les émissions liées à l'utilisation dite "en responsabilité", c'est à dire l'utilisation des produits vendus ou distribués par l'organisation au sein du périmètre temporel considéré sur l'ensemble de leur durée de vie, dont l'organisation est directement responsable (pour un fabriquant de plateau-repas servi dans un avion, l'utilisation en responsabilité correspond à l'énergie utilisée pour refroidir et réchauffer le plateau-repas)
-* [x] Les émissions liées à l'utilisation dite "en dépendance", c'est à dire l'utilisation des produits vendus ou distribués par l'organisation au sein du périmètre temporel considéré sur l'ensemble de leur durée de vie, dont l'organisation n'est pas directement responsable mais que son activité contribue à émettre (pour un fabriquant de plateau-repas servi dans un avion, l'utilisation en dépendance correspond aux émissions du vol complet).
-* [x] Les émissions liées à l'utilisation des investissements financiers réalisés par l'organisation
+* [x] Emissions linked to "responsibility-based" use, i.e. the use of products sold or distributed by the organisation within the temporal boundary considered over their entire service life, for which the organisation is directly responsible (for a manufacturer of meal trays served on an aircraft, responsibility-based use corresponds to the energy used to cool and reheat the meal tray)
+* [x] Emissions linked to "dependence-based" use, i.e. the use of products sold or distributed by the organisation within the temporal boundary considered over their entire service life, for which the organisation is not directly responsible but which its activity contributes to generating (for a manufacturer of meal trays served on an aircraft, dependence-based use corresponds to the emissions of the complete flight).
+* [x] Emissions linked to the use of financial investments made by the organisation
 
-Une fois qu’un produit (bien ou service) se trouve chez le client ou l’usager, son utilisation peut engendrer des émissions de GES.&#x20;
+Once a product (good or service) is with the customer or user, its use may generate GHG emissions.
 
-Les émissions de l’ensemble de ce qui a été vendu ou distribué par l’organisation l'année du bilan (ou à défaut pendant le [périmètre temporel](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) du bilan), sont prises en compte sur leur durée de fonctionnement estimée. Les valeurs moyennes des consommations énergétiques et des fuites liées à l’utilisation des produits (biens et services) sont requises, ainsi que la durée de vie moyenne de ceux-ci.&#x20;
+The emissions of all that has been sold or distributed by the organisation in the year of the assessment (or failing that during the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) of the assessment) are taken into account over their estimated operating life. Average values of energy consumption and leaks linked to the use of products (goods and services) are required, as well as their average service life.
 
-Ces émissions peuvent facilement devenir prépondérantes devant celles des autres postes du Bilan Carbone®.
+These emissions can easily become dominant over those of the other Bilan Carbone® categories.
 
-De nombreux cas de figure sont concernés, comme par exemple :&#x20;
+Many cases are concerned, such as for example:
 
-* La vente de voitures implique de comptabiliser l’essence, éventuellement les fuites de fluide réfrigérant pour la climatisation, et les émissions associées aux prestations d’entretien (fabrication et transport des pièces détachées, chauffage des locaux utilisés pour cette fonction, etc), sur le kilométrage moyen du modèle de véhicule ;
-* La production électrique pour l’électroménager (évidemment très variables selon le pays d’utilisation) ;
-* La combustion du gaz pour un logement dans son ensemble (pour un constructeur de logements), ou pour une cuisinière (gaz consommé ensuite sur la durée de vie moyenne d’une cuisinière) ;
-* Les émissions des trajets si l’organisation consiste à financer des bourses d’échange entre pays (ce qui revient souvent à financer des voyages, notamment aériens).
-* Les futures fuites de fluides réfrigérants si l’organisation vend des systèmes de climatisation ;&#x20;
-* Les émanations de N₂O si l’organisation produit des engrais azotés ;&#x20;
-* La combustion de l’acétylène si l’organisation vend des chalumeaux ;&#x20;
-* Le maintien de la chaîne du froid si l’organisation vend des surgelés ;
-* Les déplacements en voiture si l’organisation vend des produits en hypermarché.&#x20;
+* The sale of cars implies accounting for petrol, possibly refrigerant fluid leaks for air conditioning, and emissions associated with maintenance services (manufacture and transport of spare parts, heating of premises used for this function, etc.), over the average mileage of the vehicle model;
+* Electricity production for household appliances (obviously highly variable depending on the country of use);
+* The combustion of gas for a dwelling as a whole (for a housing builder), or for a cooker (gas consumed over the average service life of a cooker);
+* The emissions of journeys if the organisation consists of financing exchange grants between countries (which often amounts to financing travel, notably by air).
+* Future refrigerant fluid leaks if the organisation sells air conditioning systems;
+* N₂O emissions if the organisation produces nitrogenous fertilisers;
+* The combustion of acetylene if the organisation sells blowtorches;
+* The maintenance of the cold chain if the organisation sells frozen products;
+* Car journeys if the organisation sells products in hypermarkets.
 
-D'autres exemples sont proposés [ci-dessous](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#exemples-et-comparaisons).
+Other examples are proposed [below](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#examples-and-comparisons).
 
-Pour l'utilisation des biens matériels vendus ou distribués, il s'agit donc de comptabiliser la production d’énergie et de matière consommée.
+For the use of material goods sold or distributed, this involves accounting for the energy and material production consumed.
 
-Pour l'utilisation des services vendus ou distribués, une approche basée sur l’impact chez le client final peut être adoptée en utilisant l’intensité carbone du produit final.&#x20;
+For the use of services sold or distributed, an approach based on the impact on the end customer can be adopted using the carbon intensity of the final product.
 
-La comptabilisation du poste Utilisation ne nécessite pas de règles d'allocation : en revanche, ces allocations (utilisation du carburant par les véhicules équipés de phares, au prorata du poids du phare) peuvent être pertinente opérationnellement pour fournir des indicateurs, piloter le plan de transition, etc.
+Accounting for the Use category does not require allocation rules: however, these allocations (use of fuel by vehicles equipped with headlights, pro rata to the weight of the headlight) may be operationally relevant to provide indicators, steer the transition plan, etc.
 
-### **Zoom sur les sous-postes Utilisation en responsabilité et Utilisation en dépendance :**
+### **Focus on the responsibility-based use and dependence-based use sub-categories:**
 
-Ces émissions sont classés dans les sous-postes "Utilisation en responsabilité" et "Utilisation en dépendance", respectivement en fonction du degré de responsabilité ou de dépendance.&#x20;
+These emissions are classified in the "Responsibility-based use" and "Dependence-based use" sub-categories, respectively, depending on the degree of responsibility or dependence.
 
-Il est recommandé de présenter le [profil d'émission](../../4-comptabilisation/4.5-profil-demission.md) final **avec et sans** le sous-poste "Utilisation en dépendance". Les 2 résultats sont complémentaires et le Bilan Carbone® doit permettre de fournir des indicateurs adaptés à chaque levier d'action.
+It is recommended to present the final [emission profile](../../4-comptabilisation/4.5-profil-demission.md) **with and without** the "Dependence-based use" sub-category. The 2 results are complementary and the Bilan Carbone® must make it possible to provide indicators adapted to each lever of action.
 
-Une organisation n'est jamais complètement responsable d'une émission "aval", ni complètement dépendante. Cette séparation est donc à l'arbitrage de l'organisation, selon ce qui lui sera le plus utile pour piloter ses actions.
+An organisation is never completely responsible for a "downstream" emission, nor completely dependent. This separation is therefore at the discretion of the organisation, according to what will be most useful for steering its actions.
 
-* **Utilisation en responsabilité :** recouvre les émissions nécessaires à l'utilisation directe de ces produits, c'est-à-dire les émissions générées au moment de leur utilisation sur l'ensemble de leur durée de vie.
-  * Dans le cas de biens, ces émissions sont généralement dues à la consommation d'énergie ou de consommables (carburant pour des véhicules, cartouches d'encre pour des imprimantes, électricité pour les objets électroniques, etc.).
-  * Dans le cas de services, elles sont dues à l'application directe du service en question. Ainsi, s'il s'agit d'un service clé pour la création d'un bien, la consommation de matière nécessaire à la création du bien est à prendre en compte. Par exemple, un cabinet d'architectes travaillant sur des plans pour un bâtiment devrait intégrer la consommation de matière associée à la construction. Une organisation qui mettrait à disposition des formations en ligne devrait intégrer l'énergie utilisée par les utilisateurs pour faire fonctionner leurs appareils électroniques sur la durée de la formation.
-* **Utilisation en dépendance :** lorsque l'utilisation des produits vendus ou distribués par l'organisation est conditionnée par l'utilisation d'**autres** produits, ce sous-poste recouvre les émissions additionnelles liées à la fabrication ou l'utilisation de ces autres biens et services (à l'exclusion des infrastructures ou autres biens et services collectifs) sur l'ensemble de leur durée de vie.
-  * La question de l'utilisation en dépendance se pose souvent lorsque le produit (bien ou service) n'est pas un produit final mais un produit intermédiaire. Son utilisation est alors conditionnée à l'utilisation d'un autre produit. Cette dépendance est une vulnérabilité de l'organisation qui se doit de la quantifier.
-  * Plusieurs produits intermédiaires sont peut être nécessaires avant le produit final. Il est préconisé de se concentrer sur le ou les produits les plus significatifs au regard du poste Utilisation : si l'organisation vend de l'acier pour fabriquer une carrosserie, elle-même vendue à un fabriquant de voitures : elle considère bien l'utilisation de carburant de la voiture.
-  * À l'inverse, « en bout de chaîne », il n'est pas demandé d'inclure les infrastructures publiques, et autres biens ou services collectifs (ports, routes, services publiques, etc.) même si l'organisation en est évidemment dépendante. Cette dépendance pourra figurer dans l'[analyse des risques et opportunités](../../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md).
+* **Responsibility-based use:** covers the emissions necessary for the direct use of these products, i.e. the emissions generated at the time of their use over their entire service life.
+  * In the case of goods, these emissions are generally due to the consumption of energy or consumables (fuel for vehicles, ink cartridges for printers, electricity for electronic objects, etc.).
+  * In the case of services, they are due to the direct application of the service in question. Thus, if it is a key service for the creation of a good, the consumption of material necessary for the creation of the good is to be taken into account. For example, an architectural firm working on plans for a building should integrate the material consumption associated with construction. An organisation that provides online training should integrate the energy used by users to operate their electronic devices over the duration of the training.
+* **Dependence-based use:** when the use of products sold or distributed by the organisation is conditioned by the use of **other** products, this sub-category covers the additional emissions linked to the manufacture or use of these other goods and services (excluding infrastructure or other collective goods and services) over their entire service life.
+  * The question of dependence-based use often arises when the product (good or service) is not a final product but an intermediate product. Its use is then conditioned by the use of another product. This dependence is a vulnerability of the organisation which must quantify it.
+  * Several intermediate products may be necessary before the final product. It is recommended to focus on the most significant product(s) with regard to the Use category: if the organisation sells steel to manufacture a body, itself sold to a car manufacturer: it does indeed consider the fuel use of the car.
+  * Conversely, "at the end of the chain", it is not required to include public infrastructure, and other collective goods or services (ports, roads, public services, etc.) even if the organisation obviously depends on them. This dependence may feature in the [risk and opportunities analysis](../../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md).
 
-#### Exemples et comparaisons sur l'utilisation en responsabilité et en dépendance :
+#### Examples and comparisons on responsibility-based and dependence-based use:
 
-Quelques exemples non exhaustifs sont proposés ici pour permettre aux organisations de s'approprier ces concepts. Pour rappel, et en résumé :&#x20;
+A few non-exhaustive examples are proposed here to enable organisations to grasp these concepts. As a reminder, and in summary:
 
-* -> **en responsabilité** : c'est le produit (bien ou service) en lui-même qui consomme ou émet lors de sa phase utilisation.&#x20;
-* -> **en dépendance** : l'utilisation du produit (bien ou service) est **conditionnée à** une consommation ou émission.
+* -> **responsibility-based**: it is the product (good or service) itself that consumes or emits during its use phase.
+* -> **dependence-based**: the use of the product (good or service) is **conditioned by** a consumption or emission.
 
-| Exemples                                                                                                     | Utilisation en responsabilité                                                 | Utilisation en dépendance                                                         |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Une entreprise fournit des plateaux repas à des compagnies aériennes                                         | Utilisation (consommation) d'énergie pour la chaîne du froid puis la cuisson. | Utilisation (consommation) de carburant de l'avion complet                        |
-| Une entreprise effectue des traitements chimiques de surfaces sur certaines pièces d'un moteur d'une voiture | /                                                                             | Utilisation (consommation) du carburant par les véhicules équipés de ces pièces   |
-| Une entreprise qui fabrique des voitures                                                                     | Utilisation (consommation) de carburant des véhicules                         | /                                                                                 |
-| Une entreprise fait des études de dimensionnement de fondation (pour des pylônes de remontées mécaniques)    | Utilisation (consommation) de matière pour la fabrication de la fondation     | Utilisation (consommation) d'énergie pour faire fonctionner la remontée mécanique |
-| Une entreprise qui fabrique des porte-conteneurs                                                             | Utilisation (consommation) de carburant du porte-conteneur                    | /                                                                                 |
-| Une entreprise de porte-conteneurs (qui transporte des conteneurs)                                           | /                                                                             | Intensité carbone des produits transportés                                        |
-| Une entreprise qui fabrique des phares de voiture                                                            | Utilisation (consommation) d'énergie par les phares pour éclairer             | Utilisation (consommation) du carburant par les véhicules équipés de ces phares   |
-| Une entreprise qui commercialise des panneaux publicitaires                                                  | Utilisation (consommation) d'énergie des panneaux (rétroéclairé par exemple)  | Intensité carbone des produits dont la publicité fait la promotion                |
-| Une entreprise qui installe des bornes de recharges de véhicules électriques                                 | Utilisation (consommation) d'énergie des recharges                            | /                                                                                 |
+| Examples                                                                                                             | Responsibility-based use                                                       | Dependence-based use                                                                  |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| A company provides meal trays to airline companies                                                                   | Use (consumption) of energy for the cold chain then cooking.                   | Use (consumption) of fuel for the complete aircraft                                   |
+| A company carries out chemical surface treatments on certain parts of a car engine                                   | /                                                                              | Use (consumption) of fuel by vehicles equipped with these parts                       |
+| A company that manufactures cars                                                                                     | Use (consumption) of fuel by vehicles                                          | /                                                                                     |
+| A company carries out foundation sizing studies (for ski lift pylons)                                                | Use (consumption) of material for the manufacture of the foundation            | Use (consumption) of energy to operate the ski lift                                   |
+| A company that manufactures container ships                                                                          | Use (consumption) of fuel by the container ship                                | /                                                                                     |
+| A container ship company (that transports containers)                                                                | /                                                                              | Carbon intensity of the transported products                                          |
+| A company that manufactures car headlights                                                                           | Use (consumption) of energy by headlights for lighting                         | Use (consumption) of fuel by vehicles equipped with these headlights                  |
+| A company that markets advertising billboards                                                                        | Use (consumption) of energy by billboards (backlit for example)                | Carbon intensity of products being advertised                                         |
+| A company that installs electric vehicle charging stations                                                           | Use (consumption) of energy for charging                                       | /                                                                                     |
 
-Ce tableau ne fait pas office de règle générale, et les raisonnements logiques sont à effectuer au cas par cas, en suivant les recommandations de [guides pratiques](../bibliographie/#guides-pratiques-de-comptabilisation).
+This table does not constitute a general rule, and logical reasoning is to be applied on a case-by-case basis, following the recommendations of [practical guides](../bibliographie/#guides-pratiques-de-comptabilisation).
 
-### Zoom sur l'utilisation des investissements financiers réalisés
+### Focus on the use of financial investments made
 
-Ce sous-poste couvre les investissements financiers et prises de participation. Il ne désigne pas les achats de l'organisation ([biens](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres) ou [services](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-services)). L'organisation comptabilise ce sous-poste en fonction du Bilan Carbone® des organisations ou projets soutenus, ou du choix des secteurs économiques d’exploitation des actifs.
+This sub-category covers financial investments and equity stakes. It does not designate the organisation's purchases ([goods](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) or [services](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-services)). The organisation accounts for this sub-category based on the Bilan Carbone® of the supported organisations or projects, or the choice of economic sectors in which assets are deployed.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront plus en détail sur les émissions liées aux investissements financiers réalisés.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the emissions linked to financial investments made.</mark>
 
-## Autres principes de comptabilisation concernant plusieurs postes
+## Other Accounting Principles Concerning Multiple Categories
 
-### Propriétaire ou locataire
+### Owner or tenant
 
-Dans un Bilan Carbone®, les émissions sont à prendre en compte même si l'organisation n'est que locataire des locaux ou des véhicules. Conformément au contrôle opérationnel, c'est la notion d'exploitation et d'utilisation qui est à retenir.
+In a Bilan Carbone®, emissions are to be taken into account even if the organisation is only a tenant of premises or vehicles. In accordance with operational control, it is the notion of operation and use that must be retained.
 
-Dans les outils, il peut être pertinent de différencier ces 2 usages : soit pour mieux piloter ses actions (les actions à entreprendre peuvent être différentes selon le caractère locatif ou de propriété), soit parce que cela engendre des différences dans les exports (BEGES-R).
+In tools, it may be relevant to differentiate these 2 uses: either to better steer actions (the actions to be taken may differ depending on whether the situation is rental or ownership), or because this leads to differences in exports (BEGES-R).
 
 ### Inflation
 
-Dans le cas où l'organisation utiliserai des ratios monétaires, celle-ci peut corriger ces ratios monétaires en fonction de l'inflation qui s'applique à ses achats ou location de biens et de services.&#x20;
+If the organisation uses monetary ratios, it may correct these monetary ratios based on the inflation that applies to its purchases or rental of goods and services.
 
-Si l'organisation est en mesure de calculer le taux d'inflation spécifique subit par le produit ou service concerné entre la date de création du FE et la date de réalisation du bilan, celle-ci doit utiliser ce taux d'inflation calculé. Par exemple, une organisation qui aurait recours au même prestataire pour ses campagnes publicitaires tous les ans, et qui observerait une inflation de 10% sur les tarifs de ce prestataire (à prestation égale) entre l'année de création du FE et l'année en cours devrait corriger le FE de ces 10% d'inflation.
+If the organisation is able to calculate the specific inflation rate undergone by the product or service concerned between the date of creation of the EF and the date of carrying out the assessment, it must use this calculated inflation rate. For example, an organisation that uses the same service provider for its advertising campaigns every year, and that observes an inflation of 10% on the rates of this service provider (for the same service) between the year of creation of the EF and the current year should correct the EF by these 10% of inflation.
 
-Si l'organisation n'est pas en mesure de calculer ce taux d'inflation spécifique, celle-ci peut se baser sur les mesures d'inflation des différents pays concernés, de préférence par secteurs.&#x20;
+If the organisation is not able to calculate this specific inflation rate, it may base itself on inflation measurements in the various countries concerned, preferably by sector.
 
-### Numérique
+### Digital
 
-L'impact carbone du numérique au sein du Bilan Carbone® nécessite l'agrégation de plusieurs sous-postes s'il doit être traité d'un seul tenant par l'organisation :
+The carbon impact of digital technology within the Bilan Carbone® requires the aggregation of several sub-categories if it is to be treated as a single block by the organisation:
 
-* Les « **équipements numériques** » [possédés ou loués](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#proprietaire-ou-locataire) sont des biens matériels, ils sont donc comptabilisés soit dans les [Intrants biens et matières](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres) s'il s'agit de consommables (périphériques, etc.), soit dans les [Immobilisations](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) s'il s'agit de biens immobilisés (ordinateurs, imprimantes, etc.)
-* Les « **usages numériques** » de l'organisation :&#x20;
-  * S'ils impliquent un impact indirect (serveurs externes, traitement et stockage de données, transport des données sur les réseaux, etc.), ils sont comptabilisés dans les [Intrants services](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-services) dans le sous poste Usages numériques.
-  * En revanche, s'ils impliquent une consommation énergétique directe par l'organisation (par exemple la consommation électrique d'un ordinateur), ils sont a priori déjà comptabilisés dans le poste [Energie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energie), et ne doivent pas faire l'objet d'un double compte.
-* Les « usages numériques » externes, induits par les activités de l'organisation (par exemple la consultation sur les terminaux des usages externes, bénéficiaires ou clients), sont comptabilisés dans le poste [Utilisation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#utilisation-and-dependance), comme les autres produits et services fournis par l'organisation.
+* "**Digital equipment**" [owned or rented](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#owner-or-tenant) consists of material goods, they are therefore accounted for either in [Inputs: goods and materials](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) if they are consumables (peripherals, etc.), or in [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) if they are capitalised goods (computers, printers, etc.)
+* The organisation's "**digital uses**":
+  * If they involve an indirect impact (external servers, data processing and storage, data transport over networks, etc.), they are accounted for in [Inputs: services](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-services) in the Digital Uses sub-category.
+  * On the other hand, if they involve a direct energy consumption by the organisation (for example the electrical consumption of a computer), they are a priori already accounted for in the [Energy](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energy) category, and must not be subject to double counting.
+* External "digital uses" induced by the organisation's activities (for example the consultation on terminals by external users, beneficiaries or customers), are accounted for in the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) category, like other products and services provided by the organisation.
 
-### Futurs emballages
+### Future packaging
 
-L'agrégation des deux sous-postes permet de traiter d’un seul tenant les émissions de fabrication et de fin de vie des emballages :
+The aggregation of the two sub-categories makes it possible to deal with the emissions of manufacture and end of life of packaging as a single block:
 
-* Matière destinée aux emballages, compris dans le poste [Intrants biens et matières](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres)
-* Traitement des emballages en fin de vie, compris dans le poste [Fin de vie](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fin-de-vie)
+* Material intended for packaging, included in the [Inputs: goods and materials](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) category
+* Packaging treatment at end of life, included in the [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) category
 
-Parmi les raisons pour lesquelles une information spécifique sur les emballages est nécessaire, en les individualisant au sein de l’ensemble des matériaux entrants :&#x20;
+Among the reasons why specific information on packaging is necessary, by individualising them within all incoming materials:
 
-* Un emballage n’obéit pas au même cahier des charges que le produit, et pour un même produit, l’emballage peut fortement dépendre des modalités du transport à suivre&#x20;
-* Le client (ou bénéficiaire) du produit ou service ne demande en général pas la même chose aux emballages qu’au produit&#x20;
-* Les emballages sont une responsabilité opérationnelle distincte de celle du produit, qui génère des informations spécifiques
-* Les contraintes marketing et commerciales pour l’emballage et le produit ne sont pas identiques&#x20;
-* Le devenir des emballages jetés est possible à appréhender par voie statistique (car ils seront jetés un peu partout), de telle sorte qu’il est possible de leur affecter des facteurs d’émission moyens pour leur fin de vie
+* A package does not follow the same specifications as the product, and for the same product, the packaging may depend greatly on the transport arrangements to follow
+* The customer (or beneficiary) of the product or service generally does not require the same things from packaging as from the product
+* Packaging is an operational responsibility distinct from that of the product, which generates specific information
+* The marketing and commercial constraints for packaging and the product are not identical
+* The fate of discarded packaging can be understood statistically (as they will be discarded everywhere), so that average emission factors can be assigned to them for their end of life
 
-### Emissions évitées et séquestrées
+### Avoided and sequestered emissions
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] La méthodologie Bilan Carbone® ne traite pas des</mark> [<mark style="background-color:blue;">émissions évitées ou des des émissions séquestrées</mark>](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)<mark style="background-color:blue;">. Il est recommandé de s'appuyer sur le</mark> [<mark style="background-color:blue;">guide de calcul des émissions évitées</mark>](../bibliographie/#net-zero-initiative-guide-pilier-b) <mark style="background-color:blue;">(pilier B) et sur le</mark> [<mark style="background-color:blue;">guide de construction d'une stratégie de séquestration carbone</mark>](../bibliographie/#net-zero-initiative-guide-pilier-b) <mark style="background-color:blue;">(pilier C). Une prochaine mise à jour de la méthode Bilan Carbone® donnera des guidelines sur la quantification des émissions évitées.</mark>
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The Bilan Carbone® methodology does not address</mark> [<mark style="background-color:blue;">avoided or sequestered emissions</mark>](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)<mark style="background-color:blue;">. It is recommended to rely on the</mark> [<mark style="background-color:blue;">avoided emissions calculation guide</mark>](../bibliographie/#net-zero-initiative-guide-pilier-b) <mark style="background-color:blue;">(pillar B) and on the</mark> [<mark style="background-color:blue;">carbon sequestration strategy building guide</mark>](../bibliographie/#net-zero-initiative-guide-pilier-b) <mark style="background-color:blue;">(pillar C). A future update of the Bilan Carbone® method will provide guidelines on the quantification of avoided emissions.</mark>
 
 

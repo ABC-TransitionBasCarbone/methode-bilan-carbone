@@ -1,152 +1,151 @@
 ---
 description: >-
-  Introduction au déroulement de l'étape 3 : définitions, gouvernance, exigences
-  et livrables.
+  Introduction to step 3: definitions, governance, requirements
+  and deliverables.
 ---
 
-# 3 - Introduction à la mobilisation
+# 3 - Introduction to Stakeholder Engagement
 
-<figure><img src="../.gitbook/assets/9273.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/9273.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-La vision du Bilan Carbone® n'est pas uniquement centrée sur la comptabilité carbone et la définition d'un plan de transition. C'est une démarche dans laquelle les phases de mobilisation sont fondamentales et ambitieuses. Afin de faciliter le passage à l’action, la démarche Bilan Carbone® requiert une **mobilisation** autour du projet Bilan Carbone® et du plan de transition qui sera déployé.&#x20;
+The Bilan Carbone® vision is not solely focused on carbon accounting and the definition of a transition plan. It is an approach in which the engagement phases are fundamental and ambitious. In order to facilitate the move to action, the Bilan Carbone® approach requires **engagement** around the Bilan Carbone® project and the transition plan that will be deployed.
 
-La mobilisation **se poursuit en continu** durant toute la démarche Bilan Carbone®. Le timing de chacune des phases de mobilisation est ici donné à titre **indicatif :** l'important est que les bons messages soient transmis aux bonnes cibles.
+Engagement **continues uninterrupted** throughout the entire Bilan Carbone® approach. The timing of each engagement phase is provided here as a **guide**: what matters is that the right messages are delivered to the right audiences.
 
-Pour aboutir à une mobilisation, la démarche Bilan Carbone® implique plusieurs **phases** : **vulgariser** les enjeux pour sensibiliser, **responsabiliser** les parties prenantes, **coconstruire** les actions, puis **restituer** et communiquer les résultats. Ces différentes phases de mobilisation sont à **adapter** aux différents [niveaux de maturité](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)**, étapes, parties prenantes et profils d'organisation :**&#x20;
+To achieve engagement, the Bilan Carbone® approach involves several **phases**: **popularising** the issues to raise awareness, **empowering** stakeholders, **co-constructing** actions, then **presenting** and communicating results. These different engagement phases must be **adapted** to the different [maturity levels](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)**, steps, stakeholders and organisational profiles:**
 
-* Étape [3.1.1](3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r.md) : Au lancement et cadrage du Bilan Carbone®
-* Étape [3.1.2](3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md) : Au lancement de la collecte des données
-* Étape [3.1.3](3.1-programmer-les-phases-de-mobilisation/3.1.3-a-lissue-de-la-construction-du-profil-ges.md) : Pour la construction du profil GES
-* Étape [3.1.4](3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md) : Pour la construction du plan de transition
-* Étape [3.1.5](3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md) : En synthèse de la démarche
+* Step [3.1.1](3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r.md): At the launch and scoping of the Bilan Carbone®
+* Step [3.1.2](3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md): At the launch of data collection
+* Step [3.1.3](3.1-programmer-les-phases-de-mobilisation/3.1.3-a-lissue-de-la-construction-du-profil-ges.md): Upon completion of the GHG emission profile
+* Step [3.1.4](3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md): For the construction of the transition plan
+* Step [3.1.5](3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md): In summary of the approach
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Mobilisation dans la démarche.png" alt=""><figcaption><p>Figure 3 : Chronologie des actions de mobilisation</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Mobilisation dans la démarche.png" alt=""><figcaption><p>Figure 3: Timeline of engagement actions</p></figcaption></figure></div>
 
 <mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Stakeholder-engagement-i_La-mobilisation-dans-la-demarche-Bilan-Carbone-scaled.png) _<mark style="color:$info;">of this image.</mark>_
 
-## Glossaire relatif aux étapes de Mobilisation
+## Glossary relating to the Engagement steps
 
-L'ensemble des termes relatif aux étapes de mobilisation sont explicités dans le [glossaire](../annexes/glossaire.md). Il font l'objet d'un rappel ci-dessous :
+All terms relating to the engagement steps are explained in the [glossary](../annexes/glossaire.md). They are recalled below:
 
-* **Action de mobilisation** : c'est l'association d'une phase de mobilisation (sensibilisation, responsabilisation, coconstruction, ou restitution), lors d'une étape, auprès d'une ou plusieurs cibles, avec une adaptation plus ou moins spécifique des messages en fonction du profil d'organisation.
+* **Engagement action**: this is the combination of an engagement phase (awareness, empowerment, co-construction, or presentation), at a given step, targeting one or more audiences, with a more or less specific adaptation of messages according to the organisational profile.
 
-**Présentation des différentes phases de mobilisation :**&#x20;
+**Overview of the different engagement phases:**
 
-*   **Sensibilisation et vulgarisation** :brain: : L’enjeu principal de la sensibilisation et de la vulgarisation des enjeux est de _comprendre pour agir_ : renforcer la compréhension d'informations essentielles autour des enjeux énergie climat,  et fédérer autour de la démarche pour garantir une meilleure intégration du [plan de transition](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition).
+*   **Awareness and popularisation** :brain:: The main objective of awareness and popularisation of the issues is to _understand in order to act_: reinforcing understanding of essential information around energy-climate issues, and bringing people together around the approach to ensure better integration of the [transition plan](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition).
 
-    _Objectif_ : Créer le terreau nécessaire à la bonne compréhension des enjeux, à l'acceptation du changement et des futures actions à engager, et permettre à l'organisation d'identifier les risques et opportunités associées à la transition écologique.
+    _Objective_: Create the necessary foundation for a good understanding of the issues, acceptance of change and future actions to be undertaken, and enable the organisation to identify the risks and opportunities associated with ecological transition.
 
-    _Indicateur_ : Niveau de connaissance et de compréhension des enjeux.
-
-
-*   **Responsabilisation** :person\_raising\_hand:**:** L'enjeu principal de la responsabilisation est de donner à chacun un rôle dans la démarche. Aux parties prenantes de prendre conscience que chaque degré compte, que chaque action compte et donc que chaque collaborateur compte dans la mise en œuvre de ces actions.  A l'organisation de prendre conscience qu'il est question de pérennité. De nouvelles responsabilités vont émerger de la démarche et permettront de valoriser les postes existants en prenant en considération une composante essentielle liée à la durabilité de l'activité.
-
-    _Objectif_ : Impliquer et donner les moyens à chaque partie prenante de se mettre en mouvement et de passer à l'action.
-
-    _Indicateur_ : Niveau de participation à la démarche et niveau de passage à l'action.
+    _Indicator_: Level of knowledge and understanding of the issues.
 
 
-*   **Coconstruction** :thought\_balloon:**:** L'enjeu principal de la coconstruction est de valoriser les initiatives, le partage, et la concertation. La coconstruction est centrale, et est donc très liée aux autres types de mobilisation : les parties prenantes concertées doivent avoir un niveau d'information suffisant sur la démarche, ce qui requiert en amont une :brain:sensibilisation et une vulgarisation efficace, ainsi qu'une :loudspeaker: restitution et une communication transparentes. La coconstruction donne la parole, fait participer, ce qui permet de :person\_raising\_hand:responsabiliser. Elle permet d'identifier les axes de réduction carbone que l'organisation et ses parties prenantes peuvent envisager, fort de leurs connaissances (du process, du produit, de l'organisation).
+*   **Empowerment** :person\_raising\_hand:: The main objective of empowerment is to give everyone a role in the approach. Stakeholders must become aware that every degree counts, that every action counts, and therefore that every employee counts in the implementation of these actions. The organisation must become aware that this is a matter of sustainability. New responsibilities will emerge from the approach and will add value to existing positions by taking into account an essential component linked to the durability of the activity.
 
-    _Objectif_ : Confronter le choix des actions aux réelles possibilités et aux éventuelles alternatives, pour aboutir à un plan de transition perçu comme un projet commun à l'organisation et à ses parties prenantes.
+    _Objective_: Involve and empower each stakeholder to get moving and take action.
 
-    _Indicateur_ : Niveau de participation à la co-construction du plan de transition.
-
-
-*   **Restitution et communication** :loudspeaker: **:** L'enjeu principal des restitutions et des communications est de permettre l'appropriation des résultats et des actions auprès des différentes parties prenantes concernées. Faire le lien entre les enjeux globaux, les enjeux locaux, les impacts de l'organisation, le rôle des parties prenantes dans ces impacts, les actions qui en découlent, et le rôle des parties prenantes dans la réussite de ces actions.
-
-    _Objectif_ : Faire de cette démarche une initiative qui dépasse la sphère de l'équipe projet pour toucher les autres parties prenantes concernées (en premier lieu les collaborateurs internes) par la mise en œuvre des actions, dans une logique de transversalité, d'ensemblier, de réputation et d'exemplarité.
-
-    _Indicateur_ : Niveau de connaissance et de compréhension des résultats (impacts et actions)
-
-**Présentation des différentes adaptations :**
-
-* **Etapes de la démarche** :calendar\_spiral: **:** La mobilisation **se poursuit en continu** durant toute la démarche Bilan Carbone® et s'adapte aux différentes étapes :
-  * Au lancement et cadrage ([étape 1](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/1-cadrage-de-la-demarche)) : [sensibilisation et vulgarisation](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
-  * Pour l'identification des sources d'émissions et données à collecter ([étape 2](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/2-perimetre-de-la-demarche)) : [responsabilisation](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation) des détenteurs d'informations & données
-  * Pour la comptabilisation des émissions ([étape 4](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/4-comptabilisation)) : [restitution](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation) intermédiaire
-  * Pour les réflexions autour du plan de transition ([étape 5](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition)) : [coconstruction](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation) des actions
-  *   Pour la finalisation de la démarche ([étape 6](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/6-synthese-et-restitution)) : [responsabilisation](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation), [restitution et communication](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
+    _Indicator_: Level of participation in the approach and level of transition to action.
 
 
-* **Cibles et parties prenantes** :busts\_in\_silhouette:**:** Les parties prenantes qui gravitent autour de l'organisation peuvent se répartir de la manière suivante. Elles seront sollicitées sur des phases distinctes de la mobilisation.
-  * Equipe projet, porteurs internes
-  * Direction
-  * Autres collaborateurs internes (employés, salariés, bénévoles)
-  * Parties prenantes externes amont (fournisseurs)
-  * Parties prenantes externes aval (clients)
-  *   Autres parties prenantes externes (partenaires financiers et techniques, acteurs locaux, fédérations professionnelles, ou autres partenaires sur des sujets stratégiques pour l'organisation comme l'éducation, l'innovation, le développement).
+*   **Co-construction** :thought\_balloon:: The main objective of co-construction is to value initiatives, sharing, and consultation. Co-construction is central, and is therefore closely linked to the other types of engagement: stakeholders being consulted must have a sufficient level of information about the approach, which requires prior effective :brain: awareness and popularisation, as well as transparent :loudspeaker: presentation and communication. Co-construction gives a voice, enables participation, which allows for :person\_raising\_hand: empowerment. It enables identification of the carbon reduction avenues that the organisation and its stakeholders can consider, drawing on their knowledge (of processes, products, the organisation).
+
+    _Objective_: Test the choice of actions against real possibilities and possible alternatives, to arrive at a transition plan perceived as a shared project between the organisation and its stakeholders.
+
+    _Indicator_: Level of participation in the co-construction of the transition plan.
 
 
-*   **Profil d'organisation** :bar\_chart: **:** Les différents profils d'organisation sont à prendre en compte pour adapter les messages transmis. Elles peuvent se répartir par secteur & métiers, ou bien a minima entre : &#x20;
+*   **Presentation and communication** :loudspeaker:: The main objective of presentations and communications is to enable the appropriation of results and actions by the various stakeholders concerned. Making the link between global issues, local issues, the organisation's impacts, the role of stakeholders in these impacts, the resulting actions, and the role of stakeholders in the success of these actions.
 
-    * Profil ou secteur « moins émetteur ou qui décarbone »
-    * Profil ou secteur « très émetteur »
-    * Profil ou secteur « à risques »
+    _Objective_: Make this approach an initiative that goes beyond the project team sphere to reach other relevant stakeholders (primarily internal employees) involved in the implementation of actions, in a logic of cross-functionality, integration, reputation and exemplarity.
 
-    Cette classification reste subjective, mais elle peut s'appuyer sur le [référentiel ](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/classification-des-profils-dorganisations.md)proposé en annexe. Faire partie d'un secteur **moins émetteur** ne signifie pas que l'organisation est réellement peu émettrice. Cette classification doit être analysée au regard de l'activité réelle de l'organisation. Pour les niveaux de maturité Initial et Standard, les messages sont plutôt universels. L'adaptation du message est de plus en plus spécifique et ambitieuse au fur et à mesure du gain en maturité de l'organisation. Un zoom spécifique est nécessaire à partir du niveau Avancé, comme présenté dans les sections suivantes et en [annexe](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/classification-des-profils-dorganisations.md).
+    _Indicator_: Level of knowledge and understanding of results (impacts and actions)
 
-## Gouvernance relative aux étapes de Mobilisation
+**Overview of the different adaptations:**
 
-La gouvernance de l'étape de Mobilisation s'inscrit dans la [gouvernance globale](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) de la démarche Bilan Carbone® présentée précédemment. C'est le coordinateur ou la coordinatrice qui pilote les différentes phases de mobilisation.
+* **Steps of the approach** :calendar\_spiral:: Engagement **continues uninterrupted** throughout the entire Bilan Carbone® approach and adapts to the different steps:
+  * At launch and scoping ([step 1](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/1-cadrage-de-la-demarche)): [awareness and popularisation](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
+  * For the identification of emission sources and data to collect ([step 2](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/2-perimetre-de-la-demarche)): [empowerment](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation) of information & data holders
+  * For GHG emissions accounting ([step 4](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/4-comptabilisation)): intermediate [presentation](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
+  * For reflections on the transition plan ([step 5](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition)): [co-construction](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation) of actions
+  *   For the finalisation of the approach ([step 6](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/6-synthese-et-restitution)): [empowerment](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation), [presentation and communication](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
 
-Les intervenants ou animateurs peuvent être externes ou internes en fonction des compétences recherchées. Pour massifier les phases de mobilisation, il est conseillé de former une équipe d'animateurs internes. L'association de certaines équipes ou services seront indispensables à la bonne conduite des étapes de mobilisation, en particulier la direction et la communication.
 
-## Exigences relatives aux étapes de Mobilisation
+* **Targets and stakeholders** :busts\_in\_silhouette:: The stakeholders surrounding the organisation can be distributed as follows. They will be engaged at distinct phases of the engagement process.
+  * Project team, internal champions
+  * Management
+  * Other internal collaborators (employees, staff, volunteers)
+  * External upstream stakeholders (suppliers)
+  * External downstream stakeholders (clients)
+  *   Other external stakeholders (financial and technical partners, local actors, professional federations, or other partners on strategic topics for the organisation such as education, innovation, development).
 
-Pour **rappel**, voici le [résumé des exigences](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#comparatif-des-criteres-des-niveaux-de-maturite-pour-lamelioration-continue-du-bilan-carbone-r) et recommandations, pour chacun des niveaux de maturités. Les contenus de mobilisation doivent tenir compte du niveau de maturité de l'organisation. Ils font l'objet d'explications détaillées dans les sous-sections suivantes.
+
+*   **Organisational profile** :bar\_chart:: The different organisational profiles must be taken into account to adapt the messages delivered. They can be broken down by sector & trades, or at minimum between:
+
+    * Profile or sector "lower emitter or decarbonising"
+    * Profile or sector "very high emitter"
+    * Profile or sector "at risk"
+
+    This classification remains subjective, but it can be based on the [reference framework](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/classification-des-profils-dorganisations.md) proposed in the appendix. Being part of a **lower emitter** sector does not mean that the organisation is actually a low emitter. This classification must be analysed in light of the organisation's actual activity. For Initial and Standard maturity levels, messages are generally universal. The adaptation of the message becomes increasingly specific and ambitious as the organisation gains in maturity. A specific focus is necessary from the Advanced level onwards, as presented in the following sections and in the [appendix](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/classification-des-profils-dorganisations.md).
+
+## Governance relating to the Engagement steps
+
+The governance of the Engagement step is part of the [overall governance](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) of the Bilan Carbone® approach presented previously. It is the Coordinator who steers the different engagement phases.
+
+Facilitators or speakers can be external or internal depending on the skills sought. To scale up the engagement phases, it is advisable to train a team of internal facilitators. The involvement of certain teams or departments will be essential to the proper conduct of the engagement steps, in particular management and communications.
+
+## Requirements relating to the Engagement steps
+
+As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#comparatif-des-criteres-des-niveaux-de-maturite-pour-lamelioration-continue-du-bilan-carbone-r) and recommendations, for each maturity level. Engagement content must take into account the organisation's maturity level. They are explained in detail in the following sub-sections.
 
 {% tabs %}
-{% tab title="Niveau Initial" %}
-#### Mobilisation :
+{% tab title="Initial Level" %}
+#### Engagement:
 
-* H : Cibles de la mobilisation&#x20;
-  * H1 : La mobilisation cible au moins les parties prenantes internes de l'organisation, c'est-à-dire l'équipe projet, les collaborateurs et la direction.
-* I : Messages de la mobilisation
-  * I1 : Les phases de mobilisation suivantes : sensibilisation et vulgarisation, responsabilisation, restitution et communication, interviennent au moins une fois dans la démarche.
-* J : Étapes de mobilisation
-  * J1 : Au moins une action de mobilisation intervient lors des étapes de lancement de la démarche, de restitution intermédiaire et de synthèse de la démarche.
+* H: Engagement targets
+  * H1: Engagement targets at least the organisation's internal stakeholders, i.e. the project team, employees and management.
+* I: Engagement messages
+  * I1: The following engagement phases: awareness and popularisation, empowerment, presentation and communication, occur at least once in the approach.
+* J: Engagement steps
+  * J1: At least one engagement action takes place at the launch of the approach, at the intermediate presentation and at the summary of the approach.
 {% endtab %}
 
-{% tab title="Niveau Standard" %}
-#### Mobilisation&#x20;
+{% tab title="Standard Level" %}
+#### Engagement
 
-* H : Cibles de la mobilisation&#x20;
-  * H2 : La mobilisation cible des parties prenantes internes (équipe projet, collaborateurs et direction). Elle est étendue à au moins une des parties prenantes externes (clients ou fournisseurs), selon leur impact dans le Bilan Carbone®.
-* I : Messages de la mobilisation
-  * I2 : Chaque phase de mobilisation (sensibilisation et vulgarisation, responsabilisation, coconstruction, restitution et communication) intervient au moins une fois dans la démarche, avec un travail d'adaptation en fonction des étapes et des cibles.
-* J : Étapes de mobilisation
-  * J2 : Au moins une action de mobilisation intervient à chacune des étapes de la démarche Bilan Carbone® : lancement de la démarche, lancement de la collecte, restitution intermédiaire, construction du plan de transition et synthèse de la démarche.
+* H: Engagement targets
+  * H2: Engagement targets internal stakeholders (project team, employees and management). It is extended to at least one of the external stakeholders (clients or suppliers), according to their impact in the Bilan Carbone®.
+* I: Engagement messages
+  * I2: Each engagement phase (awareness and popularisation, empowerment, co-construction, presentation and communication) occurs at least once in the approach, with adaptation work depending on the steps and targets.
+* J: Engagement steps
+  * J2: At least one engagement action takes place at each step of the Bilan Carbone® approach: launch of the approach, launch of data collection, intermediate presentation, construction of the transition plan and summary of the approach.
 {% endtab %}
 
-{% tab title="Niveau Avancé" %}
-#### Mobilisation :&#x20;
+{% tab title="Advanced Level" %}
+#### Engagement:
 
-* H : Cibles de la mobilisation&#x20;
-  * H3 : La mobilisation cible des parties prenantes internes (équipe projet, collaborateurs et direction). Elle cible également au moins une des parties prenantes externes amont (fournisseurs) et au moins une des parties prenantes externes aval (clients), selon leur impact dans le Bilan Carbone®.
-* I : Messages de la mobilisation
-  * I3 : Chaque phase de mobilisation (sensibilisation et vulgarisation, responsabilisation, coconstruction, restitution et communication) intervient au moins une fois dans la démarche,  avec un travail d'adaptation en fonction des étapes, des cibles, et du profil de l'organisation.
-* J : Étapes de mobilisation
-  * J3 : Au moins une action de mobilisation intervient à chacune des étapes de la démarche Bilan Carbone® : lancement de la démarche, lancement de la collecte, restitution intermédiaire, construction du plan de transition et synthèse de la démarche.
+* H: Engagement targets
+  * H3: Engagement targets internal stakeholders (project team, employees and management). It also targets at least one upstream external stakeholder (suppliers) and at least one downstream external stakeholder (clients), according to their impact in the Bilan Carbone®.
+* I: Engagement messages
+  * I3: Each engagement phase (awareness and popularisation, empowerment, co-construction, presentation and communication) occurs at least once in the approach, with adaptation work depending on the steps, targets, and organisational profile.
+* J: Engagement steps
+  * J3: At least one engagement action takes place at each step of the Bilan Carbone® approach: launch of the approach, launch of data collection, intermediate presentation, construction of the transition plan and summary of the approach.
 {% endtab %}
 {% endtabs %}
 
 
 
-## Livrables relatifs aux étapes de Mobilisation
+## Deliverables relating to the Engagement steps
 
-Les informations et livrables obtenus à l'issu de l'étape 3, et associés aux exigences ci-dessus, sont à [restituer](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) en fin de démarche :&#x20;
+The information and deliverables obtained at the end of step 3, and associated with the above requirements, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:
 
-* [x] Une synthèses des différentes phases de mobilisation ayant été mis en place : leurs cibles, les messages passés, leur forme, l'étape de la démarche associée.
+* [x] A summary of the different engagement phases that were implemented: their targets, the messages delivered, their format, the associated step of the approach.
 
-Par exemple : une ligne par action de mobilisation. Des informations complémentaires sont intéressantes (format, date, participation, etc.) :
+For example: one row per engagement action. Additional information is useful (format, date, participation, etc.):
 
-<table data-full-width="true"><thead><tr><th width="215">Action de Mobilisation</th><th width="231">Cibles<select multiple><option value="BFrVMg3du4Zx" label="Equipe projet" color="blue"></option><option value="nK9xaJXmdru8" label="Direction" color="blue"></option><option value="Qo1i6cKqXeae" label="Autres collaborateurs internes" color="blue"></option><option value="kPIrVsp4HEV1" label="Parties prenantes externes amont" color="blue"></option><option value="9iVJigfqS5Jp" label="Parties prenantes externes aval" color="blue"></option><option value="I3feAVYmdmky" label="Autres parties prenantes externes" color="blue"></option></select></th><th width="265">Étapes<select><option value="pIOMiNp31Zf6" label="Au lancement et cadrage du Bilan Carbone®" color="blue"></option><option value="NeYJHfFhUtG4" label="Au lancement de la collecte des données" color="blue"></option><option value="BbmKfsx4yMAz" label="Pour la construction du profil GES" color="blue"></option><option value="3oRPIg4yAB1B" label="Pour la construction du plan de transition" color="blue"></option><option value="cAkIQHezo1sw" label="En synthèse de la démarche" color="blue"></option></select></th><th>Phase de Mobilisation<select><option value="zIWzZ5K5POeL" label="Restitution et communication" color="blue"></option><option value="tXHZ8k1sbnGl" label="Sensibilisation et vulgarisation" color="blue"></option><option value="IOBgCGSTvD7D" label="Coconstruction" color="blue"></option><option value="GJHNB7pSWFzK" label="Responsabilisation" color="blue"></option></select></th></tr></thead><tbody><tr><td><p>Action n°1. </p><p>Date - Format -Participation</p></td><td><span data-option="BFrVMg3du4Zx">Equipe projet, </span><span data-option="nK9xaJXmdru8">Direction, </span><span data-option="Qo1i6cKqXeae">Autres collaborateurs internes, </span><span data-option="kPIrVsp4HEV1">Parties prenantes externes amont</span></td><td><span data-option="cAkIQHezo1sw">En synthèse de la démarche</span></td><td><span data-option="zIWzZ5K5POeL">Restitution et communication</span></td></tr><tr><td>Action n°2<br>Date - Format -Participation</td><td><span data-option="nK9xaJXmdru8">Direction</span></td><td><span data-option="3oRPIg4yAB1B">Pour la construction du plan de transition</span></td><td><span data-option="tXHZ8k1sbnGl">Sensibilisation et vulgarisation</span></td></tr><tr><td>[…]</td><td><span data-option="Qo1i6cKqXeae">Autres collaborateurs internes</span></td><td><span data-option="NeYJHfFhUtG4">Au lancement de la collecte des données</span></td><td><span data-option="GJHNB7pSWFzK">Responsabilisation</span></td></tr></tbody></table>
-
+<table data-full-width="true"><thead><tr><th width="215">Engagement Action</th><th width="231">Targets<select multiple><option value="BFrVMg3du4Zx" label="Project team" color="blue"></option><option value="nK9xaJXmdru8" label="Management" color="blue"></option><option value="Qo1i6cKqXeae" label="Other internal collaborators" color="blue"></option><option value="kPIrVsp4HEV1" label="External upstream stakeholders" color="blue"></option><option value="9iVJigfqS5Jp" label="External downstream stakeholders" color="blue"></option><option value="I3feAVYmdmky" label="Other external stakeholders" color="blue"></option></select></th><th width="265">Steps<select><option value="pIOMiNp31Zf6" label="At the launch and scoping of the Bilan Carbone®" color="blue"></option><option value="NeYJHfFhUtG4" label="At the launch of data collection" color="blue"></option><option value="BbmKfsx4yMAz" label="Upon completion of the GHG emission profile" color="blue"></option><option value="3oRPIg4yAB1B" label="For the construction of the transition plan" color="blue"></option><option value="cAkIQHezo1sw" label="In summary of the approach" color="blue"></option></select></th><th>Engagement Phase<select><option value="zIWzZ5K5POeL" label="Presentation and communication" color="blue"></option><option value="tXHZ8k1sbnGl" label="Awareness and popularisation" color="blue"></option><option value="IOBgCGSTvD7D" label="Co-construction" color="blue"></option><option value="GJHNB7pSWFzK" label="Empowerment" color="blue"></option></select></th></tr></thead><tbody><tr><td><p>Action no. 1.</p><p>Date - Format - Participation</p></td><td><span data-option="BFrVMg3du4Zx">Project team, </span><span data-option="nK9xaJXmdru8">Management, </span><span data-option="Qo1i6cKqXeae">Other internal collaborators, </span><span data-option="kPIrVsp4HEV1">External upstream stakeholders</span></td><td><span data-option="cAkIQHezo1sw">In summary of the approach</span></td><td><span data-option="zIWzZ5K5POeL">Presentation and communication</span></td></tr><tr><td>Action no. 2<br>Date - Format - Participation</td><td><span data-option="nK9xaJXmdru8">Management</span></td><td><span data-option="3oRPIg4yAB1B">For the construction of the transition plan</span></td><td><span data-option="tXHZ8k1sbnGl">Awareness and popularisation</span></td></tr><tr><td>[…]</td><td><span data-option="Qo1i6cKqXeae">Other internal collaborators</span></td><td><span data-option="NeYJHfFhUtG4">At the launch of data collection</span></td><td><span data-option="GJHNB7pSWFzK">Empowerment</span></td></tr></tbody></table>
 
 
 
 
 ***
 
-_Vous avez une question de compréhension ?_ [_Consultez la FAQ_](../annexes/faq.md)_. La méthode est vivante et donc susceptible d'évoluer (précisions, compléments) : retrouvez le_ [_suivi des modifications ici_](../avant-propos/historique-et-suivi-des-modifications.md)_._
+_Do you have a question? [Consult the FAQ](../annexes/faq.md). The method is a living document and may therefore evolve (clarifications, additions): find the [change history here](../avant-propos/historique-et-suivi-des-modifications.md)._

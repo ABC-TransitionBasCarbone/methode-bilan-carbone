@@ -1,179 +1,175 @@
 ---
-description: Comptabilité Carbone Analytique
+description: Analytical Carbon Accounting
 ---
 
-# Fiche CCA
+# CCA Sheet
 
 {% hint style="success" %}
-**Type** : Guide pratique de comptabilité carbone&#x20;
+**Type**: Practical carbon accounting guide
 
-**Date** : 2024
+**Date**: 2024
 
-**Auteur** : Mobeetip
+**Author**: Mobeetip
 
-**Cible** : Entreprises
+**Target**: Companies
 {% endhint %}
 
-La Comptabilité Carbone Analytique est une méthode de calcul des émissions de Gaz à Effet de Serre (GES) dont dépend l’organisation. La Comptabilité Carbone Analytique est une comptabilité carbone qui produit un Profil GES (et donc des indicateurs sur l’impact et la dépendance de l’organisation aux émissions de GES) selon plusieurs périmètres personnalisables, selon la réalité opérationnelle propre à chaque organisation.
+Analytical Carbon Accounting is a method for calculating the greenhouse gas (GHG) emissions on which the organisation depends. Analytical Carbon Accounting is a carbon accounting method that produces a GHG Profile (and thus indicators on the impact and dependence of the organisation on GHG emissions) according to several customisable boundaries, reflecting the operational reality specific to each organisation.
 
-> :mag\_right: Les références de la méthode Bilan Carbone® à la comptabilité carbone analytique s’appuie sur le [Guide de Comptabilité Carbone Analytique](https://mobeetip.fr/comptabilite-carbone-analytique/), publié à l'initiative de Mobeetip.
+> :mag\_right: References in the Bilan Carbone® method to analytical carbon accounting draw on the [Guide to Analytical Carbon Accounting](https://mobeetip.fr/comptabilite-carbone-analytique/), published on the initiative of Mobeetip.
 
-## **Quels sont les objectifs de la démarche ?**
+## **What are the objectives of the approach?**
 
-La comptabilité carbone analytique permet de :
+Analytical carbon accounting enables:
 
-* construire un Bilan Carbone® à des niveaux hiérarchiques différents, permettant à chaque responsable en capacité de mettre en œuvre des actions de suivre l'impact de ses décisions à travers l'étude des émissions à son niveau. L'idée est donc de découper le profil d’émissions par partie prenante interne (exemple : business unit, équipe, site) pour faciliter les prises de décision ; et par partie prenante externe (exemple : client, fournisseur) pour faciliter la mise en œuvre du plan de transition (ACV, FE spécifique, questionnaire fournisseur, étude aval, etc.).
-* construire le squelette du Bilan Carbone® en fonction du plan comptable de l'organisation, a minima pour chaque périmètre que l’entreprise supervise d’un point de vue financier à des fins d’optimisation de coûts ou de gains. Ainsi l'organisation a les moyens de piloter ses prises de décision via un coût financier et un coût carbone.
+* building a Bilan Carbone® at different hierarchical levels, enabling each manager capable of implementing actions to monitor the impact of their decisions through the study of emissions at their level. The idea is therefore to break down the emission profile by internal stakeholder (e.g. business unit, team, site) to facilitate decision-making; and by external stakeholder (e.g. client, supplier) to facilitate implementation of the transition plan (LCA, specific EF, supplier questionnaire, downstream study, etc.).
+* building the skeleton of the Bilan Carbone® based on the organisation's chart of accounts, at a minimum for each boundary that the company supervises from a financial point of view for the purposes of cost or gain optimisation. The organisation thus has the means to steer its decision-making via a financial cost and a carbon cost.
 
-Ces principes sont compatibles avec les attentes de la méthode Bilan Carbone®. Il est en effet possible d'obtenir un Bilan Carbone® en exprimant les résultats (profil GES et actions) avec une lecture dite « analytique » (selon des axes ou postes analytiques). La comptabilité carbone analytique permet donc d’installer le Bilan Carbone® de l’organisation comme un outil de décision et d'étude d'impact, de risque et d'opportunité face aux enjeux énergie climat
+These principles are compatible with the expectations of the Bilan Carbone® method. It is indeed possible to obtain a Bilan Carbone® by expressing the results (GHG profile and actions) with an "analytical" reading (according to analytical axes or entries). Analytical carbon accounting therefore enables the organisation's Bilan Carbone® to be installed as a decision-making and impact, risk and opportunity study tool in the face of energy-climate challenges.
 
-## Glossaire spécifique
+## Specific glossary
 
-Les termes spécifiques à la comptabilité carbone analytique issus du [glossaire](../glossaire.md) font l'objet d'un rappel ci-dessous :
+The terms specific to analytical carbon accounting from the [glossary](../glossaire.md) are recalled below:
 
 <details>
 
-<summary>Axes analytiques</summary>
+<summary>Analytical axes</summary>
 
-L’axe analytique, en comptabilité, désigne les variables utilisées pour mesurer les différents coûts de production. Il fonctionne comme un marqueur utilisé pour filtrer des écritures similaires et récupérer des groupes à des fins d’analyse. Les axes analytiques sont inhérents à la comptabilité analytique. Ils étayent les décisions stratégiques par un niveau de détail apporté aux données comptables.&#x20;
+The analytical axis, in accounting, designates the variables used to measure the different production costs. It functions as a marker used to filter similar entries and retrieve groups for analysis purposes. Analytical axes are inherent to analytical accounting. They underpin strategic decisions through a level of detail added to accounting data.
 
-Les axes analytiques peuvent être de différentes natures. À l’échelle d’une entreprise ou d’un groupe, un axe analytique permet par exemple de catégoriser les :&#x20;
+Analytical axes can be of different natures. At the scale of a company or group, an analytical axis enables, for example, the categorisation of:
 
-* Les activités de l’entreprise,
-* Les sites physiques,
-* L’organisation juridique (filiales, franchisés)
-* L’organisation humaine (équipes, collaborateurs),
-* Les projets,
-* Les produits ou services,
-* Les fournisseurs,
-* Les clients.
+* The company's activities,
+* Physical sites,
+* Legal organisation (subsidiaries, franchisees)
+* Human organisation (teams, employees),
+* Projects,
+* Products or services,
+* Suppliers,
+* Clients.
 
-Pour chacun de ces axes, des codes analytiques définissent les valeurs possibles.
+For each of these axes, analytical codes define the possible values.
 
-**Les axes analytiques peuvent être utilisés dans le Bilan Carbone® pour la** [**comptabilité carbone analytique**](./#guides-pratiques)_**,**_ pour construire une lecture ou une nomenclature utilisée pour le périmètre opérationnel, pour ventiler les émissions du profil GES, etc. Ils correspondent à la division des émissions par responsables, afin de construire un plan de transition à plusieurs niveaux de responsabilité au sein de l’organisation.
+**Analytical axes can be used in the Bilan Carbone® for** [**analytical carbon accounting**](./#guides-pratiques)_**,**_ to build a reading or nomenclature used for the operational boundary, to allocate emissions from the GHG profile, etc. They correspond to the division of emissions by responsible parties, in order to build a transition plan at several levels of responsibility within the organisation.
 
-Les axes analytiques ne sont pas toujours présents dans la comptabilité d'une organisation (elles n'ont parfois par de plan analytique). Cependant, même sans plan analytique formalisé, l’organisation a parfois une lecture de ses coûts et budgets par axes (fournisseur, client, projet, site, équipe, etc.). Ces axes seront utilisés par la comptabilité carbone analytique car ce sont ceux qui permettent de piloter l'organisation.
+Analytical axes are not always present in an organisation's accounting (they sometimes do not have an analytical plan). However, even without a formalised analytical plan, the organisation sometimes has a reading of its costs and budgets by axes (supplier, client, project, site, team, etc.). These axes will be used by analytical carbon accounting as they are the ones that enable steering of the organisation.
 
 </details>
 
 <details>
 
-<summary>Exports comptables</summary>
+<summary>Accounting exports</summary>
 
-Les plans comptables et analytiques sont stables dans le temps pour une organisation donnée sans modification structurelle majeure.
+Chart of accounts and analytical plans are stable over time for a given organisation without major structural modifications.
 
-A chaque exercice comptable, l’organisation enregistre comptablement l’ensemble des revenus et coûts de son activité dans des écritures comptables (affectation au débit ou au crédit). Cette comptabilisation se fait dans des journaux comptables (ex : journal d’achats, journal de ventes, journal de banques…).
+At each accounting period, the organisation records all the revenues and costs of its activity in accounting entries (debit or credit allocation). This accounting is done in accounting journals (e.g.: purchases journal, sales journal, bank journal...).
 
-Différents formats existent pour exporter cette comptabilisation dans son intégralité :
+Different formats exist to export this accounting in its entirety:
 
-* Le FEC (Fichier des Ecritures Comptables) : fichier normé de la comptabilité, notamment utilisé par l’administration française pour contrôler fiscalement les entreprises. Il retranscrit l’ensemble des écritures comptables mais il n’inclut pas les écritures analytiques.
-* Le grand livre comptable : fichier normé de la comptabilité, sa structure est néanmoins paramétrable dans une certaine mesure pour permettre à l’organisation d’adapter sa comptabilité à ses besoins. Il ne permet pas par contre d’effectuer des analyses sur l’activité de l’organisation car il suit la comptabilité générale, son objectif final étant l’établissement des comptes annuels (bilan, compte de résultat et annexe).
-* Le grand livre analytique : fichier non normé de la comptabilité, qui intègrent néanmoins des champs obligatoires. Il inclut l’ensemble des affectations analytiques et permet une analyse analytique de la comptabilité.
+* The FEC (Fichier des Ecritures Comptables — Accounting Entries File): a standardised accounting file, notably used by the French administration to carry out tax audits of companies. It transcribes all accounting entries but does not include analytical entries.
+* The general ledger: a standardised accounting file, whose structure is nonetheless configurable to a certain extent to enable the organisation to adapt its accounting to its needs. However, it does not enable analyses to be carried out on the organisation's activity as it follows general accounting, its final objective being the preparation of annual accounts (balance sheet, income statement and notes).
+* The analytical ledger: a non-standardised accounting file, which nonetheless includes mandatory fields. It includes all analytical allocations and enables an analytical analysis of the accounting.
 
-Cette définition fait référence au guide de [comptabilité carbone analytique.](./#guides-pratiques)
+This definition refers to the [analytical carbon accounting](./#guides-pratiques) guide.
 
 </details>
 
-## **Quelle(s) est (sont)** la (les) cible(s) de la démarche ? 
+## **What is (are) the target(s) of the approach?**
 
-Pour rappel, la **méthode Bilan Carbone®** **se décline en 3 grands** [**niveaux de maturité**](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md) **(Initial, Standard et Avancé).**
+As a reminder, the **Bilan Carbone® method** **is structured around 3 main** [**maturity levels**](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md) **(Initial, Standard and Advanced).**
 
-La comptabilité carbone analytique est possible pour tous les niveaux de maturité. Les [objectifs de la démarche](fiche-cca.md#quels-sont-les-objectifs-de-la-demarche) feront progresser l'organisation dans son parcours de transition.
+Analytical carbon accounting is possible for all maturity levels. The [objectives of the approach](fiche-cca.md#what-are-the-objectives-of-the-approach) will advance the organisation in its transition journey.
 
-Il est recommandé et **pertinent** pour un [niveau Avancé](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-avance-un-bilan-carbone-r-qui-pilote-une-veritable-strategie-de-transition) de mettre en place une comptabilité carbone analytique pour obtenir des clés de lecture par périmètre de responsabilité, et permettant d’installer le Bilan Carbone® de l’organisation comme un outil de décision.
+It is recommended and **relevant** for an [Advanced level](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-avance-un-bilan-carbone-r-qui-pilote-une-veritable-strategie-de-transition) to implement analytical carbon accounting to obtain reading keys by responsibility boundary, and to enable the organisation's Bilan Carbone® to be installed as a decision-making tool.
 
-## **La démarche s’appuie-t-elle sur une méthodologie spécifique ?**
+## **Does the approach draw on a specific methodology?**
 
 {% hint style="success" %}
-Les principes méthodologiques sont compatibles avec les attentes de la méthode Bilan Carbone®, en s'assurant de suivre des **réflexions complémentaires** à chaque étape de la démarche.
+The methodological principles are compatible with the expectations of the Bilan Carbone® method, by ensuring that **complementary reflections** are followed at each stage of the approach.
 
-**Les compléments méthodologiques** sont présentés dans les sections dédiées du guide de la méthode Bilan Carbone® et **sont rappelés ci-dessous.**
+**The methodological additions** are presented in the dedicated sections of the Bilan Carbone® method guide and **are recalled below.**
 {% endhint %}
 
-### Périmètre organisationnel
+### Organisational boundary
 
-Pour exprimer le Bilan Carbone® avec une lecture dite « analytique », en cohérence avec la comptabilité carbone analytique, le [périmètre organisationnel](../../2-perimetre-de-la-demarche/2.2-perimetre-organisationnel.md) considère ou définit les [axes analytiques](../glossaire.md#a) de l'organisation.
+To express the Bilan Carbone® with an "analytical" reading, in coherence with analytical carbon accounting, the [organisational boundary](../../2-perimetre-de-la-demarche/2.2-perimetre-organisationnel.md) considers or defines the organisation's [analytical axes](../glossaire.md#a).
 
-### Périmètre temporel
+### Temporal boundary
 
-Pour exprimer le Bilan Carbone® en cohérence avec la comptabilité carbone analytique, le [périmètre temporel](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) considère un exercice comptable complet, reflétant au mieux l’activité de l’organisation dans sa globalité.
+To express the Bilan Carbone® in coherence with analytical carbon accounting, the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) considers a complete accounting period, best reflecting the organisation's activity in its entirety.
 
-### Périmètre opérationnel
+### Operational boundary
 
-#### Identification des sources d'émissions
+#### Identification of emission sources
 
-Pour exprimer le Bilan Carbone® en cohérence avec la comptabilité carbone analytique, l’organisation doit identifier les mêmes sources d’émissions (celles dont elle est responsable et dépendante), mais en gardant l’objectif de les ventiler ensuite selon une [cartographie dite « analytique »](../../2-perimetre-de-la-demarche/2.4-perimetre-operationnel.md#exigences-relatives-a-la-cartographie-des-sources-demissions) qui croisera codes comptables et axes analytiques.
+To express the Bilan Carbone® in coherence with analytical carbon accounting, the organisation must identify the same emission sources (those for which it is responsible and on which it depends), but keeping the objective of then allocating them according to an ["analytical" mapping](../../2-perimetre-de-la-demarche/2.4-perimetre-operationnel.md#exigences-relatives-a-la-cartographie-des-sources-demissions) that will cross-reference accounting codes and analytical axes.
 
-Elle identifie les émissions supportées et non supportées. Les émissions supportées proviennent des activités financées par l’organisation. Elles apparaissent donc dans les exports comptables. Les émissions non supportées ne sont pas financées par l’organisation, mais sont quand même inclues obligatoirement.
+It identifies supported and unsupported emissions. Supported emissions come from activities financed by the organisation. They therefore appear in the accounting exports. Unsupported emissions are not financed by the organisation, but are nonetheless included as mandatory.
 
-*   Les émissions supportées sont cartographiées à partir des données comptables de l’entreprise. Pour identifier les émissions supportées, une analyse des [exports comptables](../glossaire.md) est réalisée pour identifier toutes les classes de comptes :&#x20;
+*   Supported emissions are mapped from the company's accounting data. To identify supported emissions, an analysis of [accounting exports](../glossaire.md) is carried out to identify all account classes:
 
-    * Représentant un flux physique,
-    * Pour lesquels il existe un coût ou un amortissement en cours sur la période analysée.
+    * Representing a physical flow,
+    * For which there is a cost or depreciation in progress during the analysed period.
 
-    Toutes les classes de comptes identifiées doivent être inclues dans la Comptabilité Carbone Analytique comme étant un ou plusieurs postes d’émission.
-* Les émissions non supportées par l’entreprises doivent être rajoutées. Pour comptabiliser les émissions non supportées, il est possible de réaliser une cartographie des flux ou toute autre méthode permettant d’identifier la liste des postes d’émission de manière exhaustive. L’objectif est d’identifier tous les flux physiques dont les activités de l’organisation dépendent et qui ne sont pas supportés par l’organisation. Ces flux devront être intégrées dans la Comptabilité Carbone Analytique comme étant un ou plusieurs postes d’émission.
+    All identified account classes must be included in the Analytical Carbon Accounting as one or more emission entries.
+* Unsupported emissions by the company must be added. To account for unsupported emissions, it is possible to carry out a flow mapping or any other method enabling the identification of the list of emission entries exhaustively. The objective is to identify all physical flows on which the organisation's activities depend and which are not supported by the organisation. These flows will need to be integrated into the Analytical Carbon Accounting as one or more emission entries.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">]  L'organisation pourra trouver un tableau de correspondance listant l'ensemble des codes comptables qui seront à passer en revue dans le but d'identifier les sources d'émissions qui doivent être considérées au sein du Bilan Carbone®.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The organisation will be able to find a correspondence table listing all the accounting codes that will need to be reviewed in order to identify the emission sources that must be considered within the Bilan Carbone®.</mark>
 
-#### Nomenclature des postes d'émissions
+#### Nomenclature of emission entries
 
-Plusieurs nomenclatures existent et peuvent se combiner. L'important est d'être exhaustif sur le périmètre car il est aisé d'[exporter ces résultats](../../4-comptabilisation/4.5-profil-demission.md) dans plusieurs nomenclatures différentes à la fois (postes Bilan Carbone®, catégories et postes du BEGES règlementaire et de ISO 14064-1, structure du plan analytique, scopes du GHG-P, etc.).
+Several nomenclatures exist and can be combined. The important thing is to be exhaustive on the boundary as it is easy to [export these results](../../4-comptabilisation/4.5-profil-demission.md) into several different nomenclatures simultaneously (Bilan Carbone® entries, categories and entries of the regulatory BEGES-R and ISO 14064-1, structure of the analytical plan, GHG-P scopes, etc.).
 
-Pour exprimer le Bilan Carbone® selon d'autres nomenclatures, référentiels ou standards, des [étapes complémentaires](../../4-comptabilisation/4.5-profil-demission.md#autres-formats-du-profil-demission) peuvent être nécessaires.
+To express the Bilan Carbone® according to other nomenclatures, reference frameworks or standards, [complementary steps](../../4-comptabilisation/4.5-profil-demission.md#autres-formats-du-profil-demission) may be necessary.
 
-Par exemple, pour obtenir un export en cohérence avec la comptabilité carbone analytique, il est nécessaire de diviser les sources d'émissions identifiées dans les [exports comptables](../glossaire.md) par [axes analytiques](../glossaire.md) (site, activité, équipe, fournisseur, client…). A noter que les axes peuvent différer pour chaque source (par exemple l’énergie sera divisée par site, ou les achats par fournisseur).
+For example, to obtain an export in coherence with analytical carbon accounting, it is necessary to divide the emission sources identified in the [accounting exports](../glossaire.md) by [analytical axes](../glossaire.md) (site, activity, team, supplier, client...). Note that the axes can differ for each source (for example energy will be divided by site, or purchases by supplier).
 
-### Méthode de collecte des données d'activité
+### Activity data collection method
 
-Pour exprimer le Bilan Carbone® avec une lecture dite « analytique », en cohérence avec la comptabilité carbone analytique, les [données d’activité doivent être collectées](../../4-comptabilisation/4.2-methode-de-collecte-des-donnees-dactivite.md) par axe analytique, et donc ventilées par responsabilité (fournisseurs, les clients, les sites, etc.). Les codes comptables permettent d'être exhaustif sur les [sources d'émissions supportées](../../2-perimetre-de-la-demarche/2.4-perimetre-operationnel.md#exigences-relatives-a-la-cartographie-des-sources-demissions) par l'organisation. Les sources de données associées sont ainsi reliées à chaque code comptable (par exemple un export des achats pour le code comptable 601321), puis aux [axes analytiques](../glossaire.md#a) (par exemple un export des achats ventilés par fournisseurs).
+To express the Bilan Carbone® with an "analytical" reading, in coherence with analytical carbon accounting, the [activity data must be collected](../../4-comptabilisation/4.2-methode-de-collecte-des-donnees-dactivite.md) by analytical axis, and therefore allocated by responsibility (suppliers, clients, sites, etc.). Accounting codes enable exhaustiveness on the [emission sources supported](../../2-perimetre-de-la-demarche/2.4-perimetre-operationnel.md#exigences-relatives-a-la-cartographie-des-sources-demissions) by the organisation. The associated data sources are thus linked to each accounting code (for example an export of purchases for accounting code 601321), then to the [analytical axes](../glossaire.md#a) (for example an export of purchases allocated by supplier).
 
-Les sources de données doivent intégrer les axes analytiques identifiées comme pertinents pour l’analyse des résultats. L’absence d’axes analytiques dans une source de données nécessaire à la division des émissions selon cet axe analytique peut être une justification de l’abandon de cet axe analytique. L'ajout de l’axe analytique dans la source de données sera une [action d'amélioration](../../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) de la démarche.
+Data sources must integrate the analytical axes identified as relevant for the analysis of results. The absence of analytical axes in a data source necessary for dividing emissions according to this analytical axis can be a justification for abandoning this analytical axis. Adding the analytical axis to the data source will be an [improvement action](../../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) of the approach.
 
-En comptabilité carbone analytique, la [matrice](../../4-comptabilisation/4.2-methode-de-collecte-des-donnees-dactivite.md#matrice-de-collecte-des-donnees) indique pour chaque donnée d'activité, le code comptable et l'axe analytique associé.
+In analytical carbon accounting, the [matrix](../../4-comptabilisation/4.2-methode-de-collecte-des-donnees-dactivite.md#matrice-de-collecte-des-donnees) indicates for each activity data point the associated accounting code and analytical axis.
 
-### Export du profil d'émission
+### Export of the emission profile
 
-Si l'organisation utilise la comptabilité analytique, les émissions seront réparties selon les codes comptables et les [axes analytiques](../glossaire.md), établis spécifiquement pour l'organisation, qui reflètent aux mieux la structure et le mode de fonctionnement de celle-ci (activités réalisées, processus internes, etc.). Des axes analytiques différents peuvent être utilisés pour chaque poste d’émission (par exemple les achats peuvent être repartis par fournisseur, et l’énergie par site)
+If the organisation uses analytical accounting, emissions will be allocated according to the accounting codes and [analytical axes](../glossaire.md), established specifically for the organisation, which best reflect the structure and mode of operation of the latter (activities carried out, internal processes, etc.). Different analytical axes can be used for each emission entry (for example purchases can be allocated by supplier, and energy by site).
 
-Par conséquent, un tableau de correspondance générique ne peut être envisagé.
+Consequently, a generic correspondence table cannot be envisaged.
 
-Néanmoins, l'organisation pourra trouver ci-dessous un tableau de correspondance listant l'ensemble des codes comptables qui seront à passer en revue dans le but d'identifier les sources d'émissions qui doivent être considérées au sein du Bilan Carbone®. Lorsqu'une source d'émission ne donne pas lieu à des dépenses monétaires (émissions non supportées), elle reste évidemment à prendre en compte au sein du Bilan Carbone®.
+Nevertheless, the organisation will be able to find below a correspondence table listing all the accounting codes that will need to be reviewed in order to identify the emission sources that must be considered within the Bilan Carbone®. When an emission source does not give rise to monetary expenditure (unsupported emissions), it obviously remains to be taken into account within the Bilan Carbone®.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une prochaine ressource sera produite et mise à disposition pour fournir un tableau de correspondance avec la nomenclature d'un plan comptable. Ces correspondances seront intégrées aux exports des outils Bilan Carbone®.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A future resource will be produced and made available to provide a correspondence table with the nomenclature of a chart of accounts. These correspondences will be integrated into the exports of the Bilan Carbone® tools.</mark>
 
-### Mobilisation des parties prenantes
+### Stakeholder mobilisation
 
-Pour les organisations suivant une comptabilité carbone analytique, les temps de [co-construction](../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md) des actions peuvent s’effectuer par axes analytiques correspondant à des parties prenantes internes à l’organisation (site, équipe, projet, produit, filiale, franchisé, activité). Cela permet d’identifier des actions potentielles à toutes les échelles de l’organisation.
+For organisations following analytical carbon accounting, the [co-construction](../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md) times for actions can be carried out by analytical axes corresponding to stakeholders internal to the organisation (site, team, project, product, subsidiary, franchisee, activity). This enables potential actions to be identified at all scales of the organisation.
 
-### Construction du plan d'action
+### Construction of the action plan
 
-Pour exprimer le Bilan Carbone® avec une lecture dite « analytique », en cohérence avec la comptabilité carbone analytique, chaque [action](../../5-plan-de-transition/5.2-construction-du-plan-daction.md) doit intégrer, en plus des informations ci-dessus, les axes analytiques concernés.&#x20;
+To express the Bilan Carbone® with an "analytical" reading, in coherence with analytical carbon accounting, each [action](../../5-plan-de-transition/5.2-construction-du-plan-daction.md) must integrate, in addition to the information above, the relevant analytical axes.
 
-Si des actions peuvent correspondre à plusieurs axes analytiques : elles seront subdivisées en plusieurs [fiches actions](../../5-plan-de-transition/5.2-construction-du-plan-daction.md#la-definition-des-fiches-actions), identifiées sur un seul axe pour n’avoir qu’un seul responsable associé. Par exemple pour agir à l’échelle des sites, construire une fiche action par responsable de site permet de rendre l’action opérationnelle, de n’impliquer que les responsables des sites concernés, tout en permettant un pilotage des actions agrégées à l’échelle de l’ensemble des sites.
+If actions can correspond to several analytical axes: they will be subdivided into several [action sheets](../../5-plan-de-transition/5.2-construction-du-plan-daction.md#la-definition-des-fiches-actions), identified on a single axis so as to have only one associated responsible party. For example, to act at the scale of sites, building an action sheet per site manager makes the action operational, involves only the managers of the relevant sites, while enabling steering of aggregated actions at the scale of all sites.
 
-Cette déclinaison opérationnelle de l’action pour chaque responsable (par axe analytique interne : équipe, activité, projet …) ; et par parties prenantes externes (par axe analytique externe : fournisseurs, clients), permet de mettre en perspective pour chaque axe analytique les émissions et les actions, et donc de [suivre les résultats](../../5-plan-de-transition/5.5-suivi-et-pilotage-du-plan-de-transition.md).
+This operational breakdown of the action for each responsible party (by internal analytical axis: team, activity, project...) and by external stakeholders (by external analytical axis: suppliers, clients), enables emissions and actions to be put in perspective for each analytical axis, and thus to [monitor results](../../5-plan-de-transition/5.5-suivi-et-pilotage-du-plan-de-transition.md).
 
-Concernant les « [actions d’amélioration de la démarche](fiche-cca.md#les-differentes-categories-dactions) », des actions spécifiques à la structuration de la comptabilité carbone analytique peuvent être considérées.
+Regarding "approach improvement actions", actions specific to the structuring of analytical carbon accounting can be considered.
 
-### Définition de la trajectoire de transition
+### Definition of the transition pathway
 
-Pour exprimer le Bilan Carbone® avec une lecture dite « analytique », en cohérence avec la comptabilité carbone analytique, la [trajectoire](../../5-plan-de-transition/5.3-definition-de-la-trajectoire-de-transition.md) globale de l’organisation peut s’appuyer sur des trajectoires par axes analytiques. Les objectifs et potentiels de réductions ne seront pas forcément les mêmes suivant les activités, équipes ou tout autre axes analytiques retenus. Chaque responsable s'engage sur sa propre trajectoire et sur ses propres émissions. La consolidation des trajectoires et actions envisagées par chaque responsable permet d’alimenter ou de vérifier la cohérence de la trajectoire globale.
+To express the Bilan Carbone® with an "analytical" reading, in coherence with analytical carbon accounting, the organisation's global [transition pathway](../../5-plan-de-transition/5.3-definition-de-la-trajectoire-de-transition.md) can draw on pathways by analytical axes. The objectives and reduction potentials will not necessarily be the same depending on the activities, teams or any other retained analytical axes. Each responsible party commits to their own pathway and their own emissions. The consolidation of pathways and actions envisaged by each responsible party enables the global pathway to be fed or the coherence of the latter to be verified.
 
-### Restitution de la démarche
+### Reporting of the approach
 
-Il est possible d'obtenir un Bilan Carbone® compatible avec les attentes de la comptabilité carbone analytique, en exprimant les résultats (profil GES et actions) avec une lecture dite « analytique » (selon des axes ou postes analytiques). [Cela permet de](fiche-cca.md#quels-sont-les-objectifs-de-la-demarche) construire un Bilan Carbone® à des niveaux hiérarchiques différents (périmètres de responsabilité), et de piloter ses prises de décision via un coût financier et un coût carbone. Pour cela, et en plus de l'ensemble des [livrables Bilan Carbone®](../../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md), des [informations complémentaires sont à restituer](../../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md) :&#x20;
+It is possible to obtain a Bilan Carbone® compatible with the expectations of analytical carbon accounting, by expressing the results (GHG profile and actions) with an "analytical" reading (according to analytical axes or entries). [This enables](fiche-cca.md#what-are-the-objectives-of-the-approach) building a Bilan Carbone® at different hierarchical levels (responsibility boundaries), and steering decision-making via a financial cost and a carbon cost. To this end, and in addition to all the [Bilan Carbone® deliverables](../../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md), [additional information must be reported](../../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md):
 
-* La liste des axes analytiques sélectionnées pour l’étude
-* Le périmètre temporel du dernier exercice comptable
-* La liste des axes analytiques sélectionnés pour l’étude, pris en compte par poste d’émission
-* La liste des codes comptables pris en compte et reliés aux postes d'émission
-* Pour chaque périmètre de responsabilité : l’affectation du profil d’émission, de la trajectoire de réduction et du programme d’actions
-
-
-
-
+* The list of analytical axes selected for the study
+* The temporal boundary of the last accounting period
+* The list of analytical axes selected for the study, taken into account by emission entry
+* The list of accounting codes taken into account and linked to emission entries
+* For each responsibility boundary: the allocation of the emission profile, the reduction pathway and the action programme
 
 ***
 
-_Les fiches du_ [_Panorama des méthodes et outils de la comptabilité carbone_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _sont issues d'un travail de synthèse de l'ABC. Nous restons preneurs de vos retours ou questions sur ce_ [_formulaire_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
+_The sheets from the_ [_Overview of carbon accounting methods and tools_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _are the result of a synthesis work by the ABC. We welcome your feedback or questions via this_ [_form_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._

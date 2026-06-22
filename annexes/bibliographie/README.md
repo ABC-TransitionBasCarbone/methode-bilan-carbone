@@ -1,277 +1,274 @@
 ---
 description: >-
-  Quels sont les ressources et les références externes qui sont citées par la
-  méthode ?
+  What are the resources and external references cited by the method?
 ---
 
-# Bibliographie
+# Bibliography
 
-<figure><img src="../../.gitbook/assets/2148883765.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2148883765.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-## L'ABC et les ressources complémentaires au Bilan Carbone®
+## The ABC and Complementary Resources to the Bilan Carbone®
 
 <details>
 
-<summary>ABC - Association pour la transition Bas Carbone</summary>
+<summary>ABC - Association pour la transition Bas Carbone (Association for Low Carbon Transition)</summary>
 
-L’[Association pour la transition Bas Carbone (ABC)](https://abc-transitionbascarbone.fr/association-pour-la-transition-bas-carbone/) – auparavant l’Association Bilan Carbone – a été créée en 2011 par l’ADEME et l’APCC, pour porter et diffuser la méthodologie du Bilan Carbone®. Elle met à disposition des organisations et des citoyens, des outils et méthodes leur permettant de réussir dans la définition et la mise en œuvre de leur stratégie de décarbonation. L’ABC regroupe plus de 1000 organisations engagées pour le climat et anime une communauté d’acteurs autour des enjeux de la transition bas carbone et plus particulièrement de la comptabilité carbone. L’association, à travers ses missions, souhaite mobiliser et former le maximum d’acteurs (organisations et citoyens) sur les enjeux liés à la lutte contre le changement climatique.
+The [Association pour la transition Bas Carbone (ABC)](https://abc-transitionbascarbone.fr/association-pour-la-transition-bas-carbone/) – formerly the Association Bilan Carbone – was created in 2011 by ADEME and APCC, to carry and disseminate the Bilan Carbone® methodology. It makes available to organisations and citizens tools and methods enabling them to succeed in defining and implementing their decarbonisation strategy. The ABC brings together more than 1,000 organisations committed to the climate and animates a community of actors around the issues of the low-carbon transition and more particularly carbon accounting. The association, through its missions, wishes to mobilise and train the maximum number of actors (organisations and citizens) on the issues related to combating climate change.
 
-:link: Pour adhérer : [https://abc-transitionbascarbone.fr/agir/adherer-a-labc/](https://abc-transitionbascarbone.fr/agir/adherer-a-labc/)
+:link: To join: [https://abc-transitionbascarbone.fr/agir/adherer-a-labc/](https://abc-transitionbascarbone.fr/agir/adherer-a-labc/)
 
 </details>
 
 <details>
 
-<summary>Conditions Générales d'Utilisation</summary>
+<summary>General Terms of Use</summary>
 
-Cette nouvelle version de la méthode Bilan Carbone® est consultable librement et gratuitement. Cependant, l'utilisation de celle-ci est conditionnée à l'[adhésion](https://abc-transitionbascarbone.fr/agir/adherer-a-labc/) ou d'une licence à jour à l'ABC en tant que personne morale, assurant ainsi une version à jour des outils servant à appliquer la méthode ainsi que différents services supplémentaires (pour plus de détails, consulter le [site de l’ABC](./)). Toute organisation souhaitant utiliser la méthode ou nos outils doit avoir en son sein au moins une personne formée à la méthodologie Bilan Carbone® par un organisme de formation habilité.
+This new version of the Bilan Carbone® method is freely and freely consultable. However, its use is conditional on an up-to-date [membership](https://abc-transitionbascarbone.fr/agir/adherer-a-labc/) or licence with the ABC as a legal entity, thereby ensuring an up-to-date version of the tools for applying the method as well as various additional services (for more details, consult the [ABC website](./)). Any organisation wishing to use the method or our tools must have at least one person trained in the Bilan Carbone® methodology by an authorised training body.
 
-Voir les [Conditions Générales d'Utilisation](https://abc-transitionbascarbone.fr/conditions-generales-utilisation-abc/).
-
-</details>
-
-<details>
-
-<summary>Synthèse des recommandations du Groupe de Travail - évolution de la méthode</summary>
-
-Entre 2022 et 2024, l’Association pour la transition Bas Carbone (ABC) a mis en place un **Groupe de Travail (GT)** dédié à l’évolution de la méthode du Bilan Carbone®, composé de :
-
-* L’équipe de l’ABC, y compris les membres du conseil d’administration
-* Des experts historiques reconnus, ayant contribué aux groupes de travail précédents ou démontré leurs compétences
-* Des experts thématiques sollicités ponctuellement sur des sujets spécifiques
-* Des expérimentateurs confirmés et des représentants des collèges parmi les adhérents de l’année en cours
-
-Après plusieurs mois de réflexions, le GT a trouvé un consensus sur les orientations et les développements nécessaires à intégrer dans la méthode. La synthèse des recommandations du Groupe de Travail (GT), publiée début 2023, est accessible aux adhérents. Plusieurs phases de relecture du GT se sont ensuite succédées pour aboutir à la version actuelle.&#x20;
-
-:link: Pour plus d'informations :[https://abc-transitionbascarbone.fr/wp-content/uploads/2024/07/Notes\_syntheseGT\_finale.pdf](https://abc-transitionbascarbone.fr/wp-content/uploads/2024/07/Notes_syntheseGT_finale.pdf)
+See the [General Terms of Use](https://abc-transitionbascarbone.fr/conditions-generales-utilisation-abc/).
 
 </details>
 
 <details>
 
-<summary>Formation à la méthode Bilan Carbone®</summary>
+<summary>Summary of the Working Group's Recommendations - Evolution of the Method</summary>
 
-Première étape essentielle pour manipuler le Bilan Carbone®, la formation permet d’acquérir les compétences nécessaires à l’utilisation de la méthodologie et des outils Bilan Carbone®. Dans un souci de qualité, elle est un pré-requis pour pouvoir accéder à l’ensemble des outils Bilan Carbone® à jour.
+Between 2022 and 2024, the Association pour la transition Bas Carbone (ABC) set up a **Working Group (WG)** dedicated to the evolution of the Bilan Carbone® method, composed of:
 
-:link: Pour plus d'informations : [https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/](https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/)
+* The ABC team, including members of the board of directors
+* Recognised historical experts, who contributed to previous working groups or demonstrated their skills
+* Thematic experts called upon occasionally on specific subjects
+* Confirmed experimenters and representatives of the member colleges for the current year
 
-</details>
+After several months of reflection, the WG reached a consensus on the orientations and developments necessary to integrate into the method. The summary of the Working Group's (WG) recommendations, published in early 2023, is accessible to members. Several proofreading phases of the WG then followed to arrive at the current version.
 
-<details>
-
-<summary>Outils Bilan Carbone®</summary>
-
-L'ABC met à disposition des outils permettant à toute organisation de comptabiliser l’ensemble de ses émissions de GES et ainsi, de prendre conscience de ses principaux postes d’émissions et de sa vulnérabilité énergétique.
-
-Deux outils sont disponibles :&#x20;
-
-* un logiciel SaaS : le BC+, permettant de réaliser un Bilan Carbone® en ligne, en collaboration et en documentant chaque entrée
-* des tableurs de calcul (un tableur maître pour la conversion des données d’activité en CO2eq, l’édition de graphiques et l’export aux différents formats ISO, GHG Protocol ou réglementation française, ainsi que des utilitaires optionnels)
-
-:link: Pour plus d'informations :  [https://abc-transitionbascarbone.fr/agir/nos-solutions-et-outils/](https://abc-transitionbascarbone.fr/agir/nos-solutions-et-outils/)
+:link: For more information: [https://abc-transitionbascarbone.fr/wp-content/uploads/2024/07/Notes\_syntheseGT\_finale.pdf](https://abc-transitionbascarbone.fr/wp-content/uploads/2024/07/Notes_syntheseGT_finale.pdf)
 
 </details>
 
 <details>
 
-<summary>Référentiel de mise en conformité des outils Bilan Carbone®</summary>
+<summary>Training in the Bilan Carbone® Method</summary>
 
-Depuis 2014, l’ABC a mis en place une procédure d’audit afin d’évaluer la conformité des outils de comptabilité carbone avec la méthode Bilan Carbone®. Les outils ayant réussi cet audit peuvent alors se présenter comme « **outils conformes au Bilan Carbone®** » et sont visibles sur le site internet de l'ABC. Attention, cette conformité dure trois ans, et l’ABC actualise son site très régulièrement pour assurer que les outils reconnus comme conformes sont bien à jour.
+The first essential step for working with the Bilan Carbone®, training allows you to acquire the skills necessary to use the Bilan Carbone® methodology and tools. In the interest of quality, it is a prerequisite for accessing all up-to-date Bilan Carbone® tools.
 
-:link: Pour plus d'information sur le référentiel d'audit : [https://abc-transitionbascarbone.fr/mise-en-conformite/](https://abc-transitionbascarbone.fr/mise-en-conformite/)
-
-:link: Pour plus d'information sur la liste des outils conformes : [https://abc-transitionbascarbone.fr/les-outils-conformes/](https://abc-transitionbascarbone.fr/les-outils-conformes/)
+:link: For more information: [https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/](https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/)
 
 </details>
 
 <details>
 
-<summary>Panorama des outils et méthodes à disposition des organisations et territoires</summary>
+<summary>Bilan Carbone® Tools</summary>
 
-Pour répondre aux besoins de transition de nos sociétés vers un modèle bas carbone, de nombreux outils et méthodologies existent. Il est parfois difficile de s’y retrouver pour les chargés de mission et les décideurs. L’ABC a publié en 2017 un premier [guide](https://abc-transitionbascarbone.fr/wp-content/uploads/2022/03/panorama-36p-web-final.pdf) des méthodes et outils. En 2020 est publiée une seconde version soutenue par l'ADEME, mise à jour, complétée, et assortie de parcours types pour les acteurs de la transition, comprenant notamment **19 fiches techniques**, **4 parcours pour les organisations et 2 panoramas des démarches territoriales.**
+The ABC makes available tools enabling any organisation to account for all of its GHG emissions and thereby become aware of its main emission categories and its energy vulnerability.
 
-Ces guides ont été actualisés sous la forme d'un panorama publié en **2024** :\
+Two tools are available:
+
+* A SaaS software: BC+, enabling a Bilan Carbone® to be carried out online, collaboratively and documenting each entry
+* Calculation spreadsheets (a master spreadsheet for converting activity data into CO2eq, editing graphs and exporting in various ISO, GHG Protocol or French regulatory formats, as well as optional utilities)
+
+:link: For more information: [https://abc-transitionbascarbone.fr/agir/nos-solutions-et-outils/](https://abc-transitionbascarbone.fr/agir/nos-solutions-et-outils/)
+
+</details>
+
+<details>
+
+<summary>Compliance Reference Framework for Bilan Carbone® Tools</summary>
+
+Since 2014, the ABC has put in place an audit procedure to assess the compliance of carbon accounting tools with the Bilan Carbone® method. Tools that have passed this audit can then present themselves as "**Bilan Carbone® compliant tools**" and are visible on the ABC website. Please note that this compliance lasts three years, and the ABC updates its website very regularly to ensure that tools recognised as compliant are up to date.
+
+:link: For more information on the audit reference framework: [https://abc-transitionbascarbone.fr/mise-en-conformite/](https://abc-transitionbascarbone.fr/mise-en-conformite/)
+
+:link: For more information on the list of compliant tools: [https://abc-transitionbascarbone.fr/les-outils-conformes/](https://abc-transitionbascarbone.fr/les-outils-conformes/)
+
+</details>
+
+<details>
+
+<summary>Overview of Tools and Methods Available to Organisations and Territories</summary>
+
+To meet the transition needs of our societies towards a low-carbon model, many tools and methodologies exist. It is sometimes difficult for project managers and decision-makers to find their way. The ABC published a first [guide](https://abc-transitionbascarbone.fr/wp-content/uploads/2022/03/panorama-36p-web-final.pdf) of methods and tools in 2017. In 2020 a second version was published, supported by ADEME, updated, supplemented and accompanied by typical pathways for transition actors, including **19 technical sheets**, **4 pathways for organisations and 2 overviews of territorial approaches.**
+
+These guides have been updated in the form of a panorama published in **2024**:\
 :link: [https://www.panorama-comptabilitecarbone.com/](https://www.panorama-comptabilitecarbone.com/)
 
-:link:Pour plus d'informations (version 2020) : [Panorama des outils et méthodes à disposition des organisations et territoires](https://abc-transitionbascarbone.fr/wp-content/uploads/2022/03/panorama2-guide-vdef.pdf)
+:link: For more information (2020 version): [Overview of tools and methods available to organisations and territories](https://abc-transitionbascarbone.fr/wp-content/uploads/2022/03/panorama2-guide-vdef.pdf)
 
 </details>
 
 <details>
 
-<summary>Fresque du Bilan Carbone®</summary>
+<summary>Bilan Carbone® Collage</summary>
 
-La Fresque du Bilan Carbone® est un format utilisable en phase de restitution du Bilan Carbone® pour sensibiliser les collaborateurs sur les impacts de l'organisation et les mobiliser autour des actions à mettre en œuvre issues du plan de transition.
+The Bilan Carbone® Collage is a format usable in the reporting phase of the Bilan Carbone® to raise awareness among employees about the organisation's impacts and mobilise them around the actions to be implemented from the transition plan.
 
 :link: [https://abc-transitionbascarbone.fr/fresque-du-bilan-carbone/](https://abc-transitionbascarbone.fr/fresque-du-bilan-carbone/)
 
-:link: Pour plus d'informations : [Fresque du Bilan Carbone®](../annexes/annexe-9-ressources-pour-la-mobilisation/la-fresque-du-bilan-carbone-r.md)
+:link: For more information: [Bilan Carbone® Collage](../annexes/annexe-9-ressources-pour-la-mobilisation/la-fresque-du-bilan-carbone-r.md)
 
 </details>
 
 <details>
 
-<summary>Observatoire de la Comptabilité Carbone en France (OCCF)</summary>
+<summary>Observatory of Carbon Accounting in France (OCCF)</summary>
 
-**L’Observatoire de la Comptabilité Carbone en France (OCCF)** est une initiative conjointe lancée par l’Association pour la transition Bas Carbone (ABC) et l’Association des Professionnels du Conseil Climat (APCC) en 2023.
+**The Observatory of Carbon Accounting in France (OCCF)** is a joint initiative launched by the Association pour la transition Bas Carbone (ABC) and the Association des Professionnels du Conseil Climat (APCC) in 2023.
 
-L’objectif principal de l’OCCF est de créer une base de données exhaustive et de haute qualité, rassemblant des Bilan Carbone® ou Bilans GES (BEGES) anonymes et complets, pour permettre des comparaisons sectorielles et faciliter la transition bas carbone des organisations.
+The main objective of the OCCF is to create a comprehensive and high-quality database, bringing together anonymous and complete Bilan Carbone® or GHG assessments (BEGES), to enable sectoral comparisons and facilitate the low-carbon transition of organisations.
 
-:link: Pour plus d'informations sur l'OCCF : [https://observatoiredelacomptabilitecarbone.fr/](https://observatoiredelacomptabilitecarbone.fr/)
-
-</details>
-
-<details>
-
-<summary>Guide d'évaluation des bilans GES</summary>
-
-Présente la méthode d'évaluation d'un Bilan Carbone® ainsi que d'un Bilan GES Réglementaire. Il détaille les principes, la méthodologie et le déroulé de la démarche d'évaluation des bilans.&#x20;
-
-L'évaluation des bilans permet de garantir leur fiabilité et transparence ainsi que la pertinence des plans de transitions établis.
-
-:link: Pour plus d'informations : [https://www.bilancarbone-evaluation.com/](https://www.bilancarbone-evaluation.com/)
-
-:link: [Ressources pour l'évaluation des bilans](https://www.bilancarbone-evaluation.com/ressources/bibliographie#ressources-pour-levaluation-des-bilans)
+:link: For more information on the OCCF: [https://observatoiredelacomptabilitecarbone.fr/](https://observatoiredelacomptabilitecarbone.fr/)
 
 </details>
 
 <details>
 
-<summary>Annuaire des prestataires et adhérents de l'ABC</summary>
+<summary>Assessment Evaluation Guide</summary>
 
-L'ABC propose un annuaire des prestataires formés et habilités à accompagner une démarche Bilan Carbone®, ou à ses ressources complémentaires (Évaluation du Bilan Carbone®, Fresque du Bilan Carbone®, etc.)
+Presents the method for evaluating a Bilan Carbone® as well as a Regulatory GHG Assessment. It details the principles, methodology and process of the assessment evaluation approach.
 
-:link:  Pour plus d'informations : [https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/](https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/)
+The evaluation of assessments makes it possible to guarantee their reliability and transparency as well as the relevance of the established transition plans.
 
-</details>
+:link: For more information: [https://www.bilancarbone-evaluation.com/](https://www.bilancarbone-evaluation.com/)
 
-
-
-## Ressources introductives
-
-### Évolutions climatiques
-
-<details>
-
-<summary>Sixth Assessment Report (AR6) du GIEC</summary>
-
-Le GIEC est le Groupe d’experts Intergouvernemental sur l’évolution du Climat. C'est une organisation regroupant 195 États membres de l’ONU dont l’objectif est de faire régulièrement un état des lieux sans parti pris des connaissances scientifiques les plus avancées sur le climat. Il réunit des milliers d’experts volontaires du monde entier pour évaluer, analyser et synthétiser les nombreuses études scientifiques sur le sujet. Les rapports du GIEC sont au cœur des négociations internationales sur le climat.
-
-Créé en 1988 par l’Organisation Météorologique Mondiale (OMM) et le Programme pour l’Environnement des Nations Unies (PNUE), le GIEC a publié à intervalles réguliers six salves de rapports sur le changement climatique.&#x20;
-
-Le sixième et dernier rapport d'évaluation (AR6 ou Sixth Assessment Report), finalisé en 2023, est composé de trois parties :&#x20;
-
-* Les bases physiques du changement climatique (août 2021)
-* Impacts, adaptation et vulnérabilité (février 2022)
-* Atténuation du changement climatique (avril 2022).
-
-Il inclut également les rapports "spéciaux" suivants : "Rapport spécial sur le réchauffement planétaire de 1,5 °C" (2018), "Rapport spécial sur le changement climatique et les terres émergées" (2019), "Rapport spécial sur l’océan et la cryosphère dans le contexte du changement climatique" (2019).
-
-Avec le 6ème rapport, les scénarios SSP (Shared Socio-economic Pathways) remplacent les scénarios RCP (Representative Concentration Pathways) précédemment utilisés. Cinq scénarios SSP sont proposés. Le SSP2-4.5, équivalent du RCP8.5, étant le plus probable, il représente le rythme d'évolution des émissions sans grande variation ("business as usual", c'est à dire la prolongation des émissions actuelles).
-
-Les rapports sont approuvés par les 195 états membres de l'ONU. [L'AR6 a été approuvé le dimanche 27 février 2022.](https://www.ipcc.ch/report/ar6/wg2/resources/press/press-release-french/)
-
-Pour plus d'information, vous pouvez consulter :&#x20;
-
-:link: le résumé à l'intention des décideurs de la première partie du rapport, en français, en suivant [ce lien](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WG1_SPM_French.pdf)
-
-:link: les rapports, en suivant [ce lien](https://report.ipcc.ch/ar6syr/index.html)
-
-:link: une [synthèse vulgarisée](https://theshiftproject.org/article/climat-synthese-vulgarisee-6eme-rapport-giec/) de l'AR6 réalisée par le Shift Project
+:link: [Resources for the evaluation of assessments](https://www.bilancarbone-evaluation.com/ressources/bibliographie#ressources-pour-levaluation-des-bilans)
 
 </details>
 
 <details>
 
-<summary>Sources introductives sur le contexte climatique</summary>
+<summary>Directory of ABC Service Providers and Members</summary>
 
-La section [introductive](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/introduction-a-la-transition-bas-carbone) condense plusieurs informations bibliographiques dont les sources sont présentées ci-dessous :
+The ABC provides a directory of service providers trained and authorised to support a Bilan Carbone® approach, or its complementary resources (Bilan Carbone® Evaluation, Bilan Carbone® Collage, etc.)
 
-* 2024 fut l'[année la plus chaude](https://news.un.org/fr/story/2025/01/1152031) jamais enregistrée.
-* La barre d’un réchauffement moyen de plus de 2° a été symboliquement franchie [sur une journée en 2023](https://climate.copernicus.eu/global-temperature-exceeds-2degc-above-pre-industrial-average-17-november)
-* Réchauffement planétaire moyen estimé à +1,4°C en décembre 2025, [relayé par Météo France](https://meteofrance.com/le-changement-climatique/quel-climat-futur/les-chiffres-cles-du-changement-climatique)
-* Le CGDD, [dans une publication de 2020](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-202-risques-climatiques-janvier2020.pdf), mettait en avant que 6 Français sur 10 sont concernés par le risque climatique
-* [L'accord de Paris | CCNUCC](https://unfccc.int/fr/a-propos-des-ndcs/l-accord-de-paris)
-* Objectifs cadres à l'échelle de l'Union Européenne : [Climate action and the Green Deal](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/climate-action-and-green-deal_en)
-* Objectifs cadres à l'échelle de la France : [la SNBC.](https://www.ecologie.gouv.fr/politiques-publiques/strategie-nationale-bas-carbone-snbc)
-* Citation de António Guterres, Secrétaire général des [Nations Unies, 2021.](https://unric.org/fr/antonio-guterres-le-rapport-dexperts-du-climat-est-une-alerte-rouge-pour-lhumanite/)
-* Limiter le réchauffement à +2° supposerait une réduction des émissions de GES mondiales de [64 % d’ici 2050 et de 84 % pour limiter le réchauffement à +1.5°](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf).
-*   Le réchauffement planétaire estimé à +3,2° à l’horizon 2100 par le Haut Conseil pour le Climat (HCC).
+:link: For more information: [https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/](https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/)
 
-    [Cette estimation](https://www.hautconseilclimat.fr/wp-content/uploads/2023/06/HCC_RANC_2023-VF.pdf) est associée à une plage d’incertitude sur les évolutions des politiques au-delà de 2030 allant de 2,2°C à 3,5°C. Le réchauffement pourrait être réduit d’environ 0,4°C si tous les engagements soumis dans le cadre des contributions déterminées au niveau national (CDN) aux Nations unies sont respectés, et d’environ 0,9°C si les engagements de neutralité carbone des pays, pour beaucoup non-réalistes, sont aussi intégralement atteints. Ainsi, même dans le cas où tous les engagements actuels de 2030 et de neutralité carbone des pays seraient atteints, le réchauffement planétaire excéderait toujours 2°C. Enfin, en considérant toute la plage d’incertitude sur la réponse du climat, qui s’ajoute à ces valeurs, l’éventualité d’un réchauffement planétaire de plus de 4,0°C ne peut toujours pas être exclue.
-* La décroissance des émissions brutes en France doit encore affirmer son caractère structurel, comme [l’indique le Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/wp-content/uploads/2023/10/HCC_Rapport_GP_2023_VF_cor-1.pdf) .
+</details>
+
+
+
+## Introductory Resources
+
+### Climate Developments
+
+<details>
+
+<summary>Sixth Assessment Report (AR6) of the IPCC</summary>
+
+The IPCC is the Intergovernmental Panel on Climate Change. It is an organisation bringing together 195 UN member states whose objective is to regularly provide an unbiased assessment of the most advanced scientific knowledge on climate. It brings together thousands of volunteer experts from around the world to evaluate, analyse and synthesise the many scientific studies on the subject. IPCC reports are at the heart of international climate negotiations.
+
+Created in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP), the IPCC has published six rounds of reports on climate change at regular intervals.
+
+The sixth and most recent assessment report (AR6 or Sixth Assessment Report), finalised in 2023, is composed of three parts:
+
+* The physical bases of climate change (August 2021)
+* Impacts, adaptation and vulnerability (February 2022)
+* Mitigation of climate change (April 2022).
+
+It also includes the following "special" reports: "Special Report on Global Warming of 1.5°C" (2018), "Special Report on Climate Change and Land" (2019), "Special Report on the Ocean and Cryosphere in a Changing Climate" (2019).
+
+With the 6th report, SSP (Shared Socio-economic Pathways) scenarios replace the RCP (Representative Concentration Pathways) scenarios previously used. Five SSP scenarios are proposed. SSP2-4.5, equivalent to RCP8.5, being the most probable, represents the pace of emission evolution without major variation ("business as usual", i.e. the continuation of current emissions).
+
+The reports are approved by the 195 UN member states. [The AR6 was approved on Sunday 27 February 2022.](https://www.ipcc.ch/report/ar6/wg2/resources/press/press-release-french/)
+
+For more information, you can consult:
+
+:link: the summary for policymakers of the first part of the report, in French, by following [this link](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WG1_SPM_French.pdf)
+
+:link: the reports, by following [this link](https://report.ipcc.ch/ar6syr/index.html)
+
+:link: a [popularised summary](https://theshiftproject.org/article/climat-synthese-vulgarisee-6eme-rapport-giec/) of the AR6 produced by the Shift Project
 
 </details>
 
 <details>
 
-<summary>Protocole de Kyoto</summary>
+<summary>Introductory Sources on the Climate Context</summary>
 
-Le protocole de Kyoto est un accord international visant à la réduction des émissions de gaz à effet de serre et qui vient s'ajouter à la Convention Cadre des Nations Unies sur les Changements Climatiques (CCNUCC) dont les pays participants se rencontrent une fois par an depuis 1995. Il définit notamment les différents GES devant être pris en compte dans le cadre de ces réductions : &#x20;
+The [introductory section](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/introduction-a-la-transition-bas-carbone) condenses several bibliographical pieces of information whose sources are presented below:
 
-* Le dioxyde de carbone, CO₂&#x20;
-* Le méthane, CH₄
-* Le protoxyde d'azote, N₂O
-* L'hexafluorure de soufre, SF₆
-* Les [hydrofluorocarbures](../glossaire.md#hydrofluorocarbures), HFC
-* Les [perfluorocarbures](../glossaire.md#perfluorocarbures), PFC
+* 2024 was the [hottest year](https://news.un.org/fr/story/2025/01/1152031) ever recorded.
+* The threshold of an average warming of more than 2° was symbolically crossed [on a single day in 2023](https://climate.copernicus.eu/global-temperature-exceeds-2degc-above-pre-industrial-average-17-november)
+* Average global warming estimated at +1.4°C in December 2025, [relayed by Météo France](https://meteofrance.com/le-changement-climatique/quel-climat-futur/les-chiffres-cles-du-changement-climatique)
+* The CGDD, [in a 2020 publication](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-202-risques-climatiques-janvier2020.pdf), highlighted that 6 in 10 French people are affected by climate risk
+* [The Paris Agreement | UNFCCC](https://unfccc.int/fr/a-propos-des-ndcs/l-accord-de-paris)
+* Framework objectives at the scale of the European Union: [Climate action and the Green Deal](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/climate-action-and-green-deal_en)
+* Framework objectives at the scale of France: [the SNBC.](https://www.ecologie.gouv.fr/politiques-publiques/strategie-nationale-bas-carbone-snbc)
+* Quote from António Guterres, Secretary-General of the [United Nations, 2021.](https://unric.org/fr/antonio-guterres-le-rapport-dexperts-du-climat-est-une-alerte-rouge-pour-lhumanite/)
+* Limiting warming to +2° would require a reduction in global GHG emissions of [64% by 2050 and 84% to limit warming to +1.5°](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf).
+*   Global warming estimated at +3.2° by 2100 by the High Council for the Climate (HCC).
 
-:link: Pour plus d'informations, vous pouvez consulter le texte, en français, en suivant [ce lien](https://unfccc.int/resource/docs/convkp/kpfrench.pdf).
-
-</details>
-
-## Ressources sur la Comptabilisation
-
-### Autres standards, normes et règlementations de comptabilisation des émissions de GES
-
-<details>
-
-<summary>ISO 14064-1 : 2018</summary>
-
-L'ISO 14064-1:2018 spécifie les lignes directrices, au niveau des organismes, pour la quantification et la déclaration des émissions et des suppressions des gaz à effet de serre. La norme sert de référence aux principales méthodes, en particulier la méthodologie réglementaire française.
-
-Les exigences décrites par cette norme permettent de :&#x20;
-
-* définir les périmètres d'émission et suppression de gaz à effet de serre
-* quantifier ces émissions et suppressions
-* identifier les actions visant à améliorer la gestion de gaz à effet de serre.
-
-L'ISO/TR 14069 fournit des directives d’application de la norme ISO 14064-1. Elle décrit en particulier les 23 postes d’émissions du profil GES, répartis entre émissions directes et indirectes liées à l’énergie (obligatoires dans le cadre de la norme) et autres indirectes (optionnelles), et donne quelques exemples de comptabilisation.
-
-Pour plus d'information, vous pouvez consulter :&#x20;
-
-:link: la [fiche relative à l'ISO 14064-1](fiche-iso-14064-1.md), du panorama des méthodes de l'ABC.
+    [This estimate](https://www.hautconseilclimat.fr/wp-content/uploads/2023/06/HCC_RANC_2023-VF.pdf) is associated with a range of uncertainty on policy developments beyond 2030 ranging from 2.2°C to 3.5°C. Warming could be reduced by around 0.4°C if all commitments submitted within the framework of nationally determined contributions (NDCs) to the United Nations are met, and by around 0.9°C if countries' carbon neutrality commitments, for many of which are unrealistic, are also fully achieved. Thus, even in the case where all current 2030 commitments and countries' carbon neutrality are met, global warming would still exceed 2°C. Finally, by considering the entire range of uncertainty in the climate response, which is added to these values, the possibility of global warming of more than 4.0°C still cannot be excluded.
+* The decline in gross emissions in France must still affirm its structural character, as [indicated by the High Council for the Climate](https://www.hautconseilclimat.fr/wp-content/uploads/2023/10/HCC_Rapport_GP_2023_VF_cor-1.pdf).
 
 </details>
 
 <details>
 
-<summary>Méthode règlementaire pour la réalisation des bilans d'émissions de gaz à effet de serre (BEGES-R)</summary>
+<summary>Kyoto Protocol</summary>
 
-L’article 75 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l’environnement (ENE) a mis en place une généralisation des bilans d’émissions de gaz à effet de serre (c’est à dire le **Bilan GES règlementaire** ou **BEGES-R**) pour :&#x20;
+The Kyoto Protocol is an international agreement aimed at reducing greenhouse gas emissions and which complements the United Nations Framework Convention on Climate Change (UNFCCC) whose participating countries meet once a year since 1995. It defines in particular the various GHGs that must be taken into account in the context of these reductions:
 
-* Les entreprises de plus de 500 salariés (250 dans les DOM)
-* Les collectivités de plus de 50 000 habitants
-* Les établissements publics de plus de 250 agents
-* Les services de l’État.
+* Carbon dioxide, CO₂
+* Methane, CH₄
+* Nitrous oxide, N₂O
+* Sulphur hexafluoride, SF₆
+* [Hydrofluorocarbons](../glossaire.md#hydrofluorocarbures), HFC
+* [Perfluorocarbons](../glossaire.md#perfluorocarbures), PFC
 
-La méthodologie des BEGES-R vise à apporter les éléments nécessaires à l’élaboration du profil GES, à réaliser tous les 4 ans pour les personnes morales de droit privé, et tous les 3 ans pour l’État, les collectivités territoriales et les autres personnes morales de droit public.
+:link: For more information, you can consult the text, in French, by following [this link](https://unfccc.int/resource/docs/convkp/kpfrench.pdf).
 
-La méthode décrite, est directement inspirée par l’ISO 14064-1:2018 et a vu une mise à jour en 2022.
+</details>
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+## Resources on Accounting
 
-:link: la [plateforme nationale pour la publication des bilans d'émission de gaz à effet et serre](https://bilans-ges.ademe.fr/bilans/comment-publier) de l'ADEME.&#x20;
+### Other Standards, Norms and Regulations for Accounting GHG Emissions
 
-:link: la [méthode BEGES-R](https://www.ecologie.gouv.fr/sites/default/files/documents/methodo_BEGES_decli_07.pdf)
+<details>
 
-:link: l'[Arrêté](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031974429) du 25 janvier 2016, relatif à la plate-forme informatique pour la transmission des bilans d'émission de gaz à effet de serre
+<summary>ISO 14064-1: 2018</summary>
 
-:link: [La place du Bilan Carbone® vis-à-vis du Bilan GES règlementaire](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#la-place-du-bilan-carbone-r-vis-a-vis-des-reglementations).
+ISO 14064-1:2018 specifies guidelines, at the organisation level, for the quantification and reporting of greenhouse gas emissions and removals. The standard serves as a reference for the main methods, particularly the French regulatory methodology.
 
-:link: la [fiche relative au Bilan GES règlementaire](fiche-beges-r.md), du panorama des méthodes de l'ABC.
+The requirements described by this standard make it possible to:
 
+* define the boundaries for GHG emission and removal
+* quantify these emissions and removals
+* identify actions aimed at improving the management of greenhouse gases.
 
+ISO/TR 14069 provides guidelines for the application of ISO 14064-1. It describes in particular the 23 emission categories of the GHG profile, divided between direct emissions and indirect emissions linked to energy (mandatory under the standard) and other indirect (optional), and gives some accounting examples.
+
+For more information, you can consult:
+
+:link: the [sheet on ISO 14064-1](fiche-iso-14064-1.md), from the ABC's methods overview.
+
+</details>
+
+<details>
+
+<summary>Regulatory Method for GHG Emission Assessments (Regulatory GHG Assessment or BEGES-R)</summary>
+
+Article 75 of Law No. 2010-788 of 12 July 2010 on the national commitment to the environment (ENE) established a generalisation of greenhouse gas emission assessments (i.e. the **Regulatory GHG Assessment** or **BEGES-R**) for:
+
+* Companies with more than 500 employees (250 in overseas departments)
+* Local authorities with more than 50,000 inhabitants
+* Public bodies with more than 250 agents
+* State services.
+
+The BEGES-R methodology aims to provide the necessary elements for the preparation of the GHG profile, to be carried out every 4 years for private legal entities, and every 3 years for the State, local authorities and other public legal entities.
+
+The method described is directly inspired by ISO 14064-1:2018 and was updated in 2022.
+
+For more information, you can consult:
+
+:link: the [national platform for the publication of greenhouse gas emission assessments](https://bilans-ges.ademe.fr/bilans/comment-publier) from ADEME.
+
+:link: the [BEGES-R method](https://www.ecologie.gouv.fr/sites/default/files/documents/methodo_BEGES_decli_07.pdf)
+
+:link: the [Order](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031974429) of 25 January 2016, relating to the IT platform for transmitting greenhouse gas emission assessments
+
+:link: [The place of the Bilan Carbone® vis-à-vis the Regulatory GHG Assessment](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#la-place-du-bilan-carbone-r-vis-a-vis-des-reglementations).
+
+:link: the [sheet on the Regulatory GHG Assessment](fiche-beges-r.md), from the ABC's methods overview.
 
 </details>
 
@@ -279,31 +276,31 @@ Pour plus d'information, vous pouvez consulter :&#x20;
 
 <summary>Greenhouse Gas Protocol (GHG-P)</summary>
 
-Créé en 1998 par le World Ressources Institute (WRI) et le World Business Council for Sustainable Development (170 entreprises), avec le soutien d’ONGs et de gouvernements, **le GHG Protocol travaille avec de nombreux acteurs pour construire des normes de comptabilisation et de déclaration des gaz à effet de serre (GES) et de promouvoir leur adoption à grande échelle**. &#x20;
+Created in 1998 by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (170 companies), with the support of NGOs and governments, **the GHG Protocol works with many actors to build greenhouse gas (GHG) accounting and reporting standards and promote their large-scale adoption**.
 
-Le premier standard du GHG Protocol a été publié en 2001, et depuis, la méthode est utilisée dans le monde entier, notamment pour le reporting climat, par exemple auprès du [CDP](./#autres-ressources).
+The first GHG Protocol standard was published in 2001, and since then, the method has been used worldwide, notably for climate reporting, for example with the [CDP](./#autres-ressources).
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: la [fiche relative au GHG-P](fiche-ghg-p.md), du panorama des méthodes de l'ABC.
+:link: the [sheet on GHG-P](fiche-ghg-p.md), from the ABC's methods overview.
 
 </details>
 
 <details>
 
-<summary><strong>Corporate Sustainability Reporting Directive (</strong>CSRD) et ordonnance n°2023-1142 du 6 décembre 2023</summary>
+<summary><strong>Corporate Sustainability Reporting Directive (</strong>CSRD) and Ordinance No. 2023-1142 of 6 December 2023</summary>
 
-**Corporate Sustainability Reporting Directive.** Directive européenne fixant les nouvelles normes et obligations de reporting extra-financier. Elles est applicable depuis le 1er janvier 2024.
+**Corporate Sustainability Reporting Directive.** European directive setting new standards and non-financial reporting obligations. It has been applicable since 1 January 2024.
 
-L'**ordonnance n° 2023-1142 du 6 décembre 2023** relative à la publication et à la certification d'informations en matière de durabilité et aux obligations environnementales, sociales et de gouvernement d'entreprise des sociétés commerciales, **en France.** C'est la transcription dans la loi française de la directive européenne.
+**Ordinance No. 2023-1142 of 6 December 2023** relating to the publication and certification of sustainability information and to the environmental, social and corporate governance obligations of commercial companies, **in France.** This is the transposition into French law of the European directive.
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: le texte de la CSRD, en suivant [ce lien](https://www.efrag.org/Activities/2010051123028442/Sustainability-reporting-standards-roadmap)
+:link: the text of the CSRD, by following [this link](https://www.efrag.org/Activities/2010051123028442/Sustainability-reporting-standards-roadmap)
 
-:link: l'ordonnance, en suivant [ce lien](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048519395)
+:link: the ordinance, by following [this link](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048519395)
 
-:link: la [fiche relative à la CSRD](fiche-csrd.md), du panorama des méthodes de l'ABC.
+:link: the [sheet on the CSRD](fiche-csrd.md), from the ABC's methods overview.
 
 </details>
 
@@ -311,107 +308,107 @@ Pour plus d'information, vous pouvez consulter :&#x20;
 
 <summary>Diag Décarbon'action</summary>
 
-Le Diag Décarbon'action est un dispositif créé et financé par Bpifrance, avec l'appui méthodologique de l'ABC et de sa communauté. Le dispositif permet d'aider au financement du premier Bilan Carbone® des TPE, PME et de certaines ETI. Le Bilan Carbone® sera réalisé par un expert formé à la méthode, issu d'un pool de consultants présélectionnés.&#x20;
+The Diag Décarbon'action is a scheme created and funded by Bpifrance, with the methodological support of the ABC and its community. The scheme helps finance the first Bilan Carbone® for very small companies, SMEs and certain mid-sized companies. The Bilan Carbone® will be carried out by an expert trained in the method, from a pool of pre-selected consultants.
 
-Le Diag Décarbon'action n'est donc pas un nouveau standard, norme, ou règlementation en matière de comptabilité carbone, mais un dispositif qui facilite l'accès à ces démarches (notamment Bilan Carbone®) tout en conservant ses principes méthodologiques fondamentaux.
+The Diag Décarbon'action is therefore not a new standard, norm or regulation in terms of carbon accounting, but a scheme that facilitates access to these approaches (notably Bilan Carbone®) while preserving its fundamental methodological principles.
 
-:link: Pour plus d'information sur le dispositif : [https://diag.bpifrance.fr/diag-decarbon-action](https://diag.bpifrance.fr/diag-decarbon-action)
-
-</details>
-
-### Autres échelles de comptabilisation des émissions de GES
-
-<details>
-
-<summary>Empreinte Carbone d'un Produit</summary>
-
-Dans le cadre de la comptabilité carbone, on distingue généralement [quatre échelles principales](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#les-differentes-echelles-de-comptabilite-carbone) : territoire, individu, produit et organisation.
-
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront sur l'adaptation des principes du Bilan Carbone® Organisation sur les échelles produits et territoire. De prochaines réflexions seront axées sur l'empreinte Produit, et sur l'empreinte Territoire.</mark>
-
-Des initiatives existent. Par exemple la [proposition d'un nouvel indicateur climat](https://www.carbone4.com/files/Publication_2022_NZI_Nouvel_Indicateur_Climat_compressee.pdf) (SCAP) afin d'évaluer la compatibilité de produits ou services avec les objectifs des accords de Paris
-
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+:link: For more information on the scheme: [https://diag.bpifrance.fr/diag-decarbon-action](https://diag.bpifrance.fr/diag-decarbon-action)
 
 </details>
 
+### Other Scales of GHG Emission Accounting
+
 <details>
 
-<summary>Empreinte Carbone d'un Individu (ou empreinte carbone personnelle)</summary>
+<summary>Carbon Footprint of a Product</summary>
 
-Dans le cadre de la comptabilité carbone, on distingue généralement [quatre échelles principales](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#les-differentes-echelles-de-comptabilite-carbone) : territoire, individu, produit et organisation.
+In the context of carbon accounting, [four main scales](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#les-differentes-echelles-de-comptabilite-carbone) are generally distinguished: territory, individual, product and organisation.
 
-Une méthode de référence publiée par l'ABC cadre la méthode d'estimation de l’empreinte d’un individu afin d'apporter une information exhaustive et pédagogique de sa contribution climatique et de ses leviers d'action.
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves on the adaptation of the Bilan Carbone® Organisation principles to product and territory scales. Upcoming reflections will focus on the Product footprint, and on the Territory footprint.</mark>
 
-:link: Pour plus d'information : [https://www.empreinte-carbone-personnelle.com/](https://www.empreinte-carbone-personnelle.com/)
+Initiatives exist. For example the [proposal of a new climate indicator](https://www.carbone4.com/files/Publication_2022_NZI_Nouvel_Indicateur_Climat_compressee.pdf) (SCAP) to assess the compatibility of products or services with the objectives of the Paris Agreement.
+
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
 
 </details>
 
 <details>
 
-<summary>Empreinte Carbone d'un Territoire</summary>
+<summary>Carbon Footprint of an Individual (or personal carbon footprint)</summary>
 
-Dans le cadre de la comptabilité carbone, on distingue généralement [quatre échelles principales](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#les-differentes-echelles-de-comptabilite-carbone) : territoire, individu, produit et organisation.
+In the context of carbon accounting, [four main scales](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#les-differentes-echelles-de-comptabilite-carbone) are generally distinguished: territory, individual, product and organisation.
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront sur l'adaptation des principes du Bilan Carbone® Organisation sur les échelles produits et territoire. De prochaines réflexions seront axées sur l'empreinte Produit, et sur l'empreinte Territoire.</mark>
+A reference method published by the ABC frames the method for estimating the footprint of an individual in order to provide comprehensive and educational information on their climate contribution and levers for action.
 
-Des initiatives existent.
-
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+:link: For more information: [https://www.empreinte-carbone-personnelle.com/](https://www.empreinte-carbone-personnelle.com/)
 
 </details>
 
 <details>
 
-<summary>Net Zero Initiative : sur les émissions induites, évitées et séquestrées</summary>
+<summary>Carbon Footprint of a Territory</summary>
 
-Le référentiel Net Zero Initiative propose aux organisations une manière de décrire et d’organiser leur action climat en vue de maximiser leur contribution à la neutralité carbone mondiale.
+In the context of carbon accounting, [four main scales](../../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#les-differentes-echelles-de-comptabilite-carbone) are generally distinguished: territory, individual, product and organisation.
+
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves on the adaptation of the Bilan Carbone® Organisation principles to product and territory scales. Upcoming reflections will focus on the Product footprint, and on the Territory footprint.</mark>
+
+Initiatives exist.
+
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
+
+</details>
+
+<details>
+
+<summary>Net Zero Initiative: on induced, avoided and sequestered emissions</summary>
+
+The Net Zero Initiative framework offers organisations a way to describe and organise their climate action with a view to maximising their contribution to global carbon neutrality.
 
 <img src="https://strapipreprod.s3.eu-west-3.amazonaws.com/nzi_site.png" alt="" data-size="original">
 
-Chaque organisation est alors incitée à :&#x20;
+Each organisation is then encouraged to:
 
-1. Evaluer sa performance sur ces trois piliers ;
-2. Se fixer des objectifs ambitieux sur ces trois piliers en parallèle ;
-3. Les piloter dynamiquement dans le temps.
+1. Assess its performance on these three pillars;
+2. Set ambitious objectives on these three pillars in parallel;
+3. Steer them dynamically over time.
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: Le référentiel NZI : [https://www.net-zero-initiative.com/fr/referentiel](https://www.net-zero-initiative.com/fr/referentiel)
+:link: The NZI framework: [https://www.net-zero-initiative.com/fr/referentiel](https://www.net-zero-initiative.com/fr/referentiel)
 
-:link: le [guide pilier B](https://www.carbone4.com/files/Publication_2022_NZI_Guide_Pilier_B.pdf) de la NZI&#x20;
+:link: the [pillar B guide](https://www.carbone4.com/files/Publication_2022_NZI_Guide_Pilier_B.pdf) of the NZI
 
-:link: le[ guide pilier C](https://www.carbone4.com/publication-nzi-pilier-c) de la NZI&#x20;
+:link: the [pillar C guide](https://www.carbone4.com/publication-nzi-pilier-c) of the NZI
 
 </details>
 
 <details>
 
-<summary>Avis de l'ADEME sur la Neutralité Carbone</summary>
+<summary>ADEME's Position on Carbon Neutrality</summary>
 
-L'ADEME invite à ne pas viser une neutralité carbone arithmétique à l'échelle d'une organisation, mais de prioriser les leviers de décarbonation sur le périmètre de l'organisation (émissions induites).
+ADEME invites organisations not to pursue arithmetic carbon neutrality at the organisational level, but to prioritise decarbonisation levers within the organisation's boundary (induced emissions).
 
-Pour plus d'information :&#x20;
+For more information:
 
-:link: [L'avis de l'ADEME](https://librairie.ademe.fr/changement-climatique-et-energie/4524-avis-de-l-ademe-la-neutralite-carbone.html)
+:link: [ADEME's position](https://librairie.ademe.fr/changement-climatique-et-energie/4524-avis-de-l-ademe-la-neutralite-carbone.html)
 
 </details>
 
-### Guides pratiques de comptabilisation
+### Practical Accounting Guides
 
 <details>
 
-<summary>Travaux et guides sectoriels</summary>
+<summary>Sectoral Work and Guides</summary>
 
-L’ADEME et les fédérations professionnelles françaises ont produit une série de guides sectoriels, donnant des exemples et des conseils en matière de comptabilité carbone. Ils s’attachent particulièrement à définir les sources, puits, type de gaz, données nécessaires et modalités de calculs pour chaque poste émetteur significatif et/ou pertinent du secteur considéré afin d’optimiser la réalisation des Bilan GES règlementaire. Les guides sont également représentatifs du secteur sur la base de retours d'expérience ou bonnes pratiques.
+ADEME and French professional federations have produced a series of sectoral guides, giving examples and advice on carbon accounting. They focus particularly on defining sources, sinks, type of gas, necessary data and calculation methods for each significant and/or relevant emitting category of the sector concerned, in order to optimise the preparation of regulatory GHG assessments. The guides are also representative of the sector based on feedback or best practices.
 
-**Les guides sectoriels sont en cours de mise à jour avec notamment des consultations publiques. Les mises à jour seront mises en lignes progressivement sur le site de l'ADEME.**
+**The sectoral guides are being updated with public consultations in particular. Updates will be progressively published on the ADEME website.**
 
-:link:  Pour consulter les guides sectoriels :[https://bilans-ges.ademe.fr/ressources/approches-sectorielles](https://bilans-ges.ademe.fr/ressources/approches-sectorielles)
+:link: To consult the sectoral guides: [https://bilans-ges.ademe.fr/ressources/approches-sectorielles](https://bilans-ges.ademe.fr/ressources/approches-sectorielles)
 
-Un outil sectoriel complémentaire et dédié aux stocks et aux flux de carbone des territoires a également été créé par l'ADEME avec l'appui de l'ABC.
+A complementary sectoral tool dedicated to carbon stocks and flows in territories was also created by ADEME with the support of the ABC.
 
-:link:  Pour consulter l'outil :[https://docs.datagir.ademe.fr/documentation-aldo/flux/methode-generale](https://docs.datagir.ademe.fr/documentation-aldo/flux/methode-generale)
+:link: To consult the tool: [https://docs.datagir.ademe.fr/documentation-aldo/flux/methode-generale](https://docs.datagir.ademe.fr/documentation-aldo/flux/methode-generale)
 
 </details>
 
@@ -419,78 +416,78 @@ Un outil sectoriel complémentaire et dédié aux stocks et aux flux de carbone 
 
 <summary>Plan Carbone Général (PCG)</summary>
 
-Le Plan Carbone Général est un guide opératoire de référence piloté par l'ABC en partenariat avec l'APCC et sur l'idée originale de SAMI. Ce guide vise à répondre de manière consensuelle à toutes les questions pratiques qui concernent la comptabilité carbone .&#x20;
+The Plan Carbone Général is a reference operational guide managed by the ABC in partnership with the APCC and on the original idea of SAMI. This guide aims to respond consensually to all practical questions concerning carbon accounting.
 
-Le Plan Carbone Général couvre pour le moment les quatre méthodologies principales de comptabilité carbone que sont :     &#x20;
+The Plan Carbone Général currently covers the four main carbon accounting methodologies that are:
 
-* Le Bilan Carbone®
-* Le Bilan GES réglementaire
-* L'ISO 14064-1
-* Le GHG Protocol
+* The Bilan Carbone®
+* The Regulatory GHG Assessment
+* ISO 14064-1
+* The GHG Protocol
 
-Le Plan Carbone Général est une ressource évolutive qui est en cours de modification par l'ABC, certaines parties de la ressource peuvent donc être amenée à subir des changements importants, **notamment avec l'arrivée de cette nouvelle version de la méthode**. Les utilisateurs de la ressource peuvent par ailleurs faire remonter des manques, ou proposer des idées d'amélioration en rejoignant la communauté [Open Carbone Practice](https://app.gitbook.com/s/zOlIAIcT5f1ZANYh0WMo/) sur Slack.&#x20;
+The Plan Carbone Général is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, **particularly with the arrival of this new version of the method**. Users of the resource can moreover report gaps or propose ideas for improvement by joining the [Open Carbon Practice](https://app.gitbook.com/s/zOlIAIcT5f1ZANYh0WMo/) community on Slack.
 
-:link: Pour consulter le PCG : [https://www.plancarbonegeneral.com/](https://www.plancarbonegeneral.com/)
-
-</details>
-
-<details>
-
-<summary>Comptabilité Carbone Analytique</summary>
-
-La Comptabilité Carbone Analytique est une méthode de calcul des émissions de Gaz à Effet de Serre (GES) dont dépend l’organisation. La Comptabilité Carbone Analytique est une comptabilité carbone qui produit un Profil GES (et donc des indicateurs sur l’impact et la dépendance de l’organisation aux émissions de GES) selon plusieurs périmètres personnalisables, selon la réalité opérationnelle propre à chaque organisation.
-
-Elle permet de :
-
-* construire un Bilan Carbone® à des niveaux hiérarchiques différents, permettant à chaque responsable en capacité de mettre en œuvre des actions de suivre l'impact de ses décisions à travers l'étude des émissions à son niveau. L'idée est donc de découper le profil d’émissions par partie prenante interne (exemple : business unit, équipe, site) pour faciliter les prises de décision ; et par partie prenante externe (exemple : client, fournisseur) pour faciliter la mise en œuvre du plan de transition (ACV, FE spécifique, questionnaire fournisseur, étude aval, etc.).
-* construire le squelette du Bilan Carbone® en fonction du plan comptable de l'organisation, a minima pour chaque périmètre que l’entreprise supervise d’un point de vue financier à des fins d’optimisation de coûts ou de gains. Ainsi l'organisation a les moyens de piloter ses prises de décision via un coût financier et un coût carbone.
-
-Ces principes sont compatibles avec les attentes de la méthode Bilan Carbone®. Il est en effet possible d'obtenir un Bilan Carbone® en exprimant les résultats (profil GES et actions) avec une lecture dite « analytique » (selon des axes ou postes analytiques). La comptabilité carbone analytique permet donc d’installer le Bilan Carbone® de l’organisation comme un outil de décision et d'étude d'impact, de risque et d'opportunité face aux enjeux énergie climat.
-
-Pour plus d'information, vous pouvez consulter :&#x20;
-
-:link: Les références de la méthode Bilan Carbone® à la comptabilité carbone analytique s’appuie sur le [Guide de Comptabilité Carbone Analytique](https://mobeetip.fr/comptabilite-carbone-analytique/), publié à l'initiative de Mobeetip
-
-:link: la [fiche synthèse, relative à la CCA](fiche-cca.md).
+:link: To consult the PCG: [https://www.plancarbonegeneral.com/](https://www.plancarbonegeneral.com/)
 
 </details>
 
 <details>
 
-<summary>Spécificités de l'empreinte carbone pour les associations</summary>
+<summary>Analytical Carbon Accounting (CCA)</summary>
 
-Il s'agit d'une double ressource adaptée aux spécificités associatives :
+Analytical Carbon Accounting is a method for calculating the Greenhouse Gas (GHG) emissions on which the organisation depends. Analytical Carbon Accounting is a carbon accounting method that produces a GHG Profile (and therefore indicators on the impact and dependence of the organisation on GHG emissions) according to several customisable boundaries, according to the operational reality specific to each organisation.
 
-* Une [approche sectorielle du Plan Carbone Générale](https://www.plancarbonegeneral.com/approches-sectorielles/introduction) : conseils pratiques et concrets pour la comptabilisation des émissions carbone d'une association.
-* Une [annexe du Bilan Carbone®](https://www.bilancarbone-methode.com/annexes/annexes/annexe-5-specificites-pour-les-collectivites-et-les-associations) : pour adapter le pilotage d'une démarche Bilan Carbone® au sein d'une association. Elle a pour ambition de renforcer le passage à l’action climatique dans le secteur associatif en s’appuyant sur une méthodologie adaptée et accessible, conçue collectivement pour répondre aux défis spécifiques de ce secteur.
+It makes it possible to:
 
-Cette annexe est le fruit des réflexions menées avec un Groupe de Travail sur l'empreinte carbone des associations, créé spécifiquement par l’ABC (Association pour la transition Bas Carbone) et le Mouvement Tilt. Elle constitue une référence méthodologique pour des outils pratiques alignés sur les réalités et les spécificités de ce secteur.
+* build a Bilan Carbone® at different hierarchical levels, enabling each manager capable of implementing actions to monitor the impact of their decisions through the study of emissions at their level. The idea is therefore to divide the emission profile by internal stakeholder (example: business unit, team, site) to facilitate decision-making; and by external stakeholder (example: customer, supplier) to facilitate the implementation of the transition plan (LCA, specific EF, supplier questionnaire, downstream study, etc.).
+* build the skeleton of the Bilan Carbone® based on the organisation's chart of accounts, at minimum for each boundary that the company supervises from a financial point of view for the purpose of cost or profit optimisation. The organisation thus has the means to steer its decision-making via a financial cost and a carbon cost.
 
-Ce Groupe de Travail regroupe des experts de la sphère associative, des associations témoins, des experts de la comptabilité carbone et des institutions.
+These principles are compatible with the expectations of the Bilan Carbone® method. It is indeed possible to obtain a Bilan Carbone® by expressing the results (GHG profile and actions) with a so-called "analytical" reading (according to analytical axes or categories). Analytical carbon accounting therefore makes it possible to install the organisation's Bilan Carbone® as a decision-making and impact, risk and opportunity study tool in the face of energy-climate challenges.
+
+For more information, you can consult:
+
+:link: The references of the Bilan Carbone® method to analytical carbon accounting draws on the [Analytical Carbon Accounting Guide](https://mobeetip.fr/comptabilite-carbone-analytique/), published at the initiative of Mobeetip
+
+:link: the [summary sheet on CCA](fiche-cca.md).
+
+</details>
+
+<details>
+
+<summary>Specificities of the Carbon Footprint for Associations</summary>
+
+This is a dual resource adapted to the specificities of associations:
+
+* A [sectoral approach of the Plan Carbone Général](https://www.plancarbonegeneral.com/approches-sectorielles/introduction): practical and concrete advice for accounting for the carbon emissions of an association.
+* An [annex of the Bilan Carbone®](https://www.bilancarbone-methode.com/annexes/annexes/annexe-5-specificites-pour-les-collectivites-et-les-associations): to adapt the steering of a Bilan Carbone® approach within an association. Its ambition is to strengthen the transition to climate action in the association sector by drawing on an adapted and accessible methodology, collectively designed to address the specific challenges of this sector.
+
+This annex is the result of reflections conducted with a Working Group on the carbon footprint of associations, created specifically by the ABC (Association pour la transition Bas Carbone) and the Mouvement Tilt. It constitutes a methodological reference for practical tools aligned with the realities and specificities of this sector.
+
+This Working Group brings together experts from the association sphere, association witnesses, carbon accounting experts and institutions.
 
 ![](<../../.gitbook/assets/ABC X TILT 2.png>)
 
-Ces livrables méthodologiques s'adressent aux **associations loi 1901 déclarées en France**. Si d’autres structures de l’intérêt général (comme des fondations) ou des associations non françaises souhaitent se saisir de l'**approche sectorielle**, elles peuvent, sans garantie que cette approche leur conviendra pleinement.
+These methodological deliverables are addressed to **associations governed by the French law of 1901 and declared in France**. If other general-interest structures (such as foundations) or non-French associations wish to use the **sectoral approach**, they may do so, without any guarantee that this approach will suit them fully.
 
 </details>
 
-## Ressources sur la stratégie et plan de transition
+## Resources on Strategy and Transition Plan
 
 <details>
 
-<summary>Guide pour la construction, la mise en œuvre et le suivi d'un plan de transition de l'ADEME</summary>
+<summary>Guide for Building, Implementing and Monitoring a Transition Plan from ADEME</summary>
 
-Ce document apporte une aide méthodologique aux organisations souhaitant mettre en place des plans de transition. Il s’intéresse aux plans de transition couvrant les actions de réduction des émissions directes et indirectes de GES liées aux activités d’une organisation, ainsi qu’à l'ébauche d’une vision long terme et stratégique pour transformer ces activités vers un modèle bas carbone.
+This document provides methodological assistance to organisations wishing to implement transition plans. It focuses on transition plans covering actions to reduce direct and indirect GHG emissions related to an organisation's activities, as well as the outline of a long-term and strategic vision for transforming these activities towards a low-carbon model.
 
-Ce Guide s’adresse aux organisations ayant réalisé la quantification de leurs émissions de GES dans le cadre de leur bilan GES et souhaitant mettre en place le plan de transition associé.
+This Guide is addressed to organisations that have carried out the quantification of their GHG emissions within the framework of their GHG assessment and wishing to implement the associated transition plan.
 
-Ce guide est orienté « gestion de projet » en constituant une méthode opérationnelle préconisant les étapes à suivre pour la construction, la mise en place et le suivi d’un plan de transition. Il est basé sur l’analyse de documents de référence sur le sujet, des retours d’expériences d’organisations et des contributions d'experts. Les organisations sont invitées à s’inspirer de ce guide, en sélectionnant les éléments qui lui semblent les plus pertinents au regard de ses enjeux métiers, de ses motivations et de son niveau de maturité.
+This guide is oriented towards "project management" by constituting an operational method recommending the steps to follow for the construction, implementation and monitoring of a transition plan. It is based on the analysis of reference documents on the subject, feedback from organisations and contributions from experts. Organisations are invited to draw inspiration from this guide, selecting the elements that seem most relevant to their business issues, motivations and maturity level.
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: Le [Guide pour la construction, la mise en œuvre et le suivi d'un plan de transition](https://bilans-ges.ademe.fr/docutheque/guide-plan-transition.ext)
+:link: The [Guide for building, implementing and monitoring a transition plan](https://bilans-ges.ademe.fr/docutheque/guide-plan-transition.ext)
 
-:link: [Elaborer son plan de transition](https://bilans-ges.ademe.fr/ressources/elaborer-son-plan-de-transition) sur le site Bilan GES
+:link: [Develop your transition plan](https://bilans-ges.ademe.fr/ressources/elaborer-son-plan-de-transition) on the Bilan GES website
 
 </details>
 
@@ -498,57 +495,57 @@ Pour plus d'information, vous pouvez consulter :&#x20;
 
 <summary>Quanti GES</summary>
 
-La méthode de quantification des émissions de GES liées à une action est une méthode développée par l’ADEME depuis 2014. Elle permet de comparer un scénario « avec action » et un scénario « sans action », et ce à divers moments clés de l’action, via l’analyse d’un arbre des conséquences et une comptabilisation des GES grâce à des facteurs d’émission.&#x20;
+The method for quantifying GHG emissions related to an action is a method developed by ADEME since 2014. It makes it possible to compare a "with action" scenario and a "without action" scenario, at various key moments in the action, via the analysis of a consequences tree and GHG accounting using emission factors.
 
-Une version 3 a été publiée en 2022, plus robuste et opérationnelle.
+A version 3 was published in 2022, more robust and operational.
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Concernant le lien entre la méthode Empreinte Projet et QuantiGES, une revue bibliographique est en cours et sera bientôt proposée.</mark>&#x20;
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Regarding the link between the Project Footprint method and QuantiGES, a bibliographical review is underway and will be proposed shortly.</mark>
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: [La méthode QuantiGES ](https://librairie.ademe.fr/changement-climatique-et-energie/4827-methode-quantiges.html)
+:link: [The QuantiGES method](https://librairie.ademe.fr/changement-climatique-et-energie/4827-methode-quantiges.html)
 
-:link: [Mettre en œuvre son plan de transition](https://bilans-ges.ademe.fr/ressources/mettre-en-oeuvre-son-plan-de-transition) sur le site Bilan GES
+:link: [Implement your transition plan](https://bilans-ges.ademe.fr/ressources/mettre-en-oeuvre-son-plan-de-transition) on the Bilan GES website
 
 </details>
 
 <details>
 
-<summary>ACT Pas à Pas ou ACT Step by Step</summary>
+<summary>ACT Step by Step</summary>
 
-ACT (Accelerate Climate Transition) **Pas-à-pas** s’adresse à toute entreprise qui désire construire et de mettre en œuvre une stratégie bas carbone ambitieuse et concrète. La démarche est divisée en 5 grandes étapes :&#x20;
+ACT (Accelerate Climate Transition) **Step by Step** is addressed to any company wishing to build and implement an ambitious and concrete low-carbon strategy. The approach is divided into 5 main steps:
 
-* Diagnostic de la situation actuelle&#x20;
-* Déterminaison des enjeux et défis
+* Diagnosis of the current situation
+* Determination of issues and challenges
 * Vision
-* Nouvelle stratégie
-* Construction du plan d'action
+* New strategy
+* Construction of the action plan
 
-ACT Pas à pas s’appuie sur une boîte à outils et des guides pratiques. L'objectif final étant la mise en œuvre d'un programme d'actions qui décline la stratégie, ainsi que son suivi et son pilotage. Le processus recouvre tous les thèmes de la stratégie, des enjeux de gouvernance aux indicateurs et objectifs de performance carbone.
+ACT Step by Step draws on a toolkit and practical guides. The final objective being the implementation of an action programme that translates the strategy, as well as its monitoring and steering. The process covers all themes of strategy, from governance issues to carbon performance indicators and objectives.
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: Le site de l'initiative ACT [https://actinitiative.org/](https://actinitiative.org/)
+:link: The ACT initiative website [https://actinitiative.org/](https://actinitiative.org/)
 
-:link: la [fiche relative à ACT](fiche-act.md), du panorama des méthodes de l'ABC.
+:link: the [sheet on ACT](fiche-act.md), from the ABC's methods overview.
 
 </details>
 
 <details>
 
-<summary>ACT Evaluation ou ACT Assessment</summary>
+<summary>ACT Assessment</summary>
 
-La méthode ACT (Accelerate Climate Transition) **Evaluation** couvre les deux aspects de la comptabilité carbone : le reporting et le passage à l’action. Il s’agit d’une notation extrafinancière à destination des investisseurs de l’entreprise auditée visant à évaluer la position de l’entreprise vis-à-vis d’une trajectoire sectorielle « 2° ». La méthode s’appuie donc fortement sur les outils du _Science Based Targets_.
+The ACT (Accelerate Climate Transition) **Assessment** method covers both aspects of carbon accounting: reporting and transition to action. It is an extra-financial rating for investors of the audited company aimed at assessing the company's position vis-à-vis a sectoral "2°" pathway. The method therefore relies heavily on the tools of the _Science Based Targets_.
 
-L’auditeur observe donc le passé de l’entreprise (actions déjà menées), son présent (comparaison avec son secteur d’activité) et le futur projeté (actions envisagées). Une note en trois parties vient évaluer la position de l’entreprise vis-à-vis de sa trajectoire, la cohérence des différents indicateurs et la confiance de l’auditeur envers l’évolution probable de la note.
+The auditor therefore observes the company's past (actions already taken), its present (comparison with its sector of activity) and the projected future (planned actions). A three-part rating assesses the company's position vis-à-vis its pathway, the coherence of the various indicators and the auditor's confidence in the probable evolution of the rating.
 
-Les référentiels sectoriels de ACT apportent de même une indication quant aux actions à prendre pour entrer dans une trajectoire « 2° » : les entreprises sont ainsi incitées à passer à l’acte.
+The sectoral frameworks of ACT also provide an indication of the actions to take to enter a "2°" pathway: companies are thus encouraged to take action.
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
-:link: Le site de l'initiative ACT [https://actinitiative.org/](https://actinitiative.org/)
+:link: The ACT initiative website [https://actinitiative.org/](https://actinitiative.org/)
 
-:link: la [fiche relative à ACT](fiche-act.md), du panorama des méthodes de l'ABC.
+:link: the [sheet on ACT](fiche-act.md), from the ABC's methods overview.
 
 </details>
 
@@ -556,29 +553,29 @@ Pour plus d'information, vous pouvez consulter :&#x20;
 
 <summary>Science Based Targets Initiative (SBT)</summary>
 
-L’initiative SBT est menée par le CDP, le WRI et le _World Wide Fund_ for Nature (WWF), avec le soutien de l’_United Nations Global Compact_ (UNGC) et la coalition _We Mean Business_. Ce projet vise à pousser les entreprises à établir des objectifs de réduction en phase avec les recommandations du GIEC, et en particulier avec les scénarios limitant le réchauffement à 1,5°C et +2°. Plusieurs outils sont fournis par la coalition pour que chaque entreprise puisse développer ses objectifs, en cohérence avec des scénarios sectoriels, en particulier ceux de l’Agence Internationale de l’Énergie (AIE).
+The SBT initiative is led by CDP, WRI and the World Wide Fund for Nature (WWF), with the support of the United Nations Global Compact (UNGC) and the We Mean Business coalition. This project aims to push companies to establish reduction objectives in line with the IPCC's recommendations, and in particular with the scenarios limiting warming to 1.5°C and +2°. Several tools are provided by the coalition so that each company can develop its objectives, in coherence with sectoral scenarios, particularly those of the International Energy Agency (IEA).
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
 
 </details>
 
 <details>
 
-<summary>Stratégie Nationale Bas Carbone (SNBC)</summary>
+<summary>National Low-Carbon Strategy (SNBC)</summary>
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
 
 </details>
 
-## Ressources sur la Communication
+## Resources on Communication
 
 <details>
 
-<summary>Charte de communication des outils</summary>
+<summary>Tool Communication Charter</summary>
 
-La comptabilité carbone ainsi que l’action pour la lutte contre le changement climatique et en faveur de la transition bas carbone sont devenus un véritable enjeu de communication, d’image et de posture.&#x20;
+Carbon accounting as well as action to combat climate change and in favour of the low-carbon transition have become a genuine communication, image and positioning challenge.
 
-Cette charte propose un consensus parmi ses signataires quant au respect de principes de communication autour d’une comptabilité carbone de qualité, inscrite dans une contribution active à la transition de notre société vers un modèle décarboné.
+This charter proposes a consensus among its signatories regarding the respect of communication principles around quality carbon accounting, inscribed in an active contribution to the transition of our society towards a decarbonised model.
 
 :link: [https://charte-communication-climat.fr/](https://charte-communication-climat.fr/)
 
@@ -586,38 +583,38 @@ Cette charte propose un consensus parmi ses signataires quant au respect de prin
 
 <details>
 
-<summary>Guide de communication sur les enjeux climat</summary>
+<summary>Communication Guide on Climate Issues</summary>
 
-La comptabilité carbone ainsi que l’action pour la lutte contre le changement climatique et en faveur de la transition bas carbone sont devenus un véritable enjeu de communication, d’image et de posture.
+Carbon accounting as well as action to combat climate change and in favour of the low-carbon transition have become a genuine communication, image and positioning challenge.
 
-Ce guide propose :&#x20;
+This guide proposes:
 
-* Des définitions, éléments de langages et principes de communication autour d’une comptabilité carbone de qualité, inscrite dans une contribution active à la transition de notre société vers un modèle décarboné.
-* Des conseils d'applications sur la création d'un environnement propice à la bonne communication (non exhaustif)
+* Definitions, language elements and communication principles around quality carbon accounting, inscribed in an active contribution to the transition of our society towards a decarbonised model.
+* Application advice on creating a favourable environment for good communication (non-exhaustive)
 
 :link: [https://www.guide-communication-climat.fr/](https://www.guide-communication-climat.fr/)
 
 </details>
 
-## Autres ressources
+## Other Resources
 
 <details>
 
-<summary>Questionnaires et rapports du CDP</summary>
+<summary>CDP Questionnaires and Reports</summary>
 
-Le CDP est une ONG qui porte un modèle de reporting international, à destination des entreprises, des villes, des états et des régions, via des questionnaires en ligne. Présent dans cinquante pays du monde, le CDP propose une série de questionnaires payants, dont les réponses sont ensuite analysées. Des rapports sont publiés régulièrement à partir de ces données, pour que les décideurs du monde (investisseurs, acheteurs, etc) puissent agir en conséquence.
+The CDP is an NGO that carries an international reporting model, addressed to companies, cities, states and regions, via online questionnaires. Present in fifty countries worldwide, CDP offers a series of paid questionnaires, whose responses are then analysed. Reports are published regularly from this data, so that the world's decision-makers (investors, buyers, etc.) can act accordingly.
 
-Le questionnaire CDP traite des émissions scope 1&2, ainsi que scope 3 de manière moins approfondie. D’autres questions traitent de la gouvernance, de la stratégie (management du risque, business et engagement auprès des gouvernements), des objectifs et initiatives de l’entreprise en termes de réduction d’émissions et enfin de communication.
+The CDP questionnaire addresses scope 1 & 2 emissions, as well as scope 3 in less depth. Other questions address governance, strategy (risk management, business and engagement with governments), the company's objectives and initiatives in terms of emission reductions and finally communication.
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
 
 </details>
 
 <details>
 
-<summary>Ombre climatique</summary>
+<summary>Climate Shadow</summary>
 
-<mark style="background-color:blue;">⏳L'ABC fera prochainement une publication d'étude sur ce concept et comment il complémente le Bilan Carbone®, sur plusieurs exemples (services, publicité, décarbonation), en s'inspirant et en allant plus loin que plusieurs travaux :</mark>
+<mark style="background-color:blue;">⏳The ABC will shortly publish a study on this concept and how it complements the Bilan Carbone®, on several examples (services, advertising, decarbonisation), drawing inspiration from and going further than several works:</mark>
 
 * [https://www.mic.com/impact/forget-your-carbon-footprint-lets-talk-about-your-climate-shadow](https://www.mic.com/impact/forget-your-carbon-footprint-lets-talk-about-your-climate-shadow)
 * [https://www.linkedin.com/posts/pour-un-reveil-ecologique\_climatique-carbone-co2-activity-6869549157326049280-yepb/](https://www.linkedin.com/posts/pour-un-reveil-ecologique_climatique-carbone-co2-activity-6869549157326049280-yepb/)
@@ -625,41 +622,41 @@ Le questionnaire CDP traite des émissions scope 1&2, ainsi que scope 3 de mani�
 * [https://bonpote.com/lombre-climatique-le-bon-et-le-mauvais-carbone/](https://bonpote.com/lombre-climatique-le-bon-et-le-mauvais-carbone/)
 * [https://www.nationalgeographic.fr/environnement/climat-oubliez-empreinte-carbone-il-faut-se-focaliser-sur-ombre-climatique](https://www.nationalgeographic.fr/environnement/climat-oubliez-empreinte-carbone-il-faut-se-focaliser-sur-ombre-climatique)
 
-<mark style="background-color:blue;">⏳Ces travaux n'ont aujourd'hui pas été analysés par l'ABC et n'engage en rien la position de l'association et de sa communauté.</mark>
+<mark style="background-color:blue;">⏳These works have not been analysed by the ABC and in no way commit the position of the association and its community.</mark>
 
 </details>
 
 <details>
 
-<summary>Recommandations de la Task Force on Climate-related Financial Disclosures (TCFD)</summary>
+<summary>Recommendations of the Task Force on Climate-related Financial Disclosures (TCFD)</summary>
 
-La TCFD est une task-force mise en place par le _Financial Stability Board_, orientée entreprise pour développer un reporting volontaire et pertinent pour les investisseurs, lié aux risques matériels.
+The TCFD is a task force set up by the Financial Stability Board, business-oriented to develop voluntary and relevant reporting for investors, linked to material risks.
 
-Quatre recommandations principales sont mises en avant : le reporting devrait être utilisable par toutes les organisations, inclure des liens avec l’analyse financière, permettre des décisions opérationnelles et se focaliser sur l’analyse de risques et opportunités liées à la transition vers une économie bas-carbone.
+Four main recommendations are highlighted: reporting should be usable by all organisations, include links with financial analysis, enable operational decisions and focus on the analysis of risks and opportunities linked to the transition towards a low-carbon economy.
 
-La TCFD s'est dissoute à la suite de la remise de son dernier rapport, en octobre 2023. Le _Financial Stability Board_ a demandé à l'IFRS de prendre la relève sur les missions de la TCFD.
+The TCFD dissolved following the submission of its last report, in October 2023. The Financial Stability Board requested the IFRS to take over the TCFD's missions.
 
-Diverses recommandations de la TCFD sont intégrées [au sein de l'identification des risques et opportunités](../../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md) de la méthode Bilan Carbone®.
+Various TCFD recommendations are integrated [into the identification of risks and opportunities](../../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md) of the Bilan Carbone® method.
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
 
 </details>
 
 <details>
 
-<summary>ISO/IEC 17029 et ISO 14066:2023</summary>
+<summary>ISO/IEC 17029 and ISO 14066:2023</summary>
 
-**Évaluation de la conformité — Principes généraux et exigences pour les organismes de validation et de vérification**
+**Conformity assessment — General principles and requirements for validation and verification bodies**
 
-Le document expose les exigences de ces deux activités ainsi que la définition du programme de validation/vérification devant être appliqué.&#x20;
+The document sets out the requirements for these two activities as well as the definition of the validation/verification programme to be applied.
 
-"_Un tel programme précise des définitions, des principes, des règles, des processus et des exigences applicables aux étapes du processus de validation/vérification, ainsi que les compétences des valideurs/vérificateurs pour un secteur spécifique. Les programmes peuvent être des cadres juridiques, des normes internationales, régionales ou nationales, des initiatives globales, des applications sectorielles ainsi que des accords individuels avec les clients de l’organisme de validation/ vérification_."
+"_Such a programme specifies definitions, principles, rules, processes and requirements applicable to the steps of the validation/verification process, as well as the competencies of validators/verifiers for a specific sector. Programmes can be legal frameworks, international, regional or national standards, global initiatives, sectoral applications as well as individual agreements with clients of the validation/verification body_."
 
-"La validation et vérification _sont différenciées en fonction de la chronologie de la déclaration évaluée. La validation s’applique à des déclarations concernant un usage futur prévu ou un résultat projeté (confirmation de la plausibilité), tandis que la vérification porte sur des déclarations concernant des événements ayant déjà eu lieu ou des résultats ayant déjà été obtenus (confirmation de la véracité)._ "
+"_Validation and verification are differentiated based on the chronology of the assessed statement. Validation applies to statements concerning a planned intended use or a projected result (confirmation of plausibility), while verification relates to statements concerning events that have already taken place or results that have already been obtained (confirmation of truthfulness)._"
 
-La **norme ISO 14066 : 2023** définit les exigences de compétence pour les équipes de validation et les équipes de vérification des **informations environnementales**.
+**ISO 14066: 2023** defines the competency requirements for validation teams and verification teams of **environmental information**.
 
-Pour plus d'information, vous pouvez consulter :&#x20;
+For more information, you can consult:
 
 :link: [https://www.iso.org/fr/standard/82544.html](https://www.iso.org/fr/standard/82544.html)
 
@@ -667,17 +664,14 @@ Pour plus d'information, vous pouvez consulter :&#x20;
 
 <details>
 
-<summary>Guide méthodologique OCARA</summary>
+<summary>OCARA Methodological Guide</summary>
 
-OCARA pour « Operational Climate Adaptation and Resilience Assessment » est un guide qui propose :
+OCARA stands for "Operational Climate Adaptation and Resilience Assessment" and is a guide that proposes:
 
-* une méthodologie détaillée pour l’**analyse de la résilience climatique actuelle** d'une entreprise
-* des grands principes d'analyse de l’évolution futurs des scénarios d’impacts
-* des grands principes d’élaboration de plans d’adaptation et de résilience.
+* a detailed methodology for the **analysis of an organisation's current climate resilience**
+* broad principles for analysing the future evolution of impact scenarios
+* broad principles for developing adaptation and resilience plans.
 
-<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une revue bibliographique est en cours et sera bientôt proposée.</mark>
+<mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A bibliographical review is underway and will be proposed shortly.</mark>
 
 </details>
-
-
-

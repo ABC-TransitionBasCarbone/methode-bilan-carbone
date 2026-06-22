@@ -1,95 +1,94 @@
 ---
 description: >-
-  Introduction au déroulement de l'étape 2 : définitions, gouvernance, exigences
-  et livrables.
+  Introduction to the conduct of Step 2: definitions, governance, requirements
+  and Deliverables.
 ---
 
-# 2 - Introduction à l'identification des périmètres
+# 2 - Introduction to the identification of boundaries
 
-<figure><img src="../.gitbook/assets/2147654532.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2147654532.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-L'étape d'identification des périmètres vise à cadrer les émissions qui seront comptabilisées. Le Bilan Carbone® est **transparent** sur les périmètres considérés. L'organisation doit définir :&#x20;
+The boundary identification step aims to frame the emissions that will be accounted for. The Bilan Carbone® is **transparent** regarding the boundaries considered. The organisation must define:
 
-* Étape 2.1 : les [émissions comptabilisées](2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md), qui sont a minima les émissions induites (pilier A).
-* Étape 2.2 : l'échelle de comptabilité : pour rappel ce guide méthodologique s'applique à l'échelle d'une organisation, il s'agit donc de cadrer le **périmètre** [**organisationnel**](2.2-perimetre-organisationnel.md).
-* Étape 2.3 : la temporalité du bilan :  il s'agit de cadrer le **périmètre** [**temporel**](2.3-perimetre-temporel.md)**.**
-* Étape 2.4 : l'identification et la cartographie des sources d'émissions, permettant de cadrer le **périmètre** [**opérationnel**](2.4-perimetre-operationnel.md)**.**
-* Étape 2.5 : l'identification des [risques et opportunités de transition](2.5-identification-des-risques-et-opportunites-de-transition.md).
+* Step 2.1: the [accounted emissions](2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md), which are at minimum the induced emissions (pillar A).
+* Step 2.2: the scale of carbon accounting: as a reminder, this methodological guide applies at the scale of an organisation, so this involves framing the **[organisational](2.2-perimetre-organisationnel.md) boundary**.
+* Step 2.3: the temporality of the assessment: this involves framing the **[temporal](2.3-perimetre-temporel.md) boundary**.
+* Step 2.4: the identification and mapping of emission sources, enabling the framing of the **[operational](2.4-perimetre-operationnel.md) boundary**.
+* Step 2.5: the identification of [transition risks and opportunities](2.5-identification-des-risques-et-opportunites-de-transition.md).
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Périmètres de la démarche.png" alt=""><figcaption><p>Figure 2 : Périmètres de la démarche</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Périmètres de la démarche.png" alt=""><figcaption><p>Figure 2: Boundaries of the approach</p></figcaption></figure></div>
 
 <mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Boundaries-of-the-approach_Perimetres-de-la-demarche--scaled.png) _<mark style="color:$info;">of this image.</mark>_
 
-## Glossaire relatif à l'identification des Périmètres
+## Glossary relating to the identification of Boundaries
 
-L'ensemble des termes relatif aux étapes d'identification des périmètres sont explicités dans le [glossaire](../annexes/glossaire.md). Il font l'objet d'un rappel ci-dessous :
+All terms relating to the boundary identification steps are explained in the [glossary](../annexes/glossaire.md). They are recalled below:
 
-* Émissions induites, évitées ou séquestrées : Ce sont respectivement les émissions de l'organisation (directes ou indirectes), les émissions d'autres parties prenantes que l'organisation permet de réduire, ou les émissions que l'organisation permet de séquestrer.
-* Échelle de comptabilité carbone : On distingue généralement quatre [échelles](../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#id-1-les-differentes-echelles-de-comptabilite-carbone) principales : Territoire, Individu, Produit, Organisation.
-* Périmètre organisationnel : Ensemble des sites, installations et équipements pris en compte lors de l'exercice de comptabilité carbone de l'organisation.
-* Périmètre temporel : Période de temps spécifique à l'exercice de comptabilité carbone de l'organisation.
-* Périmètre opérationnel : Ensemble des sources d’émissions prises en compte lors de l'exercice de comptabilité carbone de l'organisation, ainsi que leur ventilation par poste d'émissions.
-* Significativité : Il est admis que certaines sources d’émissions indirectes de GES, au sein du périmètre opérationnel d'une organisation, ne contribuent pas de manière significative au total des émissions indirectes. Pour qu'une émission soit dite significative, elle doit répondre à au moins un des [critères de significativité](../annexes/glossaire.md#s). La notion de significativité peut être utile pour dresser des priorités lors de la comptabilisation, lors du choix des actions ou encore du suivi des résultats.
-* Source d'émission : Unité physique ou processus rejetant des gaz à effet de serre (GES) dans l’atmosphère.
-* Poste d'émissions : Regroupement des émissions de GES provenant de plusieurs sources d'émissions homogènes. La nomenclature Bilan Carbone® utilise la sémantique de postes d'émissions. D'autres standards peuvent utiliser la sémantiques de scopes ou catégories d'émissions. Des [liens de correspondances](../4-comptabilisation/4.5-profil-demission.md) sont possibles.
+* Induced, avoided or sequestered emissions: These are respectively the organisation's emissions (direct or indirect), the emissions of other stakeholders that the organisation enables to be reduced, or the emissions that the organisation enables to be sequestered.
+* Scale of carbon accounting: Four main [scales](../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#id-1-les-differentes-echelles-de-comptabilite-carbone) are generally distinguished: Territory, Individual, Product, Organisation.
+* Organisational boundary: The set of sites, facilities and equipment taken into account during the organisation's carbon accounting exercise.
+* Temporal boundary: The specific time period for the organisation's carbon accounting exercise.
+* Operational boundary: The set of emission sources taken into account during the organisation's carbon accounting exercise, as well as their breakdown by emission category.
+* Significance: It is acknowledged that certain sources of indirect GHG emissions, within an organisation's operational boundary, do not contribute significantly to the total indirect emissions. For an emission to be considered significant, it must meet at least one of the [significance criteria](../annexes/glossaire.md#s). The notion of significance can be useful for setting priorities during accounting, when choosing actions or when monitoring results.
+* Emission source: A physical unit or process releasing greenhouse gases (GHGs) into the atmosphere.
+* Emission category: A grouping of GHG emissions from several homogeneous emission sources. The Bilan Carbone® nomenclature uses the terminology of emission categories. Other standards may use the terminology of scopes or emission categories. [Correspondence links](../4-comptabilisation/4.5-profil-demission.md) are possible.
 
-## Gouvernance relative à l'identification des Périmètres
+## Governance relating to the identification of Boundaries
 
-La gouvernance de l'étape d'identification des périmètres s'inscrit dans la [gouvernance globale](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) de la démarche Bilan Carbone® présentée précédemment. C'est le coordinateur ou la coordinatrice qui pilote l'identification des périmètres.
+The governance of the boundary identification step is part of the [overall governance](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) of the Bilan Carbone® approach presented previously. It is the Coordinator who oversees the identification of boundaries.
 
-## Exigences relatives à l'identification des Périmètres
+## Requirements relating to the identification of Boundaries
 
-Pour **rappel**, voici le [résumé des exigences](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#comparatif-des-criteres-des-niveaux-de-maturite-pour-lamelioration-continue-du-bilan-carbone-r) et recommandations, pour chacun des niveaux de maturités. Ces critères font l'objet d'explications détaillées dans les sous-sections suivantes.
+As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#comparatif-des-criteres-des-niveaux-de-maturite-pour-lamelioration-continue-du-bilan-carbone-r) and recommendations for each of the maturity levels. These criteria are explained in detail in the following subsections.
 
 {% tabs %}
-{% tab title="Niveau Initial" %}
-#### Périmètre
+{% tab title="Beginner level" %}
+#### Boundary
 
-* E : Périmètre opérationnel
-  * E1 : Le bilan doit prendre en compte toutes les émissions directes et entre 80% et 100% des émissions indirectes de l'organisation.
-* F : Identification des sources d'émissions
-  * F1 : L'identification des sources d'émissions doit se faire via une cartographie des flux.
-* G : Identification des risques physiques et de transition&#x20;
-  * G1 : L'organisation identifie les différents risques liés au changement climatique (risques physiques, risques de transition).
+* E: Operational boundary
+  * E1: The assessment must take into account all direct emissions and between 80% and 100% of the organisation's indirect emissions.
+* F: Identification of emission sources
+  * F1: The identification of emission sources must be done via a flux mapping.
+* G: Identification of physical and transition risks
+  * G1: The organisation identifies the various risks linked to climate change (physical risks, transition risks).
 {% endtab %}
 
-{% tab title="Niveau Standard" %}
-#### Périmètre
+{% tab title="Standard level" %}
+#### Boundary
 
-* E : Périmètre opérationnel
-  * E2 : Le périmètre opérationnel comprend toutes les émissions directes et indirectes de l'organisation.
-* F : Identification des sources d'émissions
-  * F2 : L'identification des sources d'émissions doit se faire via une cartographie des flux.
-* G : Identification des risques physiques et de transition&#x20;
-  * G2 : L'organisation identifie les risques lui étant spécifiques, et formalise un lien avec la cartographie des flux pour problématiser les vulnérabilités.
+* E: Operational boundary
+  * E2: The operational boundary includes all direct and indirect emissions of the organisation.
+* F: Identification of emission sources
+  * F2: The identification of emission sources must be done via a flux mapping.
+* G: Identification of physical and transition risks
+  * G2: The organisation identifies the risks specific to it, and formalises a link with the flux mapping to problematise vulnerabilities.
 {% endtab %}
 
-{% tab title="Niveau Avancé" %}
-#### Périmètre
+{% tab title="Advanced level" %}
+#### Boundary
 
-* E : Périmètre opérationnel
-  * E3 : Le périmètre opérationnel comprend toutes les émissions directes et indirectes de l'organisation.
-* F : Identification des sources d'émissions
-  * F3 : L'identification des sources d'émissions doit se faire dans une cartographie des flux ou une cartographie analytique.
-* G : Identification des risques physiques et de transition&#x20;
-  * G3 : L'organisation réalise ou a réalisé (issue d'un travail préexistant ou complémentaire) une véritable analyse des risques physiques et de transition qui la concernent, et quantifie les effets que ces risques peuvent avoir sur l'ensemble de sa chaine de valeur.
+* E: Operational boundary
+  * E3: The operational boundary includes all direct and indirect emissions of the organisation.
+* F: Identification of emission sources
+  * F3: The identification of emission sources must be done in a flux mapping or an analytical mapping.
+* G: Identification of physical and transition risks
+  * G3: The organisation carries out or has carried out (resulting from pre-existing or complementary work) a genuine analysis of the physical and transition risks that concern it, and quantifies the effects that these risks may have on its entire value chain.
 {% endtab %}
 {% endtabs %}
 
-## Livrables relatifs à l'identification des Périmètres
+## Deliverables relating to the identification of Boundaries
 
-Les informations et livrables obtenus à l'issu de l'étape 2, et associés aux exigences ci-dessus, sont à [restituer](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) en fin de démarche :&#x20;
+The information and Deliverables obtained at the end of Step 2, and associated with the requirements above, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:
 
-* [x] Le choix du périmètre organisationnel ainsi qu'une justification (liste d'installations et sites concernés) ;
-* [x] Le périmètre temporel choisi ;
-* [x] La cartographie des flux de l’organisation (quantifiée, le cas échéant) ou la cartographie analytique (le cas échéant) ;
-* [x] Le choix du périmètre opérationnel (critère de significativité le cas échéant) et sa justification ;
-* [x] Les risques physiques et de transition, liés au changement climatique ; selon ce qui est demandé dans le niveau de maturité (liste des risques et opportunités, cartographie des risques, ou analyse des risques le cas échéant).
-
+* [x] The choice of organisational boundary along with a justification (list of facilities and sites concerned);
+* [x] The chosen temporal boundary;
+* [x] The organisation's flux mapping (quantified, where applicable) or the analytical mapping (where applicable);
+* [x] The choice of operational boundary (significance criterion where applicable) and its justification;
+* [x] The physical and transition risks linked to climate change; according to what is required at the maturity level (list of risks and opportunities, risks mapping, or risks analysis where applicable).
 
 
 
 
 ***
 
-_Vous avez une question de compréhension ?_ [_Consultez la FAQ_](../annexes/faq.md)_. La méthode est vivante et donc susceptible d'évoluer (précisions, compléments) : retrouvez le_ [_suivi des modifications ici_](../avant-propos/historique-et-suivi-des-modifications.md)_._
+_Do you have a question of understanding?_ [_Consult the FAQ_](../annexes/faq.md)_. The method is a living document and therefore subject to change (clarifications, additions): find the_ [_change log here_](../avant-propos/historique-et-suivi-des-modifications.md)_._

@@ -1,209 +1,208 @@
 ---
-description: Posez vos questions !
+description: Ask your questions!
 ---
 
 # FAQ
 
-<figure><img src="../.gitbook/assets/120977.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/120977.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
 <details>
 
-<summary>J'ai une question ?</summary>
+<summary>I have a question?</summary>
 
-**Votre question concerne la méthode Bilan Carbone® :**&#x20;
+**Your question concerns the Bilan Carbone® method:**&#x20;
 
-La méthode Version 9 est en phase d’expérimentations jusqu’au 31/12/2024. Les outils et formations entreront en application au 01/01/2025. D’ici là, nous sommes preneurs de vos retours ou questions sur ce [formulaire](https://fr.surveymonkey.com/r/RetoursUtilisateurs). Pour en savoir plus sur le programme d'animation sur la sortie de la méthode, [cliquez ici](https://abc-transitionbascarbone.fr/evolution-de-la-methode-bilan-carbone/).
+Version 9 of the method is in an experimental phase until 31/12/2024. Tools and training will come into effect on 01/01/2025. In the meantime, we welcome your feedback or questions via this [form](https://fr.surveymonkey.com/r/RetoursUtilisateurs). To find out more about the animation programme for the launch of the method, [click here](https://abc-transitionbascarbone.fr/evolution-de-la-methode-bilan-carbone/).
 
-**Votre question concerne une mise en application pratique de la méthode, ou la comptabilité carbone au sens large :**
+**Your question concerns a practical application of the method, or carbon accounting in the broad sense:**
 
-Nous vous invitons à consulter les 2 ressources suivantes qui sont pilotées par l'ABC :
+We invite you to consult the following 2 resources, which are managed by the ABC:
 
-* Le PCG ([Plan Carbone Général](https://www.plancarbonegeneral.com/)) qui est un guide opératoire, avec des conseils pratiques
-* OCP ([Open Carbon Practice](https://www.opencarbonpractice.com/rejoindre-la-communaute)) qui est une plateforme d'échanges méthodologiques entre praticiens du carbone. Les utilisateurs de la ressource PCG peuvent faire remonter des manques, ou proposer des idées d'amélioration en rejoignant la communauté OCP sur Slack.
+* The PCG ([Plan Carbone Général](https://www.plancarbonegeneral.com/)) which is an operational guide with practical advice
+* OCP ([Open Carbon Practice](https://www.opencarbonpractice.com/rejoindre-la-communaute)) which is a platform for methodological exchanges between carbon practitioners. Users of the PCG resource can report gaps or propose ideas for improvement by joining the OCP community on Slack.
 
-Le Plan Carbone Général est une ressource évolutive qui est en cours de modification par l'ABC, certaines parties de la ressource peuvent donc être amenée à subir des changements importants, notamment avec l'arrivée de cette nouvelle version de la méthode.
+The Plan Carbone Général is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, particularly with the arrival of this new version of the method.
 
-**Votre question concerne les ressources et la communauté de l'ABC :**
+**Your question concerns the ABC's resources and community:**
 
-L'association, son adhésion, ses formations, ses outils ou ses projets : c'est [ici](https://abc-transitionbascarbone.fr/contact-et-hotline/).
+The association, its membership, its training, its tools or its projects: [here](https://abc-transitionbascarbone.fr/contact-et-hotline/).
 
 </details>
 
-## Questions sur la nouvelle méthode
+## Questions about the new method
 
 <details>
 
-<summary>Quelles sont les grandes nouveautés entre les précédentes versions de la méthode Bilan Carbone® et l'actuelle ?</summary>
+<summary>What are the major changes between previous versions of the Bilan Carbone® method and the current one?</summary>
 
-Les grandes évolutions entre la version 8 (2017) et la version 9 (2025) [sont détaillées ici.](../) Vous pouvez également visionner les [webinaires de présentation](https://www.youtube.com/watch?v=cUidG8Tj60g).
+The major changes between version 8 (2017) and version 9 (2025) [are detailed here.](../) You can also watch the [presentation webinars](https://www.youtube.com/watch?v=cUidG8Tj60g).
 
-Les améliorations au fil de l'eau du guide méthodologiques sont précisées dans [l'historique des modifications.](../avant-propos/historique-et-suivi-des-modifications.md)
-
-</details>
-
-<details>
-
-<summary>Pourquoi 3 niveaux de maturité ?</summary>
-
-Le [Bilan Carbone®](../#les-grandes-evolutions-de-la-methode) s'est toujours montré adapté au besoin (d'un premier bilan, à un pilotage de la décarbonation d'une organisation).
-
-Les enjeux actuels imposent de conserver cette flexibilité, tout en s'assurant **de l'uniformisation et de la transparence** autour des démarches réalisées.
-
-Ces nouveaux [niveaux de maturité](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md), définis par des critères spécifiques, permettent de placer le curseur de l'ambition de la démarche, et d'uniformiser les pratiques :
-
-* Un niveau d’entrée accessible : faire un bilan correspondant à ses moyens (financiers, humains…) pour ne pas bloquer par manque de ressources
-* Adapter la méthode à la diversité d’organisations sur le terrain (petite structure ou actions internationales…)
-* Répondre aux besoins personnalisés des organisations : ajuster la démarche pour qu’elle puisse répondre à des objectifs différents (conformité réglementaire, pilotage des décisions internes ou la mobilisation des parties prenantes avec transparence...)
-* Favoriser le passage à l'action pour toute organisation, indépendamment de son niveau de maturité et son profil
+Ongoing improvements to the methodological guide are specified in the [change history.](../avant-propos/historique-et-suivi-des-modifications.md)
 
 </details>
 
 <details>
 
-<summary>Quel est l'avantage de la nouvelle méthode de calcul des incertitudes ?</summary>
+<summary>Why 3 maturity levels?</summary>
 
-Estimer des incertitudes poste d’émission par poste d’émission pour un meilleur passage à l’action :
+The [Bilan Carbone®](../#les-grandes-evolutions-de-la-methode) has always been adapted to the need (from a first assessment, to steering the decarbonisation of an organisation).
 
-* Connaître la précision des données et des facteurs d’émissions employés permet d'avoir la main sur la qualité du bilan
-* L’incertitude globale ne suffit pas pour un bon passage à l’action : à l’inverse, la nouvelle méthode de calcul permet d’analyser les incertitudes poste par poste d’émission pour :&#x20;
-  * Prioriser les actions les plus impactantes sur le bilan
-  * Mettre en place des actions d’amélioration de la collecte
-* Cette notion d’estimation de l’incertitude est cruciale pour l'organisation, qui jusqu'à présent manquait des clés pour s'en emparer. La nouvelle méthode, plus pédagogique, facilite la compréhension des résultats issus de calculs rigoureux.
+Current challenges require maintaining this flexibility, while ensuring **uniformity and transparency** around the approaches carried out.
 
-</details>
+These new [maturity levels](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md), defined by specific criteria, make it possible to set the level of ambition of the approach, and to standardise practices:
 
-<details>
-
-<summary>Comment définir des objectifs cohérents avec les objectifs nationaux de décarbonation ?</summary>
-
-Pour les organisations en France, ils sont évalués grâce aux référentiels sectoriels de la SNBC (comparaison des pourcentages des objectifs de réduction d'émissions de GES), en assimilant l'activité de l'organisation à un secteur unique (lorsque c'est cohérent) ou en prenant en compte la moyenne nationale générale. Pour les organisations en dehors de la France, les objectifs nationaux concernés sont à utiliser.
-
-:link: Pour plus d'informations : consulter la [section 5.1 de la méthode](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition).
-
-</details>
-
-## Application de la méthode
-
-<details>
-
-<summary>Comment se faire former officiellement à la méthode Bilan Carbone®</summary>
-
-Première étape essentielle pour manipuler le Bilan Carbone®, la formation permet d’acquérir les compétences nécessaires à l’utilisation de la méthodologie et des outils Bilan Carbone®. Dans un souci de qualité, elle est un pré-requis pour pouvoir accéder à l’ensemble des outils Bilan Carbone® à jour.
-
-Pour les personnes formées aux versions antérieures du Bilan Carbone®, un module de mise à niveau sur la nouvelle version de la méthode, gratuit et obligatoire, sera disponible début 2025.
-
-:link: Pour plus d'informations : [https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/](https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/)
+* An accessible entry level: carrying out an assessment according to one's means (financial, human...) so as not to be blocked by lack of resources
+* Adapting the method to the diversity of organisations on the ground (small structure or international activities...)
+* Meeting the personalised needs of organisations: adjusting the approach so that it can meet different objectives (regulatory compliance, steering of internal decisions, or mobilisation of stakeholders with transparency...)
+* Encouraging action for any organisation, regardless of its maturity level and profile
 
 </details>
 
 <details>
 
-<summary>Quel outil utiliser pour appliquer la nouvelle méthode ?</summary>
+<summary>What is the advantage of the new method for calculating uncertainties?</summary>
 
-Vous pouvez utiliser :&#x20;
+Estimating uncertainties category by emission category for better action:
 
-* les [outils de l'ABC](../formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) : des mises-à-jour sont en cours et les outils adaptés à la nouvelle méthode seront disponible au début de l'année 2025
-* les [outils conformes à la méthode](../formation-et-outils-dapplication-de-la-methode/outils-audites-et-conformes.md) : des suivis sont faits pour préparer le renouvellement de la conformité et que la mise à niveau sur la nouvelle version de la méthode soit faite au fil du temps
-
-</details>
-
-<details>
-
-<summary>Comment déterminer son niveau de maturité ?</summary>
-
-Vous pouvez trouver en [section 1.1](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md) de la méthode un quiz vous aidant à connaître le niveau de maturité de votre organisation. Ce quiz se base sur vos bilans précédents ainsi que sur ce que vous comptez mettre en place à chaque étape de votre prochain bilan.
+* Knowing the precision of the data and emission factors used allows you to have control over the quality of the assessment
+* The overall uncertainty is not sufficient for good action: conversely, the new calculation method makes it possible to analyse uncertainties category by emission category in order to:&#x20;
+  * Prioritise the most impactful actions on the assessment
+  * Implement actions to improve data collection
+* This notion of uncertainty estimation is crucial for the organisation, which until now lacked the keys to take hold of it. The new, more pedagogical method facilitates understanding of results from rigorous calculations.
 
 </details>
 
 <details>
 
-<summary>Où trouver des conseils de mise en œuvre pratique de cette méthode ?</summary>
+<summary>How to define objectives consistent with national decarbonisation objectives?</summary>
 
-Si votre question concerne une mise en application pratique de la méthode, ou la comptabilité carbone au sens large :
+For organisations in France, they are assessed using sectoral frameworks from the SNBC (comparison of percentages of GHG emission reduction objectives), by assimilating the organisation's activity to a single sector (when this is consistent) or by taking the general national average into account. For organisations outside France, the relevant national objectives are to be used.
 
-Nous vous invitons à consulter les 2 ressources suivantes, qui sont pilotées par l'ABC :
+:link: For more information: consult [section 5.1 of the method](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition).
 
-* Le PCG ([Plan Carbone Général](https://www.plancarbonegeneral.com/)) qui est un guide opératoire, avec des conseils pratiques
-* OCP ([Open Carbon Practice](https://www.opencarbonpractice.com/rejoindre-la-communaute)) qui est une plateforme d'échanges méthodologiques entre praticiens du carbone. Les utilisateurs de la ressource PCG peuvent faire remonter des manques, ou proposer des idées d'amélioration en rejoignant la communauté OCP sur Slack.
+</details>
 
-Le Plan Carbone Général est une ressource évolutive qui est en cours de modification par l'ABC, certaines parties de la ressource peuvent donc être amenée à subir des changements importants, notamment avec l'arrivée de cette nouvelle version de la méthode.
+## Application of the method
+
+<details>
+
+<summary>How to get officially trained in the Bilan Carbone® method</summary>
+
+The first essential step for working with the Bilan Carbone®, training allows you to acquire the skills necessary to use the Bilan Carbone® methodology and tools. In the interest of quality, it is a prerequisite for accessing all up-to-date Bilan Carbone® tools.
+
+For people trained in earlier versions of the Bilan Carbone®, a free and compulsory update module on the new version of the method will be available at the beginning of 2025.
+
+:link: For more information: [https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/](https://abc-transitionbascarbone.fr/agir/se-former-au-bilan-carbone/)
 
 </details>
 
 <details>
 
-<summary>Comment trouver un prestataire et consultant Bilan Carbone®</summary>
+<summary>Which tool to use to apply the new method?</summary>
 
-L'ABC propose une [ressource pour la rédaction d’un cahier des charges de consultation](annexes/annexe-13-ressource-pour-la-redaction-dun-cahier-des-charges-de-consultation.md).
+You can use:&#x20;
 
-L'ABC propose un annuaire des prestataires formés et habilités à accompagner une démarche Bilan Carbone®, ou à ses ressources complémentaires (Évaluation du Bilan Carbone®, Fresque du Bilan Carbone®, etc.)
-
-:link:  Pour plus d'informations : [https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/](https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/)
-
-</details>
-
-## Lien entre le Bilan Carbone® et d'autres méthodes
-
-<details>
-
-<summary>Comment le Bilan Carbone® répond-t-il à la CSRD ?</summary>
-
-Le Bilan Carbone® répond à une grande partie des DR de l'ESRS E1 de la CSRD, portant sur le changement climatique. La méthode répond de façon complète aux DR sur la comptabilité carbone, et de façon partielle sur la suite de la comptabilité (analyse des risques, définition de la stratégie, etc.).&#x20;
-
-Elle vous permet dans tous les cas de répondre en grande partie aux exigences de cette nouvelle réglementation, si vous y êtes soumis.
-
-:link: Pour plus d'informations : [Webinaire sur la nouvelle méthode](https://www.youtube.com/live/cUidG8Tj60g?si=l3Vg-Y5fjwrp8o8c) et [section 6.2](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md)
+* The [ABC's tools](../formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md): updates are in progress and tools adapted to the new method will be available at the beginning of 2025
+* [Tools compliant with the method](../formation-et-outils-dapplication-de-la-methode/outils-audites-et-conformes.md): monitoring is being carried out to prepare for compliance renewal and for the update to the new version of the method to be done over time
 
 </details>
 
 <details>
 
-<summary>Quelles cohabitations sur les étapes de plan de transition entre ACT Pas à Pas, Bilan GES réglementaire et Bilan Carbone® ?</summary>
+<summary>How to determine your maturity level?</summary>
 
-Le Bilan Carbone® a toujours eu pour but d'être une démarche de passage à l'action. Il dépasse la comptabilisation des émissions pour guider vers la construction de son plan de transition.
-
-La cohabitation avec ACT Pas-à-pas est utile sur plein d'aspects :&#x20;
-
-* ACT est une démarche dédiée à cette étape
-* à l'issu du Bilan Carbone® l'organisation possède déjà une feuille de route qui peut être rechallengée avec une démarche ACT pas-à-pas (étape indispensable pour passer du niveau Standard au niveau Avancé)
-
-Le Plan de Transition du Bilan GES réglementaire est une exigence, à laquelle le  Bilan Carbone® répond dès le niveau Initial.
+You can find in [section 1.1](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md) of the method a quiz helping you to know the maturity level of your organisation. This quiz is based on your previous assessments as well as what you plan to put in place at each step of your next assessment.
 
 </details>
 
 <details>
 
-<summary>Quelle comparaison entre Bilan Carbone® et Analyse de Cycle de Vie ?</summary>
+<summary>Where to find practical implementation advice for this method?</summary>
 
-Les ACV sont des analyses qui ne portent pas que sur le climat. Celles-ci peuvent alimenter le Bilan Carbone® d'une organisation.&#x20;
+If your question concerns a practical application of the method, or carbon accounting in the broad sense:
 
-La principale différence entre ces deux méthodes réside dans l'orientation du Bilan Carbone® de guider vers le **passage à l'action**. En effet, ce dernier dépasse depuis sa création la simple comptabilité des émissions.
+We invite you to consult the following 2 resources, which are managed by the ABC:
 
-</details>
+* The PCG ([Plan Carbone Général](https://www.plancarbonegeneral.com/)) which is an operational guide with practical advice
+* OCP ([Open Carbon Practice](https://www.opencarbonpractice.com/rejoindre-la-communaute)) which is a platform for methodological exchanges between carbon practitioners. Users of the PCG resource can report gaps or propose ideas for improvement by joining the OCP community on Slack.
 
-## Diverses
-
-<details>
-
-<summary>Quelle différence entre un Bilan Carbone® et un bilan carbone ? entre empreinte carbone et ombre climatique ?</summary>
-
-Plusieurs noms sont parfois utilisés pour désigner un bilan : Bilan GES, Bilan GES règlementaire, empreinte carbone, etc. Le [Bilan Carbone® est une marque](../) avec des exigences méthodologiques strictes à respecter.
-
-L'[ombre climatique](bibliographie/#autres-ressources) est une tout autre notion.
-
-Les [ressources sur la communication](bibliographie/#ressources-sur-la-communication) ont l'objectif de clarifier ces dénominations.
+The Plan Carbone Général is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, particularly with the arrival of this new version of the method.
 
 </details>
 
 <details>
 
-<summary>Est-ce possible de rejoindre les futurs GT de l'ABC ?</summary>
+<summary>How to find a Bilan Carbone® service provider and consultant</summary>
 
-De nombreux projets et réflexions impliquent la communauté de l'ABC et ses partenaires. Les GT sont créés au cas par cas par appel à candidature auprès des adhérents de l'association sur l'année en cours. Si vous souhaitez remonter un sujet, n'hésitez pas à contacter l'équipe de l'ABC.
+The ABC provides a [resource for drafting a consultation specification](annexes/annexe-13-ressource-pour-la-redaction-dun-cahier-des-charges-de-consultation.md).
+
+The ABC provides a directory of service providers trained and authorised to support a Bilan Carbone® approach, or its complementary resources (Bilan Carbone® Evaluation, Bilan Carbone® Collage, etc.)
+
+:link:  For more information: [https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/](https://abc-transitionbascarbone.fr/les-acteurs/annuaire-des-prestataires/)
+
+</details>
+
+## Link between the Bilan Carbone® and other methods
+
+<details>
+
+<summary>How does the Bilan Carbone® respond to the CSRD?</summary>
+
+The Bilan Carbone® responds to a large part of the DRs of the ESRS E1 of the CSRD, relating to climate change. The method fully responds to DRs on carbon accounting, and partially on what follows accounting (risk analysis, strategy definition, etc.).&#x20;
+
+In all cases, it allows you to largely meet the requirements of this new regulation, if you are subject to it.
+
+:link: For more information: [Webinar on the new method](https://www.youtube.com/live/cUidG8Tj60g?si=l3Vg-Y5fjwrp8o8c) and [section 6.2](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md)
+
+</details>
+
+<details>
+
+<summary>What coexistence exists on transition plan steps between ACT Step by Step, the regulatory GHG assessment and the Bilan Carbone®?</summary>
+
+The Bilan Carbone® has always aimed to be an approach that drives action. It goes beyond emission accounting to guide towards the construction of a transition plan.
+
+Coexistence with ACT Step-by-Step is useful in many respects:&#x20;
+
+* ACT is an approach dedicated to this step
+* Following the Bilan Carbone®, the organisation already has a roadmap that can be re-challenged with an ACT step-by-step approach (an essential step to move from Standard to Advanced level)
+
+The Transition Plan of the regulatory GHG assessment is a requirement, which the Bilan Carbone® meets from the Initial level.
+
+</details>
+
+<details>
+
+<summary>What comparison between Bilan Carbone® and Life Cycle Analysis?</summary>
+
+LCAs are analyses that do not focus solely on climate. These can feed into the Bilan Carbone® of an organisation.&#x20;
+
+The main difference between these two methods lies in the Bilan Carbone®'s orientation towards **driving action**. Indeed, the latter has, since its creation, gone beyond simple emission accounting.
+
+</details>
+
+## Miscellaneous
+
+<details>
+
+<summary>What is the difference between a Bilan Carbone® and a carbon balance? Between a carbon footprint and a climate shadow?</summary>
+
+Several names are sometimes used to designate an assessment: GHG assessment, regulatory GHG assessment, carbon footprint, etc. The [Bilan Carbone® is a brand](../) with strict methodological requirements to be met.
+
+The [climate shadow](bibliographie/#autres-ressources) is a completely different notion.
+
+The [communication resources](bibliographie/#ressources-sur-la-communication) aim to clarify these designations.
+
+</details>
+
+<details>
+
+<summary>Is it possible to join future ABC working groups?</summary>
+
+Many projects and discussions involve the ABC community and its partners. Working groups are created on a case-by-case basis through a call for applications to the association's members for the current year. If you wish to raise a topic, do not hesitate to contact the ABC team.
 
 </details>
 
 
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Cette FAQ sera alimentée au fur et à mesure des questions et retours concernant cette nouvelle version de la méthodologie Bilan Carbone®.</mark>
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] This FAQ will be updated as questions and feedback regarding this new version of the Bilan Carbone® methodology arise.</mark>

@@ -1,13 +1,12 @@
-# Guide de communication au Bilan Carbone®
+# Bilan Carbone® Communication Guide
 
-La comptabilité carbone ainsi que l’action pour la lutte contre le changement climatique et en faveur de la transition bas carbone sont devenus un véritable enjeu de communication, d’image et de posture.&#x20;
+Carbon accounting as well as action to combat climate change and in favour of the low-carbon transition have become a genuine communication, image and positioning challenge.
 
-Ce guide propose :&#x20;
+This guide proposes:
 
-* Des définitions, éléments de langages et principes de communication autour d’une comptabilité carbone de qualité, inscrite dans une contribution active à la transition de notre société vers un modèle décarboné.
-* Des conseils d'applications sur la création d'un environnement propice à la bonne communication (non exhaustif)
+* Definitions, language elements and communication principles around quality carbon accounting, inscribed in an active contribution to the transition of our society towards a decarbonised model.
+* Application advice on creating a favourable environment for good communication (non-exhaustive)
 
 {% hint style="info" %}
-<mark style="background-color:blue;">L'ABC, ses partenaires et sa communauté ont travaillé à l'élaboration de</mark> [<mark style="background-color:blue;">deux ressources de communication</mark> ](../../bibliographie/#ressources-sur-la-communication)<mark style="background-color:blue;">: une charte des communications des acteurs privés sur le Bilan Carbone®, et un guide de communication sur les enjeux climat.</mark>
+<mark style="background-color:blue;">The ABC, its partners and its community have worked on the development of</mark> [<mark style="background-color:blue;">two communication resources</mark>](../../bibliographie/#ressources-sur-la-communication)<mark style="background-color:blue;">: a communications charter for private actors on the Bilan Carbone®, and a communication guide on climate issues.</mark>
 {% endhint %}
-

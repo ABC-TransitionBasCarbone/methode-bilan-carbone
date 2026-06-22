@@ -1,12 +1,10 @@
 ---
 description: >-
-  Quelques sources d'inspiration et exemples pratiques d'estimation de
-  l'incertitude.
+  Some sources of inspiration and practical examples for estimating uncertainty.
 ---
 
-# Annexe 3 - Exemple de détermination de l'incertitude
+# Annex 3 - Example of Uncertainty Determination
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une annexe d'aide et d'exemple pratique d'estimation (qualitative et quantitative) de l'incertitude sera rédigée à partir des expérimentations. Elle sera mise à disposition prochainement.</mark>
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex providing guidance and practical examples for estimating uncertainty (qualitative and quantitative) will be drafted based on experiments. It will be made available shortly.</mark>
 
 

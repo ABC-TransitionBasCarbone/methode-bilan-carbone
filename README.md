@@ -1,168 +1,167 @@
 ---
-description: Guide méthodologique du Bilan Carbone®.
+description: Methodological Guide to the Bilan Carbone®.
 ---
 
-# 📗 Avant-propos
+# 📗 Foreword
 
 <figure><img src=".gitbook/assets/Logo_BC_2025.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-La nouvelle version de la méthodologie Bilan Carbone® est maintenant en ligne !&#x20;
+The new version of the Bilan Carbone® methodology is now online!&#x20;
 
-Pour en savoir plus sur les modifications apportées, veuillez consulter le [suivi des modifications](avant-propos/historique-et-suivi-des-modifications.md).&#x20;
+To learn more about the changes made, please consult the [change log](avant-propos/historique-et-suivi-des-modifications.md).&#x20;
 {% endhint %}
 
-## Résumé
+## Summary
 
-Ce guide méthodologique présente la version numéro 9 de la méthode Bilan Carbone® appliquée à une organisation. Il détaille les objectifs, les principes, la méthodologie, les étapes de la démarche, et présente diverses annexes et ressources utiles à son application et à son évaluation.
+This methodological guide presents version 9 of the Bilan Carbone® method as applied to an organisation. It details the objectives, principles, methodology, steps of the approach, and presents various annexes and resources useful for its application and evaluation.
 
-La méthode Bilan Carbone®, née de l’initiative de l’[ADEME](annexes/glossaire.md) et portée ensuite par l’[Association pour la transition Bas Carbone (ABC)](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r), constitue un pilier essentiel dans l’évaluation et la réduction des émissions de gaz à effet de serre (GES). Celle-ci englobe non seulement la méthode historique, standard de référence, mais également les [outils](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/formation-et-outils-dapplication-de-la-methode) diffusés par l’ABC ou conformes, ainsi que les formations dispensées par les organismes de [formations](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) habilités, formant ainsi un ensemble complet au service de sa communauté.
+The Bilan Carbone® method, born from the initiative of [ADEME](annexes/glossaire.md) and subsequently carried by the [Association for Low Carbon Transition (ABC)](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r), constitutes an essential pillar in the assessment and reduction of greenhouse gas (GHG) emissions. It encompasses not only the historical method, the reference standard, but also the [tools](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/formation-et-outils-dapplication-de-la-methode) distributed by the ABC or compliant tools, as well as the training provided by accredited [training](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) organisations, thus forming a complete package in service of its community.
 
-Depuis sa création en 2004, le Bilan Carbone® a connu huit évolutions successives, témoignant de son engagement constant envers les avancées de la comptabilité carbone. La version 8, publiée en 2018, a marqué une étape significative en renforçant la dimension stratégique de la comptabilité carbone et en permettant aux organisations de se projeter sur les 30 prochaines années.
+Since its creation in 2004, the Bilan Carbone® has undergone eight successive evolutions, demonstrating its constant commitment to advances in carbon accounting. Version 8, published in 2018, marked a significant milestone by reinforcing the strategic dimension of carbon accounting and enabling organisations to project themselves over the next 30 years.
 
-**En 2022, quatre ans après le lancement de la version 8, l’ABC a initié des travaux en vue de publier en juillet 2024 la version 9 du Bilan Carbone® (et mise en application en 2025), aspirant à offrir une démarche de transition bas carbone complète et cohérente, adaptée à l’ensemble des acteurs impliqués.**
+**In 2022, four years after the launch of version 8, the ABC initiated work with a view to publishing version 9 of the Bilan Carbone® in July 2024 (with application from 2025), aspiring to offer a complete and coherent low-carbon transition approach, adapted to all stakeholders involved.**
 
-## Les grandes évolutions de la méthode
+## Major evolutions of the method
 
-La version 9 du Bilan Carbone® apporte une méthodologie modulable, véritable guide d’excellence permettant de développer une démarche d’amélioration continue et un _reporting_ des émissions de [GES](annexes/glossaire.md#g). La méthodologie permet d’approfondir la comptabilité des GES en menant **une analyse stratégique** d’une organisation et **propose les meilleures pratiques** en matière de plan de transition.
+Version 9 of the Bilan Carbone® brings a modular methodology, a true guide to excellence that enables the development of a continuous improvement approach and GHG emissions reporting. The methodology allows for deeper GHG accounting by conducting **a strategic analysis** of an organisation and **proposing best practices** in terms of transition planning.
 
-Cette nouvelle version de la méthode introduit de nombreuses évolutions :
+This new version of the method introduces numerous evolutions:
 
-### **🧭 Trois niveaux de maturité pour coller à la réalité des organisations**
+### **🧭 Three maturity levels to match the reality of organisations**
 
-Chaque niveau de maturité (Initial, Standard et Avancé) est défini par des critères spécifiques concernant la fréquence du renouvellement, le suivi des actions, le périmètre, et l’importance de la mobilisation.&#x20;
+Each maturity level (Beginner, Standard and Advanced) is defined by specific criteria regarding renewal frequency, action monitoring, scope, and the importance of engagement.&#x20;
 
-Le Bilan Carbone® s'est toujours montré adapté au besoin (d'un premier bilan, à un pilotage de la décarbonation d'une organisation). Ces nouveaux niveaux de maturité permettent de placer le curseur de l'ambition de la démarche, et d'uniformiser les pratiques. L’objectif principal reste de permettre la mise en action quel que soit son profil ou son niveau de maturité.
+The Bilan Carbone® has always been adapted to need (from a first assessment to managing an organisation's decarbonisation). These new maturity levels make it possible to set the ambition of the approach, and to standardise practices. The primary objective remains to enable action regardless of one's profile or maturity level.
 
-### **📝 Le plan de transition, au cœur de la méthode**
+### **📝 The transition plan, at the heart of the method**
 
-Le Bilan Carbone® s'affirme comme **une véritable démarche complète en 7 étapes** (et non comme seule méthode de comptabilité carbone) dans laquelle la planification de l'action est renforcée.&#x20;
+The Bilan Carbone® asserts itself as **a genuine complete 7-step approach** (and not merely a carbon accounting method) in which action planning is reinforced.&#x20;
 
-Il est essentiel de rappeler la philosophie du Bilan Carbone®, axée sur le principe de « compter pour agir ». La méthode devient plus exigeante quant à l’existence d’un plan de transition, mais elle facilite également ce processus en s’adaptant aux trois niveaux de maturité, avec des livrables, objectifs, et indicateurs de suivi adaptés.
+It is essential to recall the philosophy of the Bilan Carbone®, centred on the principle of "counting in order to act". The method becomes more demanding regarding the existence of a transition plan, but it also facilitates this process by adapting to the three maturity levels, with tailored deliverables, objectives, and monitoring indicators.
 
-### **🏋️‍♀️ Mobiliser tous les acteurs**
+### **🏋️‍♀️ Mobilising all stakeholders**
 
-La _sensibilisation des acteurs_, obligatoire dans les versions précédentes du Bilan Carbone®, laisse place à la _mobilisation des acteurs_, avec l’ambition de mettre en action, en mouvement et en transition les organisations. Le Bilan Carbone® s'érige ainsi en une démarche intégrale et orchestrée en 7 étapes, dépassant la simple méthode de comptabilité carbone, dans laquelle la mobilisation en continue est nécessaire. La méthode exige le contenu et les messages, et propose des ressources libres, tout en laissant libre le choix des formats et outils de mobilisation.
+The _awareness of stakeholders_, mandatory in previous versions of the Bilan Carbone®, gives way to the _mobilisation of stakeholders_, with the ambition of putting organisations into action, in motion and in transition. The Bilan Carbone® thus establishes itself as a comprehensive and orchestrated 7-step approach, going beyond a simple carbon accounting method, in which continuous mobilisation is necessary. The method specifies the content and messages, and offers free resources, while leaving the choice of mobilisation formats and tools open.
 
-### 🔢 Une estimation de l'incertitude plus précise et pédagogique
+### 🔢 A more precise and educational uncertainty estimate
 
-L'estimation de l'incertitude gagne en précision et en clarté pédagogique. D'un point de vue technique, certaines limites mathématiques de la méthode précédente ont été résolues, en alignement avec les meilleures pratiques des incertitudes associées aux bases de données. **Cette avancée permet d'obtenir des estimations plus fiables et représentatives de la réalité.**
+The uncertainty estimate gains in precision and educational clarity. From a technical standpoint, certain mathematical limitations of the previous method have been resolved, in alignment with best practices for uncertainties associated with databases. **This advance makes it possible to obtain more reliable estimates that are more representative of reality.**
 
-Sur le plan pédagogique, la méthode intègre désormais à la fois une estimation qualitative de la marge d'erreur et une estimation quantitative. Cette double approche rend le calcul de l'incertitude non seulement plus utile, mais aussi plus compréhensible et exploitable pour les utilisateurs. En fournissant des indications claires sur la qualité des données et la précision des résultats, cette nouvelle estimation de l'incertitude facilite une meilleure prise de décision et renforce l'amélioration continue des démarches de comptabilisation.
+From an educational perspective, the method now integrates both a qualitative estimate of the margin of error and a quantitative estimate. This dual approach makes the calculation of uncertainty not only more useful, but also more understandable and actionable for users. By providing clear indications on data quality and the precision of results, this new uncertainty estimate facilitates better decision-making and reinforces the continuous improvement of accounting approaches.
 
-### **✅ Compatible avec les meilleurs standards**
+### **✅ Compatible with the best standards**
 
-L'utilisation du Bilan Carbone® est compatible avec d’autres [standards](annexes/bibliographie/), notamment les historiques : l’ISO, le GHG Protocol, la méthode règlementaire française mais aussi avec la nouvelle directive européenne CSRD ou la comptabilité carbone analytique. Ce changement facilite son intégration dans le parcours global de transition, en lien avec NZI, ACT, SBTi, et d’autres.
+The use of the Bilan Carbone® is compatible with other [standards](annexes/bibliographie/), notably the long-established ones: ISO, the GHG Protocol, the French regulatory method, but also with the new European CSRD directive or analytical carbon accounting. This change facilitates its integration into the overall transition pathway, in connection with NZI, ACT, SBTi, and others.
 
-### **🎯 Des bilans évaluables**
+### **🎯 Assessable assessments**
 
-Une évolution significative réside dans **l’évaluation et l’audit des résultats**, désormais disponibles sur demande, répondant aux besoins variés tels que la conformité réglementaire, l'assurance sur la fiabilité de sa démarche pour une meilleure transition, le contrôle qualité des bilans de parties prenantes, et la transparence de la communication.&#x20;
+A significant evolution lies in **the evaluation and audit of results**, now available on request, meeting various needs such as regulatory compliance, assurance of the reliability of one's approach for a better transition, quality control of stakeholder assessments, and transparency of communication.&#x20;
 
-Au-delà de l’aspect technique, cette uniformisation des vérifications implique la mobilisation de nouvelles fonctions, notamment des experts en comptabilité financière, soulignant l’évolution vers une **approche plus holistique et régulée.**
+Beyond the technical aspect, this standardisation of verifications implies the mobilisation of new roles, notably experts in financial accounting, underscoring the evolution towards a **more holistic and regulated approach.**
 
-### 🧩 Un format de la méthode plus moderne
+### 🧩 A more modern format for the method
 
-Au-delà des éléments techniques introduits dans le Bilan Carbone®, une volonté de rendre la méthode plus accessible émerge à travers un format « wiki » plus moderne : la connaissance est partagée gratuitement, le document est organisé par étape, les sections sont arborescentes, la fonctionnalité recherche permet un accès rapide à l'information, et les hyperliens bibliographiques fluidifient l'expérience. Ce format permet à la fois une lecture d'ensemble plus organisée, mais également une lecture ciblée plus efficace.
+Beyond the technical elements introduced in the Bilan Carbone®, a desire to make the method more accessible emerges through a more modern "wiki" format: knowledge is shared freely, the document is organised by step, sections are tree-structured, the search function enables quick access to information, and bibliographic hyperlinks smooth the experience. This format allows for both a more organised overall reading, and a more efficient targeted reading.
 
-Le document dans son ensemble fait plus de 300 pages, c'est pourquoi il est associée à une [synthèse](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md) de la méthode de 10 pages, libre et téléchargeable, qui condense les informations les plus structurantes de la méthode Bilan Carbone®.
+The document as a whole runs to more than 300 pages, which is why it is accompanied by a [summary](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md) of the method of 10 pages, freely available and downloadable, which condenses the most structuring information of the Bilan Carbone® method.
 
-### ⏳ Des évolutions et améliorations continues
+### ⏳ Ongoing evolutions and improvements
 
-La méthode Bilan Carbone® se veut dynamique et vivante. Les travaux sur la méthode se poursuivent en discussion avec l'écosystème de la comptabilité carbone **dans une logique d'amélioration continue**. Les prochaines réflexions seront axées en 2025 sur l'empreinte Produit, l'empreinte Territoire, ou sur le cadrage du Bilan Carbone® en ce qui concerne les émissions évitées et séquestrées. En conséquence, des mises à jour seront amenées à faire évoluer ce guide. Chaque nouvelle intégration méthodologique fera l'objet d'une [publication](avant-propos/historique-et-suivi-des-modifications.md) transparente. Toute mise à jour importante donnera lieu à des formations de mise à niveau gratuites et dispensées à la communauté de l'ABC par ses partenaires de formations.
+The Bilan Carbone® method is intended to be dynamic and living. Work on the method continues in discussion with the carbon accounting ecosystem **in a logic of continuous improvement**. The next areas of reflection in 2025 will focus on the Product footprint, the Territory footprint, or on the framing of the Bilan Carbone® with regard to avoided and sequestered emissions. Consequently, updates will be made to evolve this guide. Each new methodological integration will be the subject of a [transparent publication](avant-propos/historique-et-suivi-des-modifications.md). Any major update will give rise to free upgrade training sessions delivered to the ABC community by its training partners.
 
 
 
-## Le Bilan Carbone® et l'Association pour la transition Bas Carbone (ABC)
+## The Bilan Carbone® and the Association for Low Carbon Transition (ABC)
 
 {% hint style="info" %}
-Le Bilan Carbone® désigne à la fois :&#x20;
+The Bilan Carbone® refers to:&#x20;
 
-* Une méthode initialement développée par l'ADEME et Jean-Marc Jancovici du bureau d'étude Manicore, et aujourd'hui développée et mise à jour par l'Association pour la transition Bas Carbone (ABC). Cette méthode permet de quantifier et de réduire les émissions de GES. Elle peut s'appliquer pour des organisations, [des produits ou des territoires.](annexes/annexes/annexe-6-ouverture-aux-autres-echelles-territoire-et-produit.md)&#x20;
-* Les [outils](formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) diffusés par l'ABC, qui facilitent les calculs permettant la quantification des émissions de GES, ainsi que les manuels d'utilisation associés.&#x20;
-* Les [formations](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) requises pour appliquer la méthode Bilan Carbone®, qui sont assurées par des partenaires habilités par l'ABC.
-* Une marque ® déposée à l'INPI en France et dans toute l'UE
+* A method initially developed by ADEME and Jean-Marc Jancovici from the consultancy Manicore, and today developed and updated by the Association for Low Carbon Transition (ABC). This method enables the quantification and reduction of GHG emissions. It can be applied to organisations, [products or territories.](annexes/annexes/annexe-6-ouverture-aux-autres-echelles-territoire-et-produit.md)&#x20;
+* The [tools](formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) distributed by the ABC, which facilitate the calculations enabling the quantification of GHG emissions, as well as the associated user manuals.&#x20;
+* The [training](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) required to apply the Bilan Carbone® method, which is provided by partners accredited by the ABC.
+* A ® trademark registered with the INPI in France and throughout the EU
 
-Le résultat de la démarche Bilan Carbone® appliquée à une organisation peut-être nommé :&#x20;
+The result of the Bilan Carbone® approach applied to an organisation may be named:&#x20;
 
-* Bilan Carbone® de niveau Initial, Standard ou Avancé, selon le niveau de maturité choisi par l'organisation.&#x20;
-* Bilan Carbone® **évalué** de niveau Initial, Standard ou Avancé, selon le niveau de maturité choisi par l'organisation, et si le Bilan Carbone® de l'organisation a été évalué à l'aide des [procédures associées](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/7-evaluation-et-qualite-du-bilan-carbone-r).
+* Bilan Carbone® at Beginner, Standard or Advanced level, depending on the maturity level chosen by the organisation.&#x20;
+* **Assessed** Bilan Carbone® at Beginner, Standard or Advanced level, depending on the maturity level chosen by the organisation, and if the organisation's Bilan Carbone® has been assessed using the [associated procedures](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/7-evaluation-et-qualite-du-bilan-carbone-r).
 {% endhint %}
 
 {% hint style="info" %}
-L’Association pour la transition Bas Carbone ([ABC](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)) – auparavant l’Association Bilan Carbone – a été créée en 2011 par l’[ADEME](annexes/glossaire.md) et l’[APCC](annexes/glossaire.md), pour porter et diffuser la méthodologie du Bilan Carbone®. Elle met à disposition des organisations et des citoyens, des outils et méthodes leur permettant de réussir dans la définition et la mise en œuvre de leur stratégie de décarbonation. L’ABC regroupe plus de 1000 organisations engagées pour le climat et anime une communauté d’acteurs autour des enjeux de la transition bas carbone et plus particulièrement de la comptabilité carbone. L’association, à travers ses missions, souhaite mobiliser et former le maximum d’acteurs (organisations et citoyens) sur les enjeux liés à la lutte contre le changement climatique.
+The Association for Low Carbon Transition ([ABC](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)) — formerly the Association Bilan Carbone — was created in 2011 by [ADEME](annexes/glossaire.md) and [APCC](annexes/glossaire.md), to carry and disseminate the Bilan Carbone® methodology. It makes available to organisations and citizens the tools and methods enabling them to succeed in defining and implementing their decarbonisation strategy. The ABC brings together more than 1,000 organisations committed to climate action and animates a community of stakeholders around the issues of low-carbon transition and more particularly carbon accounting. Through its missions, the association wishes to mobilise and train the maximum number of stakeholders (organisations and citizens) on the issues related to the fight against climate change.
 
-Cette nouvelle version de la méthode Bilan Carbone® est consultable librement et gratuitement. Cependant, l'utilisation de celle-ci est conditionnée à l'[adhésion](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) ou d'une licence à jour à l'ABC en tant que personne morale, assurant ainsi une version à jour des outils ainsi que différents services supplémentaires (pour plus de détails, consulter le [site de l’ABC](annexes/bibliographie/)). Toute organisation souhaitant utiliser la méthode ou nos outils doit avoir en son sein au moins une personne formée à la méthodologie Bilan Carbone® par un organisme de formation habilité (pour plus de détails, voir les [conditions générales d'utilisation](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)).
+This new version of the Bilan Carbone® method can be consulted freely and free of charge. However, its use is conditional on [membership](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) or an up-to-date licence with the ABC as a legal entity, thus ensuring an up-to-date version of the tools as well as various additional services (for more details, consult the [ABC website](annexes/bibliographie/)). Any organisation wishing to use the method or our tools must have within it at least one person trained in the Bilan Carbone® methodology by an accredited training organisation (for more details, see the [general terms of use](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)).
 {% endhint %}
 
 
 
-## Architecture du document : comment l'utiliser ?
+## Document architecture: how to use it?
 
-### Conseils d'utilisation
+### Usage tips
 
-Ce document est présenté sous un format arborescent de type « wiki ». Plusieurs conseils d'utilisation :&#x20;
+This document is presented in a tree-structured "wiki" format. Several usage tips:&#x20;
 
-* Les rédacteurs vous recommandent de consulter la [table des matières ](table-des-matieres.md)afin de mieux vous repérer au sein du document.
-* Le document inclut de nombreux liens hypertexte renvoyant soit à des définitions disponibles dans le [Glossaire](annexes/glossaire.md), soit à d'autres ressources dans la [Bibliographie](annexes/bibliographie/), soit aux autres sections citées du document.
-* Le document fait l'objet d'une [synthèse](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md) de 10 pages.
-* L'arborescence du document est numérotée selon les 7 [étapes](introduction-au-bilan-carbone-r/0.2-les-etapes-dun-bilan-carbone-r.md) du Bilan Carbone®. Il contient en amont des sections introductives et en aval des sections ressources.
-* Certaines sous-sections de ce document contiennent des informations subdivisées dans des menus déroulants qui correspondent aux trois niveaux de maturités définis par la méthode. Les rédacteurs vous recommandent de toujours consulter le contenu hors menu déroulant, qui est commun aux trois niveaux de maturité, avant de les ouvrir pour consulter les spécificités détaillées selon le niveau de maturité.&#x20;
-* Il est vivement recommandé de lire le contenu des niveaux de maturité supérieurs, même s'ils ne concernent pas immédiatement le niveau visé par l'organisation, car, dans une logique d'**amélioration continue** et de progression, certains points spécifiques des niveaux supérieurs peuvent être d'ores et déjà recherchés et atteints.
+* The authors recommend consulting the [table of contents](table-des-matieres.md) to better navigate within the document.
+* The document includes numerous hyperlinks pointing either to definitions available in the [Glossary](annexes/glossaire.md), or to other resources in the [Bibliography](annexes/bibliographie/), or to other cited sections of the document.
+* The document is accompanied by a [summary](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md) of 10 pages.
+* The document's tree structure is numbered according to the 7 [steps](introduction-au-bilan-carbone-r/0.2-les-etapes-dun-bilan-carbone-r.md) of the Bilan Carbone®. It contains introductory sections upstream and resource sections downstream.
+* Some sub-sections of this document contain information subdivided into drop-down menus corresponding to the three maturity levels defined by the method. The authors recommend always consulting the content outside the drop-down menu, which is common to all three maturity levels, before opening them to consult the detailed specifics by maturity level.&#x20;
+* It is strongly recommended to read the content of higher maturity levels, even if they do not immediately concern the level targeted by the organisation, because, in a logic of **continuous improvement** and progression, certain specific points of higher levels may already be sought and achieved.
 
-### Structures des informations spécifiques
+### Structure of specific information
 
-Des laïus sont présent dans le document. Ils ont des significations différentes :
+Specific callouts are present throughout the document. They have different meanings:
 
 <details>
 
-<summary>Désigne et détaille les exigences du Bilan Carbone®, pour chaque niveau de maturité</summary>
+<summary>Designates and details the requirements of the Bilan Carbone®, for each maturity level</summary>
 
 
 
 </details>
 
 {% hint style="info" %}
-Désigne un point informatif de la méthode Bilan Carbone®
+Designates an informative point of the Bilan Carbone® method
 {% endhint %}
 
 {% hint style="success" %}
-Désigne les éléments uniques de la méthode Bilan Carbone®
+Designates unique elements of the Bilan Carbone® method
 {% endhint %}
 
 {% hint style="warning" %}
-Désigne un point de vigilance de la méthode Bilan Carbone®.
+Designates a point of vigilance of the Bilan Carbone® method.
 {% endhint %}
 
-> :mag\_right: _Cite une référence ou une ressource externe pour un éventuel complément à la méthode Bilan Carbone®._
+> :mag\_right: _Cites a reference or an external resource for a possible complement to the Bilan Carbone® method._
 
-> ⏳<mark style="background-color:blue;">\[</mark>[<mark style="background-color:blue;">WIP</mark>](./#structures-des-informations-specifiques)<mark style="background-color:blue;">] Désigne une prochaine évolution de la méthode Bilan Carbone®. Dans la plupart des cas à l'issue de la phase d'expérimentation. Pour information « WIP » signifie work in progress ou travaux en cours.</mark>
+> ⏳<mark style="background-color:blue;">\[</mark>[<mark style="background-color:blue;">WIP</mark>](./#structures-des-informations-specifiques)<mark style="background-color:blue;">] Designates a forthcoming evolution of the Bilan Carbone® method. In most cases following the experimentation phase. For information, "WIP" means work in progress.</mark>
 
 
 
-### Conditions d'utilisation
+### Terms of use
 
 {% hint style="info" %}
-Le guide de la méthode Bilan Carbone® est une œuvre mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+The Bilan Carbone® method guide is a work made available under the terms of the [Creative Commons Attribution - ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-sa/4.0/)
 
-**Vous êtes autorisé à :**
+**You are free to:**
 
-* **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
-* **Adapter** — remixer, transformer et créer à partir du matériel
-* pour toute utilisation, y compris commerciale.
+* **Share** — copy and redistribute the material in any medium or format
+* **Adapt** — remix, transform, and build upon the material
+* for any purpose, even commercially.
 
-**Selon les conditions suivantes :**
+**Under the following terms:**
 
-* **Attribution** — Vous devez [créditer](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) l'Œuvre, intégrer un lien URL vers la licence et le contenu original puis [préciser](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) si des modifications ont été effectuées à l'Œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Œuvre.
-* **Partage dans les Mêmes Conditions** — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'Œuvre originale, vous devez diffuser l'Œuvre modifiée dans les même conditions, c'est à dire avec [la même licence](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) avec laquelle l'Œuvre originale a été diffusée (Creative Commons Licence CC - BY - SA ).
-* **Pas de restrictions complémentaires** — Vous n'êtes pas autorisé à appliquer des conditions légales ou des [mesures techniques](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) qui restreindraient légalement autrui à utiliser l'Œuvre dans les conditions décrites par la licence.
+* **Attribution** — You must [give appropriate credit](https://creativecommons.org/licenses/by-sa/4.0/deed.en), provide a link to the licence and to the original content, and [indicate](https://creativecommons.org/licenses/by-sa/4.0/deed.en) if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same licence](https://creativecommons.org/licenses/by-sa/4.0/deed.en) as the original (Creative Commons Licence CC - BY - SA).
+* **No additional restrictions** — You may not apply legal terms or [technological measures](https://creativecommons.org/licenses/by-sa/4.0/deed.en) that legally restrict others from doing anything the licence permits.
 {% endhint %}
 
-Pour plus de détails, voir les [conditions générales d'utilisation](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).
-
+For more details, see the [general terms of use](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).
 
 
 
 
 ***
 
-_Vous avez une question de compréhension ?_ [_Consultez la FAQ_](annexes/faq.md)_. La méthode est vivante et donc susceptible d'évoluer (précisions, compléments) : retrouvez le_ [_suivi des modifications ici_](avant-propos/historique-et-suivi-des-modifications.md)_._
+_Do you have a comprehension question?_ [_Consult the FAQ_](annexes/faq.md)_. The method is living and therefore subject to evolution (clarifications, additions): find the_ [_change log here_](avant-propos/historique-et-suivi-des-modifications.md)_._

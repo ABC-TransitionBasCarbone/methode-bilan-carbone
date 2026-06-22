@@ -1,12 +1,9 @@
 ---
 description: >-
-  Quelques sources d'inspiration et exemples pratiques de rédaction d’un cahier
-  des charges de consultation.
+  Some sources of inspiration and practical examples for drafting a consultation
+  specification.
 ---
 
-# Annexe 13 - Ressource pour la rédaction d’un cahier des charges de consultation
+# Annex 13 - Resource for Drafting a Consultation Specification
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une ressource pour la rédaction d’un cahier des charges de consultation sera rédigée à l'issue de la phase d'expérimentation.</mark>
-
-
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A resource for drafting a consultation specification will be produced at the end of the experimental phase.</mark>

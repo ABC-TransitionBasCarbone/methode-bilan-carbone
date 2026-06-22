@@ -1,14 +1,9 @@
 ---
 description: >-
-  Comment la philosophie du Bilan Carbone® se décline à l'échelle d'un
-  Territoire ou d'un Produit ?
+  How does the philosophy of the Bilan Carbone® apply at the scale of a
+  Territory or a Product?
 ---
 
-# Annexe 6 - Ouverture aux autres échelles Territoire et Produit
+# Annex 6 - Opening up to Other Scales: Territory and Product
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] L'ABC et sa communauté se positionneront sur l'adaptation des principes du Bilan Carbone® Organisation sur les échelles produits et territoire. De prochaines réflexions seront axées en 2026 sur l'empreinte Produit, et sur l'empreinte Territoire.</mark>
-
-
-
-
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves on the adaptation of Bilan Carbone® Organisation principles to product and territory scales. Upcoming reflections will focus in 2026 on the Product footprint, and on the Territory footprint.</mark>

@@ -1,70 +1,69 @@
 ---
 description: >-
-  Quelles sont les particularités du Bilan Carbone® d'une organisation, pour les
-  collectivités et les associations ?
+  What are the specific features of the Bilan Carbone® for local authorities and
+  associations?
 ---
 
-# Annexe 5 - Spécificités pour les collectivités et les associations
+# Annex 5 - Specificities for Local Authorities and Associations
 
-## Pourquoi une annexe dédiée aux associations ?
+## Why a dedicated annex for associations?
 
 {% content-ref url="annexe-5.1-specificites-pour-les-associations.md" %}
 [annexe-5.1-specificites-pour-les-associations.md](annexe-5.1-specificites-pour-les-associations.md)
 {% endcontent-ref %}
 
-Le secteur associatif doit conjuguer deux impératifs : réduire l’impact carbone de ses activités tout en poursuivant son utilité sociale essentielle dans un monde bas carbone. Bien que les associations, comme les entreprises, génèrent des émissions de gaz à effet de serre (GES), il est parfois difficile pour ces acteurs, souvent engagés sur des questions écologiques ou sociales, de connaître leur propre empreinte carbone.
+The association sector must combine two imperatives: reducing the carbon impact of its activities while pursuing its essential social utility in a low-carbon world. Although associations, like companies, generate greenhouse gas (GHG) emissions, it is sometimes difficult for these actors, often engaged on ecological or social issues, to know their own carbon footprint.
 
-La réduction des émissions n’implique pas nécessairement de réduire l’activité associative, mais d’optimiser les pratiques pour réduire l'impact environnemental, réduire les dépendances aux activités carbonées, et donc minimiser les vulnérabilités et pérenniser les activités associatives.
+Reducing emissions does not necessarily mean reducing association activity, but rather optimising practices to reduce environmental impact, reduce dependencies on carbon-intensive activities, and thereby minimise vulnerabilities and sustain association activities.
 
-Les motivations des associations pour initier une[ démarche de comptabilité carbone](../../../introduction-a-la-transition-bas-carbone/quest-ce-quune-demarche-de-transition-bas-carbone.md) se regroupent en quatre grandes catégories :&#x20;
+The motivations of associations for initiating a [carbon accounting approach](../../../introduction-a-la-transition-bas-carbone/quest-ce-quune-demarche-de-transition-bas-carbone.md) can be grouped into four main categories:
 
 {% stepper %}
 {% step %}
-#### Pour répondre aux attentes des parties prenantes
+#### To respond to stakeholder expectations
 
-Qu'elles soient internes (répondre aux aspirations internes des salariés, bénévoles, adhérents ou administrateurs), ou externes (se différencier auprès des partenaires et bénéficiaires de l'association, répondre aux besoins de transparence auprès des financeurs privés ou publiques, alimenter le reporting environnemental des acteurs de la chaîne de valeur de l'association).
+Whether internal (responding to internal aspirations of employees, volunteers, members or administrators), or external (differentiating with the association's partners and beneficiaries, responding to transparency needs with private or public funders, feeding into the environmental reporting of actors in the association's value chain).
 {% endstep %}
 
 {% step %}
-#### Pour anticiper les risques
+#### To anticipate risks
 
-Identifier les vulnérabilités liées à l’empreinte carbone (dépendance aux énergies fossiles, impacts physiques), ainsi que les risques et opportunités liés à la transition vers un monde bas carbone (règlementations, subventions, réputation, etc.)
+Identifying vulnerabilities linked to the carbon footprint (dependence on fossil fuels, physical impacts), as well as risks and opportunities linked to the transition towards a low-carbon world (regulations, subsidies, reputation, etc.)
 {% endstep %}
 
 {% step %}
-#### Pour un besoin de cohérence avec les valeurs de l'association
+#### For a need for consistency with the association's values
 
-Le Bilan Carbone® permet de renforcer la raison d’être de l’association et son alignement avec ses convictions, et le sentiment de « faire sa part » à son échelle pour la transition écologique.
+The Bilan Carbone® makes it possible to strengthen the association's raison d'être and its alignment with its convictions, and the feeling of "doing one's part" at its own level for the ecological transition.
 {% endstep %}
 
 {% step %}
-#### Pour bénéficier d’un indicateur clé pour une évaluation globale
+#### To benefit from a key indicator for a global assessment
 
-L'indicateur carbone permet de mesurer et guider l’action, de compléter les démarches d’évaluation sociale et environnementale, et de concilier l’impact social et le respect des limites planétaires.
+The carbon indicator makes it possible to measure and guide action, to complement social and environmental assessment approaches, and to reconcile social impact and respect for planetary boundaries.
 {% endstep %}
 {% endstepper %}
 
-Ces motivations reflètent une quête de cohérence, de responsabilité, et de résilience, communes à d’autres types d’organisations, mais adaptées aux spécificités associatives.
+These motivations reflect a quest for coherence, responsibility, and resilience, common to other types of organisations, but adapted to the specific features of associations.
 
-Les spécificités des associations rendent indispensable l’adaptation de la démarche Bilan Carbone® à leurs réalités opérationnelles et organisationnelles :
+The specificities of associations make it essential to adapt the Bilan Carbone® approach to their operational and organisational realities:
 
-* **Ressources limitées** : Les associations fonctionnent souvent avec des financements restreints, ce qui limite leur capacité à investir dans des outils ou des formations complexes. La mise en œuvre d’une démarche de comptabilité carbone soulève donc des questions sur la mobilisation des ressources internes, qu’il s’agisse de temps, de budget ou de compétences. La petite taille de nombreuses associations accentue encore ce défi.
-* **Structuration des compétences :** La dynamique des associations, qui mêle bénévoles et salariés, engendre des enjeux spécifiques sur le pilotage de la démarche, sur la mise en œuvre des actions, et sur la passation des compétences. Cette situation soulève la question de la progression de l'association dans son parcours de maturité.
-* **Périmètres et cartographie des flux** : Cartographier les activités de l'ensemble des acteurs (salariés, bénévoles, bénéficiaires) est l'une des spécificités dans la comptabilité carbone des associations.
-* **Diversité des activités :** Les activités des associations varient considérablement, allant de l’organisation d’événements locaux à la gestion de projets internationaux, avec des problématiques spécifiques sur l'accès aux données ou l'identification des sources d'émissions. Par ailleurs, les secteurs d’intervention des associations sont variés (culture, sport, humanitaire, santé, environnement, éducation, etc.) et nécessite parfois de recouper les informations des guides sectoriels correspondants.
-* **Diversité des profils** : Certaines petites associations fonctionnent principalement grâce aux bénévoles (éventuelles difficultés liées à la rotation des compétences, à une gouvernance informelle ou à un manque de moyens pour évaluer leur impact). D’autres, constituées majoritairement de salariés, s’apparentent à des entreprises classiques, (implication variable des Conseils d’Administration). Les associations structurées autour d'un projet bien spécifique doivent parfois faire face au manque de facteurs d’émissions, tandis que les grandes associations nationales doivent gérer une multiplicité de sources d’émissions. Enfin, les têtes de réseau et les associations de plaidoyer doivent traiter des enjeux spécifiques liés à leur impact indirect.
-* **Actions sociales et environnementales** : La quantification de ces contributions positives reste complexe, et ne se soustraient pas des émissions induites.
-* **La collecte des données :** Certains cas sont relativement spécifique : les pratiques de dons, récupération et réemploi (monétaire ou matériel) sont moins traçables que les achats classiques, les bénéficiaires sont plus difficilement interrogeables (secteurs sanitaires, sociaux ou humanitaires), etc.
+* **Limited resources**: Associations often operate with restricted funding, which limits their capacity to invest in complex tools or training. The implementation of a carbon accounting approach therefore raises questions about the mobilisation of internal resources, whether time, budget or skills. The small size of many associations further accentuates this challenge.
+* **Structuring of skills:** The dynamics of associations, which mix volunteers and employees, generates specific challenges around the steering of the approach, the implementation of actions, and the transfer of skills. This situation raises the question of the association's progression in its maturity journey.
+* **Boundaries and flow mapping**: Mapping the activities of all actors (employees, volunteers, beneficiaries) is one of the specificities in the carbon accounting of associations.
+* **Diversity of activities:** The activities of associations vary considerably, ranging from the organisation of local events to the management of international projects, with specific issues around access to data or the identification of emission sources. Furthermore, the sectors of intervention of associations are varied (culture, sport, humanitarian, health, environment, education, etc.) and sometimes require cross-referencing information from corresponding sectoral guides.
+* **Diversity of profiles**: Some small associations operate primarily thanks to volunteers (possible difficulties related to skills turnover, informal governance or lack of means to assess their impact). Others, consisting mainly of employees, resemble classic companies (variable involvement of Boards of Directors). Associations structured around a very specific project sometimes face a lack of emission factors, while large national associations must manage a multiplicity of emission sources. Finally, network heads and advocacy associations must address specific issues linked to their indirect impact.
+* **Social and environmental actions**: The quantification of these positive contributions remains complex, and does not subtract from induced emissions.
+* **Data collection:** Certain cases are relatively specific: donation, recovery and reuse practices (monetary or material) are less traceable than classic purchases, beneficiaries are more difficult to question (health, social or humanitarian sectors), etc.
 
-Cette annexe est le fruit des réflexions menées avec un Groupe de Travail sur l'[empreinte carbone des associations](../../bibliographie/#guides-pratiques-de-comptabilisation), créé spécifiquement par l’ABC (Association pour la transition Bas Carbone) et le Mouvement Tilt. Ce Groupe de Travail regroupe des experts de la sphère associative, des associations témoins, des experts de la comptabilité carbone et des institutions.
+This annex is the result of reflections conducted with a Working Group on the [carbon footprint of associations](../../bibliographie/#guides-pratiques-de-comptabilisation), created specifically by the ABC (Association pour la transition Bas Carbone) and the Mouvement Tilt. This Working Group brings together experts from the association sphere, association witnesses, carbon accounting experts and institutions.
 
-L'annexe permet d'adapter l**e pilotage d'une démarche Bilan Carbone®** au sein d'une association. Elle a pour ambition de renforcer le passage à l’action climatique dans le secteur associatif en s’appuyant sur une méthodologie adaptée et accessible, conçue collectivement pour répondre aux défis spécifiques de ce secteur. Elle constitue une référence méthodologique pour des outils pratiques alignés sur les réalités et les spécificités de ce secteur. De plus, une [approche sectorielle du Plan Carbone Générale](../../bibliographie/#guides-pratiques-de-comptabilisation) permet de préciser la phase de comptabilisation en fournissant des conseils pratiques et concrets pour la quantification des émissions carbone d'une association.
+The annex makes it possible to adapt **the steering of a Bilan Carbone® approach** within an association. Its ambition is to strengthen the transition to climate action in the association sector by drawing on an adapted and accessible methodology, collectively designed to address the specific challenges of this sector. It constitutes a methodological reference for practical tools aligned with the realities and specificities of this sector. Furthermore, a [sectoral approach of the Plan Carbone Général](../../bibliographie/#guides-pratiques-de-comptabilisation) makes it possible to specify the accounting phase by providing practical and concrete advice for quantifying the carbon emissions of an association.
 
-Ces livrables méthodologiques s'adressent aux **associations loi 1901 déclarées en France**. Si d’autres structures de l’intérêt général (comme des fondations) ou des associations non françaises souhaitent se saisir de l'**approche sectorielle**, elles peuvent, sans garantie que cette approche leur conviendra pleinement.
+These methodological deliverables are addressed to **associations governed by the French law of 1901 and declared in France**. If other general-interest structures (such as foundations) or non-French associations wish to use the **sectoral approach**, they may do so, without any guarantee that this approach will suit them fully.
 
-## Pourquoi une annexe dédiée aux collectivités ?
+## Why a dedicated annex for local authorities?
 
 {% content-ref url="annexe-5.2-specificites-pour-les-collectivites.md" %}
 [annexe-5.2-specificites-pour-les-collectivites.md](annexe-5.2-specificites-pour-les-collectivites.md)
 {% endcontent-ref %}
-

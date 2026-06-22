@@ -1,20 +1,19 @@
-# Classification des profils d'organisations
+# Classification of Organisation Profiles
 
-Les différents profils d'organisation sont à prendre en compte pour adapter les messages transmis. Elles peuvent se répartir par secteur & métiers, ou bien a minima entre : &#x20;
+The various organisation profiles must be taken into account to adapt the messages conveyed. They can be distributed by sector & profession, or at minimum between:
 
-* Profil ou secteur « moins émetteur ou qui décarbone »
-* Profil ou secteur « très émetteur »
-* Profil ou secteur « à risques »
+* "Less emitting or decarbonising" profile or sector
+* "Very emitting" profile or sector
+* "At-risk" profile or sector
 
-Cette classification reste subjective, mais elle peut s'appuyer sur le référentiel proposé ci-dessous.&#x20;
+This classification remains subjective, but it can draw on the reference framework proposed below.
 
-Être dans un secteur **moins émetteur** ne signifie pas que l'organisation est réellement peu émettrice. Cette classification doit être analysée au regard de l'activité réelle de l'organisation. L'[identification des risques et opportunités](../../../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md), et l'analyse qui peut s'ensuivre selon la maturité de l'organisation, doit justement permettre d'affiner considérablement cette classification.
+Being in a **less emitting** sector does not mean that the organisation is actually low-emitting. This classification must be analysed in light of the organisation's actual activity. The [identification of risks and opportunities](../../../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md), and the analysis that can follow depending on the organisation's maturity, should precisely enable this classification to be considerably refined.
 
-Pour les [niveaux de maturité](../../../3-mobilisation-des-parties-prenantes/3-introduction-a-la-mobilisation.md) Initial et Standard, les messages sont plutôt universels. L'adaptation du message est de plus en plus spécifique et ambitieuse au fur et à mesure du gain en maturité de l'organisation.&#x20;
+For the [Initial and Standard maturity levels](../../../3-mobilisation-des-parties-prenantes/3-introduction-a-la-mobilisation.md), messages are rather universal. The adaptation of the message becomes increasingly specific and ambitious as the organisation gains in maturity.
 
-**Un zoom spécifique est nécessaire à partir du niveau Avancé, comme présenté ci-dessous :**
+**A specific focus is necessary from the Advanced level onwards, as presented below:**
 
-<table><thead><tr><th width="274">Profil « moins émetteur »</th><th width="260">Profil « très émetteur »</th><th>Profil « à risque »</th></tr></thead><tbody><tr><td>Pour une activité <strong>moins émettrice</strong>, l'objectif est d'influencer  (mobiliser ses collaborateurs internes sur la réduction de leur empreinte professionnelle et personnelle, mobiliser sa chaîne de valeur amont et aval dans le dialogue et le partage d'actions)</td><td>Pour une activité <strong>très émettrice</strong> : l'objectif est le gain carbone possible et non le résultat carbone à l'instant t. L'organisation est attendue sur son plan de transition et l'ampleur de sa décarbonation, plus que sur son bilan actuel.</td><td>Pour une activité "<strong>à risque</strong>" il faut considérer le besoin de changer le business model, de changer d'activités. Aborder les actions, les moyens de le faire à partir d'exemples &#x26; de REX.</td></tr><tr><td>L'objectif ne doit pas occulter le besoin de se décarboner (chaque degré et chaque tonne compte) ni de questionner sa pertinence dans un monde bas carbone.</td><td>L'objectif est de focaliser ses efforts sur ses enjeux et postes significatifs.</td><td>L'objectif est de toucher la vision et la stratégie globale de l'organisation.</td></tr></tbody></table>
+<table><thead><tr><th width="274">"Less emitting" profile</th><th width="260">"Very emitting" profile</th><th>"At-risk" profile</th></tr></thead><tbody><tr><td>For a <strong>less emitting</strong> activity, the objective is to influence (mobilise internal employees to reduce their professional and personal footprint, mobilise the upstream and downstream value chain in dialogue and sharing of actions)</td><td>For a <strong>very emitting</strong> activity: the objective is the possible carbon gain and not the carbon result at a given moment. The organisation is expected to deliver on its transition plan and the extent of its decarbonisation, more than on its current assessment.</td><td>For an "<strong>at-risk</strong>" activity, the need to change the business model and change activities must be considered. Address actions, the means of doing so using examples &amp; feedback from experience.</td></tr><tr><td>The objective must not obscure the need to decarbonise (every degree and every tonne counts) nor to question its relevance in a low-carbon world.</td><td>The objective is to focus its efforts on its significant issues and categories.</td><td>The objective is to reach the overall vision and strategy of the organisation.</td></tr></tbody></table>
 
-> ⏳\[[WIP](../../../#structures-des-informations-specifiques)] Un tableau sera prochainement mis à disposition pour servir de référentiel et aider les utilisateurs à se classer dans l'un de ces profils (moins émetteur, très émetteur ou à risque). L'objectif de cette ressource est d'intégrer à la mobilisation une partie « quel risque de transition pour votre secteur » L'ensemble de ces ressources sont en cours de production.&#x20;
-
+> ⏳\[[WIP](../../../#structures-des-informations-specifiques)] A table will be made available shortly to serve as a reference framework and help users classify themselves into one of these profiles (less emitting, very emitting or at-risk). The objective of this resource is to integrate into mobilisation a section on "what transition risk for your sector". All of these resources are currently being produced.

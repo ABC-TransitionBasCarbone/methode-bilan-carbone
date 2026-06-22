@@ -1,211 +1,202 @@
 ---
 description: >-
-  Méthode règlementaire pour la réalisation des bilans d'émissions de gaz à
-  effet de serre
+  Regulatory method for carrying out greenhouse gas emission assessments
 ---
 
-# Fiche BEGES-R
+# BEGES-R Sheet
 
 {% hint style="success" %}
-**Type** : Standard national réglementaire&#x20;
+**Type**: National regulatory standard
 
-**Date** : Dernière version en Juillet 2022
+**Date**: Latest version in July 2022
 
-**Auteur** : Ministère de la Transition Ecologique\
-**Cible** : Organisations
+**Author**: Ministry of Ecological Transition\
+**Target**: Organisations
 {% endhint %}
 
-Avec la **loi Grenelle 2 du 12 juillet 2010** et la création de **l’article L229-25 du Code de l’environnement**, le gouvernement français a généralisé l’obligation de réalisation d’un **bilan d’émissions de gaz à effet de serre** (BEGES-r). L’article R.229-48 du Code de l’Environnement prévoit que le ministère chargé de l’environnement organise la publication des **informations méthodologiques nécessaires au respect de la loi**. Une méthode générale est ainsi disponible sur le site du Ministère de la Transition Écologique et Solidaire et de l’ADEME.&#x20;
+With the **Grenelle 2 Act of 12 July 2010** and the creation of **Article L229-25 of the Environmental Code**, the French government generalised the obligation to carry out a **greenhouse gas emission assessment** (BEGES-R). Article R.229-48 of the Environmental Code provides that the Ministry responsible for the environment organises the publication of the **methodological information necessary for compliance with the law**. A general method is thus available on the website of the Ministry of Ecological Transition and ADEME.
 
-La méthode réglementaire a été élaborée dans le cadre des travaux du pôle de la coordination nationale sur les bilans d’émissions de gaz à effet de serre, créé par l’article R. 229-49 du code de l’environnement. **La méthode BEGES-r est fortement inspirée des référentiels existants**, en particulier ceux définis à l’échelon international comme l’**ISO 14064-1**, et sa dernière itération a été publiée en juillet 2022.&#x20;
+The regulatory method was developed within the framework of the work of the national coordination body on greenhouse gas emission assessments, created by Article R. 229-49 of the Environmental Code. **The BEGES-R method is strongly inspired by existing reference frameworks**, in particular those defined at the international level such as **ISO 14064-1**, and its latest iteration was published in July 2022.
 
-## **Quels sont les objectifs de la démarche ?**
+## **What are the objectives of the approach?**
 
-La méthode BEGES-r vise à permettre aux organisations françaises, publiques ou privées, de **quantifier leurs émissions de GES afin d’identifier et de mobiliser des leviers d’actions de réduction de leur impact sur le climat**. En obligeant à la publication de ces bilans sur le site [Bilan GES](https://bilans-ges.ademe.fr/) de l’ADEME, la règlementation française encourage la transparence et la mise en commun.&#x20;
+The BEGES-R method aims to enable French organisations, public or private, to **quantify their GHG emissions in order to identify and mobilise levers for action to reduce their impact on the climate**. By requiring the publication of these assessments on the ADEME [Bilan GES](https://bilans-ges.ademe.fr/) website, the French regulation encourages transparency and pooling.
 
 {% hint style="info" %}
-La dernière version de la méthodologie BEGES-r accompagne le décret n°2022-982 du 1er juillet 2022 accompagne une extension du périmètre des BEGES-r des organisations obligées réglementaires pour inclure les émissions indirectes significatives pour favoriser une action plus globale et pertinente.
+The latest version of the BEGES-R methodology accompanies Decree No. 2022-982 of 1 July 2022, which accompanies an extension of the scope of BEGES-R for organisations subject to regulatory obligations to include significant indirect emissions to promote more global and relevant action.
 {% endhint %}
 
-La méthodologie BEGES-r cadre pour les organisations les étapes suivantes  :&#x20;
+The BEGES-R methodology frames the following steps for organisations:
 
-1. **Cadrage** : définition du périmètre organisationnel de l’organisation
-2. **Identification des sources et émissions** : définition du périmètre opérationnel et du périmètre de déclaration
-3. **Collecte des données** : principes généraux pour l’évaluation des émissions de GES
-4. **Calcul du bilan et analyses** : Présentation détaillée des postes d’émissions
-5. **Plan de transition** : définition d’une trajectoire, formalisations du plan de transition et suivi des actions passées
-6. **Publication des résultats** : définition du format de restitution
+1. **Scoping**: definition of the organisation's organisational boundary
+2. **Identification of sources and emissions**: definition of the operational boundary and the declaration boundary
+3. **Data collection**: general principles for assessing GHG emissions
+4. **Assessment calculation and analysis**: Detailed presentation of emission categories
+5. **Transition plan**: definition of a pathway, formalisation of the transition plan and monitoring of past actions
+6. **Publication of results**: definition of the reporting format
 
-## **Quelle(s) est (sont)** la (les) cible(s) de la démarche ? 
+## **What is (are) the target(s) of the approach?**
 
-La méthodologie BEGES-r a été développée pour **accompagner l’ensemble des organisations** concernées par la réglementation française à **la mesure et la réduction de leurs émissions de GES**. Si tout type d’organisation peut utiliser cette méthode pour se lancer dans une démarche de comptabilité carbone, les organisations françaises concernées, selon le décret n°2022-982 du 1er juillet 2022, sont les suivantes :
+The BEGES-R methodology was developed to **support all organisations** concerned by French regulation in **measuring and reducing their GHG emissions**. While any type of organisation can use this method to launch a carbon accounting approach, the French organisations concerned, according to Decree No. 2022-982 of 1 July 2022, are as follows:
 
 {% tabs %}
-{% tab title="Personnes Morales de droit privé" %}
-* PM employant plus de **500 salariés sur un exercice**
-* Pour les PM en régions et départements d'outre-mer, le seuil d'obligation règlementaire est de 250 salariés
+{% tab title="Private legal entities" %}
+* Legal entities employing more than **500 employees in an accounting period**
+* For legal entities in overseas regions and departments, the regulatory obligation threshold is 250 employees
 
--> Obligation de publication d'un BEGES-r **tous les 4 ans minimum**
+-> Obligation to publish a BEGES-R **every 4 years minimum**
 {% endtab %}
 
-{% tab title="Etablissements publics" %}
-* Etablissements publics de **plus de 250 salariés**
+{% tab title="Public bodies" %}
+* Public bodies with **more than 250 employees**
 
--> Obligation de publication d'un BEGES-r **tous les 3 ans minimum**
+-> Obligation to publish a BEGES-R **every 3 years minimum**
 {% endtab %}
 
-{% tab title="Service de l'Etat" %}
-* **Tous les Services de l'Etat sont concernés**
+{% tab title="State services" %}
+* **All State Services are concerned**
 
--> Obligation de publication d'un BEGES-r **tous les 3 ans minimum**
+-> Obligation to publish a BEGES-R **every 3 years minimum**
 {% endtab %}
 
-{% tab title="Collectivités territoriales" %}
-* Régions, départements, communautés urbaines, communautés d'agglomérations, communes et communautés de communes de **plus de 50 000 habitants**
+{% tab title="Local authorities" %}
+* Regions, departments, urban communities, agglomeration communities, municipalities and communities of municipalities with **more than 50,000 inhabitants**
 
--> Obligation de publication d'un BEGES-r **tous les 3 ans minimum**
+-> Obligation to publish a BEGES-R **every 3 years minimum**
 {% endtab %}
 {% endtabs %}
 
 <details>
 
-<summary><strong>Personnes morales de droit privé et obligation de reporting des émissions indirectes significatives</strong></summary>
+<summary><strong>Private legal entities and the obligation to report significant indirect emissions</strong></summary>
 
-Les **Personnes Morales de droit privé non assujetties à la DPEF** ne sont pas tenues de reporter les émissions indirectes significatives de leur activité.
+**Private legal entities not subject to the NFRD (Non-Financial Reporting Directive)** are not required to report significant indirect emissions from their activities.
 
-Ainsi, **les organisations concernées par la prise en compte des émissions indirectes significatives** sont les suivantes :&#x20;
+Thus, **the organisations concerned by the inclusion of significant indirect emissions** are as follows:
 
-* **Pour les sociétés cotées** : au moins 20M€ de bilan total ou 40M€ de chiffre d'affaires et 500 salariés en moyenne lors de l'exercice
-* **Pour les sociétés non cotées** : au moins 100M€ de bilan total ou 100M€ de chiffres d'affaires et 500 salariés en moyenne lors de l'exercice.&#x20;
+* **For listed companies**: at least €20M in total balance sheet or €40M in turnover and 500 employees on average during the financial year
+* **For unlisted companies**: at least €100M in total balance sheet or €100M in turnover and 500 employees on average during the financial year.
 
-Selon l'article L.225-102-1 du code de commerce, pour toute société établissant des compte consolidées conformément à l'article L. 233-16 du code de commerce, **ces seuils s'apprécient sur l'ensemble des entreprises comprises dans le périmètre de consolidation,** c'est-à-dire à l'échelle du groupe et non des Personnes Morales qui le composent.
+According to Article L.225-102-1 of the Commercial Code, for any company preparing consolidated accounts in accordance with Article L. 233-16 of the Commercial Code, **these thresholds are assessed across all companies within the consolidation boundary**, i.e. at group level and not at the level of the legal entities that compose it.
 
 </details>
 
-## **La démarche s’appuie-t-elle sur une base scientifique partagée ?**
+## **Does the approach draw on a shared scientific basis?**
 
-Le ministère en charge de l’écologie en France a fixé que les sept types de GES couverts par le protocole de Kyoto sont à prendre en compte pour la réalisation d’un BEGES-r : le **dioxyde de carbone** (CO2), le **méthane** (CH4), le **protoxyde d’azote** (N2O), les **hydrofluorocarbures** (HFC), les **perfluorocarbures** (PFC), **l'hexafluorure de soufre** (SF6) et le **trifluorure d’azote** (NF3).
+The Ministry in charge of ecology in France has determined that the seven types of GHGs covered by the Kyoto Protocol are to be taken into account for the preparation of a BEGES-R: **carbon dioxide** (CO2), **methane** (CH4), **nitrous oxide** (N2O), **hydrofluorocarbons** (HFC), **perfluorocarbons** (PFC), **sulphur hexafluoride** (SF6) and **nitrogen trifluoride** (NF3).
 
-## **La démarche s’appuie-t-elle sur une méthodologie spécifique ?** 
+## **Does the approach draw on a specific methodology?**
 
-La méthode BEGES-r a été développée avec pour objectif d’accompagner la **réalisation de BEGES-r** et d’**harmoniser les pratiques**. Dans cette perspective, la méthode construite et mise à jour par le ministère s’appuie sur le rapport technique **ISO/TR 14069**, et donc sur la **norme ISO 14064-1** avec laquelle est vise une cohérence.
+The BEGES-R method was developed with the objective of supporting the **preparation of BEGES-R assessments** and **harmonising practices**. In this perspective, the method built and updated by the Ministry draws on the technical report **ISO/TR 14069**, and therefore on **ISO 14064-1**, with which it seeks coherence.
 
 <details>
 
-<summary><strong>Les étapes détaillées de la méthodologie BEGES-r</strong></summary>
+<summary><strong>The detailed steps of the BEGES-R methodology</strong></summary>
 
-1. Cadrage : Définition du périmètre organisationnel de la personne morale
-2. Identification des sources et émissions
-   1. Définition du périmètre opérationnel&#x20;
-   2. Périmètre de déclaration
-3. Collecte de données&#x20;
-   1. Identification des données à collecter pour le calcul des émissions induites&#x20;
-      1. Choix des critères pour déterminer les émissions significatives parmi les émissions indirectes non liées à l’énergie&#x20;
-      2. Evaluation et indentification des émissions significatives indirectes
-   2. Collecte des données nécessaire au calcul des émissions induites&#x20;
-   3. Valorisation des émissions évitées et de la consommation d’énergie garantie d’origine ou renouvelable&#x20;
-4. Calcul et analyse du Bilan&#x20;
-   1. Calcul des émissions induites selon la méthodologie et les postes d’émissions réglementaires&#x20;
-   2. Si nécessaire : Recalcul des émissions de GES pour l’année de référence
-5. Plan de transition&#x20;
-   1. Si pertinent : Analyse des résultats obtenus sur les années précédentes
-   2. Définition d’objectifs de réduction moyens et longs termes &#x20;
-   3. Formalisation d’un plan de transition
-      1. Identification des moyens mobilisés pour la mise en place d’action&#x20;
-      2. Quantification des potentiels de réductions&#x20;
-6. Publication du Bilan sur le site de [l'ADEME](https://bilans-ges.ademe.fr/bilans/comment-publier)
+1. Scoping: Definition of the legal entity's organisational boundary
+2. Identification of sources and emissions
+   1. Definition of the operational boundary
+   2. Declaration boundary
+3. Data collection
+   1. Identification of data to collect for the calculation of induced emissions
+      1. Choice of criteria to determine significant emissions among indirect non-energy-related emissions
+      2. Assessment and identification of significant indirect emissions
+   2. Collection of data necessary for calculating induced emissions
+   3. Valorisation of avoided emissions and consumption of certified renewable energy
+4. Calculation and analysis of the Assessment
+   1. Calculation of induced emissions according to the regulatory methodology and emission categories
+   2. If necessary: Recalculation of GHG emissions for the reference year
+5. Transition plan
+   1. If relevant: Analysis of results obtained over previous years
+   2. Definition of medium and long-term reduction objectives
+   3. Formalisation of a transition plan
+      1. Identification of means mobilised for implementing actions
+      2. Quantification of reduction potentials
+6. Publication of the Assessment on the [ADEME](https://bilans-ges.ademe.fr/bilans/comment-publier) website
 
 </details>
 
-La réalisation de BEGES-r étant une obligation réglementaire, le périmètre à couvrir est également imposé. Comme mentionné plus haut, le périmètre minimum de déclaration diffère pour deux types d’organisations  :&#x20;
+As the preparation of BEGES-R assessments is a regulatory obligation, the scope to be covered is also imposed. As mentioned above, the minimum declaration boundary differs for two types of organisations:
 
 {% tabs %}
-{% tab title="PM non assujetties à la DPEF" %}
-* Obligation de déclaration des **émissions directes**
-* Obligation de déclaration des **émissions indirectes associées à l’énergie**
+{% tab title="Legal entities not subject to NFRD" %}
+* Obligation to declare **direct emissions**
+* Obligation to declare **indirect emissions associated with energy**
 {% endtab %}
 
-{% tab title="PM assujetties à la DPEF" %}
-* Obligation de déclaration des **émissions directes**&#x20;
-* Obligation de déclaration d’**au moins 80% émissions indirectes significatives** découlant des opérations et activités de l’organisation, ainsi que, le cas échéant, de l’usage des biens et services qu’elle produit&#x20;
+{% tab title="Legal entities subject to NFRD" %}
+* Obligation to declare **direct emissions**
+* Obligation to declare **at least 80% of significant indirect emissions** arising from the organisation's operations and activities, as well as, where applicable, from the use of the goods and services it produces
 {% endtab %}
 {% endtabs %}
 
-La notion d’émission significative, tirée de la norme ISO 14064-1, ne correspond qu’aux émissions indirectes et prend en compte les postes d’émissions respectant les critères choisis par l’organisation :&#x20;
+The notion of significant emission, derived from ISO 14064-1, only applies to indirect emissions and takes into account the emission categories meeting the criteria chosen by the organisation:
 
-* **Critère obligatoire** :&#x20;
-  * &#x20;**Critère d’ampleur** : les **postes d’émissions indirectes estimés substantiels d’un point de vue quantitatif** sont à retenir. Chaque organisation peut fixer un **seuil d’ampleur minimal** à considérer qui, sauf raison particulière, ne devra **pas être inférieur à 80%.**
-* **Optionnel**
-  * **Niveau d’influence et leviers d’action** : mesure dans laquelle l’organisation peut monitorer et diminuer les émissions de certains postes d’émissions.&#x20;
-  * **Importance stratégique et vulnérabilité** : selon une approche risque ou opportunité, ce critère concerne les émissions indirectes qui contribuent à l’exposition aux risques climats ou aux opportunités commerciales liées&#x20;
-  * **Lignes directrices spécifique au secteur** : émissions jugées significatives pour le secteur d’activité concerné, notamment selon les lignes directrices définies dans les guides sectoriels de l’ADEME&#x20;
-  * **Sous-traitance** : émissions indirectes résultant d’activités externalisées&#x20;
-  * **Engagement du personnel** : émissions indirectes susceptibles de motiver les employés à réduire leurs émissions professionnelles ou permettant de mobiliser un esprit d’équipe autour de la lutte contre le changement climatique&#x20;
+* **Mandatory criterion**:
+  * **Magnitude criterion**: **indirect emission categories estimated to be substantial from a quantitative point of view** are to be retained. Each organisation can set a **minimum magnitude threshold** to consider which, unless there is a particular reason, **must not be less than 80%.**
+* **Optional**
+  * **Level of influence and levers for action**: the extent to which the organisation can monitor and reduce emissions in certain emission categories.
+  * **Strategic importance and vulnerability**: according to a risk or opportunity approach, this criterion concerns indirect emissions that contribute to exposure to climate risks or related commercial opportunities
+  * **Sector-specific guidelines**: emissions considered significant for the sector of activity concerned, particularly according to the guidelines defined in ADEME's sectoral guides
+  * **Subcontracting**: indirect emissions resulting from outsourced activities
+  * **Employee engagement**: indirect emissions likely to motivate employees to reduce their professional emissions or to mobilise team spirit around combating climate change
 
 {% hint style="warning" %}
-Le critère d’ampleur, ou d’importance selon l’ISO 14064-1, doit toujours être appliqué lors de l’identification des postes à considérer. Les critères optionnels sont présents pour permettre d’intégrer des postes d’émissions qui n’auraient pas été pris en compte avec le critère d’ampleur.
+The magnitude or importance criterion according to ISO 14064-1, must always be applied when identifying the categories to consider. The optional criteria are present to allow the integration of emission categories that would not have been taken into account with the magnitude criterion.
 {% endhint %}
 
+To define which indirect emissions are significant, an organisation should only consider certain emission categories. Before the decree of 1 July 2022, the emission scopes of the BEGES-R method were Scopes 1, 2 and 3, namely direct emissions, indirect emissions linked to energy and other indirect emissions respectively. But since 2022, the regulatory methodology follows the emission categories of ISO 14064-1 with 6 emission categories:
 
+1. Direct GHG emissions
+2. Indirect emissions associated with energy
+3. Indirect emissions associated with transport
+4. Indirect emissions associated with purchased products
+5. Indirect emissions associated with sold products
+6. Other indirect emissions
 
-Pour définir quelles sont les émissions indirectes significatives, une organisation ne doit considérer que certains postes d'émissions. Avant le décret du 1er juillet 2022, les scopes d’émissions de la méthode BEGES-r étaient les Scopes 1, 2 et 3, à savoir respectivement les émissions directes, indirectes liées à l’énergie et autres émissions indirectes. Mais depuis 2022, la méthodologie règlementaire suit les catégories et postes d’émissions de la norme ISO 14064-1 avec 6 catégories d’émissions :&#x20;
+The French regulatory method allows the exclusion of certain indirect emission categories, as long as the magnitude criterion remains respected. On the other hand, direct emission categories cannot be excluded from a declaration boundary.
 
-1. Emissions directes de GES&#x20;
-2. Emissions indirectes associées à l’énergie&#x20;
-3. Emissions indirectes associées au transport&#x20;
-4. Emissions indirectes associées aux produits achetés&#x20;
-5. Emissions indirectes associées aux produits vendus&#x20;
-6. Autres émissions indirectes
-
-La méthode réglementaire française permet l’exclusion de certains postes d’émissions indirectes, tant que le critère d’ampleur reste respecté. En revanche, les postes d’émissions directes ne peuvent pas être exclu d’un périmètre de déclaration.&#x20;
-
-&#x20;
-
-Il est possible de justifier l’exclusion d’un poste d’émission considéré significatif en l’absence de méthode pour son calcul ou l’impossibilité d’accéder à des données sources en permettant un calcul acceptable. &#x20;
+It is possible to justify the exclusion of an emission category considered significant in the absence of a method for its calculation or the impossibility of accessing source data enabling an acceptable calculation.
 
 {% hint style="success" %}
-* Il est alors nécessaire d’intégrer au plan de transition une action permettant de remédier à ce blocage et le poste d’émissions devra être intégrer lors du prochain bilan de l’organisation&#x20;
-* Il n’est donc possible d’exclure un poste d’émission significatif que lors du premier BEGES-r&#x20;
+* It is then necessary to integrate into the transition plan an action to remedy this blockage and the emission category must be integrated at the organisation's next assessment
+* It is therefore only possible to exclude a significant emission category during the first BEGES-R
 {% endhint %}
 
-La méthode BEGES-r donne également des recommandations sur la qualité des données utilisées pour la phase de comptabilité carbone. En effet, en plus de recommander largement l’utilisation des FE de la Base Empreinte de l’ADEME, la méthode BEGES-r encourage à choisir avec attention les types de données d’activité en priorisant les données primaires et les données secondaires.
+The BEGES-R method also gives recommendations on the quality of data used for the carbon accounting phase. Indeed, in addition to broadly recommending the use of EFs from ADEME's Base Empreinte, the BEGES-R method encourages careful selection of activity data types by prioritising primary data and secondary data.
 
-De plus, la méthode réglementaire encourage la présentation d'éléments d'appréciations de l'incertitude (sur la donnée d'activité et sur les facteurs d'émissions) à minima sur les principaux postes d'émissions, de manière quantitative ou qualitative.
+Furthermore, the regulatory method encourages the presentation of elements for assessing uncertainty (on activity data and on emission factors) at minimum for the main emission categories, in a quantitative or qualitative manner.
 
-## **La démarche s’appuie-t-elle sur des outils ?**
+## **Does the approach draw on tools?**
 
-**Aucun outil n’est proposé : la méthode réglementaire française laisse le choix à l’utilisateur choisir.**&#x20;
+**No tool is proposed: the French regulatory method leaves the choice to the user.**
 
-Néanmoins, plusieurs ressources de l’ADEME sont mises en avant comme étant des références sur lesquelles s’appuyer lors de la mise en place d’une démarche BEGES-r :&#x20;
+However, several ADEME resources are highlighted as references to draw on when implementing a BEGES-R approach:
 
-* Guide pour la construction, la mise en œuvre et le suivi d’un plan de transition&#x20;
-* Empreinte projet (ex QuantiGES)&#x20;
-* Guides sectoriels pour la réalisation d’un bilan des émissions de GES 
+* Guide for building, implementing and monitoring a transition plan
+* Project Footprint (formerly QuantiGES)
+* Sectoral guides for carrying out a GHG emission assessment
 
-## **D'autres méthodes et outils de la transition bas carbone peuvent-ils être utilisés afin d’atteindre les objectifs de cette démarche ?**
+## **Can other low-carbon transition methods and tools be used to achieve the objectives of this approach?**
 
-Les dispositions du BEGES-r ont été établies pour être en cohérence avec les autres méthodes de comptabilité carbone reconnues comme le Bilan Carbone®, le GHG-P et l’ISO 14064-1.&#x20;
+The provisions of the BEGES-R have been established to be coherent with other recognised carbon accounting methods such as the Bilan Carbone®, GHG-P and ISO 14064-1.
 
--> Il est possible de répondre à une obligation réglementaire en utilisant les méthodes citées précédemment à la place de la méthode BEGES-r, tant que les livrables restent les mêmes.&#x20;
+-> It is possible to meet a regulatory obligation by using the previously mentioned methods instead of the BEGES-R method, as long as the deliverables remain the same.
 
-## **Permet-elle une reconnaissance tierce partie ? Si oui, de quelle manière ?**
+## **Does it allow for third-party recognition? If so, in what way?**
 
-La méthode BEGES-r visant à permettre à des organisations de répondre à leur obligation règlementaire, un système de contrôle est assuré par les DREAL. Les agents habilités réalisent ces contrôles en s’appuyant sur les éléments publiés par l’obligé sur la plateforme [Bilan GES](https://bilans-ges.ademe.fr/) de l’ADEME. &#x20;
+As the BEGES-R method aims to enable organisations to meet their regulatory obligation, a control system is ensured by the DREAL (Regional Directorates for Environment, Planning and Housing). Authorised agents carry out these controls drawing on the elements published by the obligee on the ADEME [Bilan GES](https://bilans-ges.ademe.fr/) platform.
 
 {% hint style="warning" %}
-En cas de non-respect du délai imparti pour cette régularisation, le préfet peut ordonner le paiement d’une amende d’un montant de 50 000€ maximum et de 100 000€ maximum en cas de récidive.&#x20;
+In the event of non-compliance with the deadline imposed for this regularisation, the prefect may order the payment of a fine of a maximum of €50,000 and a maximum of €100,000 in the event of a repeat offence.
 {% endhint %}
 
-Pour réaliser la publication de leur bilan réglementaire, les obligés doivent donc utiliser le formulaire accessible sur inscription sur le site de[ Bilan GES](https://bilans-ges.ademe.fr/bilans/comment-publier) et compléter à minima les champs exigés, indiqué d’un astérisque, incluant notamment les émissions au format réglementaire, le plan de transition avec ses objectifs, actions et moyens identifiés et la possibilité de valoriser d’autres efforts et bénéfices comme les émissions évitées.&#x20;
+To publish their regulatory assessment, obligees must therefore use the form accessible upon registration on the [Bilan GES](https://bilans-ges.ademe.fr/bilans/comment-publier) website and complete at minimum the required fields, indicated by an asterisk, including in particular the emissions in regulatory format, the transition plan with its identified objectives, actions and means and the possibility of valorising other efforts and benefits such as avoided emissions.
 
-## **Cette démarche peut-elle s'harmoniser avec d'autres référentiels internationaux ?** 
+## **Can this approach be harmonised with other international reference frameworks?**
 
-En plus de pouvoir choisir parmi les grands standards de comptabilité carbone, les Personnes Morales de droit privée obligées réglementaires et assujetties à la DPEF sont dispensées de l’élaboration d’un plan de transition à joindre au BEGES-r dès lors que leur déclaration de performance extra-financière présente les objectifs moyens et actions envisagés pour la réduction de leurs émissions de GES.
-
-
-
-
+In addition to being able to choose among the major carbon accounting standards, private legal entities subject to regulatory obligations and the NFRD are exempt from preparing a transition plan to be attached to the BEGES-R as soon as their non-financial performance declaration presents the medium and long-term objectives and actions envisaged for the reduction of their GHG emissions.
 
 ***
 
-_Les fiches du_ [_Panorama des méthodes et outils de la comptabilité carbone_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _sont issues d'un travail de synthèse de l'ABC. Nous restons preneurs de vos retours ou questions sur ce_ [_formulaire_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
+_The sheets from the_ [_Overview of carbon accounting methods and tools_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _are the result of a synthesis work by the ABC. We welcome your feedback or questions via this_ [_form_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._

@@ -1,39 +1,39 @@
-# Annexe 12 - Ressource pour l'analyse des risques et opportunités
+# Annex 12 - Resource for Risk and Opportunities Analysis
 
-## Liste des potentiels risques physiques et de transition
+## List of Potential Physical and Transition Risks
 
-Cette liste vise à donner un certain nombre d'exemples sans garantir l'exhaustivité sur les potentiels risques et opportunités existants. Certains types de risques (géopolitiques, guerres, risques sanitaires, par exemple) peuvent être ajoutés si un lien de corrélation avec le changement climatique est identifié. Les risques dont ni les causes, ni les conséquences, ne sont liées au changement climatique ne font pas partie de ces exemples.
+This list aims to give a number of examples without guaranteeing exhaustiveness on potential existing risks and opportunities. Certain types of risks (geopolitical, wars, health risks, for example) may be added if a correlation with climate change is identified. Risks whose causes and consequences are not linked to climate change do not form part of these examples.
 
-Ces risques ne concernent pas toutes les organisations. Ils sont dits « non spécifiques » aux activités de l'organisation. Un travail d'analyse supplémentaire est effectué pour cibler les risques spécifiques aux activités de l'organisation.
+These risks do not concern all organisations. They are described as "non-specific" to the organisation's activities. Additional analysis work is carried out to target the specific risks to the organisation's activities.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Cette ressource sera prochainement produite et mise à disposition.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] This resource will be produced and made available shortly.</mark>
 
-## Matrice d'analyse des risques
+## Risk Analysis Matrix
 
-Pour chacun des risques, l'objectif de cette ressource est de pouvoir hiérarchiser plusieurs indicateurs (ici la probabilité ou la gravité en exemple).
+For each risk, the objective of this resource is to be able to prioritise several indicators (here probability or severity as an example).
 
-<table><thead><tr><th>Risques</th><th>Probabilité<select><option value="9xNfpVBbaAVW" label="Improbable" color="blue"></option><option value="nPMvhB8VWlQ2" label="Possible" color="blue"></option><option value="zaBMBxpyEaoS" label="Probable" color="blue"></option><option value="OWHLuFakcIPg" label="Quasi-certain" color="blue"></option></select></th><th>Gravité<select><option value="JhGTLVLf8QGC" label="Mineurs" color="blue"></option><option value="H7EPH47A3LUH" label="Limités" color="blue"></option><option value="sAKoasTnpVNU" label="Majeurs" color="blue"></option><option value="1TB6Jle2DM4S" label="Dramatiques" color="blue"></option></select></th></tr></thead><tbody><tr><td>Risque n°1</td><td><span data-option="9xNfpVBbaAVW">Improbable</span></td><td><span data-option="sAKoasTnpVNU">Majeurs</span></td></tr><tr><td>Risque n°2</td><td><span data-option="nPMvhB8VWlQ2">Possible</span></td><td><span data-option="JhGTLVLf8QGC">Mineurs</span></td></tr><tr><td>Risque n°3</td><td><span data-option="zaBMBxpyEaoS">Probable</span></td><td><span data-option="1TB6Jle2DM4S">Dramatiques</span></td></tr><tr><td>Risque n°4</td><td><span data-option="OWHLuFakcIPg">Quasi-certain</span></td><td><span data-option="H7EPH47A3LUH">Limités</span></td></tr></tbody></table>
+<table><thead><tr><th>Risks</th><th>Probability<select><option value="9xNfpVBbaAVW" label="Unlikely" color="blue"></option><option value="nPMvhB8VWlQ2" label="Possible" color="blue"></option><option value="zaBMBxpyEaoS" label="Probable" color="blue"></option><option value="OWHLuFakcIPg" label="Near-certain" color="blue"></option></select></th><th>Severity<select><option value="JhGTLVLf8QGC" label="Minor" color="blue"></option><option value="H7EPH47A3LUH" label="Limited" color="blue"></option><option value="sAKoasTnpVNU" label="Major" color="blue"></option><option value="1TB6Jle2DM4S" label="Dramatic" color="blue"></option></select></th></tr></thead><tbody><tr><td>Risk no. 1</td><td><span data-option="9xNfpVBbaAVW">Unlikely</span></td><td><span data-option="sAKoasTnpVNU">Major</span></td></tr><tr><td>Risk no. 2</td><td><span data-option="nPMvhB8VWlQ2">Possible</span></td><td><span data-option="JhGTLVLf8QGC">Minor</span></td></tr><tr><td>Risk no. 3</td><td><span data-option="zaBMBxpyEaoS">Probable</span></td><td><span data-option="1TB6Jle2DM4S">Dramatic</span></td></tr><tr><td>Risk no. 4</td><td><span data-option="OWHLuFakcIPg">Near-certain</span></td><td><span data-option="H7EPH47A3LUH">Limited</span></td></tr></tbody></table>
 
-Pour chacun des risques hiérarchisés, les conclusions de la matrice proposée permettent de prioriser l'action de l'organisation.
+For each prioritised risk, the conclusions of the proposed matrix make it possible to prioritise the organisation's action.
 
-|                               | Mineurs et Limités   | Majeurs et Dramatiques |
-| ----------------------------- | -------------------- | ---------------------- |
-| **Improbable et Possible**    | Veille & Opportunité | Anticiper              |
-| **Probable et Quasi-Certain** | Agir                 | Urgence                |
+|                                        | Minor and Limited    | Major and Dramatic |
+| -------------------------------------- | -------------------- | ------------------ |
+| **Unlikely and Possible**              | Monitor & Opportunity | Anticipate         |
+| **Probable and Near-Certain**          | Act                  | Urgent             |
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Cette ressource sera prochainement produite et mise à disposition.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] This resource will be produced and made available shortly.</mark>
 
-## Simulateur de vulnérabilités économiques
+## Economic Vulnerability Simulator
 
-Cet utilitaire d’analyse économique permet de réaliser des simulations, à partir du [profil d'émission](../../4-comptabilisation/4.5-profil-demission.md) de l'organisation.
+This economic analysis utility makes it possible to carry out simulations, based on the organisation's [emission profile](../../4-comptabilisation/4.5-profil-demission.md).
 
-Des exemples de simulations possibles :&#x20;
+Examples of possible simulations:
 
-* évaluer l’ensemble des surcoûts qui suivraient une hausse du prix des hydrocarbures, en partant du principe que tous les fournisseurs, les fournisseurs des fournisseurs, etc. répercutent dans leurs prix la hausse du prix de l’énergie qui en résulte pour eux. En pareil cas, la simulation ne concerne bien sûr que le CO2 provenant de l’utilisation d’hydrocarbures.&#x20;
-* évaluer les surcoûts qui découleraient de la mise en place d’une taxe carbone ou d’une pénalité sur les émissions de gaz à effet de serre.
+* Assess all the additional costs that would follow a rise in hydrocarbon prices, on the assumption that all suppliers, suppliers' suppliers, etc. pass on to their prices the resulting rise in energy prices for them. In such a case, the simulation only concerns CO2 from the use of hydrocarbons.
+* Assess the additional costs that would result from the implementation of a carbon tax or a penalty on greenhouse gas emissions.
 
-Il ne s’agit donc en aucun cas d’un outil à caractère prédictif. Les hypothèses choisies devront toujours être explicitées à défaut d’être justifiées.
+This is therefore in no way a predictive tool. The chosen assumptions must always be made explicit if they cannot be justified.
 
 {% hint style="info" %}
-Cet utilitaire existe actuellement dans les [outils de l'ABC](../../formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) (Excel et BC+), disponibles pour les adhérents de l'association.
+This utility currently exists in the [ABC's tools](../../formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) (Excel and BC+), available for the association's members.
 {% endhint %}

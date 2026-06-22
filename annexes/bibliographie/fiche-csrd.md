@@ -2,177 +2,169 @@
 description: Corporate Sustainability Reporting Directive
 ---
 
-# Fiche CSRD
+# CSRD Sheet
 
 {% hint style="success" %}
-**Type** : Reporting règlementaire&#x20;
+**Type**: Regulatory reporting
 
-**Date** : Directive adoptée en 2022&#x20;
+**Date**: Directive adopted in 2022
 
-**Mise en application** : 2024 pour première publication en 2025 &#x20;
+**Implementation**: 2024 for first publication in 2025
 
-**Auteur** : Commission européenne &#x20;
+**Author**: European Commission
 
-**Cible** : Entreprises
+**Target**: Companies
 {% endhint %}
 
-Adoptée en 2014 dans le cadre du Green Deal Européen, la NFRD[^1] encadrait jusqu’à présent les déclarations de performance extra-financière des sociétés européennes. La NFRD était alors appliquée en France via la DPEF[^2]. Jugée incomplète, cette première directive s’apprête à être remplacée et consolidée en 2025 par la CSRD.  &#x20;
+Adopted in 2014 within the framework of the European Green Deal, the NFRD[^1] until now governed the non-financial performance declarations of European companies. The NFRD was applied in France via the DPEF[^2]. Considered incomplete, this first directive is set to be replaced and consolidated in 2025 by the CSRD.
 
-La **CSRD (Corporate Sustainability Reporting Directive)** est ainsi la nouvelle directive proposée par la Commission européenne qui vise à renforcer le système de reporting extra-financier des entreprises, via l’intégration de nouvelles mesures (standards, comparabilité, vérification externe). &#x20;
+The **CSRD (Corporate Sustainability Reporting Directive)** is thus the new directive proposed by the European Commission that aims to strengthen the non-financial reporting system of companies, through the integration of new measures (standards, comparability, external verification).
 
-## **Quels sont les objectifs de la démarche ?**
+## **What are the objectives of the approach?**
 
-La série de nouvelles normes de la CSRD vise à **améliorer le reporting ESG des entreprises à l’échelle européenne** en favorisant une meilleure **transparence** et **standardisation** des déclarations non financières des entreprises. La CSRD a pour objectif d'accroître la confiance des investisseurs et des consommateurs dans les données fournies par les entreprises tout en facilitant leur interopérabilité. &#x20;
+The series of new CSRD standards aims to **improve the ESG reporting of companies at the European level** by promoting better **transparency** and **standardisation** of non-financial disclosures of companies. The CSRD aims to increase the confidence of investors and consumers in the data provided by companies while facilitating their interoperability.
 
-À partir de 2025, les entreprises concernées devront inclure dans leurs rapports de gestion des indicateurs en conformité avec les normes européennes sur le développement durable, les **European Sustainability Reporting Standards (ESRS)**. 
+From 2025, the companies concerned will have to include in their management reports indicators in compliance with European sustainable development standards, the **European Sustainability Reporting Standards (ESRS)**.
 
-## **Quelle(s) est (sont)** la (les) cible(s) de la démarche ? 
+## **What is (are) the target(s) of the approach?**
 
-La CSRD est destinée aux sociétés européennes et touchera environ 50 000 entreprises à terme, contre 11 700 actuellement avec la NFRD. Cet écart peut être attribué à l'extension du champ d'application à des structures de taille plus réduite. &#x20;
+The CSRD is intended for European companies and will ultimately affect around 50,000 companies, compared to 11,700 currently with the NFRD. This gap can be attributed to the extension of the scope to smaller-sized structures.
 
-Les [obligations d’alignement](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202302775) à la CSRD  commencent dès 2024 et s’étendent jusqu’en 2028 :   &#x20;
+The [alignment obligations](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202302775) to the CSRD begin from 2024 and extend through to 2028:
 
-* &#x20;A partir de l’exercice 2024 (publication en 2025) : **les grandes entreprises** (Europe et hors Europe) remplissant 2 des 3 critères suivants : plus de 500 salariés, plus de 25 millions d’euros de bilan et/ou de 50 millions de chiffre d’affaires  **déjà soumises à la NFRD**&#x20;
-* A partir de l’exercice 2025 (publication en 2026) : **les grandes entreprises non soumises à la NFRD** et qui remplissent 2 des 3 critères suivants : plus de 250 salariés, 25 millions d’euros de bilan et/ou 50 millions d’euros de chiffre d’affaires. &#x20;
-* A partir de l’exercice 2026 (publication en 2027, dérogation possible jusqu’en 2028) : les [**PME cotées en bourse** ](#user-content-fn-3)[^3]
+* From the 2024 financial year (publication in 2025): **large companies** (European and non-European) meeting 2 of the following 3 criteria: more than 500 employees, more than €25 million in balance sheet and/or €50 million in turnover **already subject to the NFRD**
+* From the 2025 financial year (publication in 2026): **large companies not subject to the NFRD** meeting 2 of the following 3 criteria: more than 250 employees, €25 million in balance sheet and/or €50 million in turnover.
+* From the 2026 financial year (publication in 2027, deferral possible until 2028): [**listed SMEs**](#user-content-fn-3)[^3]
 
 {% hint style="info" %}
-Ces chiffres ont été révisés par la Commission Européenne en 2023 et ont été transposés en droit national français dans [l’ordonnance n°2023-1142.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048519395)
+These figures were revised by the European Commission in 2023 and have been transposed into French national law in [Ordinance No. 2023-1142.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048519395)
 {% endhint %}
 
-## **La démarche s’appuie-t-elle sur une base scientifique partagée ?**
+## **Does the approach draw on a shared scientific basis?**
 
-L’[**EFRAG**](#user-content-fn-4)[^4] a été nommé auprès de la Commission européenne pour élaborer des normes précises de reporting : les ESRS. Ceux-ci ont pour objectif de faciliter la comparaison des rapports extra-financiers des entreprises européennes. Actuellement, il en existe 12. De nouvelles normes sectorielles ou spécifiques aux PME cotées sur les marchés réglementés seront prochainement introduites. &#x20;
+[**EFRAG**](#user-content-fn-4)[^4] has been appointed by the European Commission to develop precise reporting standards: the ESRS. These aim to facilitate the comparison of non-financial reports of European companies. There are currently 12. New sectoral standards or those specific to SMEs listed on regulated markets will shortly be introduced.
 
 <details>
 
-<summary>Les deux premiers ESRS   « General Disclosure » ont une portée généraliste et transverse.</summary>
+<summary>The first two ESRS "General Disclosure" have a general and transversal scope.</summary>
 
-L'ESRS 1 « Principes généraux » : définit l'architecture, les principes et les concepts généraux des normes ESRS, y compris les caractéristiques et la structure de l'information, la double matérialité...
+ESRS 1 "General Principles": defines the architecture, principles and general concepts of the ESRS standards, including the characteristics and structure of information, double materiality...
 
-L'ESRS 2 « Informations générales » : détaille les informations que les entreprises doivent présenter en lien avec les sujets matériels de durabilité. Ces informations couvrent quatre domaines de reporting : la gouvernance, la stratégie, le processus d’identification et de gestion des impacts, risques et opportunités de durabilité, ainsi que les indicateurs et objectifs de durabilité. 
-
-
+ESRS 2 "General Information": details the information that companies must present in connection with material sustainability topics. This information covers four reporting domains: governance, strategy, the process of identifying and managing sustainability impacts, risks and opportunities, as well as sustainability indicators and objectives.
 
 </details>
 
 <details>
 
-<summary>Parmi les 10 ESRS thématiques, <strong>5 critères sont en lien avec le volet environnemental.</strong></summary>
+<summary>Among the 10 thematic ESRS, <strong>5 criteria are related to the environmental dimension.</strong></summary>
 
-
-
-* **ESRS E1 : Changement climatique** &#x20;
-* **ESRS E2 : Pollution** &#x20;
-* **ESRS E3 : Ressources marines et en eau**  &#x20;
-* **ESRS E4 : Biodiversité et écosystèmes​​** &#x20;
-* **ESRS E5 : Utilisation des ressources et économie circulaire** &#x20;
-* ESRS S1 : Main d’œuvre de l’entreprise &#x20;
-* ESRS S2 : Employés de la chaîne de valeur &#x20;
-* ESRS S3 : Communautés concernées &#x20;
-* ESRS S4 : Consommateurs et utilisation &#x20;
-* ESRS G1 : Conduite commerciale &#x20;
+* **ESRS E1: Climate change**
+* **ESRS E2: Pollution**
+* **ESRS E3: Marine and water resources**
+* **ESRS E4: Biodiversity and ecosystems**
+* **ESRS E5: Resource use and circular economy**
+* ESRS S1: Own workforce
+* ESRS S2: Workers in the value chain
+* ESRS S3: Affected communities
+* ESRS S4: Consumers and end-users
+* ESRS G1: Business conduct
 
 </details>
 
-## **La démarche s’appuie-t-elle sur une méthodologie spécifique ?** 
+## **Does the approach draw on a specific methodology?**
 
-La nouvelle directive CSRD introduit la notion de double matérialité qui consiste à analyser tous les critères ESG (environnement, social, gouvernemental) sous un double prisme :  &#x20;
+The new CSRD directive introduces the notion of double materiality, which consists of analysing all ESG criteria (environmental, social, governance) through a dual lens:
 
-* la **matérialité financière** : impacts des enjeux de durabilité sur les performances financières de l’entreprise &#x20;
-* la **matérialité d’impact** : impacts de l’entreprise sur son environnement économique, social et naturel&#x20;
+* **financial materiality**: impacts of sustainability issues on the company's financial performance
+* **impact materiality**: impacts of the company on its economic, social and natural environment
 
-Une fois l’analyse de double matérialité menée, l’organisation doit rédiger son rapport selon les normes ESRS. **Seules les informations générales restent obligatoires à fournir** dans le cadre du reporting. Pour les autres ESRS, c’est à l’entreprise de préciser ce qui lui semble **pertinent** de publier à la suite de son analyse de double matérialité. Cependant, elle doit être en mesure de justifier ses choix sur la base de cette analyse. Seules les entreprises qui n’intègrent pas l’ESRS E1 « Changement climatique » se doivent de publier une justification systématiquement. &#x20;
+Once the double materiality analysis has been carried out, the organisation must draft its report according to the ESRS standards. **Only general information remains mandatory to provide** within the framework of the reporting. For the other ESRS, it is for the company to specify what it deems **relevant** to publish following its double materiality analysis. However, it must be in a position to justify its choices on the basis of this analysis. Only companies that do not integrate ESRS E1 "Climate Change" must systematically publish a justification.
 
-**En principe, l'ensemble de la chaîne de valeur, y compris le scope 3, doit être pris en compte (pour autant que cela corresponde au spectre couvert par l'analyse de double matérialité)**. Les données doivent se rapporter à l'année fiscale précédente, similaire à un reporting financier : une publication en 2024 se basera ainsi sur les données de 2023. L'organisation doit présenter son année de référence actuelle et doit la mettre à jour pour ses objectifs de réduction des émissions de GES **tous les 5 ans après 2030**.
+**In principle, the entire value chain, including scope 3, must be taken into account (insofar as this corresponds to the spectrum covered by the double materiality analysis)**. Data must relate to the previous fiscal year, similar to financial reporting: a publication in 2024 will thus be based on 2023 data. The organisation must present its current reference year and must update it for its GHG emission reduction objectives **every 5 years after 2030**.
 
-**Chaque ESRS comprend un ensemble de DRs** (82 au total, dont 32 portent sur l’environnement), représentant les informations spécifiques que les entreprises sont potentiellement tenues de divulguer dans le cadre de la CSRD. Ces données sont liées à des aspects cruciaux de l'entreprise, tels que ses performances financières, environnementales, sociales et de gouvernance. Pour publier ces informations spécifiques, les entreprises doivent collecter et présenter des [**data points**](#user-content-fn-5)[^5], au nombre total d'environ 1200. **Chaque DR est associé à des data points**, pouvant être des données narratives, semi-narratives, des pourcentages ou des données monétaires.  Le nombre de DRs et de points de données pourra être amené à évoluer ultérieurement.
+**Each ESRS includes a set of DRs** (82 in total, of which 32 relate to the environment), representing the specific information that companies are potentially required to disclose within the framework of the CSRD. This data is linked to crucial aspects of the company, such as its financial, environmental, social and governance performance. To publish this specific information, companies must collect and present [**data points**](#user-content-fn-5)[^5], totalling around 1,200. **Each DR is associated with data points**, which can be narrative, semi-narrative, percentages or monetary data. The number of DRs and data points may evolve subsequently.
 
-**La CSRD requiert un plan de transition comprenant un plan d'action spécifiques pour la décarbonation.** Ce plan doit détailler les objectifs de réduction des émissions, les politiques d'adaptation et toute autre initiative pertinente pour adresser les impacts climatiques. Il doit inclure une ou plusieurs trajectoires de réduction des émissions conformes aux budgets carbones en vigueur (tels que ceux du SBTi) et un plan d'action détaillé, quantifiant les mesures envisagées pour atteindre ces objectifs.
+**The CSRD requires a transition plan including a specific action plan for decarbonisation.** This plan must detail the emission reduction objectives, adaptation policies and any other relevant initiative to address climate impacts. It must include one or more emission reduction pathways consistent with applicable carbon budgets (such as those of the SBTi) and a detailed action plan, quantifying the measures envisaged to achieve these objectives.
 
 <details>
 
-<summary>De plus, <strong>des allègements sont prévus</strong> pour certaines entreprises afin de faciliter le passage de la NFRD vers la CSRD .</summary>
+<summary>Furthermore, <strong>relief measures are planned</strong> for certain companies to facilitate the transition from the NFRD to the CSRD.</summary>
 
-* Toutes les entreprises pourront différer d’un an la prise en compte des effets financiers anticipés des risques climatiques physiques et de transition. &#x20;
-* Possibilité de différer d’un an la publication des émissions de gaz à effet de serre de scope 3 et de différer de deux ans l’application de la norme sur la biodiversité pour les entreprises de moins de 750 salariés  &#x20;
-* Un reporting allégé pour les PME qui ne doivent répondre qu’à 6 normes et plusieurs DRs[^6] deviennent facultatifs.  &#x20;
+* All companies will be able to defer by one year the consideration of anticipated financial effects of physical and transition climate risks.
+* Possibility of deferring by one year the publication of scope 3 greenhouse gas emissions and deferring by two years the application of the biodiversity standard for companies with fewer than 750 employees
+* Simplified reporting for SMEs who need only comply with 6 standards and several DRs[^6] become optional.
 
 </details>
 
-## **La démarche s’appuie-t-elle sur des outils ?**
+## **Does the approach draw on tools?**
 
-**Aucun outil de calcul n’est proposé**. Cependant, un format spécifique de reporting est exigé : ESRS XBRL (eXtended Business Reporting Language). Ce choix est destiné à renforcer la transparence et la comparabilité. La publication des rapports se fait ensuite sur une plateforme en libre accès : l’[**ESAP**](#user-content-fn-7)[^7].  
+**No calculation tool is proposed**. However, a specific reporting format is required: ESRS XBRL (eXtended Business Reporting Language). This choice is intended to enhance transparency and comparability. Reports are then published on a freely accessible platform: the [**ESAP**](#user-content-fn-7)[^7].
 
-## **D'autres méthodes et outils de la transition bas carbone peuvent-ils être utilisés afin d’atteindre les objectifs de cette démarche ?**
+## **Can other low-carbon transition methods and tools be used to achieve the objectives of this approach?**
 
-Parmi les DRs qui traitent des aspects environnementaux, ceux portant sur les enjeux liés au carbone sont regroupés dans l'**ESRS E1 intitulé « Changement climatique »** et en partie dans l’ESRS 2 « Pollution ». Pour fournir des informations complètes, à la fois quantitatives et qualitatives, différentes méthodes et outils peuvent être utilisés comme support pour obtenir ces informations. En effet, **la réalisation d'un Bilan Carbone® ou la participation au programme ACT ® permettent aux organisations de répondre aux exigences de l'ESRS E1**.  &#x20;
+Among the DRs dealing with environmental aspects, those relating to carbon-related issues are grouped in **ESRS E1 entitled "Climate Change"** and partly in ESRS 2 "Pollution". To provide complete information, both quantitative and qualitative, various methods and tools can be used as support to obtain this information. Indeed, **carrying out a Bilan Carbone® or participating in the ACT® programme enables organisations to meet the requirements of ESRS E1**.
 
-Par exemple, lors de l'étape de collecte et d'exploitation des données du Bilan Carbone®, les informations nécessaires pour le DR 5 sur la consommation d'énergie et le mix énergétique, ainsi que pour le DR 6 sur les émissions brutes de GES des scopes 1, 2, 3 et le total des GES, peuvent être obtenues. De même, l'étape du Plan d'action de réduction du Bilan Carbone® permettrait de fournir des informations qualitatives pour le DR concernant le plan de transition pour l'atténuation du changement climatique, ainsi que pour le DR sur les objectifs liés à l'atténuation et à l'adaptation au changement climatique.  &#x20;
+For example, during the data collection and analysis stage of the Bilan Carbone®, the information necessary for DR 5 on energy consumption and energy mix, as well as for DR 6 on gross GHG emissions from scopes 1, 2, 3 and total GHGs, can be obtained. Similarly, the Bilan Carbone® reduction action plan stage would enable qualitative information to be provided for the DR relating to the transition plan for climate change mitigation, as well as for the DR on objectives linked to climate change mitigation and adaptation.
 
-Quant au programme ACT®, il peut apporter des éléments pertinents sur la stratégie et les trajectoires de transition bas carbone de l’organisation, comme requis dans le DR sur les politiques relatives à l'atténuation et à l'adaptation au changement climatique, ainsi que dans le DR sur les actions et les ressources associées aux politiques de lutte contre le changement climatique. &#x20;
+As for the ACT® programme, it can contribute relevant elements on the organisation's low-carbon transition strategy and pathways, as required in the DR on policies relating to climate change mitigation and adaptation, as well as in the DR on actions and associated resources for policies to combat climate change.
 
-## **Permet-elle une reconnaissance tierce partie ? Si oui, de quelle manière ?**
+## **Does it allow for third-party recognition? If so, in what way?**
 
-La CSRD rend obligatoire la réalisation d'une vérification et d'un audit des informations communiquées par une tierce partie, et non en interne comme c’était le cas avec la NFRD. 
+The CSRD makes it mandatory to carry out verification and an audit of communicated information by a third party, and not internally as was the case with the NFRD.
 
-Le rapport de durabilité sera vérifié par :  &#x20;
+The sustainability report will be verified by:
 
-* **un commissaire aux comptes** &#x20;
-* **ou un organisme tiers indépendant (OTI)** &#x20;
+* **a statutory auditor**
+* **or an independent third-party body (OTI)**
 
-Les OTI devront recevoir l'accréditation du COFRAC[^8], et tous les auditeurs seront sous la supervision de la H2A[^9]. &#x20;
+OTIs will need to receive accreditation from the COFRAC[^8], and all auditors will be under the supervision of the H2A[^9].
 
-En cas de non-respect de la CSRD, **des sanctions ont été prévues** :  &#x20;
+In the event of non-compliance with the CSRD, **penalties have been provided for**:
 
-* 3750 euros seront exigibles en cas de non-publication du rapport ou de publication d'informations partielles ou erronées. &#x20;
-* En cas de non-audit du rapport extra-financier, une amende pouvant aller jusqu'à 30 000 euros et une peine d'emprisonnement pouvant atteindre 2 ans pourront être infligées. &#x20;
-* En cas d'entrave aux vérifications ou contrôles des auditeurs, une amende pouvant atteindre 75 000 euros et une peine d'emprisonnement pouvant aller jusqu'à 5 ans pourront être prononcées. De plus, les indicateurs doivent être revus tous les trois ans. &#x20;
+* €3,750 will be payable in the event of non-publication of the report or publication of partial or erroneous information.
+* In the event of a non-audit of the non-financial report, a fine of up to €30,000 and a prison sentence of up to 2 years may be imposed.
+* In the event of obstruction of auditors' verifications or checks, a fine of up to €75,000 and a prison sentence of up to 5 years may be pronounced. In addition, indicators must be reviewed every three years.
 
-Outre ces sanctions, d'autres mesures peuvent être envisagées : &#x20;
+In addition to these penalties, other measures may be envisaged:
 
-* Sanction d'image : divulgation publique du nom de l'entreprise et de la nature de l'infraction. &#x20;
-* Sanction réglementaire : ordonnance de cessation d'activité en lien avec l'infraction. &#x20;
-* Sanction financière : imposition d'une amende proportionnelle à la situation financière de l'entreprise et aux bénéfices tirés de l'infraction. &#x20;
+* Reputational sanction: public disclosure of the company name and the nature of the infringement.
+* Regulatory sanction: order to cease activities related to the infringement.
+* Financial sanction: imposition of a fine proportional to the company's financial situation and the benefits derived from the infringement.
 
 {% hint style="info" %}
-Ces sanctions varient en fonction de la transposition de la CSRD dans le droit national de chaque État membre de l'UE. Par exemple, aux Pays-Bas, elles peuvent atteindre jusqu'à 10 millions d'euros ou 5 % du chiffre d'affaires annuel de l'entreprise. 
+These penalties vary depending on the transposition of the CSRD into the national law of each EU member state. For example, in the Netherlands, they can reach up to €10 million or 5% of the company's annual turnover.
 {% endhint %}
 
-## **Cette démarche peut-elle s'harmoniser avec d'autres référentiels internationaux ?** 
+## **Can this approach be harmonised with other international reference frameworks?**
 
-Afin d'éviter la multiplication et la concurrence entre les standards internationaux, la CSRD a été conçue comme un **cadre compatible avec d’autres référentiels**.&#x20;
+In order to avoid the multiplication and competition between international standards, the CSRD has been designed as a **framework compatible with other reference frameworks**.
 
-Pour les enjeux d'harmonisation avec les normes américaines, un tableau de correspondance entre les normes IFRS et ESRS a été publié en 2023, montrant une forte convergence sur la matérialité financière des questions climatiques entre l’EFRAG et l’ISSB[^10].&#x20;
+For harmonisation issues with American standards, a correspondence table between IFRS and ESRS standards was published in 2023, showing strong convergence on the financial materiality of climate issues between EFRAG and the ISSB[^10].
 
-L’EFRAG a également signé un protocole de compatibilité avec le GRI.&#x20;
+EFRAG also signed a compatibility protocol with the GRI.
 
-Dans ce contexte d'harmonisation des standards, le futur Indicateur Climat de la Banque de France sera aligné sur la directive CSRD après une concertation avec les représentants des entreprises. 
-
-
-
-
+In this context of standards harmonisation, the future Climate Indicator of the Banque de France will be aligned with the CSRD directive following consultation with business representatives.
 
 ***
 
-_Les fiches du_ [_Panorama des méthodes et outils de la comptabilité carbone_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _sont issues d'un travail de synthèse de l'ABC. Nous restons preneurs de vos retours ou questions sur ce_ [_formulaire_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
+_The sheets from the_ [_Overview of carbon accounting methods and tools_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _are the result of a synthesis work by the ABC. We welcome your feedback or questions via this_ [_form_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
 
 [^1]: Non Financial Reporting Directive
 
-[^2]: Déclaration de Performance Extra-Financière
+[^2]: Déclaration de Performance Extra-Financière (Non-Financial Performance Declaration)
 
-[^3]: (sauf micro-entreprises de moins de 10 salariés dont le total du bilan ne dépasse pas 450 000 € ou dont le montant net du chiffre d'affaires ne dépasse pas 900 000 €) &#x20;
+[^3]: (excluding micro-enterprises with fewer than 10 employees whose total balance sheet does not exceed €450,000 or whose net turnover does not exceed €900,000)
 
 [^4]: **European Financial Reporting Advisory Group**
 
-[^5]: points de données en français
+[^5]: data points
 
 [^6]: Disclosure Requirements
 
 [^7]: European Single Access Point
 
-[^8]: Comité Français d’Accréditation
+[^8]: Comité Français d'Accréditation (French Accreditation Committee)
 
-[^9]: Haute autorité de l’audit
+[^9]: Haute autorité de l'audit (High Audit Authority)
 
 [^10]: [](https://www.bing.com/work/search?msbd=%257B%2522intent%2522%253A%2522None%2522%252C%2522triggeringMode%2522%253A%2522Explicit%2522%257D\&q=International%20Sustainability%20Standards%20Board)International Sustainability Standards Board

@@ -1,44 +1,43 @@
 ---
-description: Quels conseils pratiques pour délimiter le périmètre de l'étude ?
+description: What practical advice is available for delimiting the study boundary?
 ---
 
-# Annexe 4 - Aide à la détermination du périmètre
+# Annex 4 - Guidance on Boundary Determination
 
-## Aide à la détermination du périmètre
+## Guidance on Boundary Determination
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une annexe de cadrage et d'aide à la délimitation des périmètres est en cours de rédaction. Elle sera mise à disposition prochainement.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex providing scoping and guidance for delimiting boundaries is being drafted. It will be made available shortly.</mark>
 
-L’organisation pourra se référer à des [travaux sectoriels](../bibliographie/#travaux-et-guides-sectoriels), tels que ceux menés par l’ADEME et les fédérations professionnelles françaises, qui apportent des conseils sur la détermination du périmètre.
+The organisation may refer to [sectoral work](../bibliographie/#travaux-et-guides-sectoriels), such as that conducted by ADEME and French professional federations, which provides advice on boundary determination.
 
-Le [Plan Carbone Général](../bibliographie/#plan-carbone-general) est également une ressource exploitable, qui vise à répondre à ces questions pratiques en partageant les meilleures pratiques de la communauté de la comptabilité carbone.
+The [Plan Carbone Général](../bibliographie/#plan-carbone-general) is also an exploitable resource, which aims to address these practical questions by sharing best practices from the carbon accounting community.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une prochaine ressource sera produite et mise à disposition pour fournir un modèle réutilisable de cartographie des flux. Des déclinaisons de ce modèle pour certains grands secteurs d'activité seront proposées, pour servir de sources d'inspirations. Ces déclinaisons proposent des tendances sectorielles et ne garantissent pas l'exhaustivité des flux identifiés, qui resteront à analyser au cas par cas.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A forthcoming resource will be produced and made available to provide a reusable flow mapping template. Adaptations of this template for certain major sectors of activity will be proposed, to serve as sources of inspiration. These adaptations propose sectoral trends and do not guarantee the exhaustiveness of the flows identified, which will remain to be analysed on a case-by-case basis.</mark>
 
-## Aide à la détermination de la significativité
+## Guidance on Significance Determination
 
-Il est admis que certaines sources d’émissions indirectes de GES, au sein du [périmètre opérationnel](annexe-4-aide-a-la-determination-du-perimetre.md#p) d'une organisation, ne contribuent pas de manière significative au total des émissions indirectes. La notion de significativité peut être utile pour dresser des priorités lors de la comptabilisation, lors du choix des actions ou encore du suivi des résultats.
+It is accepted that certain indirect GHG emission sources, within the [operational boundary](annexe-4-aide-a-la-determination-du-perimetre.md#p) of an organisation, do not contribute significantly to the total indirect emissions. The notion of significance can be useful for setting priorities during accounting, when choosing actions or when monitoring results.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une annexe de cadrage et d'aide à la détermination des seuils de significativité est en cours de rédaction. Elle sera mise à disposition prochainement.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex providing scoping and guidance for determining significance thresholds is being drafted. It will be made available shortly.</mark>
 
-> :mag\_right: _La notion de_ [_significativité_](../glossaire.md#s) _est issue de l'_[_ISO 14064-1_](../bibliographie/) _et reprise au sein du_ [_BEGES-R_](../bibliographie/)_. Il y est proposé une procédure par étapes d’identification des émissions indirectes significatives._
+> :mag\_right: _The notion of_ [_significance_](../glossaire.md#s) _comes from_ [_ISO 14064-1_](../bibliographie/) _and is used within the_ [_BEGES-R_](../bibliographie/)_. A step-by-step procedure for identifying significant indirect emissions is proposed there._
 
-Pour qu'une émission soit dite [émission significative](annexe-4-aide-a-la-determination-du-perimetre.md#e), elle doit répondre à au moins un des **critères de significativité** :
+For an emission to be called a [significant emission](annexe-4-aide-a-la-determination-du-perimetre.md#e), it must meet at least one of the **significance criteria**:
 
-* **Critère d'ampleur** : Les postes d’émissions indirectes estimés substantiels d’un point de vue quantitatif sont à retenir. Un seuil d’ampleur minimal à considérer est exprimé en pourcentage. Il établit la proportion minimale des émissions indirectes du périmètre opérationnel à inclure dans le périmètre de déclaration. Le seuil d’ampleur ne devra pas être inférieur à 80%. À noter que la norme ISO 14064-1 désigne par **critère d’importance** la même notion.
-* **Niveau d’influence et leviers d’actions** : la mesure dans laquelle l’organisme peut suivre et réduire les émissions et les suppressions (par exemple, l’efficacité énergétique, l’éco-conception, l’engagement du client, les termes de référence).
-* **Importance stratégique et vulnérabilité** selon une approche risque ou opportunité : concerne les émissions ou suppressions indirectes qui contribuent à l’exposition de l’organisme aux risques (par exemple, les risques associés au changement climatique tels que les risques financiers, les risques liés à la réglementation, les risques pour la chaîne d’approvisionnement, les produits et les clients, les risques de litige, les risques d’atteinte à la réputation) ou à ses opportunités commerciales (nouveau marché ou nouveau modèle commercial, par exemple).
-* **Lignes directrices spécifiques au secteur** : les émissions de GES jugées significatives pour le secteur d’activité concerné, selon les lignes directrices spécifiques au secteur.
-* **Sous-traitance** : les émissions et suppressions indirectes résultant d’activités externalisées qui sont généralement des activités de base.
-* **Engagement du personnel** : les émissions indirectes susceptibles de motiver les employés à réduire leurs émissions ou qui fédèrent un esprit d’équipe autour du changement climatique.
+* **Magnitude criterion**: Indirect emission categories estimated to be substantial from a quantitative point of view are to be retained. A minimum magnitude threshold to consider is expressed as a percentage. It establishes the minimum proportion of indirect emissions from the operational boundary to include in the declaration boundary. The magnitude threshold must not be less than 80%. Note that ISO 14064-1 designates the same notion by the **importance criterion**.
+* **Level of influence and levers for action**: the extent to which the body can monitor and reduce emissions and removals (for example, energy efficiency, eco-design, customer engagement, terms of reference).
+* **Strategic importance and vulnerability** according to a risk or opportunity approach: concerns indirect emissions or removals that contribute to the body's exposure to risks (for example, risks associated with climate change such as financial risks, regulatory risks, supply chain risks, product and customer risks, litigation risks, reputational risks) or to its commercial opportunities (new market or new business model, for example).
+* **Sector-specific guidelines**: GHG emissions considered significant for the sector of activity concerned, according to sector-specific guidelines.
+* **Subcontracting**: indirect emissions and removals resulting from outsourced activities that are generally core activities.
+* **Employee engagement**: indirect emissions likely to motivate employees to reduce their emissions or that build team spirit around climate change.
 
-En résumé, les émissions sont considérées comme significatives si elles représentent plus de 80% des émissions du bilan (critère d'ampleur ou d'importance), si elles sont directement influencées par l'organisation (critère d'influence et de leviers d'actions), si elles contribuent à l'exposition aux risques et opportunités (critère d'importance stratégique et vulnérabilité), si elles sont jugées significatives pour le secteur d’activité de l'organisation (critère des lignes directrices du secteur), si elles résultent d'activités de base externalisées par l'organisation (critère de sous-traitance), et si elles sont susceptibles de mobiliser les collaborateurs (critère d'engagement du personnel).
+In summary, emissions are considered significant if they represent more than 80% of assessment emissions (magnitude or importance criterion), if they are directly influenced by the organisation (influence and levers for action criterion), if they contribute to exposure to risks and opportunities (strategic importance and vulnerability criterion), if they are considered significant for the organisation's sector of activity (sectoral guidelines criterion), if they result from core activities outsourced by the organisation (subcontracting criterion), and if they are likely to mobilise employees (employee engagement criterion).
 
-**L'organisation peut s'appuyer sur plusieurs ressources pour identifier ses émissions indirectes significatives :**&#x20;
+**The organisation can draw on several resources to identify its significant indirect emissions:**
 
-* Avoir réalisé un premier Bilan Carbone®, ou s'appuyer sur le Bilan Carbone® d'une organisation similaire ([OCCF](../bibliographie/#observatoire-de-la-comptabilite-carbone-en-france-occf))
-* Se référer à des [travaux sectoriels](../bibliographie/#travaux-et-guides-sectoriels), tels que ceux menés par l’ADEME et les fédérations professionnelles françaises, ou par des Think Tank comme le Shift Project, qui apportent des conseils sur la détermination du périmètre. [Exemple vidéo.](https://www.youtube.com/watch?v=YwAoO6UZI9U)
-* Le [Plan Carbone Général](../bibliographie/#plan-carbone-general) est également une ressource exploitable, qui vise à répondre à ces questions pratiques de manière consensuelle. Les approches sectorielles sont utiles pour connaître les sources d'émissions courantes pour un secteur donné.
-* La procédure par étapes d’identification des émissions indirectes significatives de la méthode du [Bilan GES règlementaire](../bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges).
-
+* Having carried out a first Bilan Carbone®, or drawing on the Bilan Carbone® of a similar organisation ([OCCF](../bibliographie/#observatoire-de-la-comptabilite-carbone-en-france-occf))
+* Referring to [sectoral work](../bibliographie/#travaux-et-guides-sectoriels), such as that conducted by ADEME and French professional federations, or by Think Tanks like the Shift Project, which provides advice on boundary determination. [Example video.](https://www.youtube.com/watch?v=YwAoO6UZI9U)
+* The [Plan Carbone Général](../bibliographie/#plan-carbone-general) is also an exploitable resource, which aims to address these practical questions in a consensual manner. Sectoral approaches are useful for knowing common emission sources for a given sector.
+* The step-by-step procedure for identifying significant indirect emissions from the [regulatory GHG assessment](../bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges) method.
 
 

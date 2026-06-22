@@ -1,14 +1,14 @@
 ---
-description: Ressources et informations complémentaires
+description: Additional resources and information
 ---
 
 # Annexes
 
-<figure><img src="../../.gitbook/assets/2150041854.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2150041854.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-Des ressources et informations complémentaires sont détaillées en annexe.
+Additional resources and information are detailed in the annex.
 
-La liste des annexes et le résumé de leurs contenus est à retrouver dans la [Table des Matières.](../../table-des-matieres.md)
+The list of annexes and a summary of their contents can be found in the [Table of Contents.](../../table-des-matieres.md)
 
 
 

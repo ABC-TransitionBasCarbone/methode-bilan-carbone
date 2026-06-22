@@ -1,94 +1,94 @@
 ---
-description: Quels sont les acronymes et les termes utilisés par la méthode ?
+description: What are the acronyms and terms used by the method?
 ---
 
-# Glossaire
+# Glossary
 
-<figure><img src="../.gitbook/assets/87209.jpg" alt="" width="563"><figcaption><p>Source : Freepik</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/87209.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
 ## A
 
 <details>
 
-<summary>Actions d’améliorations de la démarche</summary>
+<summary>Approach improvement actions</summary>
 
-[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) permettant de prendre du recul par rapport au Bilan Carbone® réalisé. Ceci peut concerner l'évaluation du respect des principes du Bilan Carbone®, l'amélioration de la collecte des données pour gagner en précision et réduire les incertitudes, la montée en niveau de maturité, et la prise en compte des retours vis-à-vis de la mobilisation menée par l'organisation.
-
-</details>
-
-<details>
-
-<summary>Actions d'adaptation</summary>
-
-[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) à court et moyen terme permettant de s'adapter aux conséquences du changement climatique pour assurer la résilience et la survie de l'organisation. Elles répondent aux problématiques soulevées par l'[identification des risques et opportunités](../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md). Ces actions concernent en priorité les [niveaux Standard et Avancé](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md).
+[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) allowing for a step back from the Bilan Carbone® carried out. This may concern the evaluation of compliance with the Bilan Carbone® principles, the improvement of data collection to gain in precision and reduce uncertainties, moving up in maturity level, and taking into account feedback regarding the mobilisation conducted by the organisation.
 
 </details>
 
 <details>
 
-<summary>Action de mobilisation</summary>
+<summary>Adaptation actions</summary>
 
-Association d'une phase de [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) (sensibilisation, responsabilisation, coconstruction, ou restitution), lors d'une étape, auprès d'une ou plusieurs cibles, avec une adaptation plus ou moins spécifique des messages en fonction du profil d'organisation.
-
-</details>
-
-<details>
-
-<summary>Actions immédiates</summary>
-
-[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) à court terme, qui permettent de lancer le plan d’action et motiver les équipes. Ces actions peuvent être mises en œuvre sans difficultés majeures et dans un délai court
+[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) in the short and medium term allowing adaptation to the consequences of climate change to ensure the resilience and survival of the organisation. They respond to the issues raised by the [identification of risks and opportunities](../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md). These actions primarily concern [Standard and Advanced levels](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md).
 
 </details>
 
 <details>
 
-<summary>Actions prioritaires</summary>
+<summary>Mobilisation action</summary>
 
-[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) à court/moyen terme qui permettent de réduire fortement ses émissions, puisqu'elles concernent directement des postes significatifs.
-
-</details>
-
-<details>
-
-<summary>Actions stratégiques</summary>
-
-[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) à moyen et long terme concernant la stratégie globale et le modèle économique de l'organisation et qui permettent donc de réduire fortement la vulnérabilité carbone et économique de l’organisation.
+Association of a [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) phase (awareness, accountability, co-construction, or reporting) at a step, with one or more targets, with a more or less specific adaptation of messages depending on the organisation profile.
 
 </details>
 
 <details>
 
-<summary>Agence de l'Environnement et de la Maîtrise de l'Énergie (ADEME)</summary>
+<summary>Immediate actions</summary>
 
-L'ADEME, Agence de la transition écologique _(anciennement Agence de l'Environnement et de la Maîtrise de l'Énergie),_ est un établissement public participant à la mise en œuvre des politiques publiques dans les domaines de l'environnement, de l'énergie et du développement durable.
-
-:link:Pour plus d'informations sur l’ADEME, voici son [site](https://www.ademe.fr/).
+[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) in the short term, which make it possible to launch the action plan and motivate teams. These actions can be implemented without major difficulties and within a short timeframe.
 
 </details>
 
 <details>
 
-<summary>Analyse de Cycle de Vie (ACV)</summary>
+<summary>Priority actions</summary>
 
-Méthode d'évaluation de l'empreinte environnementale, multicritère et multi-étapes et sur l'ensemble du cycle de vie.
-
-</details>
-
-<details>
-
-<summary>Année de référence </summary>
-
-Année, établie lors du premier bilan, à laquelle est comparé chaque nouveau bilan. Elle est la même d'un exercice de bilan à un autre, sauf si besoin (Exemple : activité change drastiquement).
+[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) in the short/medium term that make it possible to strongly reduce emissions, as they directly concern significant emission categories.
 
 </details>
 
 <details>
 
-<summary>Année de reporting</summary>
+<summary>Strategic actions</summary>
 
-Année sur laquelle portent les données d'activité collectées pour établir le bilan d'émissions de GES.
+[Actions](../5-plan-de-transition/5.2-construction-du-plan-daction.md#les-differentes-categories-dactions) in the medium and long term concerning the overall strategy and the economic model of the organisation and which therefore make it possible to strongly reduce the carbon and economic vulnerability of the organisation.
 
-Il s'agit donc de 12 mois consécutifs, sur une année civile ou comptable selon les pratiques de l'organisation.
+</details>
+
+<details>
+
+<summary>Agency for Ecological Transition (ADEME)</summary>
+
+The ADEME, Agency for Ecological Transition _(formerly Agence de l'Environnement et de la Maîtrise de l'Énergie),_ is a public body participating in the implementation of public policies in the fields of the environment, energy and sustainable development.
+
+:link:For more information on the ADEME, here is its [website](https://www.ademe.fr/).
+
+</details>
+
+<details>
+
+<summary>Life Cycle Analysis (LCA)</summary>
+
+Multi-criteria and multi-stage environmental footprint assessment method covering the entire life cycle.
+
+</details>
+
+<details>
+
+<summary>Reference year</summary>
+
+Year, established during the first assessment, to which each new assessment is compared. It is the same from one assessment exercise to another, unless necessary (Example: activity changes drastically).
+
+</details>
+
+<details>
+
+<summary>Reporting year</summary>
+
+Year on which the activity data collected to establish the GHG emissions assessment are based.
+
+This is therefore 12 consecutive months, over a calendar or financial year depending on the organisation's practices.
 
 </details>
 
@@ -96,9 +96,9 @@ Il s'agit donc de 12 mois consécutifs, sur une année civile ou comptable selon
 
 <summary>Association</summary>
 
-Convention par laquelle deux ou plusieurs personnes mettent en commun, d'une façon permanente, leurs connaissances ou leur activité dans un but autre que de partager des bénéfices. (Source Legifrance)
+Agreement by which two or more persons permanently pool their knowledge or activity for a purpose other than sharing profits. (Source: Legifrance)
 
-Une association est donc une organisation, au sens du Bilan Carbone® et de son périmètre organisationnel.
+An association is therefore an organisation, within the meaning of the Bilan Carbone® and its organisational boundary.
 
 </details>
 
@@ -106,56 +106,56 @@ Une association est donc une organisation, au sens du Bilan Carbone® et de son 
 
 <summary>Association des Professionnels en Conseil Climat, Energie et Environnement (APCC)</summary>
 
-L’Association des Professionnels en Conseil Climat, Energie et Environnement fédère les acteurs qui réalisent des missions de conseil et accompagnent au quotidien les organisations privés et publiques sur l’ensemble des thèmes liés au enjeux climat , à la transition des structures vers un **mode** bas carbone, ainsi que sur les thèmes liés à la mobilité durable.
+The Association des Professionnels en Conseil Climat, Energie et Environnement brings together actors who carry out consulting missions and support private and public organisations on a daily basis on all topics related to climate challenges, the transition of structures towards a low-carbon **model**, as well as on topics related to sustainable mobility.
 
-L’APCC a pour objectif de contribuer à la transition vers une économie à faible impact sur le climat, plus sobre dans sa consommation d’énergie et plus respectueuse de l’environnement.
+The APCC aims to contribute to the transition towards an economy with a low impact on the climate, more sober in its energy consumption and more respectful of the environment.
 
-Elle se concentre sur le rôle des organisations (entreprises, collectivités, établissements publics) dans cette transition. En effet, les organisations ont un rôle majeur à jouer face aux enjeux climatiques, énergétiques et environnementaux.
+It focuses on the role of organisations (companies, local authorities, public institutions) in this transition. Indeed, organisations have a major role to play in the face of climate, energy and environmental challenges.
 
-Au quotidien, l'objectif est porté par 3 missions principales, qui guident toutes les actions :
+On a daily basis, this objective is carried by 3 main missions, which guide all actions:
 
-1. Représenter les entreprises qui accompagnent et conseillent au quotidien les entreprises, collectivités et établissements publics sur les sujets liés au changement climatique, pour porter leur voix auprès des instances et parties prenantes tels que le Ministère de la Transition Écologique, l’ADEME, l’ABC …
-2. Inscrire nos membres dans une démarche d’échange et d’amélioration continue, pour leur permettre d’être toujours plus pertinents dans leurs métiers.
-3. Informer, expliquer, donner des clés et diffuser les bonnes pratiques aux organisations sur les thématiques liées au changement climatique et à la mobilité durable, pour les pousser à l’action et leur permettre d’agir concrètement.
+1. Representing companies that support and advise companies, local authorities and public bodies on a daily basis on issues related to climate change, to carry their voice to bodies and stakeholders such as the Ministry of Ecological Transition, ADEME, ABC...
+2. Engaging our members in a process of exchange and continuous improvement, to enable them to be ever more relevant in their roles.
+3. Informing, explaining, providing keys and disseminating good practices to organisations on topics related to climate change and sustainable mobility, to push them into action and enable them to act concretely.
 
-:link: Pour plus d'informations sur l’Association des Professionnels en Conseil Climat, Energie et Environnement, voici son [site](https://apc-climat.fr/).
-
-</details>
-
-<details>
-
-<summary>Autoévaluation</summary>
-
-Suivi du processus d'[évaluation d'un Bilan Carbone®](bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) en interne et en autonomie, à partir du guide d'évaluation en accès libre. L'autoévaluation ne fait donc pas appel au process d'évaluation par un évaluateur habilité (formé et certifié).
-
-Une autoévaluation permet un usage interne : cibler l'atteinte ou non de certains critères des niveaux de maturité visés, progresser en amélioration continue, vérifier la pertinence de lancer une évaluation externe, confirmer en interne sa maturité et donc l'intérêt d'enchaîner avec des démarches complémentaires de transition bas carbone.
-
-Une autoévaluation ne permet pas de déclarer sa démarche Bilan Carbone® comme étant évaluée, ni de communiquer à l'externe le résultat obtenu.
+:link: For more information on the Association des Professionnels en Conseil Climat, Energie et Environnement, here is its [website](https://apc-climat.fr/).
 
 </details>
 
 <details>
 
-<summary>Axes analytiques</summary>
+<summary>Self-evaluation</summary>
 
-L’axe analytique, en comptabilité, désigne les variables utilisées pour mesurer les différents coûts de production. Il fonctionne comme un marqueur utilisé pour filtrer des écritures similaires et récupérer des groupes à des fins d’analyse. Les axes analytiques sont inhérents à la comptabilité analytique. Ils étayent les décisions stratégiques par un niveau de détail apporté aux données comptables.&#x20;
+Following the [Bilan Carbone® evaluation](bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) process internally and independently, using the freely accessible evaluation guide. Self-evaluation therefore does not involve the evaluation process by an authorised evaluator (trained and certified).
 
-Les axes analytiques peuvent être de différentes natures. À l’échelle d’une entreprise ou d’un groupe, un axe analytique permet par exemple de catégoriser les :&#x20;
+A self-evaluation allows for internal use: targeting whether or not certain criteria of the targeted maturity levels are achieved, progressing in continuous improvement, verifying the relevance of launching an external evaluation, confirming one's maturity internally and therefore the interest in moving on to complementary low-carbon transition approaches.
 
-* Les activités de l’entreprise,
-* Les sites physiques,
-* L’organisation juridique (filiales, franchisés)
-* L’organisation humaine (équipes, collaborateurs),
-* Les projets,
-* Les produits ou services,
-* Les fournisseurs,
-* Les clients.
+A self-evaluation does not allow an organisation to declare its Bilan Carbone® approach as having been evaluated, nor to communicate the result obtained externally.
 
-Pour chacun de ces axes, des codes analytiques définissent les valeurs possibles.
+</details>
 
-**Les axes analytiques peuvent être utilisés dans le Bilan Carbone® pour la** [**comptabilité carbone analytique**](bibliographie/#guides-pratiques)_**,**_ pour construire une lecture ou une nomenclature utilisée pour le périmètre opérationnel, pour ventiler les émissions du profil GES, etc. Ils correspondent à la division des émissions par responsables, afin de construire un plan de transition à plusieurs niveaux de responsabilité au sein de l’organisation.
+<details>
 
-Les axes analytiques ne sont pas toujours présents dans la comptabilité d'une organisation (elles n'ont parfois par de plan analytique). Cependant, même sans plan analytique formalisé, l’organisation a parfois une lecture de ses coûts et budgets par axes (fournisseur, client, projet, site, équipe, etc.). Ces axes seront utilisés par la comptabilité carbone analytique car ce sont ceux qui permettent de piloter l'organisation.
+<summary>Analytical axes</summary>
+
+The analytical axis, in accounting, designates the variables used to measure the various production costs. It functions as a marker used to filter similar entries and retrieve groups for analysis purposes. Analytical axes are inherent to analytical accounting. They underpin strategic decisions through a level of detail added to accounting data.&#x20;
+
+Analytical axes can be of different natures. At the scale of a company or group, an analytical axis makes it possible, for example, to categorise:&#x20;
+
+* The company's activities,
+* Physical sites,
+* The legal organisation (subsidiaries, franchisees)
+* The human organisation (teams, employees),
+* Projects,
+* Products or services,
+* Suppliers,
+* Clients.
+
+For each of these axes, analytical codes define the possible values.
+
+**Analytical axes can be used in the Bilan Carbone® for** [**analytical carbon accounting**](bibliographie/#guides-pratiques)_**,**_ to build a reading or nomenclature used for the operational boundary, to break down emissions from the GHG emission profile, etc. They correspond to the division of emissions by responsible parties, in order to build a transition plan at several levels of responsibility within the organisation.
+
+Analytical axes are not always present in an organisation's accounting (they sometimes do not have an analytical plan). However, even without a formalised analytical plan, the organisation sometimes has a reading of its costs and budgets by axes (supplier, client, project, site, team, etc.). These axes will be used by analytical carbon accounting as they are the ones that make it possible to steer the organisation.
 
 </details>
 
@@ -163,31 +163,31 @@ Les axes analytiques ne sont pas toujours présents dans la comptabilité d'une 
 
 <details>
 
-<summary>Bas Carbone</summary>
+<summary>Low Carbon</summary>
 
-Qualifie l’ambition de contribuer à l’atténuation du changement climatique à un niveau conforme aux objectifs de l’Accord de Paris de 2015, ou aux futurs accords politiques mondiaux susceptibles de remplacer l’Accord de Paris dans les années à venir. Une stratégie de décarbonation, par exemple, est bas carbone (ou « alignée sur la trajectoire bas carbone ») si les objectifs de la stratégie, qui comprennent les objectifs de performance carbone, sont à la hauteur de ce niveau d’ambition.
+Qualifies the ambition to contribute to the mitigation of climate change at a level consistent with the objectives of the 2015 Paris Agreement, or future global political agreements likely to replace the Paris Agreement in the years to come. A decarbonisation strategy, for example, is low-carbon (or "aligned with the low-carbon pathway") if the objectives of the strategy, which include carbon performance objectives, are up to this level of ambition.
 
-(_Source ACT Pas à Pas_)
-
-</details>
-
-<details>
-
-<summary>Base de données de facteurs d'émission</summary>
-
-Documentation de facteurs d'émission pouvant être utilisés lors des calculs du Bilan Carbone®. Il existe [plusieurs bases de données](annexes/annexe-2-exemples-de-bases-de-donnees-de-facteurs-demission.md) détaillées en annexe. La _Base Empreinte® de l'ADEME_ reste l'option à privilégier, sauf exception (Exemple : calcul des FE spécifiques pour le cas d'étude du bilan d'une organisation).&#x20;
+(_Source ACT Step by Step_)
 
 </details>
 
 <details>
 
-<summary>Budget carbone</summary>
+<summary>Emission factor database</summary>
 
-Il s'agit de la quantité maximale d’émissions de gaz à effet de serre qu’une organisation peut émettre sur une période donnée tout en restant alignée avec un objectif climatique (par exemple les accords de Paris).
+Documentation of emission factors that can be used during Bilan Carbone® calculations. There are [several databases](annexes/annexe-2-exemples-de-bases-de-donnees-de-facteurs-demission.md) detailed in the annex. The _Base Empreinte® from ADEME_ remains the preferred option, except in special cases (Example: calculation of specific EFs for the case study of an organisation's assessment).&#x20;
 
-Le budget carbone d'une organisation doit lui servir de plafond d’émissions, décliné dans le temps, pour piloter la réduction des émissions et orienter les décisions stratégiques (investissements, activités, trajectoire de décarbonation).
+</details>
 
-Les [trajectoires ](glossaire.md#trajectoire-de-transition)de référence ont souvent pour objectif de respecter collectivement un budget carbone. Si les émissions réelles ne suivent pas la trajectoire choisie, le budget carbone initialement alloué sera dépassé. Il faudra alors recalculer la trajectoire à suivre pour réduire d’autant plus et contrebalancer ce dépassement ([overshoot](glossaire.md#overshoot)).
+<details>
+
+<summary>Carbon budget</summary>
+
+This is the maximum quantity of greenhouse gas emissions that an organisation can emit over a given period while remaining aligned with a climate objective (for example, the Paris Agreement).
+
+An organisation's carbon budget must serve as an emission ceiling, broken down over time, to steer emission reductions and guide strategic decisions (investments, activities, decarbonisation pathway).
+
+Reference [pathways](glossaire.md#trajectoire-de-transition) often aim to collectively respect a carbon budget. If actual emissions do not follow the chosen pathway, the initially allocated carbon budget will be exceeded. It will then be necessary to recalculate the pathway to follow in order to reduce even more and offset this excess ([overshoot](glossaire.md#overshoot)).
 
 </details>
 
@@ -195,116 +195,116 @@ Les [trajectoires ](glossaire.md#trajectoire-de-transition)de référence ont so
 
 <details>
 
-<summary>Caractérisation</summary>
+<summary>Characterisation</summary>
 
-La caractérisation ne concerne pas directement le Bilan Carbone® puisqu’elle n’influence pas les résultats des calculs. Elle modifie uniquement la façon dont les émissions vont s'agréger dans les [différents exports](../4-comptabilisation/4.5-profil-demission.md) (BEGES-R, ISO 14064, GHG-P), pour affecter les différentes sources d'émissions prises en compte au sein du Bilan Carbone® dans les bons postes et sous-postes des autres méthodes de comptabilité carbone.
+Characterisation does not directly concern the Bilan Carbone® as it does not influence the results of calculations. It only modifies the way in which emissions will be aggregated in the [various exports](../4-comptabilisation/4.5-profil-demission.md) (BEGES-R, ISO 14064, GHG-P), in order to assign the various emission sources taken into account within the Bilan Carbone® to the correct categories and sub-categories of other carbon accounting methods.
 
-L'organisation devra généralement caractériser ces sources d'émission. Cette caractérisation dépend du [mode de contrôle](glossaire.md#controle-mode-de) (opérationnel, financier, ...) choisit par l'organisation.&#x20;
+The organisation will generally need to characterise these emission sources. This characterisation depends on the [mode of control](glossaire.md#controle-mode-de) (operational, financial, ...) chosen by the organisation.&#x20;
 
-En contrôle opérationnel, par exemple, une source d'émission pourra généralement être caractérisée comme ["Opérée" ou "Non Opérée"](glossaire.md#e), ou ["Supportée ou Non Supportée"](glossaire.md#e). Pour plus de détail, l'organisation devra se référer aux différentes méthodes concernées.&#x20;
-
-</details>
-
-<details>
-
-<summary>Catégorie d’émission</summary>
-
-Ensemble de postes d’émissions de GES. Deux catégories d’émissions sont distinguées : les émissions directes et les émissions indirectes.
-
-La sémantique de catégories d'émission est principalement utilisée pour d'autres standards que le Bilan Carbone® (tels que l'ISO 14064-1 ou le BEGES-R). Des [liens de correspondances](../4-comptabilisation/4.5-profil-demission.md) sont possibles.
+In operational control, for example, an emission source can generally be characterised as ["Operated" or "Non-Operated"](glossaire.md#e), or ["Borne or Not Borne"](glossaire.md#e). For more detail, the organisation should refer to the various methods concerned.&#x20;
 
 </details>
 
 <details>
 
-<summary>Chef de projet d'évaluation</summary>
+<summary>Emission category</summary>
 
-Personne formée (suivant la formation proposée par l'ABC et ses partenaires) et certifiée à l'[évaluation des bilans](../7-evaluation-et-qualite-du-bilan-carbone-r/7.1-preparer-levaluation-de-son-bilan.md), et qui dirige l'évaluation d'un bilan donné, garantit son bon déroulement et établit le rapport final d'évaluation. Il peut être accompagné de différents experts selon les compétences complémentaires nécessaires au bon déroulement du process d'évaluation.
+A set of GHG emission categories. Two emission categories are distinguished: direct emissions and indirect emissions.
 
-</details>
-
-<details>
-
-<summary>CO2 équivalent (CO2eq)</summary>
-
-Unité permettant de comparer le forçage radiatif d’un GES à celui du dioxyde de carbone, calculé à l’aide de la masse d’un GES donné, multipliée par son potentiel de réchauffement global (PRG), fourni par le GIEC (_adapté de la norme_ _NF- ISO 14064-1:2018_).
+The semantics of emission categories are mainly used for standards other than the Bilan Carbone® (such as ISO 14064-1 or BEGES-R). [Correspondence links](../4-comptabilisation/4.5-profil-demission.md) are possible.
 
 </details>
 
 <details>
 
-<summary>Coconstruction</summary>
+<summary>Evaluation lead</summary>
 
-Il s'agit d'une phase de [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) au sens du Bilan Carbone® :
-
-L'enjeu principal de la coconstruction est de valoriser les initiatives, le partage, et la concertation. La coconstruction est centrale, et est donc très liée aux autres types de mobilisation : les parties prenantes concertées doivent avoir un niveau d'information suffisant sur la démarche, ce qui requiert en amont une sensibilisation et une vulgarisation efficace, ainsi qu'une restitution et une communication transparentes. La coconstruction donne la parole, fait participer, ce qui permet de responsabiliser. Elle identifie les axes de réduction carbone que l'organisation et ses parties prenantes peuvent envisager, fort de leurs connaissances (du process, du produit, de l'organisation).
-
-_Objectif_ : Confronter le choix des actions aux réelles possibilités et aux éventuelles alternatives, pour aboutir à un plan de transition perçu comme un projet commun à l'organisation et à ses parties prenantes.
-
-_Indicateur_ : Niveau de participation à la co-construction du plan de transition.
+Person trained (following the training offered by the ABC and its partners) and certified in the [evaluation of assessments](../7-evaluation-et-qualite-du-bilan-carbone-r/7.1-preparer-levaluation-de-son-bilan.md), who leads the evaluation of a given assessment, ensures it runs smoothly and produces the final evaluation report. They may be accompanied by various experts depending on the complementary competencies required for the smooth running of the evaluation process.
 
 </details>
 
 <details>
 
-<summary>Compatibilité</summary>
+<summary>CO2 equivalent (CO2eq)</summary>
 
-Ici la capacité du Bilan Carbone® à être utilisé pour répondre à d'[autres référentiels](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md). La notion de « compatibilité avec » ne garantie pas la réciprocité.
-
-</details>
-
-<details>
-
-<summary>Compensation carbone</summary>
-
-Mécanisme pour compenser entièrement ou partiellement les émissions de GES d’une organisation, pouvant être déclenché directement par un process situé en dehors du périmètre opérationnel de l’organisation, ou bien indirectement par l’achat de réduction de GES sous la forme de crédits carbone, effectuée par une tierce partie (_adapté de la norme NF-ISO 14069:2013_).
+Unit for comparing the radiative forcing of a GHG to that of carbon dioxide, calculated using the mass of a given GHG multiplied by its global warming potential (GWP), provided by the IPCC (_adapted from standard NF-ISO 14064-1:2018_).
 
 </details>
 
 <details>
 
-<summary>Comptabilisation</summary>
+<summary>Co-construction</summary>
 
-Processus de collecte et d'exploitation des différentes données nécessaires à la réalisation d'un Bilan Carbone®.
+This is a [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) phase within the meaning of the Bilan Carbone®:
 
-</details>
+The main challenge of co-construction is to promote initiatives, sharing, and consultation. Co-construction is central, and is therefore very closely linked to other types of mobilisation: the stakeholders consulted must have a sufficient level of information about the approach, which requires effective awareness and plain-language explanation upstream, as well as transparent reporting and communication. Co-construction gives the floor, makes people participate, which makes it possible to create accountability. It identifies the carbon reduction areas that the organisation and its stakeholders can consider, drawing on their knowledge (of the process, the product, the organisation).
 
-<details>
+_Objective_: To confront the choice of actions with real possibilities and possible alternatives, in order to arrive at a transition plan perceived as a common project for the organisation and its stakeholders.
 
-<summary>Conseiller</summary>
-
-Personne externe à l'organisation, qui conseil, dirige et oriente la démarche.
+_Indicator_: Level of participation in the co-construction of the transition plan.
 
 </details>
 
 <details>
 
-<summary>Contrôle des bilans</summary>
+<summary>Compatibility</summary>
 
-Réaliser une inspection de l’état d’un bilan en regard des exigences d’une norme.
-
-</details>
-
-<details>
-
-<summary>Contrôle (Mode de)</summary>
-
-La norme [ISO 14064-1](bibliographie/) ou le [BEGES-R](bibliographie/) décrivent deux approches pour déterminer le périmètre organisationnel :&#x20;
-
-* L’approche « part du capital » : les installations et équipements sont inclus dans le périmètre organisationnel à hauteur de sa prise de participation dans ces derniers.
-* L’approche « contrôle » : Les normes internationales d'informations financières (IFRS) définissent le « contrôle » comme "le pouvoir de diriger les politiques financières et opérationnelles d'une entité afin d'obtenir des avantages de ses activités".&#x20;
-  * Contrôle financier : 100 % des équipements et installations sur lesquels elle exerce un contrôle financier sont inclus dans le périmètre organisationnel. Un organisme a le contrôle financier d’une opération s’il est en mesure de mener des politiques financière et opérationnelle sur l’opération, dans l’optique de tirer des avantages économiques de ses activités (source : _NF - ISO 14064-1:2018_).
-  * **Contrôle opérationnel** : 100 % des équipements et installations sur lesquels elle exerce un contrôle opérationnel, c’est-à-dire qu’elle exploite, sont inclus dans le périmètre organisationnel. Un organisme a le contrôle opérationnel d’une opération si cet organisme, ou l’une de ses filiales, a les pleins pouvoirs pour lancer et mettre en œuvre ses politiques d’exploitation au niveau opérationnel (source : _NF - ISO 14064-1:2018_).
-
-Le Bilan Carbone® retient l’approche « contrôle opérationnel » pour la définition du périmètre organisationnel.
+Here, the capacity of the Bilan Carbone® to be used to respond to [other frameworks](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md). The notion of "compatibility with" does not guarantee reciprocity.
 
 </details>
 
 <details>
 
-<summary>Coordinateur.ice</summary>
+<summary>Carbon offsetting</summary>
 
-Le coordinateur.ice du Bilan Carbone® pilote la démarche. Il peut être une personne interne ou [externe à l'organisation](glossaire.md#conseiller).
+Mechanism to fully or partially offset the GHG emissions of an organisation, which can be triggered directly by a process located outside the operational boundary of the organisation, or indirectly by the purchase of GHG reductions in the form of carbon credits, carried out by a third party (_adapted from standard NF-ISO 14069:2013_).
+
+</details>
+
+<details>
+
+<summary>Accounting</summary>
+
+Process of collecting and exploiting the various data necessary to carry out a Bilan Carbone®.
+
+</details>
+
+<details>
+
+<summary>Advisor</summary>
+
+Person external to the organisation, who advises, leads and guides the approach.
+
+</details>
+
+<details>
+
+<summary>Assessment review</summary>
+
+Carrying out an inspection of the state of an assessment in relation to the requirements of a standard.
+
+</details>
+
+<details>
+
+<summary>Control (Mode of)</summary>
+
+The standard [ISO 14064-1](bibliographie/) or the [BEGES-R](bibliographie/) describe two approaches for determining the organisational boundary:&#x20;
+
+* The "equity share" approach: facilities and equipment are included in the organisational boundary to the extent of the share of capital held in them.
+* The "control" approach: International Financial Reporting Standards (IFRS) define "control" as "the power to direct the financial and operating policies of an entity so as to obtain benefits from its activities".&#x20;
+  * Financial control: 100% of the equipment and facilities over which it exercises financial control are included in the organisational boundary. An organisation has financial control over an operation if it is able to conduct financial and operating policies over the operation with a view to deriving economic benefits from its activities (source: _NF - ISO 14064-1:2018_).
+  * **Operational control**: 100% of the equipment and facilities over which it exercises operational control, i.e. that it operates, are included in the organisational boundary. An organisation has operational control over an operation if that organisation, or one of its subsidiaries, has full authority to introduce and implement its operating policies at the operational level (source: _NF - ISO 14064-1:2018_).
+
+The Bilan Carbone® adopts the "operational control" approach for the definition of the organisational boundary.
+
+</details>
+
+<details>
+
+<summary>Coordinator</summary>
+
+The Bilan Carbone® coordinator steers the approach. They can be a person internal or [external to the organisation](glossaire.md#conseiller).
 
 </details>
 
@@ -312,14 +312,14 @@ Le coordinateur.ice du Bilan Carbone® pilote la démarche. Il peut être une pe
 
 <details>
 
-<summary>Dispositif de suivi</summary>
+<summary>Monitoring system</summary>
 
-Un dispositif de suivi, de type tableau de bord, permet de suivre les actions du plan de transition, et les indicateurs. Il est rempli périodiquement en interne par le pilote du Bilan Carbone®.\
-Un [outil ](../formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md)est proposé par l'ABC avec les outils de la version 9 de la méthode Bilan Carbone®, mais des alternatives sont acceptées.&#x20;
+A monitoring system, such as a dashboard, makes it possible to track the actions of the transition plan, and the indicators. It is filled in periodically internally by the Bilan Carbone® pilot.\
+A [tool](../formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) is proposed by the ABC with the tools for version 9 of the Bilan Carbone® method, but alternatives are accepted.&#x20;
 
-L'utilisation de ce dispositif ne traduit pas des modalités de discussions imposées autour du suivi, celles-ci sont à l'appréciation de l'organisation.
+The use of this system does not imply imposed modes of discussion around monitoring; these are at the organisation's discretion.
 
-Cet outil permet également le recalcul des émissions significatives, qui servent d'indicateurs de performance du plan de transition.
+This tool also enables the recalculation of significant emissions, which serve as performance indicators for the transition plan.
 
 </details>
 
@@ -327,17 +327,17 @@ Cet outil permet également le recalcul des émissions significatives, qui serve
 
 <summary>Documentation</summary>
 
-Processus similaire à la [restitution ](glossaire.md#restitution-de-la-demarche-ou-rapport-de-restitution)destiné à un usage uniquement interne. Elle vise l'amélioration continue de la comptabilité carbone au sein de l'organisation. La documentation est utile aux futures passations et renouvellements.
+Process similar to [reporting](glossaire.md#restitution-de-la-demarche-ou-rapport-de-restitution) intended for internal use only. It aims at the continuous improvement of carbon accounting within the organisation. Documentation is useful for future handovers and renewals.
 
 </details>
 
 <details>
 
-<summary>Donnée d’activité</summary>
+<summary>Activity data</summary>
 
-Mesure quantitative d’une activité donnée, occasionnant l’émission ou la suppression de GES (_adapté de la norme NF ISO 14064-1:2018_).
+Quantitative measure of a given activity, occasioning the emission or removal of GHGs (_adapted from standard NF ISO 14064-1:2018_).
 
-Une donnée d'activité peut être réelle (physique ou comptable), extrapolée, statistique ou approchée.
+Activity data can be real (physical or accounting-based), extrapolated, statistical or approximate.
 
 </details>
 
@@ -345,182 +345,182 @@ Une donnée d'activité peut être réelle (physique ou comptable), extrapolée,
 
 <details>
 
-<summary>Ecart-type et écart-type géométrique </summary>
+<summary>Standard deviation and geometric standard deviation</summary>
 
-L'écart-type et l'écart-type géométrique sont deux mesures statistiques utilisées pour évaluer la dispersion ou la variabilité des données.
+The standard deviation and the geometric standard deviation are two statistical measures used to assess the dispersion or variability of data.
 
-L'écart-type est une mesure de dispersion pour des données additives ou normalisées (pour une [loi normale](glossaire.md#loi-normale), tandis que l'écart-type géométrique est adapté aux données multiplicatives ou pour une loi [log-normale](glossaire.md#loi-log-normale).
-
-</details>
-
-<details>
-
-<summary>Echelle de comptabilité carbone</summary>
-
-Dans le cadre de la comptabilité carbone, on distingue généralement quatre échelles principales : Territoire, Individu, Produit, Organisation. Plus de détails en [introduction](../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#id-1-les-differentes-echelles-de-comptabilite-carbone).
+The standard deviation is a measure of dispersion for additive or normalised data (for a [normal distribution](glossaire.md#loi-normale)), while the geometric standard deviation is adapted to multiplicative data or for a [log-normal distribution](glossaire.md#loi-log-normale).
 
 </details>
 
 <details>
 
-<summary>Emissions directes de GES</summary>
+<summary>Scale of carbon accounting</summary>
 
-Emissions de GES des sources appartenant ou étant contrôlées par la personne morale / organisation (adaptation de la _norme NF-ISO 14064-1/2018_).
-
-A distinguer des émissions indirectes.
+In the context of carbon accounting, four main scales are generally distinguished: Territory, Individual, Product, Organisation. More details in the [introduction](../introduction-a-la-transition-bas-carbone/quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#id-1-les-differentes-echelles-de-comptabilite-carbone).
 
 </details>
 
 <details>
 
-<summary>Emissions indirectes de GES</summary>
+<summary>Direct GHG emissions</summary>
 
-Emissions de GES qui découlent des opérations et activités de la personne morale / organisation mais provenant de sources de GES ne lui appartenant pas ou n'étant pas sous son contrôle (_adapté de la norme NF-ISO 14064-1:2018_).
+GHG emissions from sources owned or controlled by the legal entity / organisation (adaptation of _standard NF-ISO 14064-1/2018_).
 
-A distinguer des émissions directes.
-
-</details>
-
-<details>
-
-<summary>Emissions induites</summary>
-
-Emissions directes et indirectes de GES, dans la chaîne de valeur de l'organisation.
-
-Le Bilan Carbone® quantifie et agit sur les émissions induites.
-
-Voir définition du [Pilier A](glossaire.md#p).
-
-A distinguer des émissions évitées et séquestrées.
+To be distinguished from indirect emissions.
 
 </details>
 
 <details>
 
-<summary>Emissions évitées</summary>
+<summary>Indirect GHG emissions</summary>
 
-Réductions d'émissions d'autres parties prenantes, par les activités, produits et/ou services d'une organisation. Ces réductions ont donc lieu en dehors de son périmètre d'activité. Elles sont évaluées en rapport à un scénario de référence.&#x20;
+GHG emissions that result from the operations and activities of the legal entity / organisation but originate from GHG sources not owned by or not under its control (_adapted from standard NF-ISO 14064-1:2018_).
 
-Dans le cadre du Bilan Carbone® : une organisation peut déterminer les émissions de GES évitées par une activité. L’organisation ne doit pas déduire ces émissions évitées des émissions totales, mais peut les comptabiliser et le cas échéant les déclarer à part.&#x20;
-
-Voir définition du [Pilier B](glossaire.md#p).
-
-A distinguer des émissions induites et séquestrées.
+To be distinguished from direct emissions.
 
 </details>
 
 <details>
 
-<summary>Emissions significatives</summary>
+<summary>Induced emissions</summary>
 
-Au sein du [périmètre opérationnel](glossaire.md#p) d'une organisation, il est admis que certaines sources d’émission indirectes de GES ne contribuent pas de manière significative au total des émissions indirectes et peuvent, dans certains cas, être écartés du bilan. Les émissions significatives sont alors les émission de GES quantifiée et déclarée d’une organisation, conformes aux **critères de** [**significativité**](glossaire.md#s) définis par l’organisation (_notion issue de l'_[_ISO 14064-1_](bibliographie/) _et du_ [_BEGES-R_](bibliographie/)).
+Direct and indirect GHG emissions, in the organisation's value chain.
 
-</details>
+The Bilan Carbone® quantifies and acts on induced emissions.
 
-<details>
+See definition of [Pillar A](glossaire.md#p).
 
-<summary>Emissions séquestrées ou émissions négatives</summary>
-
-Absorption de GES présents dans l'atmosphère, de manière directe (puits carbones appartenant à l'organisation) ou indirecte (à travers le financement des projets de séquestration de GES).
-
-Dans le cadre du Bilan Carbone® : une organisation peut déterminer les puits et réservoirs de GES, permettant de capter et concentrer les GES pour éviter leur largage dans l’atmosphère (croissance forestière, préservation des sols, etc.). L’organisation ne doit pas déduire ces émissions séquestrées ou négatives des émissions totales, mais peut les comptabiliser et le cas échéant les déclarer à part.&#x20;
-
-Voir définition du [Pilier C](glossaire.md#p).
-
-A distinguer des émissions induites et évitées
+To be distinguished from avoided and sequestered emissions.
 
 </details>
 
 <details>
 
-<summary>Emissions opérées et émissions non opérées</summary>
+<summary>Avoided emissions</summary>
 
-Les émissions comptabilisées peuvent être [caractérisées](glossaire.md#c) en tant que :&#x20;
+Emission reductions of other stakeholders, through the activities, products and/or services of an organisation. These reductions therefore take place outside its scope of activity. They are assessed in relation to a reference scenario.&#x20;
 
-* Les émissions dites "opérées" sont celles directement générées par les activités sous le contrôle direct d'une organisation. Cela inclut les émissions provenant des installations de l'organisation, de sa flotte de véhicules, des biens loués et utilisés, etc. Ces émissions sont considérées comme "[émissions directes](glossaire.md#e)" dans la classification des émissions selon la norme ISO 14064.
-* Les émissions "non opérées" sont celles qui proviennent d'activités qui ne relèvent pas directement du contrôle de l'organisation, mais qui sont associées à ses activités indirectement. Cela peut inclure les émissions générées par les fournisseurs, les activités de transport en amont et en aval, etc. Ces émissions sont généralement classées comme "[émissions indirectes](glossaire.md#e)" dans la classification des émissions.
+In the context of the Bilan Carbone®: an organisation can determine the GHG emissions avoided by an activity. The organisation must not deduct these avoided emissions from total emissions, but may account for them and, where applicable, declare them separately.&#x20;
 
-Ces catégories ne dépendent pas de la notion de propriété ou de location de l'organisation sur les sources d'émissions, mais d'exploitation et d'utilisation.
+See definition of [Pillar B](glossaire.md#p).
 
-Ces éléments ne concernent pas directement le Bilan Carbone® puisqu’ils n’influencent pas les résultats des calculs. Cette [caractérisation](glossaire.md#caracterisationusd) modifient uniquement la façon dont les émissions vont s'agréger dans les [différents exports](../4-comptabilisation/4.5-profil-demission.md) (BEGES-R, ISO 14064, GHG-P).
-
-</details>
-
-<details>
-
-<summary>Emissions supportées et émissions non supportées</summary>
-
-Les émissions comptabilisées peuvent être [caractérisées](glossaire.md#c) en tant que :&#x20;
-
-* Les émissions "détenues" font référence aux émissions directes des postes pour lesquels l’organisation possède les biens ou équipements. Ces émissions sont considérées comme "[émissions directes](glossaire.md#e)" dans la classification des émissions selon la norme ISO 14064.
-* Les émissions « non détenues supportées » sont les postes pour lesquels l’organisation n’est pas propriétaire des biens ou équipements mais en supporte les coûts. Les émissions supportées proviennent des activités financées par l’organisation. Elles apparaissent donc dans les exports comptables. Ces émissions sont généralement classées comme "[émissions indirectes](glossaire.md#e)" dans la classification des émissions.
-* Les émissions « non détenues non supportées » sont les postes pour lesquels l’organisation n’est pas propriétaire des biens ou équipements et n'en supporte les coûts. Ces émissions sont généralement classées comme "[émissions indirectes](glossaire.md#e)" dans la classification des émissions.
-
-Ces éléments ne concernent pas directement le Bilan Carbone® puisqu’ils n’influencent pas les résultats des calculs. Ces deux [caractérisations](glossaire.md#caracterisationusd) modifient uniquement la façon dont les émissions vont s'agréger dans les [différents exports](../4-comptabilisation/4.5-profil-demission.md) (BEGES-R, ISO 14064, GHG-P).
+To be distinguished from induced and sequestered emissions.
 
 </details>
 
 <details>
 
-<summary>Equipement </summary>
+<summary>Significant emissions</summary>
 
-Véhicule, outil, engin ou machine, fixe ou mobile, pouvant être défini à l'intérieur d'un périmètre géographique ou d'une entité organisationnelle.&#x20;
-
-Dans le cadre d'un Bilan Carbone® et quel que soit le niveau de maturité visé, doivent être inclus dans le périmètre organisationnel 100 % des équipements et installations sur lesquels l'organisation exerce un contrôle opérationnel, c’est-à-dire qu’elle exploite et utilise. Tout autre choix doit être justifié.
+Within the [operational boundary](glossaire.md#p) of an organisation, it is accepted that certain indirect GHG emission sources do not contribute significantly to the total indirect emissions and can, in certain cases, be excluded from the assessment. Significant emissions are then the quantified and declared GHG emissions of an organisation, compliant with the **significance criteria** defined by the organisation (_concept derived from_ [_ISO 14064-1_](bibliographie/) _and_ [_BEGES-R_](bibliographie/)).
 
 </details>
 
 <details>
 
-<summary>Equipe d'évaluation</summary>
+<summary>Sequestered emissions or negative emissions</summary>
 
-Personne(s) chargées de la vérification et validation du bilan. L'ensemble de l'équipe d'évaluation est **formé à la méthode Bilan Carbone®**. L'équipe d'évaluation est dirigée par un chef de projet d’évaluation. **Il est formé et certifié à l’évaluation des bilans**.
+Absorption of GHGs present in the atmosphere, directly (carbon sinks belonging to the organisation) or indirectly (through the financing of GHG sequestration projects).
 
-L'ensemble de l'équipe répond aux compétences et principes suivants :&#x20;
+In the context of the Bilan Carbone®: an organisation can determine the GHG sinks and reservoirs, making it possible to capture and concentrate GHGs to prevent their release into the atmosphere (forest growth, soil preservation, etc.). The organisation must not deduct these sequestered or negative emissions from total emissions, but may account for them and, where applicable, declare them separately.&#x20;
 
-* **Expertise d'évaluation** (formation et certification)
-* **Expertise Bilan Carbone® sectorielle**
-* **Facultatif - Pouvoir d'attester avec assurance limitée** (participation au process d'un expert-comptable ou commissaire aux comptes. Ceci n'est pas obligatoire, mais rend un autre niveau d'attestation d'évaluation)
-* **Intégrité**
-* **Impartialité**
-* **Conscience professionnelle**
-* **Jugement professionnel**
+See definition of [Pillar C](glossaire.md#p).
+
+To be distinguished from induced and avoided emissions.
 
 </details>
 
 <details>
 
-<summary>Etablissement</summary>
+<summary>Operated and non-operated emissions</summary>
 
-L'établissement d'une organisation est généralement désigné par son SIRET (code unique à 14 chiffres d’identification d’un **établissement** d’une organisation dotée d’un numéro SIREN). Les 9 premiers chiffres du numéro SIRET sont le numéro SIREN de l’organisation à laquelle appartient l’établissement.
+The accounted emissions can be [characterised](glossaire.md#c) as:&#x20;
 
-</details>
+* "Operated" emissions are those directly generated by activities under the direct control of an organisation. This includes emissions from the organisation's facilities, its fleet of vehicles, rented and used goods, etc. These emissions are considered "[direct emissions](glossaire.md#e)" in the classification of emissions according to ISO 14064.
+* "Non-operated" emissions are those arising from activities that do not directly fall under the organisation's control, but which are indirectly associated with its activities. This may include emissions generated by suppliers, upstream and downstream transport activities, etc. These emissions are generally classified as "[indirect emissions](glossaire.md#e)" in the classification of emissions.
 
-<details>
+These categories do not depend on the notion of ownership or rental of the organisation over emission sources, but on exploitation and use.
 
-<summary>Evaluation d'un bilan</summary>
-
-Processus garantissant la fiabilité et transparence des bilans et leurs résultats. Il permet également d’identifier des points bloquants et d’amélioration entre deux bilans d’une organisation. L'évaluation inclut la vérification et la validation des bilans.
-
-L'évaluation du Bilan Carbone® suit les consignes décrites dans le [Guide d'évaluation des bilans](bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r). C'est une procédure facultative dans le cadre de la démarche Bilan Carbone®.
+These elements do not directly concern the Bilan Carbone® as they do not influence the results of calculations. This [characterisation](glossaire.md#caracterisationusd) only modifies the way in which emissions will be aggregated in the [various exports](../4-comptabilisation/4.5-profil-demission.md) (BEGES-R, ISO 14064, GHG-P).
 
 </details>
 
 <details>
 
-<summary>Exports comptables</summary>
+<summary>Borne and not-borne emissions</summary>
 
-Les plans comptables et analytiques sont stables dans le temps pour une organisation donnée sans modification structurelle majeure.
+The accounted emissions can be [characterised](glossaire.md#c) as:&#x20;
 
-A chaque exercice comptable, l’organisation enregistre comptablement l’ensemble des revenus et coûts de son activité dans des écritures comptables (affectation au débit ou au crédit). Cette comptabilisation se fait dans des journaux comptables (ex : journal d’achats, journal de ventes, journal de banques…).
+* "Held" emissions refer to the direct emissions from categories for which the organisation owns the goods or equipment. These emissions are considered "[direct emissions](glossaire.md#e)" in the classification of emissions according to ISO 14064.
+* "Non-held borne" emissions are the categories for which the organisation does not own the goods or equipment but bears the costs. Borne emissions come from activities financed by the organisation. They therefore appear in the accounting exports. These emissions are generally classified as "[indirect emissions](glossaire.md#e)" in the classification of emissions.
+* "Non-held not borne" emissions are the categories for which the organisation does not own the goods or equipment and does not bear the costs. These emissions are generally classified as "[indirect emissions](glossaire.md#e)" in the classification of emissions.
 
-Différents formats existent pour exporter cette comptabilisation dans son intégralité :
+These elements do not directly concern the Bilan Carbone® as they do not influence the results of calculations. These two [characterisations](glossaire.md#caracterisationusd) only modify the way in which emissions will be aggregated in the [various exports](../4-comptabilisation/4.5-profil-demission.md) (BEGES-R, ISO 14064, GHG-P).
 
-* Le FEC (Fichier des Ecritures Comptables) : fichier normé de la comptabilité, notamment utilisé par l’administration française pour contrôler fiscalement les entreprises. Il retranscrit l’ensemble des écritures comptables mais il n’inclut pas les écritures analytiques.
-* Le grand livre comptable : fichier normé de la comptabilité, sa structure est néanmoins paramétrable dans une certaine mesure pour permettre à l’organisation d’adapter sa comptabilité à ses besoins. Il ne permet pas par contre d’effectuer des analyses sur l’activité de l’organisation car il suit la comptabilité générale, son objectif final étant l’établissement des comptes annuels (bilan, compte de résultat et annexe).
-* Le grand livre analytique : fichier non normé de la comptabilité, qui intègrent néanmoins des champs obligatoires. Il inclut l’ensemble des affectations analytiques et permet une analyse analytique de la comptabilité.
+</details>
 
-Cette définition fait référence au guide de [comptabilité carbone analytique.](bibliographie/#guides-pratiques)
+<details>
+
+<summary>Equipment</summary>
+
+Vehicle, tool, implement or machine, fixed or mobile, that can be defined within a geographical boundary or an organisational entity.&#x20;
+
+In the context of a Bilan Carbone® and regardless of the targeted maturity level, 100% of the equipment and facilities over which the organisation exercises operational control, i.e. that it operates and uses, must be included in the organisational boundary. Any other choice must be justified.
+
+</details>
+
+<details>
+
+<summary>Evaluation team</summary>
+
+Person(s) responsible for the verification and validation of the assessment. The entire evaluation team is **trained in the Bilan Carbone® method**. The evaluation team is led by an evaluation lead. **They are trained and certified in the evaluation of assessments**.
+
+The entire team meets the following competencies and principles:&#x20;
+
+* **Evaluation expertise** (training and certification)
+* **Sectoral Bilan Carbone® expertise**
+* **Optional - Power to attest with limited assurance** (participation in the process by a chartered accountant or statutory auditor. This is not compulsory, but provides another level of evaluation certificate)
+* **Integrity**
+* **Impartiality**
+* **Professional diligence**
+* **Professional judgement**
+
+</details>
+
+<details>
+
+<summary>Establishment</summary>
+
+An organisation's establishment is generally identified by its SIRET number (a unique 14-digit code identifying an **establishment** of an organisation with a SIREN number). The first 9 digits of the SIRET number are the SIREN number of the organisation to which the establishment belongs.
+
+</details>
+
+<details>
+
+<summary>Evaluation of an assessment</summary>
+
+Process ensuring the reliability and transparency of assessments and their results. It also makes it possible to identify blocking points and areas for improvement between two assessments carried out by an organisation. Evaluation includes the verification and validation of assessments.
+
+The evaluation of the Bilan Carbone® follows the instructions described in the [Assessment Evaluation Guide](bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r). It is an optional procedure within the framework of the Bilan Carbone® approach.
+
+</details>
+
+<details>
+
+<summary>Accounting exports</summary>
+
+Accounting and analytical plans are stable over time for a given organisation without major structural modification.
+
+At each accounting exercise, the organisation accounts for all revenues and costs of its activity in accounting entries (debit or credit allocation). This accounting is carried out in accounting journals (e.g.: purchase journal, sales journal, bank journal...).
+
+Various formats exist for exporting this accounting in its entirety:
+
+* The FEC (Fichier des Ecritures Comptables / Accounting Entries File): a standardised accounting file, notably used by the French administration to carry out fiscal checks on companies. It transcribes all accounting entries but does not include analytical entries.
+* The general ledger: a standardised accounting file, the structure of which can nevertheless be parameterised to a certain extent to enable the organisation to adapt its accounting to its needs. However, it does not allow for analyses of the organisation's activity as it follows general accounting, its final objective being the preparation of annual accounts (balance sheet, income statement and notes).
+* The analytical ledger: a non-standardised accounting file, which nevertheless integrates mandatory fields. It includes all analytical allocations and enables analytical accounting analysis.
+
+This definition refers to the [analytical carbon accounting](bibliographie/#guides-pratiques) guide.
 
 </details>
 
@@ -528,19 +528,19 @@ Cette définition fait référence au guide de [comptabilité carbone analytique
 
 <details>
 
-<summary>Facteur d’émission ou de suppression des GES (FE)</summary>
+<summary>GHG emission or removal factor (EF)</summary>
 
-Coefficient rapportant les données d’activité aux émissions ou suppressions de GES (_norme NF-ISO 14064-1:2018_).
+Coefficient relating activity data to GHG emissions or removals (_standard NF-ISO 14064-1:2018_).
 
-Un facteur d'émission (FE) peut être issu de bases de données, élaboré par l'organisation, ou bien être un coefficient dit « en ratios monétaires » (spécifiques ou non spécifiques).
+An emission factor (EF) may come from databases, be developed by the organisation, or be a coefficient known as "monetary ratios" (specific or non-specific).
 
 </details>
 
 <details>
 
-<summary>Forçage radiatif</summary>
+<summary>Radiative forcing</summary>
 
-Il s'agit de la différence entre l'énergie solaire reçue par la Terre et l'énergie rayonnée vers l'espace, causée par un changement dans les facteurs influençant le climat. Cette mesure est exprimée en watts par mètre carré (W/m²). Cette mesure est actuellement positive, l'énergie reçue et supérieure à l'énergie renvoyée : on parle alors de réchauffement climatique.
+This is the difference between the solar energy received by the Earth and the energy radiated into space, caused by a change in the factors influencing the climate. This measurement is expressed in watts per square metre (W/m²). This measurement is currently positive, meaning the energy received is greater than the energy returned: this is referred to as global warming.
 
 </details>
 
@@ -548,23 +548,23 @@ Il s'agit de la différence entre l'énergie solaire reçue par la Terre et l'é
 
 <details>
 
-<summary>Gaz à effet de serre (GES)</summary>
+<summary>Greenhouse gas (GHG)</summary>
 
-Constituants gazeux de l’atmosphère, naturels ou anthropogéniques, qui absorbent et émettent des radiations à des longueurs d’ondes spécifiques dans le spectre des radiations infrarouge émises par la surface de la Terre, l’atmosphère et les nuages. Cette propriété cause l’effet de serre.
+Gaseous constituents of the atmosphere, natural or anthropogenic, which absorb and emit radiation at specific wavelengths in the spectrum of infrared radiation emitted by the Earth's surface, the atmosphere and clouds. This property causes the greenhouse effect.
 
-La vapeur d’eau (H2O), le dioxyde de carbone (CO2), le protoxyde d’azote (N2O), le méthane (CH4) et l’ozone (O3) sont les gaz à effet de serre naturels de l’atmosphère terrestre.
+Water vapour (H2O), carbon dioxide (CO2), nitrous oxide (N2O), methane (CH4) and ozone (O3) are the natural greenhouse gases of the Earth's atmosphere.
 
-Il y a un grand nombre de gaz à effet de serre d’origine anthropique, tels que les halocarbones et autres substances contenant du chlore ou du brome, regroupées sous le protocole de Montréal. Le protocole de Kyoto comprend le CO2, N2O, CH4, SF6, NF3, HFCs et PFCs _(adapté du Cinquième rapport du GIEC – CLIMATE CHANGE 2013 The Physical Science Basis, p1455)_.
+There are a large number of anthropogenic greenhouse gases, such as halocarbons and other substances containing chlorine or bromine, grouped under the Montreal Protocol. The Kyoto Protocol covers CO2, N2O, CH4, SF6, NF3, HFCs and PFCs _(adapted from the Fifth IPCC Report – CLIMATE CHANGE 2013 The Physical Science Basis, p1455)_.
 
 </details>
 
 <details>
 
-<summary>Gouvernance</summary>
+<summary>Governance</summary>
 
-Cadre ayant pour objectif de définir comment contrôler les différentes étapes de la démarche de façon optimale.
+Framework whose objective is to define how to optimally control the various steps of the approach.
 
-Dans le cadre du Bilan Carbone®, l'organisation doit se doter d'un pilotage et d'une gouvernance interne permettant l'aboutissement de la démarche et l'atteinte des critères associés. L'organisation doit s'assurer que les intervenants ont les compétences méthodologiques nécessaires et sont formés à l’utilisation des outils employés, ainsi qu'à la construction et la mise en œuvre de plans de transition.&#x20;
+In the context of the Bilan Carbone®, the organisation must have internal steering and governance that enables the approach to be completed and the associated criteria to be achieved. The organisation must ensure that those involved have the necessary methodological skills and are trained in the use of the tools employed, as well as in the construction and implementation of transition plans.&#x20;
 
 </details>
 
@@ -572,17 +572,17 @@ Dans le cadre du Bilan Carbone®, l'organisation doit se doter d'un pilotage et 
 
 <details>
 
-<summary>Horizon temporel</summary>
+<summary>Time horizon</summary>
 
-Échéances d'un [objectif de transition](glossaire.md#o) : en général court, moyen ou long terme.
+Timescales for a [transition objective](glossaire.md#o): generally short, medium or long term.
 
 </details>
 
 <details>
 
-<summary>Hydrofluorocarbures (HFC)</summary>
+<summary>Hydrofluorocarbons (HFC)</summary>
 
-Les hydrofluorocarbures sont une famille de gaz constitués uniquement d'atomes d'hydrogène, de carbone et de fluor. Ce sont des GES faisant partie du protocole de Kyoto.
+Hydrofluorocarbons are a family of gases consisting solely of hydrogen, carbon and fluorine atoms. They are GHGs forming part of the Kyoto Protocol.
 
 </details>
 
@@ -590,14 +590,14 @@ Les hydrofluorocarbures sont une famille de gaz constitués uniquement d'atomes 
 
 <details>
 
-<summary>Incertitude</summary>
+<summary>Uncertainty</summary>
 
-Paramètre associé au résultat d’une quantification qui caractérise la dispersion des valeurs pouvant être raisonnablement imputée à la grandeur quantifiée (norme _NF-ISO 14064-1:2018_).&#x20;
+Parameter associated with the result of a quantification that characterises the dispersion of values that can be reasonably attributed to the quantified quantity (standard _NF-ISO 14064-1:2018_).&#x20;
 
-Les estimations et les mesures comportant par nature une marge d'erreur, l'immense majorité des méthodes scientifiques tendent à associer des valeurs appelées incertitudes aux résultats des mesures ou des estimations.\
-Ces incertitudes permettent d'aboutir à un intervalle de confiance à 95%, c'est-à-dire un intervalle \[Valeur 1 ; Valeur 2] dans lequel la valeur réelle de ce que l'on mesure ou estime, a 95% de chances de se situer.&#x20;
+As estimates and measurements inherently involve a margin of error, the vast majority of scientific methods tend to associate values called uncertainties with the results of measurements or estimates.\
+These uncertainties allow for a 95% confidence interval to be obtained, i.e. an interval [Value 1; Value 2] within which the true value of what is being measured or estimated has a 95% chance of falling.&#x20;
 
-La méthode Bilan Carbone permet de déterminer des incertitudes de manière qualitative et  quantitative.&#x20;
+The Bilan Carbone® method makes it possible to determine uncertainties both qualitatively and quantitatively.&#x20;
 
 </details>
 
@@ -605,7 +605,7 @@ La méthode Bilan Carbone permet de déterminer des incertitudes de manière qua
 
 <summary>Inflation</summary>
 
-L'inflation correspond à une augmentation générale des prix des biens et services dans une économie.
+Inflation corresponds to a general increase in the prices of goods and services in an economy.
 
 </details>
 
@@ -613,17 +613,17 @@ L'inflation correspond à une augmentation générale des prix des biens et serv
 
 <summary>Installation</summary>
 
-Elément matériel (bâtiment, voirie ou autre type d’infrastructure) ou processus de production pouvant être défini à l’intérieur d’un périmètre géographique ou d’une unité organisationnelle.
+Material element (building, road or other type of infrastructure) or production process that can be defined within a geographical boundary or an organisational unit.
 
-Dans le cadre d'un Bilan Carbone® et quel que soit le niveau de maturité visé, doivent être inclus dans le périmètre organisationnel 100 % des équipements et installations sur lesquels l'organisation exerce un contrôle opérationnel, c’est-à-dire qu’elle exploite et utilise. Tout autre choix doit être justifié.
+In the context of a Bilan Carbone® and regardless of the targeted maturity level, 100% of the equipment and installations over which the organisation exercises operational control, i.e. that it operates and uses, must be included in the organisational boundary. Any other choice must be justified.
 
 </details>
 
 <details>
 
-<summary>Intervalle de confiance</summary>
+<summary>Confidence interval</summary>
 
-Un intervalle de confiance est un intervalle censé contenir un paramètre inconnu que l'on cherche à estimer. Un intervalle de confiance est construit par une méthode à partir de données. L'intervalle construit peut contenir la valeur du paramètre inconnu ou pas. On lui accorde un _niveau de confiance_ souvent exprimé sous la forme d'un pourcentage : le plus commun est le niveau à 95 %_._ Cela signifie que la méthode a 95 % de chances de produire un intervalle contenant la vraie valeur du paramètre inconnu.
+A confidence interval is an interval that is expected to contain an unknown parameter that one seeks to estimate. A confidence interval is constructed by a method from data. The constructed interval may or may not contain the value of the unknown parameter. It is given a _confidence level_ often expressed as a percentage: the most common is the 95% level. This means that the method has a 95% chance of producing an interval containing the true value of the unknown parameter.
 
 </details>
 
@@ -631,29 +631,29 @@ Un intervalle de confiance est un intervalle censé contenir un paramètre incon
 
 <details>
 
-<summary>Livrables</summary>
+<summary>Deliverables</summary>
 
-Ensemble des pièces, documents et informations, obtenus à chacune des étapes de la démarche, compilés pour la [Restitution](glossaire.md#restitution-de-la-demarche-ou-rapport-de-restitution).
-
-</details>
-
-<details>
-
-<summary>Loi log-normale</summary>
-
-Une variable aléatoire X est dite suivre une loi log-normale de paramètres ![{\displaystyle \mu }](https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161) et ![{\displaystyle \sigma ^{2\}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/53a5c55e536acf250c1d3e0f754be5692b843ef5) si la variable ![{\displaystyle Y=\ln(X)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5bba96c80f1e6157e3e90ac2cf0b39ec7ef20be0) suit une loi normale d'espérance ![{\displaystyle \mu }](https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161) et de variance ![{\displaystyle \sigma ^{2\}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/53a5c55e536acf250c1d3e0f754be5692b843ef5).
+All the documents, records and information obtained at each step of the approach, compiled for [Reporting](glossaire.md#restitution-de-la-demarche-ou-rapport-de-restitution).
 
 </details>
 
 <details>
 
-<summary>Loi normale</summary>
+<summary>Log-normal distribution</summary>
 
-Une loi normale est une loi de probabilité absolument continue qui dépend de deux paramètres : son espérance, un nombre réel noté μ, et son écart type, un nombre réel positif noté σ. La densité de probabilité de la loi normale d'espérance μ et d'écart type σ est donnée par :
+A random variable X is said to follow a log-normal distribution with parameters ![{\displaystyle \mu }](https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161) and ![{\displaystyle \sigma ^{2\}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/53a5c55e536acf250c1d3e0f754be5692b843ef5) if the variable ![{\displaystyle Y=\ln(X)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/5bba96c80f1e6157e3e90ac2cf0b39ec7ef20be0) follows a normal distribution with mean ![{\displaystyle \mu }](https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161) and variance ![{\displaystyle \sigma ^{2\}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/53a5c55e536acf250c1d3e0f754be5692b843ef5).
+
+</details>
+
+<details>
+
+<summary>Normal distribution</summary>
+
+A normal distribution is an absolutely continuous probability distribution that depends on two parameters: its mean, a real number denoted μ, and its standard deviation, a positive real number denoted σ. The probability density of the normal distribution with mean μ and standard deviation σ is given by:
 
 ![{\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi \}}\}}\operatorname {e} ^{-{\frac {1}{2\}}\left({\frac {x-\mu }{\sigma \}}\right)^{2\}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/a645bbdb2fcf43cfc2cfb7563eebf274f11956ff).
 
-La courbe de cette densité est appelée _courbe de Gauss_ ou _courbe en cloche_, entre autres. C'est la représentation la plus connue de ces lois.
+The curve of this density is called the _Gaussian curve_ or _bell curve_, among others. It is the most well-known representation of these distributions.
 
 </details>
 
@@ -661,9 +661,9 @@ La courbe de cette densité est appelée _courbe de Gauss_ ou _courbe en cloche_
 
 <details>
 
-<summary>Matrice de collecte des données</summary>
+<summary>Data collection matrix</summary>
 
-Récapitulatif de l'ensemble des données d'activité et des facteurs d'émission utilisés lors du processus de comptabilisation, servant à la documentation de l'organisation (sources, hypothèses, incertitudes, valeur et unité).
+Summary of all activity data and emission factors used during the accounting process, serving the organisation's documentation (sources, assumptions, uncertainties, value and unit).
 
 </details>
 
@@ -671,9 +671,9 @@ Récapitulatif de l'ensemble des données d'activité et des facteurs d'émissio
 
 <summary>Mobilisation</summary>
 
-La mobilisation désigne ici tous les processus qui vont amener l'organisation à transmettre les bons messages aux bonnes cibles. Elle se poursuit en continu durant toute la démarche Bilan Carbone®.&#x20;
+Mobilisation here refers to all the processes that will lead the organisation to transmit the right messages to the right targets. It continues throughout the entire Bilan Carbone® approach.&#x20;
 
-Pour aboutir à une mobilisation, la démarche Bilan Carbone® implique de **vulgariser** les enjeux pour sensibiliser, **responsabiliser** les parties prenantes, **concerter**, puis **restituer** et communiquer les résultats.
+To achieve mobilisation, the Bilan Carbone® approach involves **popularising** the issues to raise awareness, **making stakeholders accountable**, **consulting**, then **reporting** and communicating results.
 
 </details>
 
@@ -681,11 +681,11 @@ Pour aboutir à une mobilisation, la démarche Bilan Carbone® implique de **vul
 
 <details>
 
-<summary>Neutralité Carbone</summary>
+<summary>Carbon Neutrality</summary>
 
-Les Accords de Paris visent à atteindre une neutralité carbone à l’**échelle planétaire** d’ici 2050. Concrètement, cela veut dire que les émissions humaines soient compensées par des absorptions équivalentes, de sorte à ce que l’impact net sur le climat soit nul.
+The Paris Agreement aims to achieve carbon neutrality at the **planetary scale** by 2050. Concretely, this means that human emissions are offset by equivalent absorptions, so that the net impact on the climate is zero.
 
-:mag\_right: _La méthode Bilan Carbone® est alignée avec l'_[_avis de l'ADEME_](https://www.bilancarbone-methode.com/annexes/bibliographie#autres) _sur la neutralité carbone, qui invite à ne pas viser une neutralité carbone arithmétique à l'échelle d'une organisation, mais de prioriser les leviers de décarbonation sur le périmètre de l'organisation (_[_émissions induites_](../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)_)._
+:mag\_right: _The Bilan Carbone® method is aligned with_ [_ADEME's position_](https://www.bilancarbone-methode.com/annexes/bibliographie#autres) _on carbon neutrality, which invites organisations not to pursue arithmetic carbon neutrality at the organisational level, but to prioritise decarbonisation levers within the organisation's boundary (_[_induced emissions_](../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)_)._
 
 </details>
 
@@ -693,23 +693,23 @@ Les Accords de Paris visent à atteindre une neutralité carbone à l’**échel
 
 <details>
 
-<summary>Objectif de la démarche</summary>
+<summary>Objective of the approach</summary>
 
-La démarche Bilan Carbone® a trois objectifs principaux :&#x20;
+The Bilan Carbone® approach has three main objectives:&#x20;
 
-* Mobiliser les parties prenantes internes et externes de l'organisation dans une démarche de transition, par la sensibilisation, la responsabilisation, la coconstruction et la restitution des transformations permises par le plan de transition.
-* Comptabiliser de la manière la plus rigoureuse et exhaustive possible les émissions de gaz à effet de serre (GES) de l'organisation, qu'elles soient directes ou indirectes, couvrant les périmètres de responsabilité et de dépendance de l'organisation.
-* D'élaborer un plan de transition et de réduction des émissions de GES et des vulnérabilités de l'organisation qui soit ambitieux, pilotable, opérationnel, et cohérent avec la comptabilisation des émissions.
+* Mobilising the internal and external stakeholders of the organisation in a transition approach, through awareness, accountability, co-construction and reporting of the transformations enabled by the transition plan.
+* Accounting as rigorously and exhaustively as possible for the greenhouse gas (GHG) emissions of the organisation, whether direct or indirect, covering the responsibility and dependency boundaries of the organisation.
+* Developing a transition and GHG emission reduction plan and reducing the organisation's vulnerabilities that is ambitious, manageable, operational, and consistent with the emission accounting.
 
 </details>
 
 <details>
 
-<summary>Objectif du plan de transition</summary>
+<summary>Transition plan objective</summary>
 
-Résultats que l'organisation se propose d'atteindre sur une période donnée, grâce à son plan de transition.
+Results that the organisation proposes to achieve over a given period, through its transition plan.
 
-Dans le cadre de la démarche Bilan Carbone®, ils visent à réduire les émissions de GES et à permettre à l'organisation de devenir plus résilient. Ils sont fixés à plusieurs [horizons temporels](glossaire.md#h) : court, moyen ou long terme. Ils sont cohérents avec les objectifs globaux de l’organisation et intégrés à sa stratégie globale.
+In the context of the Bilan Carbone® approach, they aim to reduce GHG emissions and enable the organisation to become more resilient. They are set at several [time horizons](glossaire.md#h): short, medium or long term. They are consistent with the overall objectives of the organisation and integrated into its overall strategy.
 
 </details>
 
@@ -717,17 +717,17 @@ Dans le cadre de la démarche Bilan Carbone®, ils visent à réduire les émiss
 
 <summary>OCCF</summary>
 
-Observatoire de la Comptabilité Carbone en France.
+Observatoire de la Comptabilité Carbone en France (Observatory of Carbon Accounting in France).
 
-:link: Plus d'informations [dans la bibliographie](bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).
+:link: More information [in the bibliography](bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).
 
 </details>
 
 <details>
 
-<summary>Ombre Climatique</summary>
+<summary>Climate Shadow</summary>
 
-Voir [Bibliographie.](bibliographie/#autres-ressources)
+See [Bibliography.](bibliographie/#autres-ressources)
 
 </details>
 
@@ -735,9 +735,9 @@ Voir [Bibliographie.](bibliographie/#autres-ressources)
 
 <summary>Organisation</summary>
 
-Personne ou groupe de personnes ayant un rôle avec les responsabilités, l’autorité et les relations lui permettant d’atteindre ses objectifs _(source ISO 14064-1)._
+Person or group of persons having a role with the responsibilities, authority and relationships enabling it to achieve its objectives _(source ISO 14064-1)._
 
-Organisme constituée en société de capitaux ou ayant un autre statut, de droit privé ou public, qui a sa propre structure administrative et fonctionnelle. (Exemple : entreprise, association, collectivité, établissement public, compagnie, société, firme, autorité, institution, ou bien une partie ou combinaison des entités précédentes).
+Body constituted as a capital company or having another status, under private or public law, which has its own administrative and functional structure. (Example: company, association, local authority, public body, company, society, firm, authority, institution, or a part or combination of the foregoing entities).
 
 </details>
 
@@ -745,9 +745,9 @@ Organisme constituée en société de capitaux ou ayant un autre statut, de droi
 
 <summary>Overshoot</summary>
 
-L'overshoot est le dépassement du [budget carbone](glossaire.md#budget-carbone).
+Overshoot is the exceeding of the [carbon budget](glossaire.md#budget-carbone).
 
-Il peut être calculé au niveau d'une organisation, par exemple si les émissions réelles ne suivent pas la trajectoire initialement choisie, le budget carbone alloué est dépassé.
+It can be calculated at the level of an organisation, for example if actual emissions do not follow the initially chosen pathway, the allocated carbon budget is exceeded.
 
 </details>
 
@@ -755,110 +755,110 @@ Il peut être calculé au niveau d'une organisation, par exemple si les émissio
 
 <details>
 
-<summary>Parties Prenantes</summary>
+<summary>Stakeholders</summary>
 
-Les parties prenantes qui gravitent autour de l'organisation peuvent se répartir de la manière suivante. Elles seront sollicitées sur des phases distinctes de la mobilisation.
+The stakeholders surrounding the organisation can be distributed as follows. They will be engaged at distinct phases of mobilisation.
 
-* Equipe projet, porteurs internes
-* Direction
-* Autres collaborateurs internes (employés, salariés, bénévoles)
-* Parties prenantes externes amont (fournisseurs)
-* Parties prenantes externes aval (clients)
-* Autres parties prenantes externes (partenaires financiers et techniques, acteurs locaux, fédérations professionnels, ou autres partenaires sur des sujets stratégiques pour l'organisation comme l'éducation, l'innovation, le développement).
-
-</details>
-
-<details>
-
-<summary>Perfluorocarbures (PFC)</summary>
-
-Les perfluorocarbures sont une famille de gaz constitués uniquement d'atomes de carbone et de fluor. Ce sont des GES faisant partie du protocole de Kyoto.
+* Project team, internal sponsors
+* Management
+* Other internal contributors (employees, salaried staff, volunteers)
+* External upstream stakeholders (suppliers)
+* External downstream stakeholders (clients)
+* Other external stakeholders (financial and technical partners, local actors, professional federations, or other partners on strategic issues for the organisation such as education, innovation, development).
 
 </details>
 
 <details>
 
-<summary>Périmètre de déclaration</summary>
+<summary>Perfluorocarbons (PFC)</summary>
 
-Notion spécifique à un exercice règlementaire de comptabilité carbone d’une organisation. Il s'agit des émissions contenues dans le périmètre opérationnel, qui seront effectivement comptabilisées dans l'exercice de Bilan Carbone®. Il peut donc s'agir d'une partie du périmètre opérationnel.
-
-</details>
-
-<details>
-
-<summary>Périmètre opérationnel</summary>
-
-Ensemble des sources d’émissions prises en compte lors d’un exercice de comptabilité carbone d’une organisation ainsi que leur ventilation par poste d'émissions.
+Perfluorocarbons are a family of gases consisting solely of carbon and fluorine atoms. They are GHGs forming part of the Kyoto Protocol.
 
 </details>
 
 <details>
 
-<summary>Périmètre organisationnel</summary>
+<summary>Declaration boundary</summary>
 
-Ensemble des sites, installations et équipements pris en compte lors de l'exercice de comptabilité carbone de l'organisation.
-
-</details>
-
-<details>
-
-<summary>Périmètre temporel</summary>
-
-Période de temps spécifique à l'exercice de comptabilité carbone d’une organisation.
+Notion specific to a regulatory carbon accounting exercise of an organisation. These are the emissions contained within the operational boundary that will actually be accounted for in the Bilan Carbone® exercise. It may therefore be a part of the operational boundary.
 
 </details>
 
 <details>
 
-<summary>Personne morale</summary>
+<summary>Operational boundary</summary>
 
-Organisation dotée d'une personnalité juridique, identifiée par un numéro SIREN. Notion spécifique à un exercice règlementaire de comptabilité carbone d’une organisation.&#x20;
-
-Lorsque le Bilan Carbone® est utilisé pour un reporting règlementaire, son périmètre organisationnel doit être celui d'une Personne morale soumise à la règlementation en vigueur.
+Set of emission sources taken into account during a carbon accounting exercise of an organisation as well as their breakdown by emission category.
 
 </details>
 
 <details>
 
-<summary>Pilier A</summary>
+<summary>Organisational boundary</summary>
 
-Voir définition des [émissions induites](glossaire.md#e).
-
-Pour contribuer à la baisse globale des émissions, une organisation doit **réduire ses propres émissions directes et indirectes** (pilier A) aux niveaux requis par les scénarios de décarbonation compatibles avec l’Accord de Paris.
-
-Sauf exception, le pilier A “réduction des émissions de l’organisation” est **prioritaire** par rapport aux deux autres piliers B et C,  de par son rôle dans la dépendance de l'organisation à un système basé sur les énergies fossiles, et son influence sur les risques et les opportunités que l'organisation devra intégrer à sa stratégie.
-
-Le Bilan Carbone® quantifie et agit sur le pilier A.
+Set of sites, installations and equipment taken into account during the carbon accounting exercise of the organisation.
 
 </details>
 
 <details>
 
-<summary>Pilier B</summary>
+<summary>Temporal boundary</summary>
 
-Voir définition des [émissions évitées](glossaire.md#e).
-
-Pour contribuer à la baisse globale des émissions, une organisation doit **réduire les émissions des autres** (pilier B). Elle évalue alors et augmente ses contributions à la décarbonation de tierces parties :
-
-* Soit sous l’effet de ses produits et services distribués ou vendus qui viennent se substituer à une solution plus carbonée chez les clients finaux
-* Soit sous l’effet de financements de projets de réduction d’émission hors de sa chaîne de valeur (achats de réductions d’émission certifiées, prises de participation directe dans des projets bas-carbone, contrats d’énergie bas carbone sous certaines conditions, etc.)
-
-La méthodologie Bilan Carbone® ne traite pas des émissions évitées.&#x20;
+Specific time period for the carbon accounting exercise of an organisation.
 
 </details>
 
 <details>
 
-<summary>Pilier C</summary>
+<summary>Legal entity</summary>
 
-Voir définition des [émissions séquestrées ou négatives](glossaire.md#e).
+Organisation with legal personality, identified by a SIREN number. Notion specific to a regulatory carbon accounting exercise of an organisation.&#x20;
 
-Pour contribuer à l'augmentation globale de la séquestration carbone, l'organisation doit **préserver et augmenter les puits de carbone** dans ou en dehors de sa chaîne de valeur (pilier C). Elle évalue ses contributions à la préservation et à l’augmentation des puits de carbone naturels et technologiques mondiaux :
+When the Bilan Carbone® is used for regulatory reporting, its organisational boundary must be that of a legal entity subject to the regulations in force.
 
-* Soit dans sa chaîne de valeur, en développant ses propres puits de carbone (absorptions directes) ou ceux en amont (dans sa chaîne d'approvisionnement) et en aval (au sein des clients ou utilisateurs finaux)
-* Soit hors de sa chaîne de valeur, grâce à ses financements de projets de séquestration (achats de séquestrations carbone certifiées, prise de participation directe dans des projets, etc.)
+</details>
 
-La méthodologie Bilan Carbone® ne traite pas des émissions négatives.
+<details>
+
+<summary>Pillar A</summary>
+
+See definition of [induced emissions](glossaire.md#e).
+
+To contribute to the overall reduction in emissions, an organisation must **reduce its own direct and indirect emissions** (pillar A) to the levels required by the decarbonisation scenarios compatible with the Paris Agreement.
+
+Except in exceptional cases, pillar A "reduction of the organisation's emissions" **takes priority** over the other two pillars B and C, due to its role in the organisation's dependence on a fossil fuel-based system, and its influence on the risks and opportunities that the organisation will need to integrate into its strategy.
+
+The Bilan Carbone® quantifies and acts on pillar A.
+
+</details>
+
+<details>
+
+<summary>Pillar B</summary>
+
+See definition of [avoided emissions](glossaire.md#e).
+
+To contribute to the overall reduction in emissions, an organisation must **reduce others' emissions** (pillar B). It then assesses and increases its contributions to the decarbonisation of third parties:
+
+* Either through the effect of its products and services distributed or sold that substitute a more carbon-intensive solution for end customers
+* Or through the effect of financing emission reduction projects outside its value chain (purchases of certified emission reductions, direct equity stakes in low-carbon projects, low-carbon energy contracts under certain conditions, etc.)
+
+The Bilan Carbone® methodology does not deal with avoided emissions.&#x20;
+
+</details>
+
+<details>
+
+<summary>Pillar C</summary>
+
+See definition of [sequestered or negative emissions](glossaire.md#e).
+
+To contribute to the overall increase in carbon sequestration, the organisation must **preserve and increase carbon sinks** within or outside its value chain (pillar C). It assesses its contributions to the preservation and increase of global natural and technological carbon sinks:
+
+* Either within its value chain, by developing its own carbon sinks (direct absorptions) or those upstream (in its supply chain) and downstream (within end customers or users)
+* Or outside its value chain, through its financing of sequestration projects (purchases of certified carbon sequestrations, direct equity stakes in projects, etc.)
+
+The Bilan Carbone® methodology does not deal with negative emissions.
 
 </details>
 
@@ -868,82 +868,82 @@ La méthodologie Bilan Carbone® ne traite pas des émissions négatives.
 
 Plan Carbone Général
 
-:link: Plus d'informations [dans la bibliographie](bibliographie/#guides-pratiques-de-comptabilisation).
+:link: More information [in the bibliography](bibliographie/#guides-pratiques-de-comptabilisation).
 
 </details>
 
 <details>
 
-<summary>Plan d'action</summary>
+<summary>Action plan</summary>
 
-Ensemble d'actions concrètes envisagées et permettant d'atteindre les objectifs du plan de transition. Le plan d'action est établi à court terme (jusqu'au renouvellement du bilan), même si certaines actions s'étendent jusqu'à moyen ou long terme. C'est la traduction opérationnelle du plan de transition et de la stratégie de transition bas carbone de l'organisation.
-
-</details>
-
-<details>
-
-<summary>Plan de transition</summary>
-
-Un plan de transition définit l'ensemble des actions, et des moyens envisagés pour la réduction des émissions liées aux activités d'une organisation, et l'évolution de ces activités afin de les rendre compatibles avec un monde bas carbone respectant l'Accord de Paris. (_source ADEME_).
+Set of concrete actions envisaged and enabling the objectives of the transition plan to be achieved. The action plan is drawn up in the short term (until the renewal of the assessment), even if some actions extend to the medium or long term. It is the operational translation of the transition plan and the low-carbon transition strategy of the organisation.
 
 </details>
 
 <details>
 
-<summary>Porteur</summary>
+<summary>Transition plan</summary>
 
-Personne motrice du développement de la démarche. Notion assimilée dans le Bilan Carbone® au coordinateur ou pilote de la démarche.
-
-Un porteur d'action désigne la personne motrice et en charge de la mise en œuvre d'une action spécifiquement.
+A transition plan defines all the actions and means envisaged for reducing emissions related to an organisation's activities, and the evolution of these activities in order to make them compatible with a low-carbon world respecting the Paris Agreement. (_source ADEME_).
 
 </details>
 
 <details>
 
-<summary>Poste d’émissions</summary>
+<summary>Sponsor</summary>
 
-Regroupement des émissions de GES provenant de plusieurs sources d'émissions homogènes. La nomenclature Bilan Carbone® utilise la sémantique de postes d'émissions. D'autres standards peuvent utiliser la sémantiques de scopes ou catégories d'émissions. Des [liens de correspondances](../4-comptabilisation/4.5-profil-demission.md) sont possibles.
+Person who drives the development of the approach. Notion assimilated in the Bilan Carbone® to the coordinator or pilot of the approach.
 
-</details>
-
-<details>
-
-<summary>Pouvoir ou Potentiel de Réchauffement Global (PRG)</summary>
-
-Indice basé sur les propriétés radiatives des GES, mesurant le forçage radiatif suite à une émission pulsée d’une unité de masse d’un GES donné dans l’atmosphère actuelle intégrée sur une période choisie, par rapport à celui du dioxyde de carbone (CO2) (_source : NF- ISO 14064-1:2018_).
+An action sponsor designates the person who drives and is responsible for the implementation of a specific action.
 
 </details>
 
 <details>
 
-<summary>Profil d'émission GES</summary>
+<summary>Emission category</summary>
 
-Agrégation des résultats des émissions quantifiées de GES, pour l'ensemble des sources d'émissions comprises au sein des périmètres de l'organisation.
-
-Le profil d'émission désigne également la ventilation des émissions quantifiées selon une certaine nomenclature (par exemple selon les postes d'émissions du Bilan Carbone®).
+Grouping of GHG emissions from several homogeneous emission sources. The Bilan Carbone® nomenclature uses the semantics of emission categories. Other standards may use the semantics of scopes or emission categories. [Correspondence links](../4-comptabilisation/4.5-profil-demission.md) are possible.
 
 </details>
 
 <details>
 
-<summary>Protocole de Kyoto</summary>
+<summary>Global Warming Potential (GWP)</summary>
 
-Le protocole de Kyoto est un accord international visant à la réduction des émissions de gaz à effet de serre et qui vient s'ajouter à la Convention Cadre des Nations Unies sur les Changements Climatiques (CCNUCC) dont les pays participants se rencontrent une fois par an depuis 1995. Il définit notamment les différents GES devant être pris en compte dans le cadre de ces réductions : &#x20;
-
-* Le dioxyde de carbone, CO₂&#x20;
-* Le méthane, CH₄
-* Le protoxyde d'azote, N₂O
-* L'hexafluorure de soufre, SF₆
-* Les [hydrofluorocarbures](glossaire.md#hydrofluorocarbures), HFC
-* Les [perfluorocarbures](glossaire.md#perfluorocarbures), PFC
+Index based on the radiative properties of GHGs, measuring the radiative forcing following a pulse emission of a unit mass of a given GHG into the current atmosphere integrated over a chosen period, relative to that of carbon dioxide (CO2) (_source: NF-ISO 14064-1:2018_).
 
 </details>
 
 <details>
 
-<summary>Puit de GES</summary>
+<summary>GHG emission profile</summary>
 
-Processus retirant un GES de l’atmosphère (_norme NF-ISO 14064-1: 2018_).
+Aggregation of the results of quantified GHG emissions, for all emission sources included within the boundaries of the organisation.
+
+The emission profile also refers to the breakdown of quantified emissions according to a certain nomenclature (for example, according to the Bilan Carbone® emission categories).
+
+</details>
+
+<details>
+
+<summary>Kyoto Protocol</summary>
+
+The Kyoto Protocol is an international agreement aimed at reducing greenhouse gas emissions and which complements the United Nations Framework Convention on Climate Change (UNFCCC) whose participating countries meet once a year since 1995. It defines in particular the various GHGs that must be taken into account in the context of these reductions:&#x20;
+
+* Carbon dioxide, CO₂&#x20;
+* Methane, CH₄
+* Nitrous oxide, N₂O
+* Sulphur hexafluoride, SF₆
+* [Hydrofluorocarbons](glossaire.md#hydrofluorocarbures), HFC
+* [Perfluorocarbons](glossaire.md#perfluorocarbures), PFC
+
+</details>
+
+<details>
+
+<summary>GHG sink</summary>
+
+Process removing a GHG from the atmosphere (_standard NF-ISO 14064-1:2018_).
 
 </details>
 
@@ -953,124 +953,124 @@ Processus retirant un GES de l’atmosphère (_norme NF-ISO 14064-1: 2018_).
 
 <summary>RACI</summary>
 
-RACI est l'acronyme de :
+RACI is the acronym for:
 
-* **R**: **Réalisateur** (Responsible) – La personne qui effectue le travail pour accomplir la tâche. Il s'agit des individus qui font réellement le travail ou exécutent la tâche.
-* **A: Approbateur** (Accountable) – La personne qui est responsable de la tâche. Cette personne doit approuver ou valider le travail terminé et s'assurer que les objectifs sont atteints.
-* **C: Consulté** (Consulted) – Les personnes qui fournissent des conseils, des commentaires ou des informations nécessaires pour accomplir la tâche. Ce sont souvent des experts ou des parties prenantes clés.
-* **I: Informé** (Informed) – Les personnes qui doivent être tenues informées de l'avancement ou des résultats de la tâche. Elles n'ont pas de rôle actif dans l'accomplissement de la tâche, mais elles ont besoin de connaître son état ou ses résultats.
-
-</details>
-
-<details>
-
-<summary>Ratios monétaires</summary>
-
-Facteur d'émission se présentant sous la forme de valeurs en kgCO₂e/k€ dépensé. Ces FE sont issus de moyennes sur de nombreux produits, et sont par conséquent associés à de très fortes incertitudes.
+* **R**: **Responsible** – The person who performs the work to accomplish the task. These are the individuals who actually do the work or execute the task.
+* **A: Accountable** – The person who is accountable for the task. This person must approve or validate the completed work and ensure that objectives are met.
+* **C: Consulted** – The persons who provide advice, comments or information necessary to accomplish the task. These are often experts or key stakeholders.
+* **I: Informed** – The persons who need to be kept informed of the progress or results of the task. They have no active role in accomplishing the task, but they need to know its status or results.
 
 </details>
 
 <details>
 
-<summary>Ratios monétaires spécifiques</summary>
+<summary>Monetary ratios</summary>
 
-Ratio monétaire créé par l'organisation, par exemple, à partir de la comptabilité carbone de ses parties prenantes (fournisseurs, ...).
-
-</details>
-
-<details>
-
-<summary>Référentiel</summary>
-
-Désigne ici les autres méthodes, normes et réglementations de comptabilité carbone ou démarches de transition bas carbone.
+Emission factor in the form of values in kgCO₂e/k€ spent. These EFs are derived from averages over many products, and are consequently associated with very high uncertainties.
 
 </details>
 
 <details>
 
-<summary>Règlementation française en matière de bilan d'émissions de gaz à effet de serre (Bilan GES règlementaire ou BEGES-R)</summary>
+<summary>Specific monetary ratios</summary>
 
-Dispositif prévoyant que les organisations réalisent et oublient régulièrement un bilan sur une plateforme publique.
-
-:link:Pour plus d'informations sur le BEGES-R, se référer à la [Bibliographie.](bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges)
+Monetary ratio created by the organisation, for example, from the carbon accounting of its stakeholders (suppliers, ...).
 
 </details>
 
 <details>
 
-<summary>Responsabilisation</summary>
+<summary>Framework</summary>
 
-Il s'agit d'une phase de [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) au sens du Bilan Carbone® :
-
-L'enjeu principal de la responsabilisation est de donner à chacun un rôle dans la démarche. Aux parties prenantes de prendre conscience que chaque degré compte, que chaque action compte et donc que chaque collaborateur compte dans la mise en œuvre de ces actions.  A l'organisation de prendre conscience qu'il est question de pérennité. De nouvelles responsabilités vont émerger de la démarche et permettront de valoriser les postes existants en prenant en considération une composante essentielle liée à la durabilité de l'activité.
-
-_Objectif_ : Impliquer et donner les moyens à chaque partie prenante de se mettre en mouvement et de passer à l'action.
-
-_Indicateur_ : Niveau de participation à la démarche et niveau de passage à l'action.
+Here refers to other carbon accounting methods, standards and regulations or low-carbon transition approaches.
 
 </details>
 
 <details>
 
-<summary>Responsabilité Sociétale des Organisations</summary>
+<summary>French regulation on greenhouse gas emission assessments (Regulatory GHG Assessment or BEGES-R)</summary>
 
-L'objectif de la RSO est de promouvoir des pratiques durables et éthiques au sein de toutes les organisations, en tenant compte des impacts économiques, sociaux et environnementaux de leurs activités. Les pratiques de RSO peuvent inclure la gouvernance éthique, le respect des droits humains, la transparence, l'impact environnemental, les pratiques de travail équitables, etc.
+Mechanism requiring organisations to regularly carry out and publish an assessment on a public platform.
 
-La Responsabilité Sociétale des Organisations (RSO) est une notion plus large qui englobe toutes les formes d'organisations, pas seulement Responsabilité Sociétale des Entreprises (RSE). Cela inclut les administrations publiques, les ONG, les associations, et autres types d'organisations.
-
-</details>
-
-<details>
-
-<summary>Restitution de la démarche ou rapport de restitution</summary>
-
-Trois rapports de restitutions [sont cadrés par la démarche Bilan Carbone®](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md).
+:link:For more information on the BEGES-R, refer to the [Bibliography.](bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges)
 
 </details>
 
 <details>
 
-<summary>Restitution et communication</summary>
+<summary>Accountability</summary>
 
-Il s'agit d'une phase de [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) au sens du Bilan Carbone® :
+This is a [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) phase within the meaning of the Bilan Carbone®:
 
-L'enjeu principal des restitutions et des communications est de permettre l'appropriation des résultats et des actions auprès des différentes parties prenantes concernées. Faire le lien entre les enjeux globaux, les enjeux locaux, les impacts de l'organisation, le rôle des parties prenantes dans ces impacts, les actions qui en découlent, et le rôle des parties prenantes dans la réussite de ces actions.
+The main challenge of accountability is to give everyone a role in the approach. For stakeholders to realise that every degree counts, that every action counts and therefore that every employee counts in the implementation of these actions. For the organisation to realise that this is a matter of sustainability. New responsibilities will emerge from the approach and will make it possible to enhance existing roles by taking into account an essential component related to the sustainability of the activity.
 
-_Objectif_ : Faire de cette démarche une initiative qui dépasse la sphère de l'équipe projet pour toucher les autres parties prenantes concernées (en premier lieu les collaborateurs internes) par la mise en œuvre des actions, dans une logique de transversalité, d'ensemblier, de réputation et d'exemplarité.
+_Objective_: To involve and empower each stakeholder to get moving and take action.
 
-_Indicateur_ : Niveau de connaissance et de compréhension des résultats (impacts et actions)
+_Indicator_: Level of participation in the approach and level of transition to action.
 
 </details>
 
 <details>
 
-<summary>Risques et opportunités de transition</summary>
+<summary>Corporate Social Responsibility (CSR)</summary>
 
-Les risques de transition, liés à des évolutions de nos sociétés et des modèles économiques, sont répartis en plusieurs catégories :&#x20;
+The objective of CSR is to promote sustainable and ethical practices within all organisations, taking into account the economic, social and environmental impacts of their activities. CSR practices can include ethical governance, respect for human rights, transparency, environmental impact, equitable working practices, etc.
 
-* Les risques réglementaires
-* Les risques d'image et de réputation
-* Les risques de marché et de technologie
+Corporate Social Responsibility (CSR) is a broader notion that encompasses all forms of organisations, not just companies. This includes public administrations, NGOs, associations, and other types of organisations.
 
-Les opportunités qui assurent à l'organisation une place dans le monde bas carbone de demain sont de plusieurs types :&#x20;
+</details>
 
-* Réduction de la consommation de ressources
-* Réduction des émissions de GES
-* Développement de nouveaux produits et services et innovations
-* Incitation réglementaires/financières
-* Communication et image
+<details>
+
+<summary>Reporting of the approach or Bilan Carbone® report</summary>
+
+Three reporting documents [are framed by the Bilan Carbone® approach](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md).
+
+</details>
+
+<details>
+
+<summary>Reporting and communication</summary>
+
+This is a [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) phase within the meaning of the Bilan Carbone®:
+
+The main challenge of reporting and communication is to enable the appropriation of results and actions by the various stakeholders concerned. Making the link between global issues, local issues, the organisation's impacts, the role of stakeholders in these impacts, the resulting actions, and the role of stakeholders in the success of these actions.
+
+_Objective_: To make this approach an initiative that goes beyond the sphere of the project team to reach the other stakeholders concerned (primarily internal employees) by the implementation of actions, in a logic of cross-functionality, integration, reputation and exemplarity.
+
+_Indicator_: Level of knowledge and understanding of results (impacts and actions)
+
+</details>
+
+<details>
+
+<summary>Transition risks and opportunities</summary>
+
+Transition risks, linked to changes in our societies and economic models, are divided into several categories:&#x20;
+
+* Regulatory risks
+* Image and reputation risks
+* Market and technology risks
+
+The opportunities that ensure the organisation has a place in tomorrow's low-carbon world are of several types:&#x20;
+
+* Reduction of resource consumption
+* Reduction of GHG emissions
+* Development of new products and services and innovations
+* Regulatory/financial incentives
+* Communication and image
 * Adaptation
 
 </details>
 
 <details>
 
-<summary>Risques physiques</summary>
+<summary>Physical risks</summary>
 
-Les risques physiques, directement liés à la modification du climat et aux conséquences engendrées par celle-ci, sont répartis en plusieurs catégories :&#x20;
+Physical risks, directly linked to climate change and the consequences it engenders, are divided into several categories:&#x20;
 
-* Les risques liés à des catastrophes naturelles et événements climatiques extrêmes devenant de plus en plus fréquents et/ou intenses
-* Les risques liés aux changements progressifs du climat.
+* Risks linked to natural disasters and extreme weather events becoming increasingly frequent and/or intense
+* Risks linked to gradual climate changes.
 
 </details>
 
@@ -1078,56 +1078,56 @@ Les risques physiques, directement liés à la modification du climat et aux con
 
 <details>
 
-<summary>Sensibilisation et vulgarisation</summary>
+<summary>Awareness and popularisation / plain-language explanation</summary>
 
-Il s'agit d'une phase de [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) au sens du Bilan Carbone® :
+This is a [mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) phase within the meaning of the Bilan Carbone®:
 
-L’enjeu principal de la sensibilisation et de la vulgarisation des enjeux est de _comprendre pour agir_ : renforcer la compréhension d'informations essentielles autour des enjeux énergie climat,  et fédérer autour de la démarche pour garantir une meilleure intégration du plan de transition.
+The main challenge of awareness and plain-language explanation of the issues is _understanding in order to act_: strengthening the understanding of essential information around energy-climate issues, and uniting around the approach to ensure better integration of the transition plan.
 
-_Objectif_ : Créer le terreau nécessaire à la bonne compréhension des enjeux, à l'acceptation du changement et des futures actions à engager, et permettre à l'organisation d'identifier les risques et opportunités associées à la transition écologique.
+_Objective_: Create the necessary groundwork for a good understanding of the issues, acceptance of change and future actions to be taken, and enable the organisation to identify the risks and opportunities associated with the ecological transition.
 
-_Indicateur_ : Niveau de connaissance et de compréhension des enjeux.
-
-</details>
-
-<details>
-
-<summary>Significativité</summary>
-
-:mag\_right: _La notion de significativité est issue de l'_[_ISO 14064-1_](bibliographie/) _et reprise au sein du_ [_BEGES-R_](bibliographie/)_._
-
-Il est admis que certaines sources d’émissions indirectes de GES, au sein du [périmètre opérationnel](glossaire.md#p) d'une organisation, ne contribuent pas de manière significative au total des émissions indirectes. La notion de significativité peut être utile pour dresser des priorités lors de la comptabilisation, lors du choix des actions ou encore du suivi des résultats. Pour qu'une émission soit dite [émission significative](glossaire.md#e), elle doit répondre à au moins un des **critères de significativité** :
-
-* **Critère d'ampleur** : Les postes d’émissions indirectes estimés substantiels d’un point de vue quantitatif sont à retenir. Un seuil d’ampleur minimal à considérer est exprimé en pourcentage. Il établit la proportion minimale des émissions indirectes du périmètre opérationnel à inclure dans le périmètre de déclaration. Le seuil d’ampleur ne devra pas être inférieur à 80%. À noter que la norme ISO 14064-1 désigne par **critère d’importance** la même notion.
-* **Niveau d’influence et leviers d’actions** : la mesure dans laquelle l’organisme peut suivre et réduire les émissions et les suppressions (par exemple, l’efficacité énergétique, l’éco-conception, l’engagement du client, les termes de référence).
-* **Importance stratégique et vulnérabilité** selon une approche risque ou opportunité : concerne les émissions ou suppressions indirectes qui contribuent à l’exposition de l’organisme aux risques (par exemple, les risques associés au changement climatique tels que les risques financiers, les risques liés à la réglementation, les risques pour la chaîne d’approvisionnement, les produits et les clients, les risques de litige, les risques d’atteinte à la réputation) ou à ses opportunités commerciales (nouveau marché ou nouveau modèle commercial, par exemple).
-* **Lignes directrices spécifiques au secteur** : les émissions de GES jugées significatives pour le secteur d’activité concerné, selon les lignes directrices spécifiques au secteur.
-* **Sous-traitance** : les émissions et suppressions indirectes résultant d’activités externalisées qui sont généralement des activités de base.
-* **Engagement du personnel** : les émissions indirectes susceptibles de motiver les employés à réduire leurs émissions ou qui fédèrent un esprit d’équipe autour du changement climatique.
+_Indicator_: Level of knowledge and understanding of the issues.
 
 </details>
 
 <details>
 
-<summary>Source de GES ou source d'émission</summary>
+<summary>Significance</summary>
 
-Unité physique ou processus rejetant un GES dans l’atmosphère (_norme_ NF-ISO 14064-1:2018).
+:mag\_right: _The notion of significance comes from_ [_ISO 14064-1_](bibliographie/) _and is used within the_ [_BEGES-R_](bibliographie/)_._
+
+It is accepted that certain indirect GHG emission sources, within the [operational boundary](glossaire.md#p) of an organisation, do not contribute significantly to the total indirect emissions. The notion of significance can be useful for setting priorities during accounting, when choosing actions or when monitoring results. For an emission to be called a [significant emission](glossaire.md#e), it must meet at least one of the **significance criteria**:
+
+* **Magnitude criterion**: Indirect emission categories estimated to be substantial from a quantitative point of view are to be retained. A minimum magnitude threshold to consider is expressed as a percentage. It establishes the minimum proportion of indirect emissions from the operational boundary to include in the declaration boundary. The magnitude threshold must not be less than 80%. Note that ISO 14064-1 designates the same notion by the **importance criterion**.
+* **Level of influence and levers for action**: the extent to which the body can monitor and reduce emissions and removals (for example, energy efficiency, eco-design, customer engagement, terms of reference).
+* **Strategic importance and vulnerability** according to a risk or opportunity approach: concerns indirect emissions or removals that contribute to the body's exposure to risks (for example, risks associated with climate change such as financial risks, regulatory risks, supply chain risks, product and customer risks, litigation risks, reputational risks) or to its commercial opportunities (new market or new business model, for example).
+* **Sector-specific guidelines**: GHG emissions considered significant for the sector of activity concerned, according to sector-specific guidelines.
+* **Subcontracting**: indirect emissions and removals resulting from outsourced activities that are generally core activities.
+* **Employee engagement**: indirect emissions likely to motivate employees to reduce their emissions or that build team spirit around climate change.
 
 </details>
 
 <details>
 
-<summary>Stratégie bas carbone ou stratégie de transition</summary>
+<summary>GHG source or emission source</summary>
 
-La stratégie de transition bas carbone de l'organisation détaille les moyens envisagés pour atteindre les objectifs de l'organisation, tout en préservant, et idéalement en améliorant, sa pérennité. La stratégie porte sur les investissements matériels, les investissements intangibles (comme la R\&D ou les compétences), le management et la politique auprès de toutes ses parties prenantes (employés, mais aussi fournisseurs, clients). Dans le cadre du Bilan Carbone®, le plan de transition amènera l'organisation à faire évoluer son modèle de fonctionnement. Au cours de sa progression dans le parcours de maturité, l'organisation sera amenée à réfléchir sur la pertinence de ses activités, produits et services, dans un monde bas carbone.
+Physical unit or process releasing a GHG into the atmosphere (_standard NF-ISO 14064-1:2018_).
 
 </details>
 
 <details>
 
-<summary>Suppression de GES</summary>
+<summary>Low-carbon strategy or transition strategy</summary>
 
-Réduction ou retrait de GES dans l'atmosphère, étant sous le contrôle de l'organisation, par des puits de GES (adapté de la _norme NF-ISO 14064-1:2018_).
+The organisation's low-carbon transition strategy details the means envisaged to achieve the organisation's objectives, while preserving, and ideally improving, its sustainability. The strategy covers material investments, intangible investments (such as R&D or skills), management and policy towards all its stakeholders (employees, but also suppliers, clients). In the context of the Bilan Carbone®, the transition plan will lead the organisation to evolve its operating model. Throughout its progression in the maturity journey, the organisation will be led to reflect on the relevance of its activities, products and services, in a low-carbon world.
+
+</details>
+
+<details>
+
+<summary>GHG removal</summary>
+
+Reduction or withdrawal of GHGs from the atmosphere, being under the control of the organisation, by GHG sinks (adapted from _standard NF-ISO 14064-1:2018_).
 
 </details>
 
@@ -1135,11 +1135,11 @@ Réduction ou retrait de GES dans l'atmosphère, étant sous le contrôle de l'o
 
 <details>
 
-<summary>Traînées de condensation</summary>
+<summary>Condensation trails</summary>
 
-À haute altitude, la vapeur d'eau émise par les moteurs d'avion peut se condenser en fines particules de glace, formant ce que l'on appelle des traînées de condensation ou des "traînées de vapeur". Ces traînées peuvent avoir un impact sur le climat en modifiant la réflexion de la lumière solaire (albédo) et en contribuant à la formation de nuages artificiels.
+At high altitude, water vapour emitted by aircraft engines can condense into fine ice particles, forming what are known as condensation trails or "vapour trails". These trails can have an impact on the climate by modifying the reflection of sunlight (albedo) and contributing to the formation of artificial clouds.
 
-En plus du CO2 émis par la production et combustion du carburant, les avions peuvent affecter le climat par d’autres émissions et processus atmosphériques, tels que la vapeur d’eau (H2O), les oxydes d’azote (NOx), les particules (aérosols) de sulfate et de suie, ou les traînées de condensation. Pour ces dernières, bien que leur contribution sur le total de l’impact climatique de l’aviation à l’échelle mondiale (évaluée sur la base du forçage radiatif) soit évaluée à un minimum de 50 %, il subsiste encore d’importantes incertitudes sur leurs conditions de formation par trajet (dépendante de l'altitude et de différents facteurs météorologiques).&#x20;
+In addition to the CO2 emitted by the production and combustion of fuel, aircraft can affect the climate through other emissions and atmospheric processes, such as water vapour (H2O), nitrogen oxides (NOx), sulphate and soot particles (aerosols), or condensation trails. For the latter, although their contribution to the total climate impact of aviation on a global scale (assessed on the basis of radiative forcing) is estimated at a minimum of 50%, there remain significant uncertainties about their formation conditions by journey (dependent on altitude and various meteorological factors).&#x20;
 
 (Source [Base Empreinte](annexes/annexe-2-exemples-de-bases-de-donnees-de-facteurs-demission.md)).
 
@@ -1147,24 +1147,24 @@ En plus du CO2 émis par la production et combustion du carburant, les avions pe
 
 <details>
 
-<summary>Trajectoire de transition</summary>
+<summary>Transition pathway</summary>
 
-Deux types de trajectoire existent :&#x20;
+Two types of pathway exist:&#x20;
 
-* La trajectoire top-down (approche descendante) est une trajectoire définie de manière macroscopique, et fixant des objectifs de réduction à moyen et long terme. Elles peuvent par exemple être fixées en s'inspirant des trajectoires de références (qui sont aussi top-down) fournies par la SNBC, SBTi, ACT, entre autres...&#x20;
-* La trajectoire bottom-up (approche ascendante) est construite à partir du profil GES (situation actuelle de l'organisation) et des potentiels de réduction des actions permettant ainsi de projeter une trajectoire atteignable (tendance et évolutions des émissions) qui justifie la crédibilité des objectifs.
+* The top-down pathway (top-down approach) is a pathway defined macroscopically, setting medium and long-term reduction objectives. They can for example be set by drawing on the reference pathways (which are also top-down) provided by the SNBC, SBTi, ACT, among others...&#x20;
+* The bottom-up pathway (bottom-up approach) is built from the GHG profile (current situation of the organisation) and the reduction potentials of actions, thereby projecting an attainable pathway (trend and evolution of emissions) that justifies the credibility of the objectives.
 
-Dans le cadre du Bilan Carbone®, la trajectoire top-down est utilisée en tant qu'outil d'aide à la définition des [objectifs](../5-plan-de-transition/5.1-definition-des-objectifs.md). Par la suite, la [trajectoire de transition](../5-plan-de-transition/5.3-definition-de-la-trajectoire-de-transition.md) (bottom-up) est définie afin de valider la pertinence des actions et leurs potentiels de réduction.
+In the context of the Bilan Carbone®, the top-down pathway is used as a tool to help define [objectives](../5-plan-de-transition/5.1-definition-des-objectifs.md). Subsequently, the [transition pathway](../5-plan-de-transition/5.3-definition-de-la-trajectoire-de-transition.md) (bottom-up) is defined in order to validate the relevance of the actions and their reduction potentials.
 
 </details>
 
 <details>
 
-<summary>Triple comptabilité</summary>
+<summary>Triple accounting</summary>
 
-Méthode de comptabilité qui prend en compte trois dimensions principales : économique, environnementale et sociale. Elle vise à évaluer et à rapporter la performance d'une organisation non seulement en termes financiers, mais aussi en termes d'impact environnemental et de contributions sociales. Cette approche holistique permet une meilleure compréhension des effets globaux des activités d'une organisation sur la société et la planète.
+Accounting method that takes into account three main dimensions: economic, environmental and social. It aims to assess and report the performance of an organisation not only in financial terms, but also in terms of environmental impact and social contributions. This holistic approach allows for a better understanding of the overall effects of an organisation's activities on society and the planet.
 
-La comptabilité carbone permet donc de fournir des indicateurs à inscrire dans cette triple comptabilité.
+Carbon accounting therefore makes it possible to provide indicators to be included in this triple accounting.
 
 </details>
 
@@ -1174,37 +1174,37 @@ La comptabilité carbone permet donc de fournir des indicateurs à inscrire dans
 
 <summary>Validation</summary>
 
-Evaluation des effets n’ayant pas encore eu lieu, concernant le bilan évalué. Par exemple : la validation du plan de transition. Inclut dans le processus d'[évaluation](glossaire.md#e).
+Evaluation of effects that have not yet occurred, concerning the evaluated assessment. For example: validation of the transition plan. Included in the [evaluation](glossaire.md#e) process.
 
-Notion issue de l'[ISO 17029](bibliographie/) et ISO 14069.
-
-</details>
-
-<details>
-
-<summary>Vérification </summary>
-
-Evaluation des effets déjà survenus, dans le cadre du bilan évalué. Par exemple : la vérification des données employés lors du calcul du profil GES, la vérification des résultats obtenus, la vérification des incertitudes, entre autres. Inclut dans le processus d'[évaluation](glossaire.md#e).
-
-Notion issue de l'[ISO 17029](bibliographie/) et ISO 14069.
+Concept derived from [ISO 17029](bibliographie/) and ISO 14069.
 
 </details>
 
 <details>
 
-<summary>Vision de transition</summary>
+<summary>Verification</summary>
 
-Elle représente la manière dont l'organisation projette sa place dans un monde bas carbone (à long terme, soit jusqu'en 2050). Elle ne nécessite pas de description détaillée dans le cadre du Bilan Carbone®, mais elle permet de projeter la stratégie future de l'organisation en ce qui concerne le climat.
+Evaluation of effects that have already occurred, within the framework of the evaluated assessment. For example: verification of data used during the calculation of the GHG emission profile, verification of results obtained, verification of uncertainties, among others. Included in the [evaluation](glossaire.md#e) process.
+
+Concept derived from [ISO 17029](bibliographie/) and ISO 14069.
 
 </details>
 
 <details>
 
-<summary>Vulnérabilité ou Vulnérabilité Climatique</summary>
+<summary>Transition vision</summary>
 
-D’après le [rapport du GIEC](bibliographie/#evolutions-climatiques), le risque climatique est une combinaison de trois facteurs : un facteur « aléa climatique » (l'impact potentiel), un facteur « exposition » (la probabilité d'occurrence), et un facteur de « vulnérabilité » à cet aléa (la gravité).
+It represents the way in which the organisation projects its place in a low-carbon world (in the long term, i.e. until 2050). It does not require a detailed description within the framework of the Bilan Carbone®, but it makes it possible to project the future strategy of the organisation with regard to the climate.
 
-La vulnérabilité climatique est une notion clé dans l’appréciation du risque. Elle exprime la propension d’un objet d’étude à être impacté par un aléa climatique. C’est la variable la plus difficile à estimer car elle est fortement dépendante de l’entreprise étudiée : son niveau de sensibilité aux aléas et sa capacité d’adaptation.
+</details>
+
+<details>
+
+<summary>Vulnerability or Climate Vulnerability</summary>
+
+According to the [IPCC report](bibliographie/#evolutions-climatiques), climate risk is a combination of three factors: a "climate hazard" factor (the potential impact), an "exposure" factor (the probability of occurrence), and a "vulnerability" factor to this hazard (the severity).
+
+Climate vulnerability is a key notion in risk assessment. It expresses the propensity of a subject of study to be impacted by a climate hazard. It is the most difficult variable to estimate because it is highly dependent on the company studied: its level of sensitivity to hazards and its adaptive capacity.
 
 </details>
 

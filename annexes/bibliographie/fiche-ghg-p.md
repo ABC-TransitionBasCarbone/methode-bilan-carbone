@@ -2,189 +2,185 @@
 description: Greenhouse Gas Protocol
 ---
 
-# Fiche GHG-P
+# GHG-P Sheet
 
 {% hint style="success" %}
-**Type** : Standard international
+**Type**: International standard
 
-**Date** : 1998&#x20;
+**Date**: 1998
 
-**Mise en application** : 2001&#x20;
+**Implementation**: 2001
 
-**Auteur**  : WRI et WBCSD&#x20;
+**Author**: WRI and WBCSD
 
-**Cible** : Organisations&#x20;
+**Target**: Organisations
 {% endhint %}
 
-Créé en 1998 par le World Ressources Institute (WRI) et le World Business Council for Sustainable Development (170 entreprises), avec le soutien d’ONGs et de gouvernements, **le GHG Protocol travaille avec de nombreux acteurs pour construire des normes de comptabilisation et de déclaration des gaz à effet de serre (GES) et de promouvoir leur adoption à grande échelle**. &#x20;
+Created in 1998 by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (170 companies), with the support of NGOs and governments, **the GHG Protocol works with many actors to build standards for greenhouse gas (GHG) accounting and reporting and to promote their large-scale adoption**.
 
-Le premier standard du GHG Protocol a été publié en 2001, et depuis, la méthode est utilisée dans le monde entier, notamment pour le reporting climat, par exemple auprès du CDP.
+The first GHG Protocol standard was published in 2001, and since then, the method has been used worldwide, notably for climate reporting, for example to the CDP.
 
 {% hint style="info" %}
-La dernière version en vigueur date de 2015, avec une nouvelle révision prévue pour 2024.
+The latest version in force dates from 2015, with a new revision planned for 2024.
 {% endhint %}
 
-## **Quels sont les objectifs de la démarche ?**
+## **What are the objectives of the approach?**
 
 <details>
 
-<summary>Le GHG Protocol comprend <a href="https://ghgprotocol.org/standards-guidance">plusieurs standards</a> distincts mais liés</summary>
+<summary>The GHG Protocol includes <a href="https://ghgprotocol.org/standards-guidance">several</a> distinct but linked standards</summary>
 
-* [Le GHG Protocol Corporate Accounting and Reporting Standard ](https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf): qui aide les entreprises à quantifier et déclarer leurs émissions de GES
-* [Le GHG Protocol Corporate Value Chain (scope 3) Standard](https://ghgprotocol.org/corporate-value-chain-scope-3-standard) : qui permet aux entreprises d'évaluer l'impact de leurs émissions sur l'ensemble de la chaîne de valeur et de déterminer les domaines sur lesquels elles doivent concentrer leurs activités de réduction 
-* [Le GHG Protocol Product Standard](https://ghgprotocol.org/product-standard) : peut être utilisé pour comprendre les émissions du cycle de vie complet d'un produit et concentrer les efforts sur les meilleures possibilités de réduction des GES &#x20;
-* [Le GHG Protocol for Community-Scale Greenhouse Gas Emission Inventories (GPC)](https://ghgprotocol.org/ghg-protocol-cities) : fournit un cadre solide pour la comptabilisation et la déclaration des émissions de gaz à effet de serre à l'échelle de la ville &#x20;
-* [Le GHG Protocol Mitigation Goal Standard](https://ghgprotocol.org/sites/default/files/2022-12/Mitigation%20Goal%20Standard%20\(Fran%C3%A7ais\).pdf) : fournit des conseils pour l'élaboration d'objectifs d'atténuation nationaux et infranationaux, ainsi qu'une approche normalisée pour l'évaluation et la communication des progrès accomplis dans la réalisation des objectifs &#x20;
-* [Le GHG Protocol Policy and Action Standard](https://ghgprotocol.org/sites/default/files/2022-12/French%20-%20Policy%20and%20Action%20Standard_0.pdf) : fournit une approche normalisée pour l'estimation de l'effet de serre des politiques et des actions &#x20;
-* [Le GHG Protocol Project Quantification Standard ](https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf): guide (encore peu fourni mais en cours de développement) dont l’objectif est de quantifier les réductions de GES des projets d'atténuation. &#x20;
+* [The GHG Protocol Corporate Accounting and Reporting Standard](https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf): which helps companies to quantify and report their GHG emissions
+* [The GHG Protocol Corporate Value Chain (scope 3) Standard](https://ghgprotocol.org/corporate-value-chain-scope-3-standard): which enables companies to assess the impact of their emissions across the entire value chain and to determine the areas on which they should focus their reduction activities
+* [The GHG Protocol Product Standard](https://ghgprotocol.org/product-standard): can be used to understand the emissions from the complete lifecycle of a product and to focus efforts on the best GHG reduction opportunities
+* [The GHG Protocol for Community-Scale Greenhouse Gas Emission Inventories (GPC)](https://ghgprotocol.org/ghg-protocol-cities): provides a solid framework for accounting and reporting greenhouse gas emissions at city scale
+* [The GHG Protocol Mitigation Goal Standard](https://ghgprotocol.org/sites/default/files/2022-12/Mitigation%20Goal%20Standard%20\(Fran%C3%A7ais\).pdf): provides guidance for the development of national and subnational mitigation objectives, as well as a standardised approach for assessing and communicating progress towards objectives
+* [The GHG Protocol Policy and Action Standard](https://ghgprotocol.org/sites/default/files/2022-12/French%20-%20Policy%20and%20Action%20Standard_0.pdf): provides a standardised approach for estimating the greenhouse effect of policies and actions
+* [The GHG Protocol Project Quantification Standard](https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf): guide (still limited but under development) whose objective is to quantify GHG reductions from mitigation projects.
 
 </details>
 
-Le GHG Protocol développe ainsi des normes de calcul et de reporting internationalement reconnues afin de faciliter une évaluation précise des GES à diverses échelles (organisations, les territoires et les produits). &#x20;
+The GHG Protocol thus develops internationally recognised calculation and reporting standards in order to facilitate an accurate assessment of GHGs at various scales (organisations, territories and products).
 
-**La réalisation d'un GHG Protocol offre aux organisations plusieurs avantages :**  &#x20;
+**Carrying out a GHG Protocol offers organisations several advantages:**
 
-* Simplifier et réduire le coût de la comptabilité carbone  &#x20;
-* Démontrer la maturité des organisations à de potentiels investisseurs en matière de gestion environnementale et leur capacité à développer des stratégies efficaces pour la réduction des émissions de GES. &#x20;
-* Donner les informations facilitant la participation à des projets GES volontaires ou obligatoires  &#x20;
-* Améliorer l’harmonisation et la transparence de la comptabilité GES et du reporting GES &#x20;
+* Simplify and reduce the cost of carbon accounting
+* Demonstrate the maturity of organisations to potential investors in terms of environmental management and their capacity to develop effective strategies for reducing GHG emissions.
+* Provide information facilitating participation in voluntary or mandatory GHG projects
+* Improve harmonisation and transparency of GHG accounting and GHG reporting
 
-## **Quelle(s) est (sont)** la (les) cible(s) de la démarche ? 
+## **What is (are) the target(s) of the approach?**
 
-Bien que principalement conçu pour les entreprises, ce standard est également applicable aux ONGs, aux agences gouvernementales (locales, régionales et nationales), ainsi qu'aux universités, leur permettant ainsi de valoriser leurs initiatives de transition. Par exemple, les investisseurs peuvent y trouver un indicateur précieux de la préparation d’une organisation à faire face aux futures politiques climatiques grâce à une gestion rigoureuse des émissions de GES. &#x20;
+Although primarily designed for companies, this standard is also applicable to NGOs, government agencies (local, regional and national), as well as universities, thus enabling them to valorise their transition initiatives. For example, investors can find a valuable indicator of an organisation's readiness to face future climate policies through rigorous GHG emission management.
 
-Le GHG Protocol, reconnu et utilisé internationalement aujourd’hui, s'inscrit en complément d'autres initiatives. Il offre aux entreprises et organisations la possibilité de s'engager dans des programmes de déclaration des émissions de GES, qu'ils soient volontaires ou obligatoires, ainsi que dans des systèmes d’échange de quotas d’émissions de GES. En outre, **les décideurs et les concepteurs de programmes de gestion des émissions de GES peuvent intégrer les éléments pertinents de ce standard dans l’élaboration de leurs propres exigences en matière de comptabilité et de reporting**, comme l’a fait la CSRD en s’inspirant du GHG Protocol. &#x20;
+The GHG Protocol, recognised and used internationally today, complements other initiatives. It offers companies and organisations the possibility of engaging in GHG emission reporting programmes, whether voluntary or mandatory, as well as in GHG emission trading systems. Furthermore, **decision-makers and designers of GHG emission management programmes can integrate the relevant elements of this standard into the development of their own accounting and reporting requirements**, as the CSRD has done by drawing inspiration from the GHG Protocol.
 
-## **La démarche s’appuie-t-elle sur une base scientifique partagée ?**
+## **Does the approach draw on a shared scientific basis?**
 
-Le GHG Protocol se concentre uniquement sur la comptabilisation et la déclaration des sept gaz à effet de serre couverts par le protocole de Kyoto :&#x20;
+The GHG Protocol focuses solely on the accounting and reporting of the seven greenhouse gases covered by the Kyoto Protocol:
 
-1. le dioxyde de carbone (CO2)&#x20;
-2. le méthane (CH4)
-3. le protoxyde d’azote (N2O)
-4. les hydrofluorocarbures (HFC),&#x20;
-5. les perfluorocarbures (PFC)
-6. l'hexafluorure de soufre (SF6)
-7. le trifluorure d’azote (NF3).&#x20;
+1. carbon dioxide (CO2)
+2. methane (CH4)
+3. nitrous oxide (N2O)
+4. hydrofluorocarbons (HFC),
+5. perfluorocarbons (PFC)
+6. sulphur hexafluoride (SF6)
+7. nitrogen trifluoride (NF3).
 
 {% hint style="info" %}
-Toutefois, contrairement à d'autres méthodes de comptabilité de GES comme le Bilan Carbone®, le GHG Protocol ne prend pas en compte certains autres GES comme les chlorofluorocarbures (CFC) ou les trainées de condensation de vapeur d’eau des réacteurs des avions.
+However, unlike other GHG accounting methods such as the Bilan Carbone®, the GHG Protocol does not take into account certain other GHGs such as chlorofluorocarbons (CFCs) or the condensation vapour trails of aircraft reactors.
 {% endhint %}
 
-## **La démarche s’appuie-t-elle sur une méthodologie spécifique ?** 
+## **Does the approach draw on a specific methodology?**
 
-La méthode du GHG Protocol est très similaire à d'autres approches et sert souvent de modèle standard pour le reporting des émissions de GES : &#x20;
+The GHG Protocol method is very similar to other approaches and often serves as the standard model for GHG emission reporting:
 
-1. Périmètre organisationnel (part du capital & contrôle), périmètre opérationnel (scopes 1, 2 et 3), définition d’une année de référence... &#x20;
+1. Organisational boundary (equity share & control), operational boundary (scopes 1, 2 and 3), definition of a reference year...
 
 {% tabs %}
 {% tab title="Scope 1" %}
-Les émissions directes de GES proviennent de sources possédées ou contrôlées par l'entreprise. Les émissions issues de la combustion de la biomasse ainsi que les GES non couverts par le Protocole de Kyoto ne doivent pas être incluses dans le scope 1 mais rapportées séparément.  &#x20;
+Direct GHG emissions come from sources owned or controlled by the company. Emissions from biomass combustion as well as GHGs not covered by the Kyoto Protocol must not be included in scope 1 but reported separately.
 {% endtab %}
 
 {% tab title="Scope 2" %}
-Le scope 2 couvre les émissions de GES provenant de la génération de l'électricité et de l’énergie achetée et consommée par l'entreprise dans le périmètre de l’organisation.  
+Scope 2 covers GHG emissions from the generation of purchased electricity and energy consumed by the company within the organisation's boundary.
 
-La définition du scope 2 a été révisée pour exclure les émissions liées à l'électricité achetée pour la revente, désormais incluses dans le scope 3. Cela évite que deux ou plusieurs entreprises comptabilisent les mêmes émissions dans le même scope. 
+The definition of scope 2 has been revised to exclude emissions related to electricity purchased for resale, now included in scope 3. This prevents two or more companies from accounting for the same emissions within the same scope.
 {% endtab %}
 
 {% tab title="Scope 3" %}
-&#x20;Le scope 3 est une catégorie de reporting facultative qui permet de traiter toutes les autres émissions indirectes. Les émissions du scope 3 sont une conséquence des activités de l'entreprise, mais proviennent de sources qui ne sont ni possédées ni contrôlées par l'entreprise. Les émissions indirectes provenant d'activités en amont du fournisseur d'électricité d'une entreprise (par exemple, l'exploration, le forage, le brûlage à la torche, le transport) sont comptabilisées dans le scope 3. &#x20;
+Scope 3 is an optional reporting category that enables all other indirect emissions to be addressed. Scope 3 emissions are a consequence of the company's activities, but come from sources that are neither owned nor controlled by the company. Indirect emissions from activities upstream of a company's electricity supplier (for example, exploration, drilling, flaring, transportation) are accounted for in scope 3.
 {% endtab %}
 {% endtabs %}
 
-2. Calcul recommandé selon les guidelines du GIEC  &#x20;
-3. Management de la qualité de l’inventaire & incertitudes  &#x20;
-4. Calcul de réductions d’émissions &#x20;
-5. Conseils pour fixer un objectif de réduction. &#x20;
+2. Calculation recommended according to IPCC guidelines
+3. Inventory quality management & uncertainties
+4. Calculation of emission reductions
+5. Guidance for setting a reduction objective.
 
-**Deux approches pour la comptabilisation des émissions de GES sont possibles :**&#x20;
+**Two approaches for GHG emission accounting are possible:**
 
-* l’approche par la **part du capital**&#x20;
-* l'approche par le **contrôle** (peut être défini soit en termes financiers, soit en termes opérationnels)
+* the **equity share** approach
+* the **control** approach (can be defined either in financial or operational terms)
 
-**Il est important de noter que ces deux approches ne sont pas mutuellement exclusives, mais il est encouragé de faire la distinction dans le reporting.** Les investissements en immobilisations ne sont pris en compte par aucune des approches, car il est considéré que la société mère n'a ni influence significative ni contrôle financier sur ces entités (exclusion des coentreprises et des partenariats).  &#x20;
+**It is important to note that these two approaches are not mutually exclusive, but it is encouraged to make the distinction in reporting.** Fixed asset investments are not taken into account by either approach, as it is considered that the parent company has neither significant influence nor financial control over these entities (exclusion of joint ventures and partnerships).
 
-Les entreprises doivent sélectionner et justifier une année de référence avec des données d'émissions vérifiables. La plupart optent pour une seule année, mais une moyenne sur plusieurs années consécutives peut être utilisée pour atténuer les fluctuations atypiques, rendant ainsi les données plus représentatives. &#x20;
+Companies must select and justify a reference year with verifiable emission data. Most opt for a single year, but an average over several consecutive years can be used to mitigate atypical fluctuations, thus making the data more representative.
 
-**Il existe deux approches de base pour recueillir les données sur les émissions de GES des installations d'une entreprise :** &#x20;
+**There are two basic approaches to collecting GHG emission data from a company's installations:**
 
-1. **L’approche centralisée** : les installations individuelles rapportent les données d'activité/de consommation de carburant au niveau de l'entreprise, où les émissions de GES sont calculées. 
-2. **L’approche décentralisée :** les installations individuelles collectent les données d'activité/de consommation de carburant, calculent directement leurs émissions de GES en utilisant des méthodes approuvées, puis rapportent ces données au niveau de l'entreprise. &#x20;
+1. **The centralised approach**: individual installations report activity/fuel consumption data at company level, where GHG emissions are calculated.
+2. **The decentralised approach**: individual installations collect activity/fuel consumption data, directly calculate their GHG emissions using approved methods, then report this data at company level.
 
 {% hint style="info" %}
-L’édition révisée du GHG Protocol est le résultat d'un dialogue de deux ans entre plusieurs parties prenantes, visant à tirer parti de l'expérience acquise avec la première édition. Elle comprend des conseils supplémentaires, des études de cas, des annexes, et un nouveau chapitre sur la fixation des objectifs de réduction des GES. **La première édition reste largement pertinente, les modifications apportées n'affectent pas la plupart des inventaires de GES.** 
+The revised edition of the GHG Protocol is the result of a two-year dialogue among several stakeholders, aiming to build on the experience gained with the first edition. It includes additional guidance, case studies, appendices, and a new chapter on setting GHG reduction objectives. **The first edition remains largely relevant, as the changes made do not affect most GHG inventories.**
 {% endhint %}
 
-Le choix du périmètre de comptabilisation dépend des caractéristiques de l'entreprise, de l'objectif visé et des besoins des utilisateurs. Plusieurs facteurs doivent être pris en compte, tels que : &#x20;
+The choice of accounting boundary depends on the company's characteristics, the intended objective and the needs of users. Several factors must be taken into account, such as:
 
-* les structures organisationnelles : contrôle (opérationnel et financier), propriété, accords légaux, coentreprises... &#x20;
-* les limites opérationnelles : activités sur site et hors site, processus, services et impacts &#x20;
-* le contexte commercial : nature des activités, localisations géographiques, secteur(s) industriel(s), objectifs des informations et utilisateurs des informations &#x20;
+* organisational structures: control (operational and financial), ownership, legal agreements, joint ventures...
+* operational boundaries: on-site and off-site activities, processes, services and impacts
+* business context: nature of activities, geographical locations, industrial sector(s), information objectives and information users
 
- **Toutes les sources d'émissions pertinentes doivent être incluses dans le reporting pour qu'il soit complet.** Bien que l'idée d'un [seuil de matérialité](#user-content-fn-1)[^1] puisse sembler utile, elle n'est pas compatible avec le principe de complétude du GHG Protocol. Lorsque les émissions n'ont pas été estimées ou sont estimées à un niveau de qualité insuffisant, il est essentiel que cela soit clairement documenté et justifié. 
+**All relevant emission sources must be included in the reporting for it to be complete.** Although the idea of a [materiality threshold](#user-content-fn-1)[^1] may seem useful, it is not compatible with the completeness principle of the GHG Protocol. When emissions have not been estimated or are estimated at an insufficient quality level, it is essential that this is clearly documented and justified.
 
-Le GHG Protocol décrit **cinq principes comptables** qui établissent une norme implicite pour la représentation fidèle des émissions de GES d'une entreprise à travers ses efforts techniques, comptables et de déclaration. Un document d'orientation sur les évaluations de l'incertitude, ainsi qu'un outil de calcul de l'incertitude ont été développé. 
+The GHG Protocol describes **five accounting principles** that establish an implicit standard for the faithful representation of a company's GHG emissions through its technical, accounting and reporting efforts. A guidance document on uncertainty assessments, as well as an uncertainty calculation tool, have been developed.
 
-## **La démarche s’appuie-t-elle sur des outils ?**
+## **Does the approach draw on tools?**
 
-Des outils intersectoriels et spécifiques aux industries, développés en partenariat avec des groupes industriels comme l'Institut international de l'aluminium et le WBCSD, complètent le GHG Protocol pour améliorer la précision des données d'émissions. Simplifiés, ils sont accessibles au personnel non technique des entreprises. &#x20;
+Cross-sector and industry-specific tools, developed in partnership with industrial groups such as the International Aluminium Institute and the WBCSD, complement the GHG Protocol to improve the accuracy of emission data. Simplified, they are accessible to non-technical company personnel.
 
-Les directives pour chaque outil de calcul comprennent les sections suivantes : &#x20;
+The guidelines for each calculation tool include the following sections:
 
-* **Aperçu** : donne un aperçu de l'objectif et du contenu de l'outil, de la méthode de calcul utilisée et d'une description du processus. &#x20;
-* **Choix des données d'activité et des facteurs d'émission** : fournit des conseils de bonnes pratiques spécifiques au secteur et des références pour les facteurs d'émission par défaut. &#x20;
-* **Méthodes de calcul** : décrit différentes méthodes de calcul en fonction de la disponibilité des données d'activité spécifiques au site et des facteurs d'émission. &#x20;
-* **Contrôle de la qualité** : propose des conseils de bonnes pratiques. &#x20;
-* **Rapport interne et documentation** : offre des conseils sur la documentation interne pour soutenir les calculs des émissions. &#x20;
+* **Overview**: gives an overview of the tool's objective and content, the calculation method used and a description of the process.
+* **Selection of activity data and emission factors**: provides sector-specific best practice guidance and references for default emission factors.
+* **Calculation methods**: describes different calculation methods depending on the availability of site-specific activity data and emission factors.
+* **Quality control**: offers best practice guidance.
+* **Internal reporting and documentation**: provides guidance on internal documentation to support emission calculations.
 
-## **D'autres méthodes et outils de la transition bas carbone peuvent-ils être utilisés afin d’atteindre les objectifs de cette démarche ?**
+## **Can other low-carbon transition methods and tools be used to achieve the objectives of this approach?**
 
-Les étapes de la démarche sont :  &#x20;
+The steps of the approach are:
 
-* **Le périmètre** (qui comprend la délimitation opérationnelle, la description de la chaîne de valeur, la détermination des catégories pertinentes du scope 3) &#x20;
-* **La comptabilisation** (qui implique le calcul des émissions, notamment l'identification des sources d'émissions de GES, la collecte de facteurs d'émission et de données d'activité, l'application d'outils de calcul, ainsi que l'agrégation des données d'émissions de GES) &#x20;
-* **Le plan d'action** (proposition de mise en place d’objectifs, facultatif) : se référer au [GHG Protocol Mitigation Goal Standard](https://ghgprotocol.org/mitigation-goal-standard) &#x20;
-* **L’évaluation (facultatif)** : se référer au [GHG Protocol Policy and Action Standard](https://ghgprotocol.org/sites/default/files/2022-12/French%20-%20Policy%20and%20Action%20Standard_0.pdf) et au [GHG Protocol Project Quantification Standard ](https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf) &#x20;
+* **The boundary** (which includes operational boundary definition, description of the value chain, determination of relevant scope 3 categories)
+* **Accounting** (which involves calculating emissions, notably identifying GHG emission sources, collecting emission factors and activity data, applying calculation tools, as well as aggregating GHG emission data)
+* **The action plan** (proposal for setting objectives, optional): refer to the [GHG Protocol Mitigation Goal Standard](https://ghgprotocol.org/mitigation-goal-standard)
+* **Assessment (optional)**: refer to the [GHG Protocol Policy and Action Standard](https://ghgprotocol.org/sites/default/files/2022-12/French%20-%20Policy%20and%20Action%20Standard_0.pdf) and the [GHG Protocol Project Quantification Standard](https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf)
 
-**Les étapes de la définition des périmètres à comptabiliser, de la collecte et exploitation des données ainsi que celle du Plan d’action de réduction sont toutes traitées dans le cadre de la méthodologie Bilan Carbone®, qui est donc compatible avec celle du GHG Protocol.** A noter que le GHG Protocol se concentre sur les enjeux de reporting afin de renforcer la transparence sur la responsabilité des émissions de GES des organisations tandis que le Bilan Carbone® est une méthode de pilotage stratégique qui intègre les enjeux de vulnérabilité et de dépendance de celles-ci. **De plus, le GHG Protocol, au même titre que le Bilan Carbone® et l’ISO 14064-1, permet de lancer une démarche ACT® pour évaluer les stratégies énergie-climat.** &#x20;
+**The stages of defining the boundaries to be accounted for, collecting and analysing data as well as the reduction action plan are all addressed within the Bilan Carbone® methodology, which is therefore compatible with that of the GHG Protocol.** Note that the GHG Protocol focuses on reporting issues in order to enhance transparency on the responsibility for organisations' GHG emissions, while the Bilan Carbone® is a strategic steering method that integrates the vulnerability and dependence issues of organisations. **Furthermore, the GHG Protocol, in the same way as the Bilan Carbone® and ISO 14064-1, enables an ACT® approach to be launched to assess energy-climate strategies.**
 
-## **Permet-elle une reconnaissance tierce partie ? Si oui, de quelle manière ?**
+## **Does it allow for third-party recognition? If so, in what way?**
 
-**Une vérification indépendante ou interne est possible.** Les informations requises sont :  &#x20;
+**Independent or internal verification is possible.** The required information is:
 
-1. Activité de l’organisation et types d’émissions  &#x20;
-2. Informations générales  &#x20;
-3. Détails et justifications de tout changement des périmètres durant la période observée 
-4. Procédures d’identification des sources d’émissions
-5. Information sur le degré d’assurance dans les systèmes et les données  &#x20;
-6. Données utilisées pour l’inventaire  &#x20;
-7. Description de la méthode de calcul &#x20;
-8. Description du processus de recueil des informations  &#x20;
-9. Autres informations &#x20;
+1. Organisation's activity and types of emissions
+2. General information
+3. Details and justifications of any boundary changes during the observed period
+4. Procedures for identifying emission sources
+5. Information on the degree of assurance in systems and data
+6. Data used for the inventory
+7. Description of the calculation method
+8. Description of the information collection process
+9. Other information
 
-Les vérificateurs peuvent évaluer l'impact potentiel et la pertinence de l'exclusion de certaines sources démissions ou du manque de qualité du reporting global. 
+Verifiers can assess the potential impact and relevance of excluding certain emission sources or of insufficient overall reporting quality.
 
-## **Cette démarche peut-elle s'harmoniser avec d'autres référentiels internationaux ?** 
+## **Can this approach be harmonised with other international reference frameworks?**
 
 <details>
 
-<summary><strong>La norme GHG Protocol se veut neutre par rapport aux programmes et aux politiques, mais elle est largement utilisée et compatible avec de nombreux programmes de comptabilité de GES.</strong></summary>
+<summary><strong>The GHG Protocol standard aims to be neutral with respect to programmes and policies, but it is widely used and compatible with many GHG accounting programmes.</strong></summary>
 
-* Les programmes volontaires de réduction des GES (Climate Savers du WWF, Climate Leaders de l'EPA) &#x20;
-* Les registres de GES (California Climate Action Registry, World Economic Forum Global GHG Registry) &#x20;
-* Les initiatives industrielles nationales et régionales (New Zealand Business Council for Sustainable Development, AERES) &#x20;
-* Les programmes d'échange de quotas de GES (UK ETS, EU ETS) &#x20;
-* Les protocoles sectoriels développés par des associations industrielles (International Aluminum Institute, IPIECA) &#x20;
+* Voluntary GHG reduction programmes (WWF Climate Savers, EPA Climate Leaders)
+* GHG registries (California Climate Action Registry, World Economic Forum Global GHG Registry)
+* National and regional industry initiatives (New Zealand Business Council for Sustainable Development, AERES)
+* GHG emission trading programmes (UK ETS, EU ETS)
+* Sectoral protocols developed by industrial associations (International Aluminum Institute, IPIECA)
 
 </details>
 
-
-
-
-
 ***
 
-_Les fiches du_ [_Panorama des méthodes et outils de la comptabilité carbone_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _sont issues d'un travail de synthèse de l'ABC. Nous restons preneurs de vos retours ou questions sur ce_ [_formulaire_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
+_The sheets from the_ [_Overview of carbon accounting methods and tools_](./#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _are the result of a synthesis work by the ABC. We welcome your feedback or questions via this_ [_form_](https://fr.surveymonkey.com/r/RetoursUtilisateurs)_._
 
-[^1]: seuil minimal de comptabilisation des émissions stipulant qu'une source ne dépassant pas une certaine taille peut être omise
+[^1]: minimum accounting threshold for emissions stipulating that a source not exceeding a certain size may be omitted

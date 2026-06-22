@@ -1,22 +1,19 @@
 ---
 description: >-
-  Quelques sources d'inspiration et exemples pratiques de démarches Bilan
-  Carbone®.
+  Some sources of inspiration and practical examples of Bilan Carbone®
+  approaches.
 ---
 
-# Annexe 8 - Exemples réels de démarches Bilan Carbone®
+# Annex 8 - Real-World Examples of Bilan Carbone® Approaches
 
-## Exemples - Entreprise
+## Examples - Company
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une annexe sera prochainement rédigée pour fournir un exemple de mise en pratique de la méthode Bilan Carbone® pour une organisation de type Entreprise. Elle sera basée sur une entreprise réelle, qui aura participé à la phase d'expérimentation.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex will be drafted shortly to provide an example of how the Bilan Carbone® method is applied in practice for a company-type organisation. It will be based on a real company that participated in the experimental phase.</mark>
 
-## Exemples - Collectivité
+## Examples - Local Authority
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une annexe sera prochainement rédigée pour fournir un exemple de mise en pratique de la méthode Bilan Carbone® pour une organisation de type Collectivité. Elle sera basée sur une entreprise réelle, qui aura participé à la phase d'expérimentation.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex will be drafted shortly to provide an example of how the Bilan Carbone® method is applied in practice for a local authority-type organisation. It will be based on a real organisation that participated in the experimental phase.</mark>
 
-## Exemples - Association
+## Examples - Association
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Une annexe sera prochainement rédigée pour fournir un exemple de mise en pratique de la méthode Bilan Carbone® pour une organisation de type Association. Elle sera basée sur une entreprise réelle, qui aura participé à la phase d'expérimentation.</mark>
-
-
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex will be drafted shortly to provide an example of how the Bilan Carbone® method is applied in practice for an association-type organisation. It will be based on a real organisation that participated in the experimental phase.</mark>
