@@ -138,6 +138,8 @@ for rel_path in files:
         print(f"  → done")
         continue
 
+    fr_fm, fr_secs = parse_sections(new_fr)
+    old_fr_fm, _ = parse_sections(old_fr)
     changed = find_changed_sections(old_fr, new_fr)
 
     if changed is None:
@@ -147,12 +149,10 @@ for rel_path in files:
         print(f"  → done")
         continue
 
-    if not changed:
+    if not changed and fr_fm == old_fr_fm:
         print(f"[SKIP] {rel_path} — no changes detected")
         continue
 
-    fr_fm, fr_secs = parse_sections(new_fr)
-    old_fr_fm, _ = parse_sections(old_fr)
     en_content = en_path.read_text(encoding='utf-8')
     en_fm, en_secs = parse_sections(en_content)
 
