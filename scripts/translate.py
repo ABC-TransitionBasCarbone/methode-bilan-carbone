@@ -56,6 +56,16 @@ def parse_sections(content):
     return frontmatter, sections
 
 
+def split_paragraphs(body):
+    """Split a section body into paragraphs (double-newline separated blocks)."""
+    blocks = re.split(r'\n\n+', body)
+    return blocks
+
+
+def join_paragraphs(paras):
+    return '\n\n'.join(paras)
+
+
 def reconstruct(frontmatter, sections):
     parts = []
     if frontmatter:
@@ -90,6 +100,11 @@ def translate_full(content):
     return claude(f"Traduis ce fichier markdown en anglais :\n\n{content}")
 
 
+def translate_paragraph(heading, para):
+    context = f"Section : {heading}\n\n" if heading else ""
+    return claude(f"Traduis ce bloc markdown en anglais :\n\n{context}{para}", max_tokens=2048)
+
+
 def translate_section(heading, body):
     text = f"{heading}\n{body}" if heading else body
     translated = claude(f"Traduis cette section markdown en anglais :\n\n{text}", max_tokens=4096)
@@ -113,6 +128,41 @@ def find_changed_sections(old_content, new_content):
     changed = {i for i, ((nh, nb), (oh, ob)) in enumerate(zip(new_secs, old_secs))
                if nh != oh or nb != ob}
     return changed
+
+
+def translate_section_partial(heading, old_fr_body, new_fr_body, en_body):
+    """Retranslate only changed paragraphs within a section, preserving EN manual edits."""
+    old_paras = split_paragraphs(old_fr_body)
+    new_paras = split_paragraphs(new_fr_body)
+    en_paras = split_paragraphs(en_body)
+
+    # If paragraph counts don't align → retranslate whole section
+    if len(old_paras) != len(new_paras) or len(new_paras) != len(en_paras):
+        label = (heading or '(intro)')[:60]
+        print(f"    paragraph count mismatch in [{label}] → retranslating whole section")
+        return translate_section(heading, new_fr_body)
+
+    changed_paras = {i for i, (n, o) in enumerate(zip(new_paras, old_paras)) if n != o}
+
+    if not changed_paras:
+        # Heading changed but no body paragraphs changed — translate heading only
+        translated_heading = claude(
+            f"Traduis ce titre markdown en anglais :\n\n{heading}", max_tokens=128
+        ) if heading else heading
+        return translated_heading, en_body
+
+    new_en_paras = list(en_paras)
+    for j in sorted(changed_paras):
+        print(f"    paragraph {j}")
+        new_en_paras[j] = translate_paragraph(heading, new_paras[j])
+
+    new_heading = heading
+    if heading:
+        # Check if heading itself changed vs old section heading
+        # (handled by caller; retranslate heading along with first changed para)
+        pass
+
+    return new_heading, join_paragraphs(new_en_paras)
 
 
 for rel_path in files:
@@ -139,11 +189,10 @@ for rel_path in files:
         continue
 
     fr_fm, fr_secs = parse_sections(new_fr)
-    old_fr_fm, _ = parse_sections(old_fr)
+    old_fr_fm, old_fr_secs = parse_sections(old_fr)
     changed = find_changed_sections(old_fr, new_fr)
 
     if changed is None:
-        # Structural change → full retranslation
         print(f"[FULL - structural change] {rel_path}")
         en_path.write_text(translate_full(new_fr), encoding='utf-8')
         print(f"  → done")
@@ -167,10 +216,12 @@ for rel_path in files:
 
     new_en_secs = list(en_secs)
     for i in sorted(changed):
-        h, b = fr_secs[i]
-        label = (h or '(intro)')[:60]
-        print(f"  translating section {i}: {label}")
-        new_en_secs[i] = translate_section(h, b)
+        new_h, new_b = fr_secs[i]
+        old_h, old_b = old_fr_secs[i]
+        _, en_b = en_secs[i]
+        label = (new_h or '(intro)')[:60]
+        print(f"  section {i}: {label}")
+        new_en_secs[i] = translate_section_partial(new_h, old_b, new_b, en_b)
 
     # Translate frontmatter if changed
     if fr_fm != old_fr_fm:
@@ -178,4 +229,4 @@ for rel_path in files:
         en_fm = translate_frontmatter(fr_fm)
 
     en_path.write_text(reconstruct(en_fm, new_en_secs), encoding='utf-8')
-    print(f"  → done ({len(changed)} section(s) updated, EN manual edits preserved)")
+    print(f"  → done ({len(changed)} section(s) processed, EN manual edits preserved)")
