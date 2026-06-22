@@ -95,53 +95,39 @@ de l'Association pour la transition Bas Carbone (ABC) — méthode Bilan Carbone
 
 ## Étape 5 — Traduction initiale de toutes les pages existantes
 
-Avant de brancher l'automatisation, il faut traduire une première fois l'intégralité des pages FR déjà existantes. Cette étape se fait **en local**, une seule fois.
-
-### Prérequis
-
-- Python 3 installé
-- La librairie `anthropic` : `pip install anthropic`
-- Les deux repos clonés en local (ou un seul repo avec les deux branches)
+Avant de brancher l'automatisation, il faut traduire une première fois l'intégralité des pages FR déjà existantes. Cette étape se fait **en local, une seule fois**, via **Claude Code** directement dans le terminal — pas besoin de script ni de clé API à configurer.
 
 ### Procédure
 
-1. Cloner le repo et préparer les deux dossiers :
+1. Télécharger **Claude Code** : [claude.ai/code](https://claude.ai/code) et l'installer
+
+2. Cloner le repo en local :
    ```bash
-   git clone https://github.com/ABC-TransitionBasCarbone/[nom-du-repo].git fr
-   cd fr && git checkout main && cd ..
-   git clone https://github.com/ABC-TransitionBasCarbone/[nom-du-repo].git en
-   cd en && git checkout translated-en && cd ..
+   git clone https://github.com/ABC-TransitionBasCarbone/[nom-du-repo].git
+   cd [nom-du-repo]
    ```
 
-2. Définir la clé API (récupérée sur Claude Platform) :
+3. Ouvrir Claude Code dans le dossier du repo :
    ```bash
-   # Mac/Linux
-   export ANTHROPIC_API_KEY=sk-ant-...
-
-   # Windows (PowerShell)
-   $env:ANTHROPIC_API_KEY="sk-ant-..."
+   claude
    ```
 
-3. Lister tous les fichiers `.md` à traduire et les passer au script :
+4. Demander à Claude Code de traduire toutes les pages, par exemple :
+   > *"Traduis tous les fichiers .md du dossier en anglais, en suivant les mêmes règles que pour la méthode Bilan Carbone® (préserver la syntaxe GitBook, ne pas traduire Bilan Carbone®, GES → GHG sauf BEGES-r, etc.). Écris les fichiers traduits dans le dossier `en/` en conservant la même arborescence."*
+
+   Claude Code lira les fichiers FR et écrira directement les fichiers EN traduits.
+
+5. Vérifier quelques fichiers dans le dossier `en/` pour s'assurer que la traduction est correcte.
+
+6. Pousser le résultat sur `translated-en` :
    ```bash
-   FILES=$(cd fr && find . -name "*.md" | sed 's|^\./||' | tr '\n' ' ')
-   export FILES
-   python3 fr/scripts/translate.py
-   ```
-
-   > **Conseil** : sur un grand GitBook, la traduction peut prendre plusieurs minutes. Tu peux aussi demander à Claude Code ou Codex de générer une commande adaptée à ton système.
-
-4. Vérifier quelques fichiers dans le dossier `en/` pour s'assurer que la traduction est correcte.
-
-5. Pousser le résultat sur `translated-en` :
-   ```bash
-   cd en
+   git checkout translated-en
    git add -A
    git commit -m "Initial translation of all FR pages to EN"
    git push origin translated-en
    ```
 
-6. GitBook EN se synchronisera automatiquement depuis la branche `translated-en`.
+7. GitBook EN se synchronisera automatiquement depuis la branche `translated-en`.
 
 À partir de là, le workflow GitHub Actions prend le relais automatiquement pour toutes les modifications futures.
 
