@@ -70,7 +70,7 @@ def reconstruct(frontmatter, sections):
 
 def get_old_fr(rel_path):
     result = subprocess.run(
-        ['git', 'show', f'HEAD~1:fr/{rel_path}'],
+        ['git', 'show', f'HEAD~1:{rel_path}'],
         capture_output=True, text=True, encoding='utf-8', cwd='fr'
     )
     return result.stdout if result.returncode == 0 else None
