@@ -24,18 +24,12 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## ⚠️ Points de vigilance et recommandations à valider
 
 ### 1. Termes manquants couverts dans cette version
-Cette version couvre l'intégralité des ~80 termes du glossaire, y compris les termes organisationnels, process et réglementaires absents de la version précédente : Coordinateur.ice, Chef de projet d'évaluation, RACI, OCCF, Ombre Climatique, BEGES-R, RSO, Risques physiques, Risques de transition, Sensibilisation, Responsabilisation, Restitution, etc.
+Cette version couvre l'intégralité des ~80 termes du glossaire, y compris les termes organisationnels, process et réglementaires : Coordinateur.ice, Chef de projet d'évaluation, RACI, OCCF, Ombre Climatique, BEGES-R, RSO, Risques physiques, Risques de transition, Sensibilisation, Responsabilisation, Restitution, etc.
 
-### 2. "Triple comptabilité" → "triple bottom line accounting" : traduction correcte
-La version précédente signalait une erreur probable sur ce terme. Après vérification du glossaire BC (définition exacte : "trois dimensions principales : économique, environnementale et sociale"), la traduction **"triple bottom line accounting"** est bien correcte — il s'agit du concept d'Elkington. Ce point de vigilance est donc levé.
-
-### 3. "Significativité" : significance vs materiality
+### 2. "Significativité" : significance vs materiality
 Le document retient **"significance"** (terme ISO 14064-1). Dans le contexte CSRD/ESRS croissant, **"materiality"** est le terme dominant (double matérialité). Les deux coexistent selon le référentiel de destination : ISO → "significance", CSRD/GHG Protocol → "materiality". **À préciser selon le contexte d'usage lors de la traduction.**
 
-### 4. "Neutralité carbone" vs "net zero" : distinction à préciser
-"Carbon neutrality" peut s'entendre avec compensation des émissions résiduelles à 100 % à l'échelle d'une organisation ; "net zero" implique des réductions réelles profondes (~90 %), avec compensation uniquement en dernier recours. **À vérifier si la méthode BC distingue explicitement les deux selon les contextes d'usage.**
-
-### 5. "Responsabilisation" : absence de traduction EN consacrée
+### 3. "Responsabilisation" : absence de traduction EN consacrée
 Aucun terme EN dans les standards consultés ne capture exactement la dimension BC de "responsabilisation" (donner à chacun un rôle dans la démarche, passer à l'action). **"Empowerment"** est le plus proche mais reste imparfait. **À valider avec l'équipe : conserver "responsabilisation" en EN ou adopter une formulation proche ?**
 
 ---
