@@ -15,6 +15,27 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 
 ---
 
+## ⚠️ Points de vigilance et recommandations à valider
+
+### 1. Erreur probable : "Triple comptabilité" → "triple bottom line accounting"
+La traduction proposée est vraisemblablement incorrecte. "Triple bottom line" est le concept d'Elkington (planète / personnes / profit — années 1990), sans lien avec la méthode BC. Dans le BC, "triple comptabilité" désigne la comptabilisation à trois échelles : organisation, chaîne de valeur complète, territoire. Une traduction plus juste serait **"three-scale carbon accounting"** ou **"triple-scope accounting"** — mais ces termes ne sont pas consacrés dans les standards. **À valider avec l'équipe technique : quelle est la définition exacte de "triple comptabilité" dans la méthode, et existe-t-il un terme EN déjà utilisé par ABC ?**
+
+### 2. Termes du glossaire non couverts dans ce document
+Une vingtaine de termes n'ont pas encore été analysés, notamment :
+- **Rôles et gouvernance** : Coordinateur.ice, Chef de projet d'évaluation, Porteur, Equipe d'évaluation, Conseiller
+- **Outils et livrables BC** : OCCF, Plan Carbone Général (PCG), RACI, Livrables, Exports comptables, Matrice de collecte des données (partiellement couverte), Evaluation d'un bilan
+- **Concepts BC spécifiques** : Ombre Climatique, Responsabilisation, Restitution de la démarche, Référentiel, Compatibilité
+- **Risques climatiques** : Risques physiques, Risques et opportunités de transition
+- **Réglementation française** : Règlementation française (BEGES-R), RSO (Responsabilité Sociétale des Organisations)
+
+### 3. "Significativité" : significance vs materiality
+Le document retient **"significance"** (terme ISO 14064-1). Dans le contexte de la CSRD et des ESRS (qui montent en puissance pour les organisations soumises au reporting), le terme dominant est **"materiality"** (double matérialité). Les deux coexistent selon le référentiel de destination : ISO → "significance", CSRD/GHG Protocol → "materiality". **À noter explicitement dans la définition EN selon le contexte d'usage.**
+
+### 4. "Neutralité carbone" vs "net zero" : distinction à préciser
+Le document mentionne la distinction mais ne la détaille pas. En pratique : "carbon neutrality" peut s'entendre avec compensation à l'échelle organisation (y compris en compensant 100 % des émissions résiduelles) ; "net zero" implique des réductions réelles profondes (~90 %), les résidus étant compensés uniquement en dernier recours. L'ADEME et le Haut Conseil pour le Climat ont des positions précises là-dessus. **À vérifier si la méthode BC utilise l'un, l'autre, ou les deux avec des sens distincts.**
+
+---
+
 ## A
 
 ### Actions d'amélioration de la démarche
