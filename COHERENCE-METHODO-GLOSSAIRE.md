@@ -18,6 +18,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## A
 
 ### Actions d'amélioration de la démarche
+**Traduction EN de référence : "process improvement actions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Notion absente. ISO 14064 parle de « continual improvement » sans la décliner en catégories d'actions. |
@@ -25,15 +27,19 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Actions d'adaptation
+**Traduction EN de référence : "adaptation actions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. ISO 14064-1 porte sur la mitigation, pas l'adaptation. |
 | GHG Protocol | 🔵 | Absent. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme issu du cadre GIEC / Accord de Paris. « Adaptation actions » est le terme EN consacré dans ce contexte.
+> ℹ️ Terme issu du cadre GIEC / Accord de Paris.
 
 ### Action de mobilisation
+**Traduction EN de référence : "mobilisation action"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
@@ -43,6 +49,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 > ℹ️ Terme spécifique Bilan Carbone®. Pas d'équivalent direct EN dans les standards.
 
 ### Actions immédiates / prioritaires / stratégiques
+**Traduction EN de référence : "immediate / priority / strategic actions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. ISO 14064-1 ne classifie pas les actions du plan de transition. |
@@ -52,6 +60,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 > ℹ️ Typologies propres à la méthode Bilan Carbone®.
 
 ### Agence de l'Environnement et de la Maîtrise de l'Énergie (ADEME)
+**Traduction EN de référence : "ADEME" (sigle conservé)**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent — institution française. |
@@ -59,34 +69,44 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Analyse de Cycle de Vie (ACV)
+**Traduction EN de référence : "Life Cycle Assessment (LCA)"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Mentionnée en référence mais non définie — relève d'ISO 14040/44. |
 | GHG Protocol | ⚠️ | Mentionnée dans les guides sur la chaîne de valeur (Scope 3), non définie. |
-| EcoInvent | ✅ | EcoInvent est une base de données ACV — terme central. Traduction EN : **Life Cycle Assessment (LCA)**. |
+| EcoInvent | ✅ | EcoInvent est une base de données ACV — terme central. |
 
 ### Année de référence
+**Traduction EN de référence : "base year"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | Définie comme **"base year"** (§ 5.4). Définition identique. |
+| ISO 14064-1 | ✅ | **"Base year"** — défini en §5.4. Définition identique. |
 | GHG Protocol | ✅ | **"Base year"** — terme standard. |
 | EcoInvent | — | Non applicable. |
 
 ### Année de reporting
+**Traduction EN de référence : "reporting year"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"Reporting period"** ou **"reporting year"** — aligné. |
+| ISO 14064-1 | ✅ | **"Reporting period"** / **"reporting year"** — aligné. |
 | GHG Protocol | ✅ | **"Reporting year"** — terme standard. |
 | EcoInvent | — | Non applicable. |
 
 ### Association / Personne morale / Etablissement
+**Traduction EN de référence : "organization / legal entity / establishment"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ⚠️ | Couvert par la notion d'**"organization"** (§ 3.1). Les distinctions juridiques françaises (SIREN, SIRET) sont absentes. |
+| ISO 14064-1 | ⚠️ | Couvert par la notion d'**"organization"** (§3.1). Les distinctions juridiques françaises (SIREN, SIRET) sont absentes. |
 | GHG Protocol | ⚠️ | Idem — couvert par **"company"** ou **"organization"**. |
 | EcoInvent | — | Non applicable. |
 
 ### Autoévaluation
+**Traduction EN de référence : "self-assessment"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. L'évaluation dans ISO 14064 implique un tiers (third-party verification). |
@@ -94,6 +114,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Axes analytiques
+**Traduction EN de référence : "analytical dimensions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. Concept issu de la comptabilité analytique française. |
@@ -105,35 +127,43 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## B
 
 ### Bas Carbone
+**Traduction EN de référence : "low-carbon"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent dans le standard core. Notion proche de **"low-carbon"** dans les guides. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme issu du cadre Accord de Paris / SNBC. Traduction EN consacrée : **"low-carbon"**.
+> ℹ️ Terme issu du cadre Accord de Paris / SNBC.
 
 ### Base de données de facteurs d'émission
+**Traduction EN de référence : "emission factor database"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Mentionnée implicitement dans la sélection des FE. Pas de définition propre. |
 | GHG Protocol | ⚠️ | Mentionnée dans les guides techniques. Pas de définition normée. |
-| EcoInvent | ✅ | EcoInvent EST une base de données de FE — terme central. EN : **"emission factor database"**. |
+| EcoInvent | ✅ | EcoInvent EST une base de données de FE — terme central. |
 
 ### Budget carbone
+**Traduction EN de référence : "carbon budget"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent du standard core. Mentionné dans les guides sur les objectifs SBTi. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme issu des sciences du climat (GIEC). EN : **"carbon budget"**.
+> ℹ️ Terme issu des sciences du climat (GIEC).
 
 ---
 
 ## C
 
 ### Caractérisation
+**Traduction EN de référence : "characterization"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Le terme **"categorization"** est utilisé pour affecter les émissions à des catégories (directes/indirectes). La notion de "caractérisation" telle que définie dans le BC (opéré/non opéré, supporté/non supporté) est une adaptation. |
@@ -141,15 +171,19 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Catégorie d'émission
+**Traduction EN de référence : "emission category"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"GHG emission category"** — définie en §3.5. Deux catégories : directes et indirectes. |
 | GHG Protocol | ⚠️ | GHG Protocol utilise **"scope"** (1, 2, 3) plutôt que "catégorie". Concept similaire, terminologie différente. |
 | EcoInvent | — | Non applicable. |
 
-> ⚠️ **Point d'attention traduction** : ne pas traduire "catégorie d'émission" par "scope" — les deux notions coexistent mais ne se superposent pas parfaitement.
+> ⚠️ **Point d'attention** : ne pas traduire "catégorie d'émission" par "scope" — les deux notions coexistent mais ne se superposent pas parfaitement.
 
 ### CO2 équivalent (CO2eq)
+**Traduction EN de référence : "CO2 equivalent (CO2e)"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"CO2 equivalent (CO2e)"** — défini en §3.6. Définition identique. |
@@ -157,29 +191,37 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | Unité standard utilisée dans toutes les données EcoInvent. |
 
 ### Coconstruction
+**Traduction EN de référence : "co-construction"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme spécifique Bilan Carbone®. Pas d'équivalent EN consacré dans les standards. Proposition : **"co-construction"** ou **"participatory design"**.
+> ℹ️ Terme spécifique Bilan Carbone®. Pas d'équivalent EN consacré dans les standards.
 
 ### Compensation carbone
+**Traduction EN de référence : "carbon offset"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"GHG offset"** — défini dans ISO 14064-2 (projets). ISO 14069 utilise **"offset"**. |
-| GHG Protocol | ✅ | **"Carbon offset"** ou **"GHG offset"** — terme standard. |
+| ISO 14064-1 | ✅ | **"GHG offset"** — défini dans ISO 14064-2 (projets). |
+| GHG Protocol | ✅ | **"Carbon offset"** / **"GHG offset"** — terme standard. |
 | EcoInvent | — | Non applicable. |
 
 ### Comptabilisation
+**Traduction EN de référence : "carbon accounting"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ⚠️ | ISO utilise **"quantification"** (§5.5) pour le processus de mesure des émissions. "Comptabilisation" est plus large (collecte + exploitation). |
+| ISO 14064-1 | ⚠️ | ISO utilise **"quantification"** (§5.5) pour le processus de mesure. "Comptabilisation" est plus large (collecte + exploitation). |
 | GHG Protocol | ⚠️ | GHG Protocol parle d'**"accounting"** — plus proche du terme BC. |
 | EcoInvent | — | Non applicable. |
 
 ### Contrôle (Mode de)
+**Traduction EN de référence : "control approach"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Control approach"** — défini en §5.3 avec les deux variantes : **"operational control"** et **"financial control"**. Définitions identiques. |
@@ -191,6 +233,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## D
 
 ### Dispositif de suivi
+**Traduction EN de référence : "monitoring system"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | ISO 14064-1 mentionne le **"monitoring"** sans définir un outil spécifique. |
@@ -198,6 +242,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Donnée d'activité
+**Traduction EN de référence : "activity data"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Activity data"** — définie en §3.2 comme "quantitative measure of a level of activity that results in GHG emissions or removals". Définition identique. |
@@ -209,6 +255,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## E
 
 ### Ecart-type / Ecart-type géométrique
+**Traduction EN de référence : "standard deviation / geometric standard deviation"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Mentionnés dans le contexte de l'incertitude mais sans définition propre. |
@@ -216,6 +264,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | L'écart-type géométrique (**"geometric standard deviation"**) est explicitement utilisé dans la matrice Pedigree pour quantifier l'incertitude des données. |
 
 ### Echelle de comptabilité carbone
+**Traduction EN de référence : "carbon accounting scale"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. ISO 14064-1 se concentre sur l'échelle organisation. |
@@ -225,6 +275,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 > ℹ️ Concept pédagogique propre à la méthode Bilan Carbone®.
 
 ### Emissions directes de GES
+**Traduction EN de référence : "direct GHG emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Direct GHG emissions"** — défini en §3.10. Définition identique : émissions de sources appartenant à l'organisation ou sous son contrôle. |
@@ -234,6 +286,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 > ⚠️ **Point d'attention** : "émissions directes" ≠ "Scope 1" formellement, même si en pratique ils coïncident dans la plupart des cas.
 
 ### Emissions indirectes de GES
+**Traduction EN de référence : "indirect GHG emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Indirect GHG emissions"** — défini en §3.11. Définition identique. |
@@ -241,6 +295,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Emissions induites
+**Traduction EN de référence : "induced emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent en tant que terme. |
@@ -248,6 +304,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Emissions évitées
+**Traduction EN de référence : "avoided emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Mentionnées dans ISO 14069 mais non définies comme terme propre dans ISO 14064-1. |
@@ -255,20 +313,26 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Emissions significatives
+**Traduction EN de référence : "significant GHG emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"Significant GHG emissions"** — défini en §5.5. Aligné avec les critères de significativité. EN : **"significant GHG emissions"**. |
+| ISO 14064-1 | ✅ | **"Significant GHG emissions"** — défini en §5.5. Aligné avec les critères de significativité. |
 | GHG Protocol | ⚠️ | GHG Protocol parle de **"material emissions"** dans certains contextes. |
 | EcoInvent | — | Non applicable. |
 
 ### Emissions séquestrées / négatives
+**Traduction EN de référence : "GHG removals / negative emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"GHG removals"** — défini en §3.14. Terme EN : **"GHG removals"** ou **"negative emissions"**. |
+| ISO 14064-1 | ✅ | **"GHG removals"** — défini en §3.14. |
 | GHG Protocol | ✅ | **"GHG removals"** et **"negative emissions"** — termes utilisés. |
 | EcoInvent | — | Non applicable directement. |
 
 ### Emissions opérées / non opérées — Emissions supportées / non supportées
+**Traduction EN de référence : "operated / non-operated emissions — supported / non-supported emissions"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | ISO 14064-1 utilise les notions d'émissions "owned or controlled" pour les directes, mais ne nomme pas "opérées/supportées". Ces distinctions sont propres aux exports BEGES-R et BC. |
@@ -280,6 +344,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## F
 
 ### Facteur d'émission (FE)
+**Traduction EN de référence : "emission factor (EF)"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"GHG emission factor"** — défini en §3.12 : "factor relating activity data to GHG emissions or removals". Définition identique. |
@@ -287,19 +353,23 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | **"Emission factor"** — central dans la base de données. |
 
 ### Forçage radiatif
+**Traduction EN de référence : "radiative forcing"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Mentionné dans la définition du PRG mais non défini séparément. |
 | GHG Protocol | ⚠️ | Idem — mentionné en contexte. |
 | EcoInvent | — | Non applicable directement. |
 
-> ℹ️ Terme issu des sciences du climat (GIEC). EN : **"radiative forcing"** — terme universellement consacré.
+> ℹ️ Terme issu des sciences du climat (GIEC) — universellement consacré.
 
 ---
 
 ## G
 
 ### Gaz à effet de serre (GES)
+**Traduction EN de référence : "greenhouse gas (GHG)"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Greenhouse gas (GHG)"** — défini en §3.13. Définition alignée. |
@@ -307,6 +377,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | **"Greenhouse gas (GHG)"** — utilisé dans toutes les données. |
 
 ### Gouvernance
+**Traduction EN de référence : "governance"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | ISO 14064-1 n'utilise pas "governance" en tant que terme défini, mais mentionne les responsabilités organisationnelles. |
@@ -318,6 +390,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## H
 
 ### Horizon temporel
+**Traduction EN de référence : "time horizon"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent en tant que terme défini. |
@@ -325,9 +399,11 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Hydrofluorocarbures (HFC) / Perfluorocarbures (PFC)
+**Traduction EN de référence : "hydrofluorocarbons (HFCs) / perfluorocarbons (PFCs)"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | Listés comme GES du Protocole de Kyoto. EN : **"hydrofluorocarbons (HFCs)"** / **"perfluorocarbons (PFCs)"**. |
+| ISO 14064-1 | ✅ | Listés comme GES du Protocole de Kyoto. |
 | GHG Protocol | ✅ | Idem. |
 | EcoInvent | ✅ | Idem. |
 
@@ -336,6 +412,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## I
 
 ### Incertitude
+**Traduction EN de référence : "uncertainty"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Uncertainty"** — défini en §3.22 : "parameter associated with the result of quantification that characterizes the dispersion of values". Définition identique dans le glossaire BC. |
@@ -343,9 +421,11 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | **"Uncertainty"** — quantifiée via la matrice Pedigree et l'écart-type géométrique pour chaque donnée. |
 
 ### Intervalle de confiance
+**Traduction EN de référence : "confidence interval"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"Confidence interval"** — mentionné dans le contexte de l'incertitude. Définition alignée. |
+| ISO 14064-1 | ✅ | **"Confidence interval"** — mentionné dans le contexte de l'incertitude. |
 | GHG Protocol | ✅ | Idem. |
 | EcoInvent | ✅ | Idem. |
 
@@ -354,77 +434,93 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## L
 
 ### Loi normale / Loi log-normale
+**Traduction EN de référence : "normal distribution / lognormal distribution"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | Mentionnées implicitement dans les méthodes de calcul d'incertitude. |
 | GHG Protocol | ⚠️ | Idem — dans les guides techniques. |
-| EcoInvent | ✅ | La **loi log-normale** (**"lognormal distribution"**) est la distribution par défaut dans EcoInvent pour modéliser les incertitudes des FE. |
+| EcoInvent | ✅ | La loi log-normale (**"lognormal distribution"**) est la distribution par défaut dans EcoInvent pour modéliser les incertitudes des FE. |
 
 ---
 
 ## M
 
 ### Matrice de collecte des données
+**Traduction EN de référence : "data collection sheet"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | ISO 14064-1 requiert une documentation des données sans prescrire de format spécifique. Terme non défini. |
-| GHG Protocol | ⚠️ | Idem. Parfois appelé **"data collection sheet"** dans les guides. |
+| GHG Protocol | ⚠️ | Parfois appelé **"data collection sheet"** dans les guides. |
 | EcoInvent | — | Non applicable. |
 
 ### Mobilisation
+**Traduction EN de référence : "mobilisation"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme central et spécifique à la méthode Bilan Carbone®. Pas d'équivalent direct EN consacré. Proposition : **"stakeholder engagement"** pour la notion générale, mais "mobilisation" au sens BC est plus large.
+> ℹ️ Terme central et spécifique à la méthode Bilan Carbone®. "Stakeholder engagement" couvre la notion générale mais pas la dimension BC complète — on conserve "mobilisation".
 
 ---
 
 ## N
 
 ### Neutralité Carbone
+**Traduction EN de référence : "carbon neutrality"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. ISO 14064-1 ne traite pas de neutralité carbone. |
 | GHG Protocol | 🔵 | Absent du standard core. Traité dans des cadres annexes (Net-Zero Standard, SBTi). |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Concept issu de l'Accord de Paris. EN : **"carbon neutrality"** ou **"net zero"** selon le contexte. La méthode BC s'aligne sur l'avis ADEME (ne pas viser la neutralité arithmétique à l'échelle d'une organisation).
+> ℹ️ Concept issu de l'Accord de Paris. La méthode BC s'aligne sur l'avis ADEME (ne pas viser la neutralité arithmétique à l'échelle d'une organisation). À distinguer de "net zero" qui porte sur les émissions résiduelles compensées.
 
 ---
 
 ## O
 
 ### Organisation
+**Traduction EN de référence : "organization"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"Organization"** — défini en §3.17 : "company, corporation, firm, enterprise, authority or institution, or part or combination thereof, whether incorporated or not, public or private". Définition identique. |
-| GHG Protocol | ✅ | **"Company"** ou **"organization"** — terme standard. |
+| ISO 14064-1 | ✅ | **"Organization"** — défini en §3.17. Définition identique. |
+| GHG Protocol | ✅ | **"Company"** / **"organization"** — terme standard. |
 | EcoInvent | — | Non applicable directement. |
 
 ### Overshoot
+**Traduction EN de référence : "overshoot"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent du standard core. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme issu des sciences du climat. EN : **"overshoot"** — terme consacré, identique en français et en anglais.
+> ℹ️ Terme issu des sciences du climat — identique en français et en anglais.
 
 ---
 
 ## P
 
 ### Parties Prenantes
+**Traduction EN de référence : "stakeholders"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"Interested party"** ou **"stakeholder"** — utilisé sans définition formelle propre. |
+| ISO 14064-1 | ✅ | **"Interested party"** / **"stakeholder"** — utilisé sans définition formelle propre. |
 | GHG Protocol | ✅ | **"Stakeholder"** — terme standard. |
 | EcoInvent | — | Non applicable. |
 
 ### Périmètre organisationnel
+**Traduction EN de référence : "organizational boundary"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Organizational boundary"** — défini en §5.3. Définition alignée. |
@@ -432,6 +528,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Périmètre opérationnel
+**Traduction EN de référence : "operational boundary"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Operational boundary"** — défini en §5.5. Définition alignée. |
@@ -439,6 +537,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Périmètre de déclaration
+**Traduction EN de référence : "reporting boundary"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | **"Reporting boundary"** — mentionné mais non défini séparément de l'organizational boundary. |
@@ -446,6 +546,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Périmètre temporel
+**Traduction EN de référence : "reporting period"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Reporting period"** — implicite dans la définition de l'année de reporting. |
@@ -453,33 +555,41 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Pilier A / B / C
+**Traduction EN de référence : "Pillar A / B / C"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. Notion proche du cadre ACT (Accelerate Climate Transition). |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Framework propre à ABC / démarche Bilan Carbone®. EN : **"Pillar A/B/C"** — à conserver tel quel.
+> ℹ️ Framework propre à ABC / démarche Bilan Carbone® — à conserver tel quel.
 
 ### Plan de transition
+**Traduction EN de référence : "transition plan"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. ISO 14064-1 porte sur la comptabilisation, pas le plan d'action. |
 | GHG Protocol | 🔵 | Absent du standard core. Mentionné dans les guides SBTi. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ EN : **"transition plan"** — terme de plus en plus consacré (CSRD, TCFD). Définition source : ADEME.
+> ℹ️ Terme de plus en plus consacré (CSRD, TCFD).
 
 ### Poste d'émissions
+**Traduction EN de référence : "emission item"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | ISO utilise **"category"** (direct/indirect) et **"source"**. La notion de "poste" est propre à la nomenclature Bilan Carbone® (26 postes). |
 | GHG Protocol | ⚠️ | GHG Protocol utilise **"scope"** (1/2/3) et **"category"**. Pas d'équivalent direct des "postes BC". |
 | EcoInvent | — | Non applicable. |
 
-> ⚠️ **Point d'attention traduction** : "poste d'émissions" se traduit par **"emission item"** dans le contexte BC — ne pas confondre avec "scope" ou "category" qui ont des sens précis dans d'autres référentiels.
+> ⚠️ **Point d'attention** : "emission item" (BC) ≠ "scope" (GHG Protocol) ≠ "category" (ISO). Ne pas substituer.
 
 ### Pouvoir de Réchauffement Global (PRG)
+**Traduction EN de référence : "Global Warming Potential (GWP)"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Global Warming Potential (GWP)"** — défini en §3.15. Définition identique. |
@@ -487,24 +597,30 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | **"GWP"** — utilisé dans tous les calculs d'impact. |
 
 ### Profil d'émission GES
+**Traduction EN de référence : "GHG emissions profile"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | **"GHG inventory"** — terme le plus proche dans ISO 14064-1. "Profil" est une formulation propre au BC. |
-| GHG Protocol | ⚠️ | **"GHG inventory"** ou **"emissions profile"**. |
+| GHG Protocol | ⚠️ | **"GHG inventory"** ou **"emissions profile"** — les deux sont acceptables. |
 | EcoInvent | — | Non applicable. |
 
 ### Protocole de Kyoto
+**Traduction EN de référence : "Kyoto Protocol"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | Référencé pour la liste des GES. EN : **"Kyoto Protocol"**. |
+| ISO 14064-1 | ✅ | Référencé pour la liste des GES. |
 | GHG Protocol | ✅ | Idem. |
 | EcoInvent | ✅ | Idem. |
 
 ### Puit de GES
+**Traduction EN de référence : "GHG sink"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"GHG sink"** — défini en §3.19. Définition identique. |
-| GHG Protocol | ✅ | **"Carbon sink"** ou **"GHG sink"**. |
+| GHG Protocol | ✅ | **"Carbon sink"** / **"GHG sink"**. |
 | EcoInvent | — | Non applicable directement. |
 
 ---
@@ -512,24 +628,30 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## R
 
 ### Ratios monétaires
+**Traduction EN de référence : "spend-based emission factors"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | ISO 14064-1 permet les FE en unités monétaires sans les nommer "ratios monétaires". |
 | GHG Protocol | ⚠️ | Les **"spend-based emission factors"** (kgCO2e/€ dépensé) sont mentionnés dans les guides Scope 3 — concept identique, terminologie différente. |
 | EcoInvent | — | Non applicable. |
 
-> ⚠️ **Recommandation** : utiliser **"spend-based emission factors"** (GHG Protocol) dans les traductions EN plutôt que "monetary ratios" qui n't est pas consacré.
+> ⚠️ Préférer "spend-based emission factors" (GHG Protocol) dans les traductions EN — "monetary ratios" n'est pas consacré.
 
 ### Significativité
+**Traduction EN de référence : "significance"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
-| ISO 14064-1 | ✅ | **"Significance"** ou **"materiality"** — les critères de significativité sont définis en §5.5.2. Le terme ISO est **"significant GHG emission source"**. Définition alignée. |
+| ISO 14064-1 | ✅ | **"Significance"** — les critères de significativité sont définis en §5.5.2. Définition alignée. |
 | GHG Protocol | ✅ | **"Materiality"** — principe fondamental. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ EN : **"significance"** (ISO) ou **"materiality"** (GHG Protocol). Le glossaire BC utilise le terme ISO.
+> ℹ️ "Significance" (ISO) ou "materiality" (GHG Protocol). On retient "significance" pour l'alignement ISO.
 
 ### Source de GES / Source d'émission
+**Traduction EN de référence : "GHG source / emission source"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"GHG source"** — défini en §3.20 : "physical unit or process that releases a GHG into the atmosphere". Définition identique. |
@@ -537,15 +659,19 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | ✅ | **"Emission source"** — terme central. |
 
 ### Stratégie bas carbone / Stratégie de transition
+**Traduction EN de référence : "low-carbon strategy / transition strategy"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. ISO 14064-1 ne traite pas de stratégie. |
 | GHG Protocol | 🔵 | Absent du standard core. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ EN : **"low-carbon strategy"** ou **"transition strategy"** — termes de plus en plus consacrés (TCFD, CSRD).
+> ℹ️ Termes de plus en plus consacrés (TCFD, CSRD).
 
 ### Suppression de GES
+**Traduction EN de référence : "GHG removal"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"GHG removal"** — défini en §3.14. Définition identique. |
@@ -557,35 +683,43 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 ## T
 
 ### Traînées de condensation
+**Traduction EN de référence : "contrails"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
-| GHG Protocol | ⚠️ | Mentionnées dans les guides Scope 3 (déplacements aériens). EN : **"contrails"**. |
+| GHG Protocol | ⚠️ | Mentionnées dans les guides Scope 3 (déplacements aériens). |
 | EcoInvent | ✅ | Facteurs d'émission spécifiques aux contrails disponibles dans EcoInvent. |
 
 ### Trajectoire de transition
+**Traduction EN de référence : "transition pathway"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent du standard core. Traité dans les guides SBTi / Net-Zero Standard. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ EN : **"transition pathway"** (top-down) / **"decarbonization pathway"** — termes consacrés dans le contexte GIEC/SBTi.
+> ℹ️ "Transition pathway" (top-down) ou "decarbonization pathway" — termes consacrés dans le contexte GIEC/SBTi.
 
 ### Triple comptabilité
+**Traduction EN de référence : "triple bottom line accounting"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Concept issu de la comptabilité élargie (triple bottom line). EN : **"triple bottom line accounting"** ou **"integrated accounting"**.
+> ℹ️ Concept issu de la comptabilité élargie.
 
 ---
 
 ## V
 
 ### Validation
+**Traduction EN de référence : "validation"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Validation"** — défini dans ISO 14064-3 et ISO 17029. Définition alignée : évaluation des effets futurs. |
@@ -593,6 +727,8 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Vérification
+**Traduction EN de référence : "verification"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ✅ | **"Verification"** — défini dans ISO 14064-3 et ISO 17029. Définition alignée : évaluation des effets passés. |
@@ -600,22 +736,24 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | EcoInvent | — | Non applicable. |
 
 ### Vision de transition
+**Traduction EN de référence : "transition vision"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme propre à la méthode Bilan Carbone®. EN : **"transition vision"**.
-
 ### Vulnérabilité / Vulnérabilité Climatique
+**Traduction EN de référence : "climate vulnerability"**
+
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent — porte sur la mitigation, pas l'adaptation. |
 | GHG Protocol | 🔵 | Absent du standard core. |
 | EcoInvent | — | Non applicable. |
 
-> ℹ️ Terme issu des sciences du climat (GIEC AR6). EN : **"climate vulnerability"** — terme consacré.
+> ℹ️ Terme issu des sciences du climat (GIEC AR6).
 
 ---
 
@@ -628,16 +766,16 @@ Ce document analyse chaque terme du glossaire (`annexes/glossaire.md`) au regard
 | ✅ Alignés ISO 14064-1 | ~20 | Donnée d'activité, FE, PRG, Organisation, Incertitude, Vérification... |
 | ✅ Alignés GHG Protocol | ~18 | Idem + Scope (indirectement), Materiality... |
 | ⚠️ Partiellement alignés | ~15 | Catégorie d'émission, Poste d'émissions, Compensation, Profil GES... |
-| 🔵 Spécifiques Bilan Carbone® | ~30 | Mobilisation, Piliers A/B/C, Postes d'émissions, Coordinateur, Restitution... |
+| 🔵 Spécifiques Bilan Carbone® | ~30 | Mobilisation, Piliers A/B/C, Poste d'émissions, Coordinateur, Restitution... |
 
 ### Points d'attention pour la traduction EN
 
 1. **"Poste d'émissions"** → **"emission item"** (BC) ≠ "scope" (GHG Protocol) ≠ "category" (ISO)
 2. **"Comptabilisation"** → **"carbon accounting"** (GHG Protocol) plutôt que "quantification" (ISO)
 3. **"Ratios monétaires"** → **"spend-based emission factors"** (GHG Protocol) est plus reconnu internationalement
-4. **"Profil d'émission"** → **"GHG inventory"** ou **"emissions profile"** — les deux sont acceptables
-5. **"Catégorie d'émission"** → garder **"emission category"** (ISO), ne pas traduire par "scope"
-6. **"Mobilisation"** → **"stakeholder engagement"** pour la notion générale, mais "mobilisation" couvre plus que ça dans le BC
+4. **"Catégorie d'émission"** → garder **"emission category"** (ISO), ne pas traduire par "scope"
+5. **"Mobilisation"** → conserver **"mobilisation"** — "stakeholder engagement" ne couvre pas la dimension BC
+6. **"Neutralité carbone"** → **"carbon neutrality"** — à distinguer de "net zero"
 
 ---
 
