@@ -96,7 +96,7 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 * L: Spend-based emission factors&#x20;
   * L3: The share of emissions resulting from a calculation using specific and non-specific spend-based emission factors is reported. The use of non-specific Spend-based emission factors is justified, or even excluded. The organisation has developed specific emission factors for key emission categories.
 * M: Uncertainties&#x20;
-  * M3: The organisation must qualify and quantify the uncertainties for all direct GHG emissions and significant indirect emissions of the Bilan Carbone®. The organisation determines the uncertainty of activity data and emission factors according to 5 characteristics (technical, geographical, temporal representativeness, completeness, and reliability).
+  * M3: The organisation must qualify and quantify the uncertainties for all direct GHG emissions and significant indirect emissions of the Bilan Carbone®. The organisation determines the uncertainty of activity data and emission factors according to 5 characteristics (technical, geographical, and temporal correlation, completeness, and reliability).
 * N: Emission profile
   * N3: The emission profile is presented at a minimum according to the Bilan Carbone® nomenclature.
 {% endtab %}
