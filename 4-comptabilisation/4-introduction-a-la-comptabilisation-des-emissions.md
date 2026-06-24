@@ -1,4 +1,4 @@
----
+﻿---
 description: >-
   Introduction to the accounting stage 4: definitions, governance, requirements
   and deliverables.
@@ -35,7 +35,7 @@ These calculation components are documented and retained by the organisation.
 All terms relating to the accounting stages are explained in the [glossary](../annexes/glossaire.md). They are recalled below:
 
 * Activity data: Quantitative measure of a given activity that gives rise to the emission or removal of GHGs. Activity data (AD) may be real (physical or financial), extrapolated, statistical or approximate.
-* Emission factor: Coefficient relating activity data to GHG emissions. An emission factor (EF) may come from databases, be developed by the organisation, or be a coefficient expressed as "monetary ratios" (specific or non-specific).
+* Emission factor: Coefficient relating activity data to GHG emissions. An emission factor (EF) may come from databases, be developed by the organisation, or be a coefficient expressed as "Spend-based emission factors" (specific or non-specific).
 * Uncertainty: Parameter associated with the result of a quantification that characterises the dispersion of values that can reasonably be attributed to the quantity being quantified.
 * Data collection matrix: A summary of all the activity data and emission factors used during the accounting process, serving as documentation for the organisation (sources, assumptions, uncertainties, value and unit).
 *   Emission profile: Aggregation of the results of quantified GHG emissions, for all emission sources included within the [perimeters](4-introduction-a-la-comptabilisation-des-emissions.md#p) of the organisation.
@@ -67,8 +67,8 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 
 * K: Data collection methods&#x20;
   * K1: All activity data collection methods are accepted.&#x20;
-* L: Monetary ratios&#x20;
-  * L1: The share of emissions calculated using monetary ratio emission factors (specific and non-specific) is reported. The use of non-specific monetary ratios is justified.
+* L: Spend-based emission factors&#x20;
+  * L1: The share of emissions calculated using spend-based emission factors (specific and non-specific) is reported. The use of non-specific Spend-based emission factors is justified.
 * M: Uncertainties
   * M1: The organisation must qualify and quantify the uncertainties for all direct GHG emissions and significant indirect emissions of the Bilan Carbone®. The organisation determines the uncertainty by assigning a score to each relevant activity data point and emission factor.
 * N: Emission profile
@@ -80,8 +80,8 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 
 * K: Data collection methods&#x20;
   * K2: Statistical data, extrapolated data and approximate data are framed, justified, and their use is limited.&#x20;
-* L: Monetary ratios&#x20;
-  * L2: The share of emissions calculated using monetary ratio emission factors (specific and non-specific) is reported. The use of non-specific monetary ratios is very tightly controlled and justified.
+* L: Spend-based emission factors&#x20;
+  * L2: The share of emissions calculated using spend-based emission factors (specific and non-specific) is reported. The use of non-specific Spend-based emission factors is very tightly controlled and justified.
 * M: Uncertainties
   * M2: The organisation must qualify and quantify the uncertainties for all direct GHG emissions and significant indirect emissions of the Bilan Carbone®. The organisation determines the uncertainty by assigning a score to each relevant activity data point and emission factor.
 * N: Emission profile
@@ -93,8 +93,8 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 
 * K: Data collection methods&#x20;
   * K3: Statistical data, extrapolated data and approximate data are framed, justified, and their use is limited.
-* L: Monetary ratios&#x20;
-  * L3: The share of emissions resulting from a calculation using specific and non-specific monetary ratio emission factors is reported. The use of non-specific monetary ratios is justified, or even excluded. The organisation has developed specific emission factors for key emission categories.
+* L: Spend-based emission factors&#x20;
+  * L3: The share of emissions resulting from a calculation using specific and non-specific spend-based emission factors is reported. The use of non-specific Spend-based emission factors is justified, or even excluded. The organisation has developed specific emission factors for key emission categories.
 * M: Uncertainties&#x20;
   * M3: The organisation must qualify and quantify the uncertainties for all direct GHG emissions and significant indirect emissions of the Bilan Carbone®. The organisation determines the uncertainty of activity data and emission factors according to 5 characteristics (technical, geographical, temporal representativeness, completeness, and reliability).
 * N: Emission profile
@@ -108,9 +108,9 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 
 The information and deliverables obtained at the end of stage 4, and associated with the above requirements, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:&#x20;
 
-* [x] The [data collection matrix](4.2-methode-de-collecte-des-donnees-dactivite.md#matrice-de-collecte-des-donnees) (summary of data collected as well as a description of the data collection process followed; documentation of the emission factors used, and of the monetary ratio emission factors (specific and non-specific) as well as their sources);
+* [x] The [data collection matrix](4.2-methode-de-collecte-des-donnees-dactivite.md#matrice-de-collecte-des-donnees) (summary of data collected as well as a description of the data collection process followed; documentation of the emission factors used, and of the spend-based emission factors (specific and non-specific) as well as their sources);
 * [x] The uncertainties associated with the organisation's emission profile;
-* [x] The monetary ratio usage rate (specific and non-specific) associated with the organisation's emission profile;
+* [x] The Spend-based emission factor usage rate (specific and non-specific) associated with the organisation's emission profile;
 * [x] The organisation's emission profile, listing emissions in tCO2e.
 
 

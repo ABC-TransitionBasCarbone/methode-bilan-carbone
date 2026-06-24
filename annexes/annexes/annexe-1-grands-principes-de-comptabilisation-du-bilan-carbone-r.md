@@ -1,4 +1,4 @@
----
+﻿---
 description: >-
   What are the fundamental accounting principles to be respected by the Bilan
   Carbone®?
@@ -84,7 +84,7 @@ This category covers:
 
 * [x] Emissions linked to the various flows of goods and materials entering the organisation. It is divided into different sub-categories each covering a category of materials
 * [x] In order to be able to apply transition plan actions to packaging, a sub-category is dedicated to the material intended for this packaging
-* [x] A sub-category is also dedicated to materials for which emission factors in monetary ratios are used
+* [x] A sub-category is also dedicated to materials for which emission factors in Spend-based emission factors are used
 
 This category covers all flows of goods and materials entering the organisation, whether to be consumed on site (and potentially found in its [Waste](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#direct-waste)), or to be incorporated into the organisation's production. The only goods that must not be taken into account in this category are those that will be included in the [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) category.
 
@@ -103,11 +103,11 @@ The consumption of meals by the organisation's employees during the period of ac
 
 Goods and materials must be accounted for, whether purchased, rented or received as donations. In the particular case where inputs are recovered by the organisation when they were not intended for any use (expired foodstuffs, clothing, etc.), and provided the organisation can justify this, the organisation will not take into account the GHG emissions associated with the production of these inputs. However, the GHG emissions associated with the rest of the supply chain (distribution in particular) must always be taken into account. Note that for the reuse of capitalised goods, refer to the "[Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets)" category (digital, buildings, vehicles, machines, furniture, etc.).
 
-Regarding the sub-category "Goods and materials by monetary approach", if the organisation uses monetary ratios, it may correct these monetary ratios based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
+Regarding the sub-category "Goods and materials by monetary approach", if the organisation uses Spend-based emission factors, it may correct these Spend-based emission factors based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
 
 The sub-category "Material intended for packaging" of products sold or distributed makes it possible to visualise the overall contribution of "waste by destination" that these packaging items represent, even though they are not thrown away directly by the entity that puts them into circulation. The emissions taken into account in this sub-category are linked to the production of plastics, paper, metals, etc. necessary for the production of the packaging. The emissions linked to the [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) of this packaging (which will occur almost immediately after it is put into circulation) are considered in the relevant category. These individualised sub-categories can be [aggregated](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging).
 
-It is rare that this "Inputs: goods and materials" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. In the absence of real, physical or personalised information, a sub-category is nevertheless dedicated to materials for which emission factors in monetary ratios are used. All the [limits referred to in the Bilan Carbone® method](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) apply to this sub-category.
+It is rare that this "Inputs: goods and materials" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. In the absence of real, physical or personalised information, a sub-category is nevertheless dedicated to materials for which emission factors in Spend-based emission factors are used. All the [limits referred to in the Bilan Carbone® method](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) apply to this sub-category.
 
 ## Inputs: Services
 
@@ -115,7 +115,7 @@ This category covers:
 
 * [x] Emissions linked to the various services received by the organisation
 * [x] Emissions linked to the digital services and uses of the organisation
-* [x] Emissions linked to the various services received by the organisation, accounted for via emission factors in monetary ratios
+* [x] Emissions linked to the various services received by the organisation, accounted for via emission factors in Spend-based emission factors
 
 Tertiary services (excluding transport) consumed by the organisation may for example include:
 
@@ -129,11 +129,11 @@ Tertiary services (excluding transport) consumed by the organisation may for exa
 
 Regarding digital, this category covers the organisation's "digital uses" that involve an indirect impact (external servers, data processing and storage, data transport over networks, etc.). Other digital impacts are covered by [different sub-categories](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#digital).
 
-If the organisation uses monetary ratios, it may correct these monetary ratios based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
+If the organisation uses Spend-based emission factors, it may correct these Spend-based emission factors based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
 
-It is rare that this "Inputs: services" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. The use of the supplier's Bilan Carbone® Organisation is allocated pro rata to the organisation's expenditure and the supplier's turnover (turnover is representative if the supplier's activity is homogeneous). It thus makes it possible to build a so-called "[specific](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires)" monetary ratio.
+It is rare that this "Inputs: services" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. The use of the supplier's Bilan Carbone® Organisation is allocated pro rata to the organisation's expenditure and the supplier's turnover (turnover is representative if the supplier's activity is homogeneous). It thus makes it possible to build a so-called "[specific](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires)" Spend-based emission factor.
 
-In the absence of real, physical or personalised information, a sub-category is nevertheless dedicated to materials for which emission factors in monetary ratios are used. All the [limits referred to in the Bilan Carbone® method](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) apply to this sub-category.
+In the absence of real, physical or personalised information, a sub-category is nevertheless dedicated to materials for which emission factors in Spend-based emission factors are used. All the [limits referred to in the Bilan Carbone® method](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires) apply to this sub-category.
 
 ## Freight
 
@@ -366,7 +366,7 @@ In tools, it may be relevant to differentiate these 2 uses: either to better ste
 
 ### Inflation
 
-If the organisation uses monetary ratios, it may correct these monetary ratios based on the inflation that applies to its purchases or rental of goods and services.
+If the organisation uses Spend-based emission factors, it may correct these Spend-based emission factors based on the inflation that applies to its purchases or rental of goods and services.
 
 If the organisation is able to calculate the specific inflation rate undergone by the product or service concerned between the date of creation of the EF and the date of carrying out the assessment, it must use this calculated inflation rate. For example, an organisation that uses the same service provider for its advertising campaigns every year, and that observes an inflation of 10% on the rates of this service provider (for the same service) between the year of creation of the EF and the current year should correct the EF by these 10% of inflation.
 

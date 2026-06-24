@@ -1,4 +1,4 @@
----
+﻿---
 description: Which emission factor databases can be used?
 ---
 
@@ -6,7 +6,7 @@ description: Which emission factor databases can be used?
 
 Many emission factors already exist and are made available in the form of emission factor databases. The most reliable databases, which are commonly used during Bilan Carbone® approaches, are listed here.
 
-The [Base Empreinte®](https://base-empreinte.ademe.fr/) is a public emission factor database developed by [ADEME](../glossaire.md#ademe), bringing together emission factors that are relevant for the French territory. Resulting from the merger of the former Base Carbone® and Base Impact®, it is the database to be prioritised in the majority of cases. This database provides quality indicators for some of its EFs. An account is required to access it, however the entire database is free. The documentation associated with the database is available directly on it. The Base Empreinte® notably offers monetary ratios by sector of activity, and therefore non-specific to an actor or market.
+The [Base Empreinte®](https://base-empreinte.ademe.fr/) is a public emission factor database developed by [ADEME](../glossaire.md#ademe), bringing together emission factors that are relevant for the French territory. Resulting from the merger of the former Base Carbone® and Base Impact®, it is the database to be prioritised in the majority of cases. This database provides quality indicators for some of its EFs. An account is required to access it, however the entire database is free. The documentation associated with the database is available directly on it. The Base Empreinte® notably offers Spend-based emission factors by sector of activity, and therefore non-specific to an actor or market.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Figure xx. Typical presentation of an EF on the Base Empreinte®. Depending on their plan for uncertainties, include an EF with an uncertainty in % as well.</p></figcaption></figure>
 
@@ -47,6 +47,6 @@ The [sectoral guides](https://bilans-ges.ademe.fr/ressources/approches-sectoriel
 * Sports federations
 * Agricultural and Agri-food
 
-The EXIOBASE database is an international database that consolidates macro-economic data and environmental impacts, by region and by sector. It notably offers more numerous and more recent monetary ratios than the monetary ratios of the Base Empreinte®.
+The EXIOBASE database is an international database that consolidates macro-economic data and environmental impacts, by region and by sector. It notably offers more numerous and more recent Spend-based emission factors than the Spend-based emission factors of the Base Empreinte®.
 
 

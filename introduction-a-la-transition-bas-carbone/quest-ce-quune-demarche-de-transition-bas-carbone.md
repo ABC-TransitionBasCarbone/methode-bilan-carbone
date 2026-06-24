@@ -1,4 +1,4 @@
----
+﻿---
 description: Roles and definitions of the low-carbon transition.
 ---
 
@@ -21,7 +21,7 @@ These actions can follow two complementary approaches: **mitigation** (limiting 
 
 In conclusion, **the carbon indicator** thus accounted for is an activity indicator that enables:&#x20;
 
-* **Internal decision-making**: in order to "count in order to act" (identify priorities, know where and how to act). It serves the management of GHG emissions and the monitoring of actions. The carbon indicator is then part of a [triple accounting](../annexes/glossaire.md) approach that aims to couple the economic, social and environmental performance of the organisation.
+* **Internal decision-making**: in order to "count in order to act" (identify priorities, know where and how to act). It serves the management of GHG emissions and the monitoring of actions. The carbon indicator is then part of a [Triple bottom line (TBL or 3BL)](../annexes/glossaire.md) approach that aims to couple the economic, social and environmental performance of the organisation.
 * **External publication**: for regulatory or voluntary _reporting_, as well as to transparently demonstrate its actions and commitments to its stakeholders.
 
 Note that carbon accounting is not a measurement but a calculation. It is not rigorously scientific but "science-based". It is an inherently uncertain assessment, but sufficient to **take action and reduce GHG emissions**.

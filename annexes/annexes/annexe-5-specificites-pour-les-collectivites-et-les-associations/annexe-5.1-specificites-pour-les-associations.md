@@ -1,4 +1,4 @@
----
+﻿---
 description: >-
   What are the specific features of the Bilan Carbone® for an association-type
   organisation?
@@ -238,13 +238,13 @@ The Bilan Carbone® method does not aim to specify particular calculations or co
 
 <details>
 
-<summary>Monetary ratios: criterion L1</summary>
+<summary>Spend-based emission factors: criterion L1</summary>
 
-:information\_source: Criterion L1: The share of emissions calculated via emission factors in monetary ratios (specific and non-specific) is reported. The use of non-specific monetary ratios is justified. [More details here.](../../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#exigences-relatives-a-la-selection-des-facteurs-demission)
+:information\_source: Criterion L1: The share of emissions calculated via emission factors in Spend-based emission factors (specific and non-specific) is reported. The use of non-specific Spend-based emission factors is justified. [More details here.](../../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#exigences-relatives-a-la-selection-des-facteurs-demission)
 
 **Specificities and recommended adaptations for an association:**
 
-The requirements of criterion L1 apply to associations in the same way as for other organisations, without specific adaptation. The association must be aware of the [limitations of monetary ratios](https://www.bilancarbone-methode.com/4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission#fe-en-ratios-monetaires).
+The requirements of criterion L1 apply to associations in the same way as for other organisations, without specific adaptation. The association must be aware of the [limitations of Spend-based emission factors](https://www.bilancarbone-methode.com/4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission#fe-en-ratios-monetaires).
 
 </details>
 
