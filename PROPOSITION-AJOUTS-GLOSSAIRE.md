@@ -13,11 +13,11 @@ Ce document recense des termes identifiés lors de la traduction FR → EN qui n
 ### Contexte
 Ces termes ont été identifiés lors de la traduction de l'infographie *"Exemple de détermination de l'incertitude des données d'activité"*. Ils correspondent aux 5 dimensions de qualité de la matrice Pedigree (Weidema & Wesnæs, 1996) utilisées pour évaluer l'incertitude dans la méthode Bilan Carbone®.
 
-**Décision validée : utiliser les termes exacts EcoInvent** (confirmé par l'équipe — EcoInvent est la seule source à les définir explicitement et c'est leur origine). Les adaptations BC ("représentativité technique/géographique/temporelle") correspondent directement aux dimensions EcoInvent ci-dessous.
+**Décision validée : s'inspirer des termes EcoInvent, avec adaptation** (confirmé par Gabriel C., 2026-06-24). "Further technical correlation" simplifié en "Technical correlation" pour éviter les confusions. Les 4 autres termes sont identiques à EcoInvent.
 
-| Terme FR (BC) | Terme EN retenu (EcoInvent exact) | Sources comparatives | Justification du choix | Définition suggérée |
+| Terme FR (BC) | Terme EN retenu | Sources comparatives | Justification du choix | Définition suggérée |
 |---|---|---|---|---|
-| Représentativité technique | **Further technical correlation** | EcoInvent Pedigree Matrix (Weidema & Wesnæs, 1996) : **"Further technical correlation"** ✅ — ISO 14064-1 : non nommé explicitement — GHG Protocol : non nommé explicitement | Terme exact EcoInvent, seule source à définir cette dimension explicitement. "Technical" retenu (non "technological") : mot exact EcoInvent. | Degré auquel la donnée d'activité reflète fidèlement le processus ou l'équipement réellement utilisé par l'organisation. |
+| Représentativité technique | **Technical correlation** | EcoInvent Pedigree Matrix (Weidema & Wesnæs, 1996) : **"Further technical correlation"** — ISO 14064-1 : non nommé explicitement — GHG Protocol : non nommé explicitement | Adapté d'EcoInvent : "Further" retiré pour éviter les confusions (décision Gabriel C., 2026-06-24). "Technical correlation" retenu. | Degré auquel la donnée d'activité reflète fidèlement le processus ou l'équipement réellement utilisé par l'organisation. |
 | Représentativité géographique | **Geographic correlation** | EcoInvent Pedigree Matrix : **"Geographic correlation"** ✅ — ISO 14064-1 : non nommé explicitement (ISO 14069 mentionne un critère géographique) — GHG Protocol : non nommé dans le standard core | Terme exact EcoInvent. "Geographic" (non "Geographical") : mot exact EcoInvent, sans le suffixe "-al". | Degré auquel la donnée d'activité reflète les conditions propres à la zone géographique concernée. |
 | Représentativité temporelle | **Temporal correlation** | EcoInvent Pedigree Matrix : **"Temporal correlation"** ✅ — ISO 14064-1 : utilise "temporal coverage" dans un sens légèrement différent — GHG Protocol : non nommé dans le standard core | Terme exact EcoInvent. "Temporal coverage" (ISO) écarté car il désigne la période couverte par les données, pas leur représentativité. | Degré auquel la donnée d'activité correspond à la période de temps sur laquelle porte le Bilan Carbone®. |
 | Complétude | **Completeness** | ISO 14064-1 §5.6 : **"Completeness"** ✅ — GHG Protocol : **"Completeness"** ✅ — EcoInvent Pedigree Matrix : **"Completeness"** ✅ | Seul terme partagé à l'identique par les trois standards. Choix sans ambiguïté. | Degré auquel la donnée d'activité couvre l'ensemble des sources d'émissions pertinentes pour le poste concerné. |
@@ -46,4 +46,4 @@ Ces termes ont été identifiés lors de la traduction des infographies *"Parcou
 
 ---
 
-*Document mis à jour le 2026-06-24 — retiré : Base Empreinte® et Cadrage (déjà dans glossaire.csv officiel). Termes EcoInvent confirmés comme référence pour les dimensions d'incertitude.*
+*Document mis à jour le 2026-06-24 — retiré : Base Empreinte® et Cadrage (déjà dans glossaire.csv officiel). Termes EcoInvent retenus pour les dimensions d'incertitude, avec adaptation : "Further technical correlation" → "Technical correlation" (décision Gabriel C.).*
