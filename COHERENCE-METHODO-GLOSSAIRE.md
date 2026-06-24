@@ -37,7 +37,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ## A
 
 ### Actions d'amélioration de la démarche
-**Traduction EN de référence : "process improvement actions"**
+**Traduction EN de référence : "Approach improvement actions"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -61,14 +61,14 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Action de mobilisation
-**Traduction EN de référence : "mobilisation action"**
+**Traduction EN de référence : "Stakeholder engagement action"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. |
 
-> ℹ️ Terme spécifique Bilan Carbone®. Pas d'équivalent direct EN dans les standards.
+> ℹ️ Terme spécifique Bilan Carbone®. Traduction retenue dans le glossaire officiel : "stakeholder engagement action".
 
 ---
 
@@ -146,7 +146,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Autoévaluation
-**Traduction EN de référence : "self-assessment"**
+**Traduction EN de référence : "self evaluation"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -157,7 +157,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Axes analytiques
-**Traduction EN de référence : "analytical dimensions"**
+**Traduction EN de référence : "Analytical Axis"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -230,7 +230,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Chef de projet d'évaluation
-**Traduction EN de référence : "lead assessor"**
+**Traduction EN de référence : "Evaluation lead"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -507,7 +507,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Evaluation d'un bilan
-**Traduction EN de référence : "assessment"**
+**Traduction EN de référence : "Carbon assessment evaluation"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -557,7 +557,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ## G
 
 ### Gaz à effet de serre (GES)
-**Traduction EN de référence : "greenhouse gas (GHG)"**
+**Traduction EN de référence : "Greenhouse gases (GHGs)"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -676,7 +676,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ## M
 
 ### Matrice de collecte des données
-**Traduction EN de référence : "data collection sheet"**
+**Traduction EN de référence : "Data collection matrix"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -686,7 +686,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Mobilisation
-**Traduction EN de référence : "mobilisation"**
+**Traduction EN de référence : "Stakeholder engagement"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -694,7 +694,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 | GHG Protocol | 🔵 | Absent. |
 | CSRD/ESRS | 🔵 | Absent comme terme défini. |
 
-> ℹ️ Terme central et spécifique BC. "Stakeholder engagement" couvre la notion générale mais pas la dimension BC (sensibilisation + responsabilisation + coconstruction + restitution). Conserver **"mobilisation"** en EN.
+> ℹ️ Traduction retenue dans le glossaire officiel : **"stakeholder engagement"**. À utiliser de façon uniforme dans tout le document, y compris dans les titres de sections.
 
 ---
 
@@ -895,14 +895,14 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Porteur
-**Traduction EN de référence : "action owner"**
+**Traduction EN de référence : "Project lead"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Non défini. |
 | GHG Protocol | 🔵 | Non défini. |
 
-> ℹ️ "Porteur de la démarche" → **"project lead"** / **"champion"**. "Porteur d'action" → **"action owner"**.
+> ℹ️ "Porteur de projet" → **"project lead"** (terme retenu dans le glossaire officiel). "Porteur d'action" → **"action owner"** reste acceptable en contexte.
 
 ---
 
@@ -1034,7 +1034,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Responsabilité Sociétale des Organisations (RSO)
-**Traduction EN de référence : "Organizational Social Responsibility" / "Social Responsibility"**
+**Traduction EN de référence : "Corporate Social Responsibility (CSR)"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -1042,19 +1042,19 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 | ISO 26000:2010 | ✅ | **"Social responsibility"** — défini comme "la responsabilité d'une organisation vis-à-vis des impacts de ses décisions et activités sur la société et l'environnement". Définition alignée. |
 | GRI Standards | ✅ | **"Sustainability"** / **"Corporate Social Responsibility (CSR)"** — concept couvert. |
 
-> ℹ️ ISO 26000 utilise "Social Responsibility" (sans "Corporate") pour couvrir toutes les formes d'organisations. "CSR" (Corporate Social Responsibility) est réservé aux entreprises. Le terme BC "RSO" (Responsabilité Sociétale des **Organisations**) est précisément aligné avec l'approche ISO 26000.
+> ℹ️ Terme retenu dans le glossaire officiel : **"Corporate Social Responsibility (CSR)"**. Note : ISO 26000 utilise "Social Responsibility" (sans "Corporate") pour couvrir toutes les formes d'organisations — mais le terme officiel BC est CSR.
 
 ---
 
 ### Restitution de la démarche
-**Traduction EN de référence : "approach report" / "restitution report"**
+**Traduction EN de référence : "Reporting"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | ⚠️ | **"GHG report"** / **"GHG declaration"** — terme ISO pour le rapport d'inventaire. "Restitution" BC couvre une notion plus large (communication des résultats aux parties prenantes). |
 | GHG Protocol | ⚠️ | **"GHG report"** — terme GHG Protocol. |
 
-> ℹ️ "Restitution" au sens BC est distinct du simple rapport ISO : c'est un acte de communication structuré vers les parties prenantes. EN : conserver **"restitution report"** pour les documents BC ou utiliser **"GHG report"** pour les contextes ISO/GHG Protocol.
+> ℹ️ Terme retenu dans le glossaire officiel : **"Reporting"**. Le rapport de restitution se traduit par **"Bilan Carbone® report"** (terme officiel). Pour la phase de mobilisation "Restitution et Communication" → **"Reporting and Communication"**.
 
 ---
 
@@ -1103,7 +1103,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ## S
 
 ### Sensibilisation et vulgarisation
-**Traduction EN de référence : "awareness-raising and outreach"**
+**Traduction EN de référence : "Awareness and popularisation"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
@@ -1111,7 +1111,7 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 | GHG Protocol | 🔵 | Absent. |
 | CSRD/ESRS | ⚠️ | **"Awareness"** est mentionné dans le contexte de l'engagement des parties prenantes, non défini comme terme propre. |
 
-> ℹ️ Phase de mobilisation spécifique BC. EN : **"awareness-raising"** pour sensibilisation, **"science communication"** / **"outreach"** pour vulgarisation. Le terme composite **"awareness-raising and outreach"** couvre les deux dimensions.
+> ℹ️ Terme retenu dans le glossaire officiel : **"Awareness and popularisation"**. "Sensibilisation" seul → **"Awareness"** ; "Vulgarisation" seul → **"Popularisation"**.
 
 ---
 
@@ -1189,14 +1189,14 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 ---
 
 ### Triple comptabilité
-**Traduction EN de référence : "triple bottom line accounting"**
+**Traduction EN de référence : "Triple bottom line (TBL or 3BL)"**
 
 | Standard | Statut | Commentaire |
 |---|---|---|
 | ISO 14064-1 | 🔵 | Absent. |
 | GHG Protocol | 🔵 | Absent. |
 
-> ℹ️ Le glossaire BC définit la triple comptabilité comme portant sur trois dimensions : économique, environnementale et sociale — soit le concept d'**Elkington (1994)**, traduit en EN par **"triple bottom line"**. La traduction "triple bottom line accounting" est correcte.
+> ℹ️ Terme retenu dans le glossaire officiel : **"Triple bottom line (TBL or 3BL)"** — concept d'**Elkington (1994)** couvrant les trois dimensions économique, environnementale et sociale.
 
 ---
 
@@ -1263,14 +1263,16 @@ Aucun terme EN dans les standards consultés ne capture exactement la dimension 
 
 ### Points d'attention clés pour la traduction EN
 
-1. **"Poste d'émissions"** → **"emission item"** ≠ "scope" ≠ "category"
-2. **"Ratios monétaires"** → **"spend-based emission factors"** (GHG Protocol)
-3. **"Significativité"** → **"significance"** (ISO) — mais "materiality" dans les contextes CSRD
-4. **"Mobilisation"** → conserver **"mobilisation"** — "stakeholder engagement" insuffisant
-5. **"Responsabilisation"** → **"empowerment"** par défaut, à valider
-6. **"Restitution"** → **"restitution report"** (BC) ou **"GHG report"** (ISO/GHG Protocol) selon le contexte
-7. **"BEGES-R"** → conserver le sigle dans les docs BC ; **"French mandatory GHG inventory"** pour contexte international
-8. **"Ombre Climatique"** → **"climate shadow"** — concept non normé (Emma Pattee, 2021)
+1. **"Poste d'émissions"** → **"Emission category"** (glossaire officiel) — ≠ "scope" (GHG Protocol) ≠ "item"
+2. **"Ratios monétaires"** → **"Spend-based emission factors"** (GHG Protocol) — ne pas traduire par "monetary ratios"
+3. **"Significativité"** → **"Significance"** (ISO) — mais "materiality" dans les contextes CSRD
+4. **"Mobilisation"** → **"Stakeholder engagement"** (terme officiel, à utiliser uniformément, y compris dans les titres de section)
+5. **"Responsabilisation"** → **"Empowerment"** (terme retenu dans le glossaire officiel)
+6. **"Restitution de la démarche"** → **"Reporting"** ; rapport de restitution → **"Bilan Carbone® report"**
+7. **"BEGES-R"** → conserver le sigle dans les docs BC ; **"French regulation on greenhouse gas emissions reporting (BEGES-R)"** pour contexte international
+8. **"Ombre Climatique"** → **"Climate shadow"** — concept non normé (Emma Pattee, 2021)
+9. **"Triple comptabilité"** → **"Triple bottom line (TBL or 3BL)"** (Elkington, 1994)
+10. **"Cadrage"** → **"Framework"** (terme officiel)
 
 ---
 
