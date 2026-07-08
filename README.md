@@ -4,7 +4,7 @@ description: Guide méthodologique du Bilan Carbone®.
 
 # 📗 Avant-propos
 
-<figure><img src=".gitbook/assets/Logo_BC_2025.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Logo_BC_2025-01 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 La nouvelle version de la méthodologie Bilan Carbone® est maintenant en ligne !&#x20;
