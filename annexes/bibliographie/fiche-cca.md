@@ -16,7 +16,7 @@ description: Comptabilité Carbone Analytique
 
 La Comptabilité Carbone Analytique est une méthode de calcul des émissions de Gaz à Effet de Serre (GES) dont dépend l’organisation. La Comptabilité Carbone Analytique est une comptabilité carbone qui produit un Profil GES (et donc des indicateurs sur l’impact et la dépendance de l’organisation aux émissions de GES) selon plusieurs périmètres personnalisables, selon la réalité opérationnelle propre à chaque organisation.
 
-> :mag\_right: Les références de la méthode Bilan Carbone® à la comptabilité carbone analytique s’appuie sur le [Guide de Comptabilité Carbone Analytique](https://mobeetip.fr/comptabilite-carbone-analytique/), publié à l'initiative de Mobeetip.
+> :mag\_right: Les références de la méthode Bilan Carbone® à la comptabilité carbone analytique s’appuie sur le [Guide de Comptabilité Carbone Analytique](https://climatip.gitbook.io/methodologie-de-comptabilite-carbone-analytique), publié à l'initiative de Mobeetip.
 
 ## **Quels sont les objectifs de la démarche ?**
 
