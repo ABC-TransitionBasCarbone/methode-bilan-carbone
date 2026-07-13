@@ -44,7 +44,7 @@ L'ensemble des termes relatif aux étapes d'élaboration du plan de transition s
 * Trajectoire de transition : Dans le cadre du Bilan Carbone®, la trajectoire est définie en approche ascendante (dite bottom-up) : le profil d'émission (situation actuelle de l'organisation) et les potentiels de réduction des actions permettent de projeter une trajectoire atteignable (tendance et évolutions des émissions) qui renforce la crédibilité des objectifs.
 * Plan d'action : Ensemble d'actions concrètes envisagées et permettant d'atteindre les objectifs du plan de transition. Le plan d'action est établi à court terme (jusqu'au renouvellement du bilan), même si certaines actions s'étendent jusqu'à moyen ou long terme. C'est la traduction opérationnelle du plan de transition et de la stratégie de transition bas carbone de l'organisation.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure 5.0.3 : Glossaire relatif au Plan de transition</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le-plan-de-transition.png" alt=""><figcaption><p>Figure 5.0.3 : Glossaire relatif au Plan de transition</p></figcaption></figure>
 
 <mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/The-purpose-of-the-transition-plan_Lintention-du-plan-de-transition-1-scaled.png) _<mark style="color:$info;">of this image.</mark>_
 
