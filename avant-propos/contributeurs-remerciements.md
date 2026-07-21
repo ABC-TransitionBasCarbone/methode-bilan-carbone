@@ -1,27 +1,27 @@
 ---
-description: Rédactions et contributions au Guide méthodologique du Bilan Carbone®.
+description: Redazioni e contributi alla Guida metodologica del Bilan Carbone®.
 ---
 
-# 🤝 Contributeurs : Remerciements
+# 🤝 Contributori: Ringraziamenti
 
-Entre 2022 et 2024, l’Association pour la transition Bas Carbone (ABC) a mis en place un **Groupe de Travail (GT)** dédié à l’évolution de la méthode du Bilan Carbone®, composé de :
+Tra il 2022 e il 2024, l’Association pour la transition Bas Carbone (ABC) ha istituito un **Gruppo di Lavoro (GL)** dedicato all’evoluzione del metodo del Bilan Carbone®, composto da:
 
-* L’équipe de l’ABC, y compris les membres du conseil d’administration
-* Des experts historiques reconnus, ayant contribué aux groupes de travail précédents ou démontré leurs compétences
-* Des experts thématiques sollicités ponctuellement sur des sujets spécifiques
-* Des expérimentateurs confirmés et des représentants des collèges parmi les adhérents de l’année en cours
+* Il team dell’ABC, compresi i membri del consiglio di amministrazione
+* Esperti storici riconosciuti, che hanno contribuito ai gruppi di lavoro precedenti o dimostrato le proprie competenze
+* Esperti tematici consultati puntualmente su argomenti specifici
+* Sperimentatori esperti e rappresentanti dei collegi tra gli aderenti dell’anno in corso
 
-Après plusieurs mois de réflexions, le GT a trouvé un consensus sur les orientations et les développements nécessaires à intégrer dans la méthode. La [synthèse des recommandations](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) du Groupe de Travail (GT), publiée début 2023, est accessible aux adhérents. Plusieurs phases de relecture du GT se sont ensuite succédées pour aboutir à la version actuelle.&#x20;
+Dopo diversi mesi di riflessioni, il GL ha raggiunto un consenso sugli orientamenti e sugli sviluppi necessari da integrare nel metodo. La [sintesi delle raccomandazioni](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) del Gruppo di Lavoro (GL), pubblicata all’inizio del 2023, è accessibile agli aderenti. Diverse fasi di rilettura del GL si sono poi susseguite fino ad arrivare alla versione attuale.&#x20;
 
-**Rédacteur du Guide** : Association pour la transition Bas Carbone (ABC) : Camila Cohen, Gabriel Chabah, Victor Pichaud, Quentin Guignard, Quentin Brache.
+**Redattore della Guida**: Association pour la transition Bas Carbone (ABC): Camila Cohen, Gabriel Chabah, Victor Pichaud, Quentin Guignard, Quentin Brache.
 
-**Experts membres du Groupe de Travail** «**Evolution de la méthode Bilan Carbone** »
+**Esperti membri del Gruppo di Lavoro** «**Evoluzione del metodo Bilan Carbone** »
 
-Ce sont grâce à ces organisations, membres de notre communauté, que la méthode Bilan Carbone® fait peau neuve. Un grand merci !
+È grazie a queste organizzazioni, membri della nostra comunità, che il metodo Bilan Carbone® si rinnova. Un grande grazie!
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Romain Bort (2048 x 1350 px) (2).png" alt=""><figcaption><p>Organisations contributrices à la méthode Bilan Carbone®</p></figcaption></figure></div>
-
-
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Romain Bort (2048 x 1350 px) (2).png" alt=""><figcaption><p>Organizzazioni contributrici al metodo Bilan Carbone®</p></figcaption></figure></div>
 
 
 
+
+</content>
