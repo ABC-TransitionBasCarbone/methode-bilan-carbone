@@ -13,7 +13,7 @@ Entre 2022 et 2024, l’Association pour la transition Bas Carbone (ABC) a mis e
 
 Après plusieurs mois de réflexions, le GT a trouvé un consensus sur les orientations et les développements nécessaires à intégrer dans la méthode. La [synthèse des recommandations](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) du Groupe de Travail (GT), publiée début 2023, est accessible aux adhérents. Plusieurs phases de relecture du GT se sont ensuite succédées pour aboutir à la version actuelle.&#x20;
 
-**Rédacteur du Guide** : Association pour la transition Bas Carbone (ABC) : Camila Cohen, Gabriel Chabah, Victor Pichaud, Quentin Guignard, Quentin Brache.
+**Rédacteurs du Guide** : Association pour la transition Bas Carbone (ABC) : Camila Cohen, Gabriel Chabah, Victor Pichaud, Quentin Guignard, Quentin Brache.
 
 **Experts membres du Groupe de Travail** «**Evolution de la méthode Bilan Carbone** »
 
