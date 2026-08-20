@@ -78,7 +78,7 @@ de l'Association pour la transition Bas Carbone (ABC) — méthode Bilan Carbone
 
 **Ce qu'on ne change pas :**
 - Les règles sur la syntaxe GitBook (`{% hint %}`, tableaux, etc.)
-- Le modèle (`claude-sonnet-4-6`)
+- Le modèle (`claude-opus-5`)
 - La logique de traduction partielle (paragraphe par paragraphe)
 
 ---

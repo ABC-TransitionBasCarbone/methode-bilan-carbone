@@ -88,9 +88,10 @@ def get_old_fr(rel_path):
 
 def claude(prompt, max_tokens=8192):
     response = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-opus-5",
         max_tokens=max_tokens,
         system=SYSTEM,
+        output_config={"effort": "medium"},
         messages=[{"role": "user", "content": prompt}]
     )
     return response.content[0].text.strip()
