@@ -4,12 +4,12 @@ description: Guide méthodologique du Bilan Carbone®.
 
 # 📗 Avant-propos
 
-<figure><img src=".gitbook/assets/Logo_BC_2025-01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Logo_BC_2025-01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-La nouvelle version de la méthodologie Bilan Carbone® est maintenant en ligne !&#x20;
+La nouvelle version de la méthodologie Bilan Carbone® est maintenant en ligne !
 
-Pour en savoir plus sur les modifications apportées, veuillez consulter le [suivi des modifications](avant-propos/historique-et-suivi-des-modifications.md).&#x20;
+Pour en savoir plus sur les modifications apportées, veuillez consulter le [suivi des modifications](avant-propos/historique-et-suivi-des-modifications.md).
 {% endhint %}
 
 ## Résumé
@@ -30,13 +30,13 @@ Cette nouvelle version de la méthode introduit de nombreuses évolutions :
 
 ### **🧭 Trois niveaux de maturité pour coller à la réalité des organisations**
 
-Chaque niveau de maturité (Initial, Standard et Avancé) est défini par des critères spécifiques concernant la fréquence du renouvellement, le suivi des actions, le périmètre, et l’importance de la mobilisation.&#x20;
+Chaque niveau de maturité (Initial, Standard et Avancé) est défini par des critères spécifiques concernant la fréquence du renouvellement, le suivi des actions, le périmètre, et l’importance de la mobilisation.
 
 Le Bilan Carbone® s'est toujours montré adapté au besoin (d'un premier bilan, à un pilotage de la décarbonation d'une organisation). Ces nouveaux niveaux de maturité permettent de placer le curseur de l'ambition de la démarche, et d'uniformiser les pratiques. L’objectif principal reste de permettre la mise en action quel que soit son profil ou son niveau de maturité.
 
 ### **📝 Le plan de transition, au cœur de la méthode**
 
-Le Bilan Carbone® s'affirme comme **une véritable démarche complète en 7 étapes** (et non comme seule méthode de comptabilité carbone) dans laquelle la planification de l'action est renforcée.&#x20;
+Le Bilan Carbone® s'affirme comme **une véritable démarche complète en 7 étapes** (et non comme seule méthode de comptabilité carbone) dans laquelle la planification de l'action est renforcée.
 
 Il est essentiel de rappeler la philosophie du Bilan Carbone®, axée sur le principe de « compter pour agir ». La méthode devient plus exigeante quant à l’existence d’un plan de transition, mais elle facilite également ce processus en s’adaptant aux trois niveaux de maturité, avec des livrables, objectifs, et indicateurs de suivi adaptés.
 
@@ -56,7 +56,7 @@ L'utilisation du Bilan Carbone® est compatible avec d’autres [standards](anne
 
 ### **🎯 Des bilans évaluables**
 
-Une évolution significative réside dans **l’évaluation et l’audit des résultats**, désormais disponibles sur demande, répondant aux besoins variés tels que la conformité réglementaire, l'assurance sur la fiabilité de sa démarche pour une meilleure transition, le contrôle qualité des bilans de parties prenantes, et la transparence de la communication.&#x20;
+Une évolution significative réside dans **l’évaluation et l’audit des résultats**, désormais disponibles sur demande, répondant aux besoins variés tels que la conformité réglementaire, l'assurance sur la fiabilité de sa démarche pour une meilleure transition, le contrôle qualité des bilans de parties prenantes, et la transparence de la communication.
 
 Au-delà de l’aspect technique, cette uniformisation des vérifications implique la mobilisation de nouvelles fonctions, notamment des experts en comptabilité financière, soulignant l’évolution vers une **approche plus holistique et régulée.**
 
@@ -70,21 +70,20 @@ Le document dans son ensemble fait plus de 300 pages, c'est pourquoi il est asso
 
 La méthode Bilan Carbone® se veut dynamique et vivante. Les travaux sur la méthode se poursuivent en discussion avec l'écosystème de la comptabilité carbone **dans une logique d'amélioration continue**. Les prochaines réflexions seront axées en 2025 sur l'empreinte Produit, l'empreinte Territoire, ou sur le cadrage du Bilan Carbone® en ce qui concerne les émissions évitées et séquestrées. En conséquence, des mises à jour seront amenées à faire évoluer ce guide. Chaque nouvelle intégration méthodologique fera l'objet d'une [publication](avant-propos/historique-et-suivi-des-modifications.md) transparente. Toute mise à jour importante donnera lieu à des formations de mise à niveau gratuites et dispensées à la communauté de l'ABC par ses partenaires de formations.
 
-
-
 ## Le Bilan Carbone® et l'Association pour la transition Bas Carbone (ABC)
 
 {% hint style="info" %}
-Le Bilan Carbone® désigne à la fois :&#x20;
+Le Bilan Carbone® désigne à la fois :
 
-* Une méthode initialement développée par l'ADEME et Jean-Marc Jancovici du bureau d'étude Manicore, et aujourd'hui développée et mise à jour par l'Association pour la transition Bas Carbone (ABC). Cette méthode permet de quantifier et de réduire les émissions de GES. Elle peut s'appliquer pour des organisations, [des produits ou des territoires.](annexes/annexes/annexe-6-ouverture-aux-autres-echelles-territoire-et-produit.md)&#x20;
-* Les [outils](formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) diffusés par l'ABC, qui facilitent les calculs permettant la quantification des émissions de GES, ainsi que les manuels d'utilisation associés.&#x20;
+* Une ressource initialement développée par l'ADEME et Jean-Marc Jancovici du bureau d'étude Manicore, et aujourd'hui propriété de l'Association pour la transition Bas Carbone (ABC) qui continue de la développer.&#x20;
+* Une méthode qui permet de quantifier et de réduire les émissions de GES. Elle peut s'appliquer pour des organisations, [des produits ou des territoires.](annexes/annexes/annexe-6-ouverture-aux-autres-echelles-territoire-et-produit.md)
+* Les [outils](formation-et-outils-dapplication-de-la-methode/outils-bilan-carbone-r-tableurs-et-logiciel.md) diffusés par l'ABC, qui facilitent les calculs permettant la quantification des émissions de GES, ainsi que les manuels d'utilisation associés.
 * Les [formations](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) requises pour appliquer la méthode Bilan Carbone®, qui sont assurées par des partenaires habilités par l'ABC.
 * Une marque ® déposée à l'INPI en France et dans toute l'UE
 
-Le résultat de la démarche Bilan Carbone® appliquée à une organisation peut-être nommé :&#x20;
+Le résultat de la démarche Bilan Carbone® appliquée à une organisation peut-être nommé :
 
-* Bilan Carbone® de niveau Initial, Standard ou Avancé, selon le niveau de maturité choisi par l'organisation.&#x20;
+* Bilan Carbone® de niveau Initial, Standard ou Avancé, selon le niveau de maturité choisi par l'organisation.
 * Bilan Carbone® **évalué** de niveau Initial, Standard ou Avancé, selon le niveau de maturité choisi par l'organisation, et si le Bilan Carbone® de l'organisation a été évalué à l'aide des [procédures associées](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/7-evaluation-et-qualite-du-bilan-carbone-r).
 {% endhint %}
 
@@ -94,19 +93,17 @@ L’Association pour la transition Bas Carbone ([ABC](annexes/bibliographie/#lab
 Cette nouvelle version de la méthode Bilan Carbone® est consultable librement et gratuitement. Cependant, l'utilisation de celle-ci est conditionnée à l'[adhésion](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) ou d'une licence à jour à l'ABC en tant que personne morale, assurant ainsi une version à jour des outils ainsi que différents services supplémentaires (pour plus de détails, consulter le [site de l’ABC](annexes/bibliographie/)). Toute organisation souhaitant utiliser la méthode ou nos outils doit avoir en son sein au moins une personne formée à la méthodologie Bilan Carbone® par un organisme de formation habilité (pour plus de détails, voir les [conditions générales d'utilisation](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)).
 {% endhint %}
 
-
-
 ## Architecture du document : comment l'utiliser ?
 
 ### Conseils d'utilisation
 
-Ce document est présenté sous un format arborescent de type « wiki ». Plusieurs conseils d'utilisation :&#x20;
+Ce document est présenté sous un format arborescent de type « wiki ». Plusieurs conseils d'utilisation :
 
 * Les rédacteurs vous recommandent de consulter la [table des matières ](table-des-matieres.md)afin de mieux vous repérer au sein du document.
 * Le document inclut de nombreux liens hypertexte renvoyant soit à des définitions disponibles dans le [Glossaire](annexes/glossaire.md), soit à d'autres ressources dans la [Bibliographie](annexes/bibliographie/), soit aux autres sections citées du document.
 * Le document fait l'objet d'une [synthèse](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md) de 10 pages.
 * L'arborescence du document est numérotée selon les 7 [étapes](introduction-au-bilan-carbone-r/0.2-les-etapes-dun-bilan-carbone-r.md) du Bilan Carbone®. Il contient en amont des sections introductives et en aval des sections ressources.
-* Certaines sous-sections de ce document contiennent des informations subdivisées dans des menus déroulants qui correspondent aux trois niveaux de maturités définis par la méthode. Les rédacteurs vous recommandent de toujours consulter le contenu hors menu déroulant, qui est commun aux trois niveaux de maturité, avant de les ouvrir pour consulter les spécificités détaillées selon le niveau de maturité.&#x20;
+* Certaines sous-sections de ce document contiennent des informations subdivisées dans des menus déroulants qui correspondent aux trois niveaux de maturités définis par la méthode. Les rédacteurs vous recommandent de toujours consulter le contenu hors menu déroulant, qui est commun aux trois niveaux de maturité, avant de les ouvrir pour consulter les spécificités détaillées selon le niveau de maturité.
 * Il est vivement recommandé de lire le contenu des niveaux de maturité supérieurs, même s'ils ne concernent pas immédiatement le niveau visé par l'organisation, car, dans une logique d'**amélioration continue** et de progression, certains points spécifiques des niveaux supérieurs peuvent être d'ores et déjà recherchés et atteints.
 
 ### Structures des informations spécifiques
@@ -137,8 +134,6 @@ Désigne un point de vigilance de la méthode Bilan Carbone®.
 
 > ⏳<mark style="background-color:blue;">\[</mark>[<mark style="background-color:blue;">WIP</mark>](./#structures-des-informations-specifiques)<mark style="background-color:blue;">] Désigne une prochaine évolution de la méthode Bilan Carbone®. Dans la plupart des cas à l'issue de la phase d'expérimentation. Pour information « WIP » signifie work in progress ou travaux en cours.</mark>
 
-
-
 ### Conditions d'utilisation
 
 {% hint style="info" %}
@@ -158,10 +153,6 @@ Le guide de la méthode Bilan Carbone® est une œuvre mise à disposition selon
 {% endhint %}
 
 Pour plus de détails, voir les [conditions générales d'utilisation](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r).
-
-
-
-
 
 ***
 
