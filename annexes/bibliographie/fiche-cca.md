@@ -16,7 +16,7 @@ description: Analytical Carbon Accounting
 
 Analytical Carbon Accounting is a method for calculating the greenhouse gas (GHG) emissions on which the organisation depends. Analytical Carbon Accounting is a carbon accounting method that produces a GHG Profile (and thus indicators on the impact and dependence of the organisation on GHG emissions) according to several customisable boundaries, reflecting the operational reality specific to each organisation.
 
-> :mag\_right: References in the Bilan Carbone® method to analytical carbon accounting draw on the [Guide to Analytical Carbon Accounting](https://mobeetip.fr/comptabilite-carbone-analytique/), published on the initiative of Mobeetip.
+> :mag\_right: The Bilan Carbone® method's references to analytical carbon accounting are based on the [Analytical Carbon Accounting Guide](https://climatip.gitbook.io/methodologie-de-comptabilite-carbone-analytique), published at the initiative of Mobeetip.
 
 ## **What are the objectives of the approach?**
 

@@ -8,10 +8,7 @@ description: Which tools should you use?
 
 The [current tools](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) are valid until their updates.
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] ABC is working on drafting a detailed presentation of the tools it makes available to Bilan Carbone® users. The traditional tools, the Excel spreadsheet and Bilan Carbone+, have undergone updates to incorporate the new methodological developments.</mark>
-
-
-
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] ABC is working on a detailed presentation of the tools it provides to Bilan Carbone® users. The traditional tools, the Excel spreadsheet and Bilan Carbone+, have been updated to incorporate the methodological innovations of this new method. They are available to the association's members, directly from your account.</mark>
 
 ***
 

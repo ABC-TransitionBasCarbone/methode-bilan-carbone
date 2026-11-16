@@ -1,4 +1,4 @@
-﻿---
+---
 description: >-
   What are the fundamental accounting principles to be respected by the Bilan
   Carbone®?
@@ -18,17 +18,17 @@ The Bilan Carbone® method does not aim to specify particular cases or conventio
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Description des postes et sous postes du Bilan Carbone.png" alt=""><figcaption><p>Figure Annex 1: Description of Bilan Carbone® categories and sub-categories</p></figcaption></figure></div>
 
-The definitions of categories, the emission sources they include, and the associated core accounting principles are detailed below:
+The definitions of the categories, the emission sources they include, and the associated main accounting principles are detailed below:
 
 ## Energy
 
 This category covers:
 
-* [x] The use of fossil fuels for heating, industrial processes, electricity or steam production
-* [x] The use of organic fuels (also called biofuels) for heating, industrial processes, electricity or steam production
+* [x] The use of fossil fuels for heating, industrial processes, electricity or steam generation
+* [x] The use of organic fuels (also known as biofuels) for heating, industrial processes, electricity or steam generation
 * [x] The use of steam for heating and industrial processes
-* [x] The use of cold for cooling and industrial processes
-* [x] The use of electricity, regardless of use (heating, specific electricity, everyday uses, industrial processes, and own electricity production)
+* [x] The use of cooling for refrigeration and industrial processes
+* [x] The use of electricity, whatever the purpose (heating, specific electricity uses, everyday uses, industrial processes, and self-generated electricity)
 
 The Energy category therefore groups together energy consumption from so-called "fixed" sources: premises, machines, etc. The emissions associated with these energy consumptions of goods or premises **used** by the organisation are to be taken into account, whether it is the [owner or tenant](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#owner-or-tenant).
 
@@ -36,22 +36,22 @@ The energy consumption of vehicles or other "mobile" sources (fossil fuels, orga
 
 Hydrocarbons are only taken into account insofar as they are burned. If they are used as raw materials (e.g. petroleum products in petrochemicals), they must not be taken into account here but in the [Inputs](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) categories.
 
-For energy consumption from a distribution network (electricity and gas), there are two different approaches in the literature for assessing GHG emissions:
+For energy consumption from a distribution network (electricity and gas), there are two different ways of assessing GHG emissions in the literature:
 
-* The location-based approach conforms to the physical reality of the distribution network, a unique and shared network in which it is not possible to distinguish between an electron from renewable energy and an electron from a thermal or nuclear power plant, or between a molecule of methane from natural gas (i.e. fossil) or from methanisation (biogas). It is therefore necessary in all cases to use the network emission factor (for gas, this is the "natural gas" EF from Base Empreinte® which in reality contains a very small proportion of biogas).
-* The market-based approach conforms to contract offers (green electricity contracts, biogas contracts, etc.) and therefore makes it possible to apply the supplier-specific emission factor, which is generally different from that of the network.
+* The location-based approach, which reflects the physical reality of the distribution network — a single network shared by everyone, in which it is not possible to distinguish between an electron from renewable energy and an electron from a thermal or nuclear power plant, or between a methane molecule from natural gas (i.e. fossil) or from methanisation (biogas). In all cases, the network's emission factor must therefore be used (for gas, this is the "natural gas" EF from the Base Empreinte®, which in reality contains a very small proportion of biogas)
+* The market-based approach, which reflects contract offers (green electricity contracts, biogas contracts, etc.) and therefore makes it possible to apply the supplier's specific emission factor, which is generally different from that of the network.
 
-**Only the location-based approach is compliant with the Bilan Carbone® method**. However, Bilan Carbone® tools may offer both approaches in order to be able to export results in GHG Protocol or CSRD format, for which it is required to indicate both location-based and market-based emissions. Green electricity and biogas contracts can also be leveraged by accounting for [avoided emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md#emissions-evitees-pilier-b) (subscribing to this type of contract sometimes and under certain conditions enabling the decarbonisation of networks). The organisation must not deduct these avoided emissions from total emissions, but may account for them and, where applicable, declare them separately.
+**Only the location-based approach complies with the Bilan Carbone® method**. However, Bilan Carbone® tools may offer both approaches so that results can be exported in GHG Protocol or CSRD format, for which both location-based and market-based emissions must be reported. Green electricity and biogas contracts can also be highlighted by separately accounting for [avoided emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md#emissions-evitees-pilier-b) (subscribing to this type of contract sometimes allows, under certain conditions, the decarbonisation of networks). The organisation must not deduct these avoided emissions from its total emissions, but may account for them and, where applicable, report them separately.
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the notion of avoided emissions shortly.</mark>
 
-In the case where the organisation produces energy, three cases are to be distinguished:
+Where the organisation produces energy, three cases must be distinguished:
 
-* The energy is generated from a fuel produced within the organisation (plastic waste, wood, ...). In this case, it must avoid any double counting within the assessment. For fossil or organic fuels, the organisation should only enter the emissions linked to the _combustion_ of these fuels in the appropriate sub-categories, the _upstream_ emissions already being taken into account in the rest of the assessment.
-* The energy is generated from a fuel not produced by the organisation. In this case, there is no risk of double counting. For fossil or organic fuels, the organisation should enter the emissions linked to the _upstream_ and _combustion_ of these fuels in the appropriate sub-categories.
-* The energy is generated from a renewable or nuclear source installed on the organisation's site. In this case, no emissions linked to _combustion_ are generated. However, the _upstream_ of this energy production, namely the installation of the source and the manufacture of the equipment, must be taken into account. This can be done either in the Energy category or in the [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) category (according to the organisation's logic), which avoids double counting.
-* If part of the electricity produced by the organisation is intended to be directly self-consumed (individual or collective self-consumption), without using the national grid, it can be accounted for in the Bilan Carbone® on the basis of the LCA content of the various production means mobilised.
-* If part of the electricity produced by the organisation is intended to be sold, it remains mandatory to take into account all of the above-mentioned emissions, as the Bilan Carbone® aims to account for all emissions generated by the organisation. However, the organisation may leverage this sold energy production by also accounting for [avoided emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). The organisation must not deduct these avoided emissions from total emissions, but may account for them and, where applicable, declare them separately.
+* The energy is generated from a fuel produced within the organisation (plastic waste, wood, etc.). In this case, the organisation must avoid any double counting within the assessment. For fossil or organic fuels, the organisation should only report the emissions linked to the _combustion_ of these fuels in the appropriate emission subcategories, since the _upstream_ emissions are already accounted for elsewhere in the assessment.
+* The energy is generated from a fuel not produced by the organisation. In this case, there is no risk of double counting. For fossil or organic fuels, the organisation should report the emissions linked to both the _upstream_ stage and the _combustion_ of these fuels in the appropriate emission subcategories.
+* The energy is generated from a renewable or nuclear source located on the organisation's site. In this case, no emissions linked to _combustion_ are generated. However, the _upstream_ stage of this energy production, namely the installation of the source and the manufacture of the equipment, must be taken into account. This can be done either in the Energy category or in the [Fixed assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) category (depending on the organisation's rationale), which avoids double counting.
+* If part of the electricity produced by the organisation is intended to be directly self-consumed (individual or collective self-consumption), without using the national grid, it may be accounted for in the Bilan Carbone® on the basis of the LCA content of the various production means used.
+* If part of the electricity produced by the organisation is intended to be sold, it remains mandatory to account for all the emissions mentioned above, as the Bilan Carbone® is intended to account for all emissions generated by the organisation. However, the organisation may highlight the value of this sold energy production by separately accounting for [avoided emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). The organisation must not deduct these avoided emissions from total emissions, but may account for them and, where appropriate, report them separately.
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the notion of avoided emissions shortly.</mark>
 
@@ -65,7 +65,7 @@ This category covers direct so-called "non-energy" emissions, i.e. all direct GH
 * [x] Direct (non-energy) emissions linked to industrial processes (decarbonation of cement producers; flaring of gases by refiners, process emissions in the semiconductor or electrical equipment industry, chemical processes, fermentation in organic waste treatment, ventilation of coal mines, decomposition during sanitation, etc.)
 * [x] Other direct (non-energy) GHG emissions
 
-In all of these sub-categories, [all GHGs](../../4-comptabilisation/4.1-methode-de-quantification-des-emissions.md) must be taken into account, including those not covered by the [Kyoto Protocol](../glossaire.md#p). These emissions are frequent in the Industrial Processes, Refrigeration Production and Other Direct GHG Emissions sub-categories. The organisation must therefore be particularly vigilant in integrating these GHGs into its Bilan Carbone®.
+Across all of these subcategories, [all GHGs](../../4-comptabilisation/4.1-methode-de-quantification-des-emissions.md) must be taken into account, including those not covered by the [Kyoto Protocol](../glossaire.md#p). Such emissions are common within the Industrial Processes, Refrigeration production and Other direct GHG emissions subcategories. The organisation must therefore be particularly careful to include these GHGs within its Bilan Carbone®. Several (non-exhaustive) examples of the GHGs concerned depending on the processes:
 
 For the sub-category "Direct GHG emissions linked to agriculture", the fermentation of agricultural waste is not to be taken into account: this is indeed a simple return to the atmosphere of the CO₂ that was removed shortly beforehand during the photosynthesis of plants.
 
@@ -73,8 +73,8 @@ For the sub-category "Direct GHG emissions linked to refrigeration production", 
 
 For the sub-category "Direct GHG emissions linked to land use change":
 
-* For a land use change leading to an instantaneous release of GHGs, the organisation must take into account the total associated release, without depreciation, in the year of the assessment. For changes whose [kinetics are slower](../bibliographie/#guides-pratiques-de-comptabilisation) (forest to cropland for example), the time to return to equilibrium depends on pedological and climatic conditions. This duration is a local, regional or national value where possible. Otherwise, the stock variation is by convention considered to occur over 20 years (default value defined by the UNFCCC). The entirety of this impact must be taken into account in the year of the assessment in which this change occurs. In reality, GHGs will be released over 20 years until a new equilibrium point is reached. Care must be taken not to double-count this land use change in the case of the [Fixed Asset](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) of a construction.
-* Land use changes leading to GHG storage **must under no circumstances be taken into account** within the Bilan Carbone®. However, they can be estimated by also accounting for [sequestered emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). The organisation must not deduct these sequestered emissions from total emissions, but may account for them and, where applicable, declare them separately.
+* For a land use change leading to an instantaneous GHG release, the organisation must account for the entirety of the associated release, without amortisation, in the year of the assessment. For changes with [slower kinetics](../bibliographie/#guides-pratiques-de-comptabilisation) (forest to cropland, for example), the time required to return to equilibrium depends on soil and climate conditions. This duration is a local, regional or national value where possible. Otherwise, the stock variation is by convention considered to occur over 20 years (default value defined by the UNFCCC). The entirety of this impact must be accounted for in the year of the assessment during which this change takes place. In reality, GHGs will be released over 20 years until a new equilibrium point is reached. Take care not to double count this land use change in the case of the [Capital goods](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) of a building.
+* Land use changes leading to GHG storage **must under no circumstances be taken into account** within the Bilan Carbone®. However, they may be estimated by separately accounting for [sequestered emissions](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md). The organisation must not deduct these sequestered emissions from total emissions, but may account for them and, where applicable, report them separately.
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The ABC and its community will position themselves in more detail on the notion of sequestered emissions shortly.</mark>
 
@@ -86,16 +86,16 @@ This category covers:
 * [x] In order to be able to apply transition plan actions to packaging, a sub-category is dedicated to the material intended for this packaging
 * [x] A sub-category is also dedicated to materials for which emission factors in Spend-based emission factors are used
 
-This category covers all flows of goods and materials entering the organisation, whether to be consumed on site (and potentially found in its [Waste](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#direct-waste)), or to be incorporated into the organisation's production. The only goods that must not be taken into account in this category are those that will be included in the [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) category.
+This category covers all flows of goods and materials entering the organisation, whether to be consumed on site (and potentially found in its [Waste](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#dechets-directs)), or to be incorporated into the organisation's production. The only goods that should not be accounted for within this category are those that will fall under the [Fixed assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) category.
 
-This category does not only include raw materials, but also semi-finished products or manufactured products "incorporated" into the organisation's activities. In particular, it covers materials used by the activity to be incorporated into its own production, for example:
+This category does not only include raw materials, but also semi-finished products or manufactured products "incorporated" into the organisation's activities. In particular, it covers the materials used by the activity to be incorporated into its own production, for example:
 
-* Base materials (metals, plastics, glass, etc.) for a manufacturer of manufactured goods
-* Agricultural products in the case of agri-food companies, or for a restaurant (including corporate canteens)
+* Basic materials (metals, plastics, glass, etc.) for a manufacturer of manufactured goods
+* Agricultural products in the case of agri-food companies, or for a restaurant (including company canteens)
 * Raw materials and reagents in the case of chemical companies
-* Materials necessary to package incoming materials.
+* The materials needed to package incoming materials.
 
-In the case of a commercialisation activity, the emissions from upstream, namely the manufacture of products sold, are thus to be taken into account in this "Inputs: goods and materials" category. On the other hand, the emissions associated with the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) and [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) of these products (or services) sold are so-called "downstream" categories.
+In the case of a sales activity, the emissions arising upstream, namely the manufacture of the products sold, must therefore be taken into account in this "Inputs: goods and materials" category. On the other hand, the emissions associated with the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#utilisation-and-dependance) and [End of life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fin-de-vie) of these products (or services) sold are so-called "downstream" categories.
 
 An organisation that acquires goods or materials from recycling takes into account the impact of the recycling process (and therefore the regeneration of the material) in this category.
 
@@ -103,7 +103,7 @@ The consumption of meals by the organisation's employees during the period of ac
 
 Goods and materials must be accounted for, whether purchased, rented or received as donations. In the particular case where inputs are recovered by the organisation when they were not intended for any use (expired foodstuffs, clothing, etc.), and provided the organisation can justify this, the organisation will not take into account the GHG emissions associated with the production of these inputs. However, the GHG emissions associated with the rest of the supply chain (distribution in particular) must always be taken into account. Note that for the reuse of capitalised goods, refer to the "[Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets)" category (digital, buildings, vehicles, machines, furniture, etc.).
 
-Regarding the sub-category "Goods and materials by monetary approach", if the organisation uses Spend-based emission factors, it may correct these Spend-based emission factors based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
+Regarding the "Goods and materials – spend-based approach" subcategory, where the organisation uses spend-based emission factors, it may adjust these spend-based emission factors according to the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#prise-en-compte-de-linflation) that applies to its purchases or rentals of goods and services.
 
 The sub-category "Material intended for packaging" of products sold or distributed makes it possible to visualise the overall contribution of "waste by destination" that these packaging items represent, even though they are not thrown away directly by the entity that puts them into circulation. The emissions taken into account in this sub-category are linked to the production of plastics, paper, metals, etc. necessary for the production of the packaging. The emissions linked to the [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) of this packaging (which will occur almost immediately after it is put into circulation) are considered in the relevant category. These individualised sub-categories can be [aggregated](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging).
 
@@ -117,19 +117,19 @@ This category covers:
 * [x] Emissions linked to the digital services and uses of the organisation
 * [x] Emissions linked to the various services received by the organisation, accounted for via emission factors in Spend-based emission factors
 
-Tertiary services (excluding transport) consumed by the organisation may for example include:
+The tertiary services (excluding transport) consumed by the organisation may, for example, include:
 
 * IT services
-* Telecommunications services
+* Telecommunication services
 * Maintenance, upkeep, cleaning
 * Banking services
 * Training
 * Advertising
-* Fees of all kinds (lawyers, accountants, etc.)
+* Fees of any kind (lawyers, accountants, etc.)
 
 Regarding digital, this category covers the organisation's "digital uses" that involve an indirect impact (external servers, data processing and storage, data transport over networks, etc.). Other digital impacts are covered by [different sub-categories](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#digital).
 
-If the organisation uses Spend-based emission factors, it may correct these Spend-based emission factors based on the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inflation) that applies to its purchases or rental of goods and services.
+Where the organisation uses spend-based emission factors, it may adjust these spend-based emission factors according to the [inflation](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#prise-en-compte-de-linflation) that applies to its purchases or leasing of goods and services.
 
 It is rare that this "Inputs: services" category does not require an external investigation to obtain some specific emission factors. This may require asking certain suppliers to carry out their own GHG reporting and transmit it to the organisation. The use of the supplier's Bilan Carbone® Organisation is allocated pro rata to the organisation's expenditure and the supplier's turnover (turnover is representative if the supplier's activity is homogeneous). It thus makes it possible to build a so-called "[specific](../../4-comptabilisation/4.3-methode-de-selection-des-facteurs-demission.md#fe-en-ratios-monetaires)" Spend-based emission factor.
 
@@ -143,7 +143,7 @@ This category covers:
 * [x] Emissions linked to freight internal to the organisation, in cases where the points of departure and arrival are part of the organisational boundary
 * [x] Emissions linked to outgoing freight from the organisation
 
-This category covers all the transport of goods carried out on behalf of the organisation, without the ownership of the means of transport being relevant, with the distinction being made by the nature of the journey. It includes:
+This category covers all freight transport carried out on behalf of the organisation, regardless of the ownership of the means of transport, the distinction being made according to the nature of the journey. It includes:
 
 * The transport of products that come from outside and are delivered within the organisational boundary (transport of purchases from suppliers to the organisation, for example).
 * So-called internal transport, whose point of departure and arrival are part of the [organisational boundary](../../2-perimetre-de-la-demarche/2.2-perimetre-organisationnel.md)
@@ -153,7 +153,7 @@ This category covers all the transport of goods carried out on behalf of the org
 
 The category takes into account road, air, maritime, river and rail transport. It takes into account all criteria having a strong influence on emissions, including: distance, journey duration, vehicle load rate, etc. The organisation must take into account the outward journey and the empty return rate on the return journey.
 
-In the case of air transport, the organisation must by default take into account the formation of [condensation trails](../glossaire.md#trainees-de-condensation-usd). In the event of non-inclusion, the organisation must justify this, for example by proving that condensation trails do not form on the journey in question (this formation being dependent on altitude and various meteorological factors).
+In the case of air transport, the organisation must by default take into account the formation of [contrails](../glossaire.md#trainees-de-condensation-usd). If this is not taken into account, the organisation must justify it, for example by proving that contrails do not form on the journey in question (their formation depending on altitude and various meteorological factors).
 
 In the case where transport is carried out via vehicles owned by the organisation, it may choose to account for the emissions associated with vehicle manufacture either in the "[Freight](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#freight)" or "[Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets)" categories, taking care not to double count.
 
@@ -167,9 +167,9 @@ This category covers:
 
 The category takes into account road, air, maritime, river and rail transport.
 
-The Home-work travel sub-category covers all journeys made to come to work. It therefore covers, in the broad sense, travel made from the current place of residence to the place of work and the associated return journey, not forgetting any journeys related to the lunch break.
+The Commuting subcategory covers all journeys made to come to work. In the broad sense, these are the trips made from the current place of residence to the place where duties are taken up and the associated return journey, not forgetting any trips related to the lunch break.
 
-The Visitor travel sub-category covers at minimum the following cases and any other similar case:
+The Visitor travel subcategory covers at least the following cases and any other similar case:
 
 * Travel by customers of a shop or company
 * Visits for professional reasons (suppliers, certifiers, auditors, etc.) or equivalent (job candidates)
@@ -179,30 +179,30 @@ The Visitor travel sub-category covers at minimum the following cases and any ot
 
 In cases where the organisation is able to prove that certain visitor journeys are not made exclusively for an activity within its operational boundary, or are made for a completely different reason, participation in the said activity being an incidental benefit, it may use allocation rules it defines in order to take into account only a portion of these journeys.
 
-In the case of air transport, the organisation must by default take into account the formation of [condensation trails](../glossaire.md#trainees-de-condensation-usd). In the event of non-inclusion, the organisation must justify this, for example by proving that condensation trails do not form on the journey in question (this formation being dependent on altitude and various meteorological factors).
+In the case of air travel, the organisation must by default take into account the formation of [contrails](../glossaire.md#trainees-de-condensation-usd). If these are not taken into account, the organisation must justify it, for example by proving that contrails do not form on the route in question (their formation depending on altitude and various meteorological factors).
 
 In the case where transport is carried out via vehicles owned by the organisation, it may choose to account for the emissions associated with vehicle manufacture either in the [Travel](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#travel) or [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) categories, taking care not to double count.
 
 ## Direct Waste
 
-This category covers all the emissions linked to the management of waste produced (collection and treatment) within the organisation. It is divided into different sub-categories each covering a category of waste:
+This category covers all emissions related to the management of waste produced (collection and treatment) within the organisation. It is divided into several subcategories, each covering a type of waste:
 
-* [x] Emissions linked to plastic packaging waste and other plastics
-* [x] Emissions linked to organic waste (food waste, green waste, ...)
-* [x] Emissions linked to household waste
-* [x] Emissions linked to hazardous waste
-* [x] Emissions linked to material waste
-* [x] Emissions linked to other types of waste (WEEE, textiles, etc.)
-* [x] Non-energy emissions and GHG leaks linked to waste
-* [x] Emissions linked to wastewater (including treatment impact)
+* [x] Emissions related to plastic packaging waste and other plastics
+* [x] Emissions related to organic waste (food waste, green waste, etc.)
+* [x] Emissions related to household waste
+* [x] Emissions related to hazardous waste
+* [x] Emissions related to material waste
+* [x] Emissions related to other types of waste (WEEE, textiles, etc.)
+* [x] Non-energy emissions and GHG leaks related to waste
+* [x] Emissions related to wastewater (including treatment impact)
 
 This category includes waste in all its forms (solid, liquid or gaseous). The origin of waste varies (consumables after use, manufacturing waste and residues, purchase packaging, staff restaurant, etc.). The sub-categories sort waste by waste category, which implies an internal monitoring policy.
 
-Waste treatments can conventionally lead to GHG emissions:
+Waste treatment can typically lead to GHG emissions:
 
-* Either through the fermentation of organic waste placed in landfill or in biological treatment centres (methanisation plants or composting centres)
-* Or through the combustion of plastics (plastic is often derived from fossil fuels, such as oil or transformed gas).
-* Or through the material regeneration processes in the case of recycling (_see below_)
+* Either through the fermentation of organic waste sent to landfill or to biological treatment facilities (anaerobic digestion plants or composting sites)
+* Or through the combustion of plastics (plastic is often derived from fossil fuels, such as processed oil or gas).
+* Or through material regeneration processes in the case of recycling (_see below_)
 
 In all cases, these emissions are supplemented by emissions linked to the operation of the waste management process (waste collection, storage buildings, etc.).
 
@@ -244,7 +244,7 @@ The Fixed Assets category concerns the [purchase or long-term rental](annexe-1-g
 
 In the case of infrastructure, this generally concerns all construction other than a building (roads, car parks, etc.).
 
-In the case of vehicles, if the accounting carried out in the [Travel](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#travel) category includes a component dedicated to vehicle manufacture, the organisation must ensure it does not double count these emissions, which may be optionally taken into account either in the "Fixed Assets" or "Travel" category.
+In the case of vehicles, if the accounting carried out within the [Travel](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#deplacements) category includes a component dedicated to the manufacture of the vehicle, the organisation must ensure that it does not double count these emissions, which may be accounted for either within the "Fixed assets" category or the "Travel" category.
 
 When the organisation is a large entity managing an annual flow of renewal or increase of its fixed assets, it is recommended to treat this category as an annual flow and no longer as depreciation of the existing fleet. This choice will then be the most relevant for defining emission reduction actions, based on recurring annual purchases. This is particularly relevant for real estate development or construction organisations, car dealerships, etc.
 
@@ -264,20 +264,20 @@ If the organisation acquires a good that is already partially depreciated (movin
 
 ## End of Life
 
-This category covers all the emissions linked to the future end of life of products that have been sold or distributed within the temporal boundary:
+This category covers all emissions related to the future end of life of products that have been sold or distributed within the temporal boundary:
 
 * [x] Energy consumption at end of life
 * [x] Waste treatment at end of life
 * [x] Packaging treatment at end of life
 * [x] Non-energy emissions and GHG leaks linked to waste at end of life (e.g. refrigerant fluid leaks for a refrigerator sent to landfill)
 
-This involves calculating the quantity of GHGs that all products/services provided or distributed in the year of the assessment (or failing that during the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) of the assessment) will emit at their end of life. For example, if you produce refrigerators, at a rate of 5,000 units per year, each piece of equipment emitting 500 grams of gas at end of life, the emissions attributable to the end of life of your annual production are: 5,000 x 0.5 = 2,500 kilos, i.e. 2.5 tonnes of gas per year.
+This involves calculating the amount of GHGs that will be emitted by all the products/services supplied or distributed during the assessment year (or failing that, during the assessment's [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md)), at their end of life. For example, if you produce refrigerators, at a rate of 5,000 units per year, with each piece of equipment emitting 500 grams of gas at end of life, the emissions attributable to the end of life of your annual production amount to: 5,000 x 0.5 = 2,500 kilos, i.e. 2.5 tonnes of gas per year.
 
 At its "end of life", a product or service may generate emissions: fermentation of carrot peelings placed in landfill, CO₂ emissions from a plastic toy sent to an incinerator, etc. The organisation may not know with certainty the end of life of the products (goods or services) distributed in the year of the assessment (or failing that during the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) of the assessment). It will then be necessary to define end-of-life scenarios: either by estimating the energy required for end-of-life treatment (sub-category "Energy consumption at end of life"), or by considering the treatment channels for the materials used in the distributed products, and their mix in the distribution territories (sub-categories "Waste treatment at end of life" and "Packaging treatment at end of life").
 
 The End of Life category does not concern products or services whose very use implies destruction: a candle, a litre of fuel, a firework rocket, etc. In these cases, the emissions fall under the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) category.
 
-The sub-category "Packaging treatment at end of life" of products sold or distributed makes it possible to visualise the overall contribution of "waste by destination" that these [future packaging items](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging) represent, even though they are not thrown away directly by the entity that puts them into circulation. The emissions taken into account in this sub-category are linked to the End of Life of this packaging (which will occur almost immediately after it is put into circulation). The emissions linked to the production of plastics, paper, metals, etc. necessary for the production of the packaging are considered in the [Material intended for packaging](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) sub-category. These individualised sub-categories can be [aggregated](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#future-packaging).
+The "End-of-life treatment of packaging" subcategory for products sold or distributed makes it possible to visualise the overall contribution of the "waste by destination" represented by these [future packaging items](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#futurs-emballages), even though they are not discarded directly by the entity that places them on the market. The emissions accounted for in this subcategory relate to the End of Life of this packaging (which will occur almost immediately after it is placed on the market). The emissions related to the production of the plastics, paper, metals, etc. required to make the packaging are considered in the [Materials intended for packaging](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres) subcategory. These individualised subcategories may be [aggregated](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#futurs-emballages).
 
 ## Use & Dependence
 
@@ -287,35 +287,35 @@ This category covers:
 * [x] Emissions linked to "dependence-based" use, i.e. the use of products sold or distributed by the organisation within the temporal boundary considered over their entire service life, for which the organisation is not directly responsible but which its activity contributes to generating (for a manufacturer of meal trays served on an aircraft, dependence-based use corresponds to the emissions of the complete flight).
 * [x] Emissions linked to the use of financial investments made by the organisation
 
-Once a product (good or service) is with the customer or user, its use may generate GHG emissions.
+Once a product (good or service) is in the hands of the customer or user, its use may generate GHG emissions.
 
-The emissions of all that has been sold or distributed by the organisation in the year of the assessment (or failing that during the [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md) of the assessment) are taken into account over their estimated operating life. Average values of energy consumption and leaks linked to the use of products (goods and services) are required, as well as their average service life.
+Emissions from everything sold or distributed by the organisation during the assessment year (or failing that, during the assessment's [temporal boundary](../../2-perimetre-de-la-demarche/2.3-perimetre-temporel.md)) are accounted for over their estimated operating lifetime. Average values for energy consumption and leaks related to the use of the products (goods and services) are required, as well as their average lifespan.
 
 These emissions can easily become dominant over those of the other Bilan Carbone® categories.
 
-Many cases are concerned, such as for example:
+Many scenarios are concerned, for example:
 
-* The sale of cars implies accounting for petrol, possibly refrigerant fluid leaks for air conditioning, and emissions associated with maintenance services (manufacture and transport of spare parts, heating of premises used for this function, etc.), over the average mileage of the vehicle model;
-* Electricity production for household appliances (obviously highly variable depending on the country of use);
-* The combustion of gas for a dwelling as a whole (for a housing builder), or for a cooker (gas consumed over the average service life of a cooker);
-* The emissions of journeys if the organisation consists of financing exchange grants between countries (which often amounts to financing travel, notably by air).
-* Future refrigerant fluid leaks if the organisation sells air conditioning systems;
-* N₂O emissions if the organisation produces nitrogenous fertilisers;
-* The combustion of acetylene if the organisation sells blowtorches;
-* The maintenance of the cold chain if the organisation sells frozen products;
+* Selling cars means accounting for petrol, possibly refrigerant leaks from air conditioning, and the emissions associated with maintenance services (manufacture and transport of spare parts, heating of the premises used for this function, etc.), over the average mileage of the vehicle model;
+* Electricity generation for household appliances (obviously highly variable depending on the country of use);
+* Gas combustion for a dwelling as a whole (for a housing developer), or for a cooker (gas subsequently consumed over the average lifetime of a cooker);
+* Travel emissions if the organisation's activity consists in funding exchange scholarships between countries (which often amounts to funding trips, particularly by air).
+* Future refrigerant leaks if the organisation sells air conditioning systems;
+* N₂O emissions if the organisation produces nitrogen fertilisers;
+* Acetylene combustion if the organisation sells blowtorches;
+* Maintaining the cold chain if the organisation sells frozen foods;
 * Car journeys if the organisation sells products in hypermarkets.
 
 Other examples are proposed [below](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#examples-and-comparisons).
 
 For the use of material goods sold or distributed, this involves accounting for the energy and material production consumed.
 
-For the use of services sold or distributed, an approach based on the impact on the end customer can be adopted using the carbon intensity of the final product.
+For the use of services sold or distributed, an approach based on the impact at the end customer can be adopted by using the carbon intensity of the final product.
 
 Accounting for the Use category does not require allocation rules: however, these allocations (use of fuel by vehicles equipped with headlights, pro rata to the weight of the headlight) may be operationally relevant to provide indicators, steer the transition plan, etc.
 
 ### **Focus on the responsibility-based use and dependence-based use sub-categories:**
 
-These emissions are classified in the "Responsibility-based use" and "Dependence-based use" sub-categories, respectively, depending on the degree of responsibility or dependence.
+These emissions are classified under the "responsibility-based use" and "dependence-based use" sub-categories, respectively, according to the degree of responsibility or dependence.
 
 It is recommended to present the final [emission profile](../../4-comptabilisation/4.5-profil-demission.md) **with and without** the "Dependence-based use" sub-category. The 2 results are complementary and the Bilan Carbone® must make it possible to provide indicators adapted to each lever of action.
 
@@ -331,10 +331,10 @@ An organisation is never completely responsible for a "downstream" emission, nor
 
 #### Examples and comparisons on responsibility-based and dependence-based use:
 
-A few non-exhaustive examples are proposed here to enable organisations to grasp these concepts. As a reminder, and in summary:
+A few non-exhaustive examples are provided here to help organisations familiarise themselves with these concepts. As a reminder, and in summary:
 
-* -> **responsibility-based**: it is the product (good or service) itself that consumes or emits during its use phase.
-* -> **dependence-based**: the use of the product (good or service) is **conditioned by** a consumption or emission.
+* -> **as responsibility**: it is the product (good or service) itself that consumes or emits during its use phase.
+* -> **as dependency**: the use of the product (good or service) is **conditional upon** a consumption or emission.
 
 | Examples                                                                                                             | Responsibility-based use                                                       | Dependence-based use                                                                  |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
@@ -366,21 +366,21 @@ In tools, it may be relevant to differentiate these 2 uses: either to better ste
 
 ### Inflation
 
-If the organisation uses Spend-based emission factors, it may correct these Spend-based emission factors based on the inflation that applies to its purchases or rental of goods and services.
+In cases where the organisation uses spend-based emission factors, it may adjust these spend-based emission factors according to the inflation applicable to its purchases or leases of goods and services.
 
 If the organisation is able to calculate the specific inflation rate undergone by the product or service concerned between the date of creation of the EF and the date of carrying out the assessment, it must use this calculated inflation rate. For example, an organisation that uses the same service provider for its advertising campaigns every year, and that observes an inflation of 10% on the rates of this service provider (for the same service) between the year of creation of the EF and the current year should correct the EF by these 10% of inflation.
 
-If the organisation is not able to calculate this specific inflation rate, it may base itself on inflation measurements in the various countries concerned, preferably by sector.
+If the organisation is not able to calculate this specific inflation rate, it may rely on the inflation measures of the different countries concerned, preferably by sector.
 
 ### Digital
 
 The carbon impact of digital technology within the Bilan Carbone® requires the aggregation of several sub-categories if it is to be treated as a single block by the organisation:
 
-* "**Digital equipment**" [owned or rented](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#owner-or-tenant) consists of material goods, they are therefore accounted for either in [Inputs: goods and materials](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) if they are consumables (peripherals, etc.), or in [Fixed Assets](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#fixed-assets) if they are capitalised goods (computers, printers, etc.)
-* The organisation's "**digital uses**":
-  * If they involve an indirect impact (external servers, data processing and storage, data transport over networks, etc.), they are accounted for in [Inputs: services](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-services) in the Digital Uses sub-category.
-  * On the other hand, if they involve a direct energy consumption by the organisation (for example the electrical consumption of a computer), they are a priori already accounted for in the [Energy](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energy) category, and must not be subject to double counting.
-* External "digital uses" induced by the organisation's activities (for example the consultation on terminals by external users, beneficiaries or customers), are accounted for in the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#use-and-dependence) category, like other products and services provided by the organisation.
+* « **Digital equipment** » [owned or leased](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#proprietaire-ou-locataire) consists of physical goods, and is therefore accounted for either under [Purchased goods and materials](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-biens-et-matieres) if they are consumables (peripherals, etc.), or under [Capital goods](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#immobilisations) if they are capitalised assets (computers, printers, etc.)
+* The organisation's « **digital uses** » :
+  * If they involve an indirect impact (external servers, data processing and storage, data transmission over networks, etc.), they are accounted for under [Purchased services](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#intrants-services) in the Digital uses sub-category.
+  * However, if they involve direct energy consumption by the organisation (for example the electricity consumption of a computer), they are in principle already accounted for in the [Energy](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#energie) category, and must not be subject to double counting.
+* External « digital uses », induced by the organisation's activities (for example browsing on the devices of external users, beneficiaries or customers), are accounted for in the [Use](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#utilisation-and-dependance) category, like the other products and services provided by the organisation.
 
 ### Future packaging
 
@@ -389,16 +389,14 @@ The aggregation of the two sub-categories makes it possible to deal with the emi
 * Material intended for packaging, included in the [Inputs: goods and materials](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#inputs-goods-and-materials) category
 * Packaging treatment at end of life, included in the [End of Life](annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md#end-of-life) category
 
-Among the reasons why specific information on packaging is necessary, by individualising them within all incoming materials:
+Among the reasons why specific information on packaging is necessary, by identifying it separately within the overall set of incoming materials:
 
-* A package does not follow the same specifications as the product, and for the same product, the packaging may depend greatly on the transport arrangements to follow
-* The customer (or beneficiary) of the product or service generally does not require the same things from packaging as from the product
+* Packaging does not follow the same specifications as the product, and for a given product, the packaging can depend heavily on the transport arrangements to be used
+* The customer (or beneficiary) of the product or service generally does not expect the same thing from the packaging as from the product
 * Packaging is an operational responsibility distinct from that of the product, which generates specific information
-* The marketing and commercial constraints for packaging and the product are not identical
-* The fate of discarded packaging can be understood statistically (as they will be discarded everywhere), so that average emission factors can be assigned to them for their end of life
+* The marketing and commercial constraints for packaging and for the product are not identical
+* The fate of discarded packaging can be approached statistically (since it will be thrown away more or less everywhere), so that average GHG emission factors can be assigned to its end of life
 
 ### Avoided and sequestered emissions
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The Bilan Carbone® methodology does not address</mark> [<mark style="background-color:blue;">avoided or sequestered emissions</mark>](../../2-perimetre-de-la-demarche/2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md)<mark style="background-color:blue;">. It is recommended to rely on the</mark> [<mark style="background-color:blue;">avoided emissions calculation guide</mark>](../bibliographie/#net-zero-initiative-guide-pilier-b) <mark style="background-color:blue;">(pillar B) and on the</mark> [<mark style="background-color:blue;">carbon sequestration strategy building guide</mark>](../bibliographie/#net-zero-initiative-guide-pilier-b) <mark style="background-color:blue;">(pillar C). A future update of the Bilan Carbone® method will provide guidelines on the quantification of avoided emissions.</mark>
-
-

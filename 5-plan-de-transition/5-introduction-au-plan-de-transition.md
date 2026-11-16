@@ -40,7 +40,7 @@ All terms relating to the transition plan development stages are explained in th
 * Transition pathway: Within the Bilan Carbone® framework, the pathway is defined using a bottom-up approach: the emission profile (the organisation's current situation) and the reduction potentials of actions allow for the projection of an achievable pathway (trend and changes in emissions) that strengthens the credibility of the objectives.
 * Action plan: Set of concrete actions envisaged and enabling the objectives of the transition plan to be achieved. The action plan is established in the short term (until the assessment is renewed), even if certain actions extend to the medium or long term. It is the operational translation of the transition plan and the organisation's low-carbon transition strategy.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure 5.0.3: Glossary relating to the Transition Plan</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/en-purpose-of-the-transition-plan-part-2.png" alt=""><figcaption><p>Figure 5.0.3: Glossary relating to the Transition Plan</p></figcaption></figure>
 
 ## Governance relating to the Transition Plan
 
@@ -124,8 +124,6 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 {% endtab %}
 {% endtabs %}
 
-
-
 ## **Deliverables** relating to the Transition Plan
 
 The information and deliverables obtained at the end of stage 5, and associated with the above requirements, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:&#x20;
@@ -134,8 +132,6 @@ The information and deliverables obtained at the end of stage 5, and associated 
 * [x] The action plan via all the action sheets;
 * [x] The transition plan pathway;
 * [x] The dashboard-type monitoring system used for monitoring the assessment's transition plan, where applicable.
-
-
 
 ---
 
