@@ -1,11 +1,54 @@
-import anthropic
+"""Traduction FR → EN du guide Bilan Carbone®, paragraphe par paragraphe.
+
+Principe : on compare l'ancienne et la nouvelle version FR d'une page, paragraphe par
+paragraphe (blocs séparés par une ligne vide, titres compris). Seuls les paragraphes
+ajoutés ou modifiés sont traduits ; les paragraphes supprimés en FR sont supprimés en EN ;
+tout le reste de la page EN (y compris les retouches manuelles) est conservé.
+
+Le paragraphe EN correspondant à un paragraphe FR est retrouvé par sa position : chaque
+page EN doit donc avoir le même nombre de paragraphes que la page FR. Si ce n'est pas le
+cas, la page n'est pas modifiée et un avertissement est affiché dans GitHub Actions.
+
+Les traductions suivent le glossaire officiel (glossaire.csv), inclus dans les consignes.
+
+Post-traitement appliqué à chaque page EN écrite :
+- les images FR sont remplacées par leur version EN (table scripts/images-en.json) ;
+- les lignes « 🌐 English version of this image » sont supprimées.
+
+Variables d'environnement :
+- FILES             chemins des pages FR à traiter (séparés par des espaces)
+- BASE_REF          commit FR de référence pour la comparaison (défaut : HEAD~1)
+- ANTHROPIC_API_KEY clé API (inutile en DRY_RUN)
+- DRY_RUN=1         n'appelle pas l'API : les traductions sont remplacées par « [EN] <texte FR> »
+- FR_DIR / EN_DIR   dossiers des deux branches (défaut : fr / en)
+"""
+
+import csv
+import difflib
+import html
+import json
 import os
 import pathlib
-import subprocess
 import re
+import subprocess
+import sys
+import unicodedata
+import urllib.parse
 
-client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-files = os.environ["FILES"].split()
+MODEL = "claude-opus-5"
+FR_DIR = pathlib.Path(os.environ.get("FR_DIR", "fr"))
+EN_DIR = pathlib.Path(os.environ.get("EN_DIR", "en"))
+BASE_REF = os.environ.get("BASE_REF") or "HEAD~1"
+DRY_RUN = os.environ.get("DRY_RUN") == "1"
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
+
+# Pages jamais traduites automatiquement.
+EXCLUDED = {
+    "annexes/glossaire.md",  # EN réorganisé par ordre alphabétique anglais : maintenu à la main
+    "COHERENCE-METHODO-GLOSSAIRE.md",  # documents de travail internes, hors GitBook
+    "PROPOSITION-AJOUTS-GLOSSAIRE.md",
+    "TUTO-NOUVEAU-GITBOOK.md",
+}
 
 SYSTEM = """Tu es traducteur technique français → anglais pour la documentation
 de l'Association pour la transition Bas Carbone (ABC) — méthode Bilan Carbone®.
@@ -15,219 +58,324 @@ Règles impératives :
 - Préserve exactement la syntaxe GitBook : {% hint %}, {% tabs %}, {% details %}, tableaux, cards, liens.
 - Copie les balises <figure>, <img ...> et tout emoji exactement tels quels.
 - Conserve la même structure de titres (même nombre de #).
+- Conserve exactement le découpage en paragraphes : autant de blocs séparés par une ligne vide que dans le texte source.
 - "Bilan Carbone®" ne se traduit pas. Conserve aussi les sigles : ADEME, ABC, CSRD, GHG, ISO.
 - "GES" se traduit par "GHG", sauf quand il fait partie d'un sigle composé comme "BEGES-r" (à conserver tel quel).
 - Si le fichier est SUMMARY.md, traduis uniquement les titres affichés, jamais les chemins entre parenthèses.
 - Réponds uniquement avec le contenu traduit, sans commentaire ni balise supplémentaire."""
 
-HEADING_RE = re.compile(r'^(#{1,6})\s+')
+
+def load_glossary():
+    """Glossaire officiel FR → EN (glossaire.csv à la racine du repo, colonnes en,fr,…)."""
+    path = SCRIPT_DIR.parent / "glossaire.csv"
+    if not path.exists():
+        return ""
+    rows = []
+    with path.open(encoding="utf-8-sig", newline="") as f:
+        for row in csv.DictReader(f):
+            fr, en = (row.get("fr") or "").strip(), (row.get("en") or "").strip()
+            if fr and en:
+                rows.append(f"- {fr} → {en}")
+    if not rows:
+        return ""
+    return (
+        "\n\nGlossaire officiel de la méthode (FR → EN). Quand un de ces termes apparaît, "
+        "utilise obligatoirement la traduction indiquée, en adaptant seulement le nombre, "
+        "la casse ou l'article à la phrase. Pour les termes absents du glossaire, reste "
+        "cohérent avec ces choix.\n" + "\n".join(rows)
+    )
 
 
-def parse_sections(content):
-    """Split markdown into (frontmatter, [(heading, body), ...])."""
-    lines = content.split('\n')
-    frontmatter_lines = []
-    i = 0
+SYSTEM += load_glossary()
 
-    if lines and lines[0].strip() == '---':
-        frontmatter_lines.append(lines[0])
-        i = 1
-        while i < len(lines):
-            frontmatter_lines.append(lines[i])
-            if lines[i].strip() == '---':
-                i += 1
-                break
-            i += 1
+HEADING_RE = re.compile(r"^#{1,6}\s")
+LINK_PARA_RE = re.compile(r"🌐.*English version", re.S)
+# Références d'images : <img src="…">, ![](<…>) et ![](…). Le nom peut contenir
+# espaces et parenthèses (« Criteres (2).jpg ») dans les deux premières formes.
+IMG_REF_RES = [
+    re.compile(r'(src=")([^"]*\.gitbook/assets/)([^"]+)(?=")'),
+    re.compile(r"(\]\(<)([^<>]*\.gitbook/assets/)([^<>]+)(?=>)"),
+    re.compile(r"(\]\()([^<\s)]*\.gitbook/assets/)([^\s)]+)(?=[\s)])"),
+]
+PARA_SEP_RE = re.compile(r"\n[ \t]*\n+")
 
-    frontmatter = '\n'.join(frontmatter_lines)
-    sections = []
-    current_heading = None
-    current_body = []
+_client = None
+warnings = []
 
-    for line in lines[i:]:
-        if HEADING_RE.match(line):
-            sections.append((current_heading, '\n'.join(current_body)))
-            current_heading = line
-            current_body = []
-        else:
-            current_body.append(line)
 
-    sections.append((current_heading, '\n'.join(current_body)))
-    return frontmatter, sections
+def warn(rel_path, message):
+    print(f"::warning file={rel_path}::{message}")
+    warnings.append(f"{rel_path} : {message}")
+
+
+# ---------------------------------------------------------------- découpage
+
+def split_frontmatter(content):
+    content = content.replace("\r\n", "\n").lstrip("﻿")  # BOM éventuel
+    lines = content.split("\n")
+    if lines and lines[0].strip() == "---":
+        for i in range(1, len(lines)):
+            if lines[i].strip() == "---":
+                return "\n".join(lines[: i + 1]), "\n".join(lines[i + 1 :])
+    return "", content
 
 
 def split_paragraphs(body):
-    """Split a section body into paragraphs (double-newline separated blocks)."""
-    blocks = re.split(r'\n\n+', body)
-    return blocks
+    body = body.strip("\n").rstrip()
+    if not body.strip():
+        return []
+    return [p for p in PARA_SEP_RE.split(body)]
 
 
-def join_paragraphs(paras):
-    return '\n\n'.join(paras)
+def is_link_para(para):
+    return bool(LINK_PARA_RE.search(para))
 
 
-def reconstruct(frontmatter, sections):
-    parts = []
-    if frontmatter:
-        parts.append(frontmatter)
-    for heading, body in sections:
-        if heading is not None:
-            parts.append(heading)
-        if body:
-            parts.append(body)
-    return '\n'.join(parts)
+def paragraphs(content):
+    """(frontmatter, paragraphes sans les lignes « English version »)."""
+    fm, body = split_frontmatter(content)
+    return fm, [p for p in split_paragraphs(body) if not is_link_para(p)]
 
 
-def get_old_fr(rel_path):
+def assemble(fm, paras):
+    body = "\n\n".join(paras)
+    if fm:
+        return f"{fm}\n\n{body}\n"
+    return f"{body}\n"
+
+
+def needs_translation(para):
+    """Faux pour les paragraphes sans texte (&#x20;, {% endhint %}, image sans légende…)."""
+    text = re.sub(r"\{%.*?%\}", "", para, flags=re.S)
+    text = re.sub(r"<[^>]*>", "", text)
+    text = re.sub(r"&#?\w+;", "", text)
+    text = re.sub(r"!?\[[^\]]*\]\([^)]*\)", lambda m: m.group(0).split("](")[0], text)
+    return bool(re.search(r"[A-Za-zÀ-ÿ]", text))
+
+
+# ---------------------------------------------------------------- images EN
+
+def nfc(name):
+    # Les noms de fichiers peuvent avoir des accents composés (é) ou décomposés (e + ´)
+    return unicodedata.normalize("NFC", name)
+
+
+def load_image_map():
+    path = SCRIPT_DIR / "images-en.json"
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {nfc(k): v for k, v in data.items() if not k.startswith("_")}
+
+
+IMAGE_MAP = load_image_map()
+
+
+def apply_image_map(text):
+    def repl(m):
+        prefix, folder, name = m.groups()
+        decoded = nfc(urllib.parse.unquote(html.unescape(name)))
+        target = IMAGE_MAP.get(decoded)
+        return f"{prefix}{folder}{target}" if target else m.group(0)
+
+    for regex in IMG_REF_RES:
+        text = regex.sub(repl, text)
+    return text
+
+
+# Ligne « 🌐 English version of this image » avec la ligne vide qui la précède.
+LINK_LINE_RE = re.compile(r"\n[ \t]*\n[^\n]*🌐[^\n]*English version[^\n]*(?=\n|$)")
+
+
+def postprocess(content):
+    """Modifie uniquement les chemins d'images et les lignes « English version »,
+    sans toucher au reste de la mise en forme."""
+    content = content.replace("\r\n", "\n")
+    return LINK_LINE_RE.sub("", apply_image_map(content))
+
+
+# ---------------------------------------------------------------- appels API
+
+def client():
+    global _client
+    if _client is None:
+        import anthropic
+
+        _client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    return _client
+
+
+def claude(prompt, source, max_tokens=16000):
+    if DRY_RUN:
+        return f"[EN] {source}"
+    with client().messages.stream(
+        model=MODEL,
+        max_tokens=max_tokens,
+        # Consignes + glossaire identiques à chaque appel : mis en cache pour la durée du run
+        system=[{"type": "text", "text": SYSTEM, "cache_control": {"type": "ephemeral"}}],
+        output_config={"effort": "medium"},
+        messages=[{"role": "user", "content": prompt}],
+    ) as stream:
+        response = stream.get_final_message()
+    if response.stop_reason == "max_tokens":
+        raise RuntimeError("réponse tronquée (max_tokens atteint)")
+    if response.stop_reason == "refusal":
+        raise RuntimeError("requête refusée par le modèle")
+    return "".join(b.text for b in response.content if b.type == "text").strip()
+
+
+def nearest_heading(paras, index):
+    for p in reversed(paras[:index]):
+        if HEADING_RE.match(p):
+            return p
+    return None
+
+
+def translate_para(rel_path, fr_paras, index, en_before):
+    para = fr_paras[index]
+    if not needs_translation(para):
+        return para
+    context = []
+    heading = nearest_heading(fr_paras, index)
+    if heading:
+        context.append(f"Section : {heading}")
+    if index > 0:
+        context.append(f"Paragraphe précédent (FR) :\n{fr_paras[index - 1]}")
+    if en_before:
+        context.append(f"Paragraphe précédent (traduction EN existante) :\n{en_before}")
+    if index + 1 < len(fr_paras):
+        context.append(f"Paragraphe suivant (FR) :\n{fr_paras[index + 1]}")
+    prompt = (
+        f"Page : {rel_path}\n\nContexte (à ne pas traduire) :\n\n"
+        + "\n\n".join(context)
+        + "\n\n---\n\nTraduis en anglais uniquement le bloc markdown ci-dessous, "
+        "en un seul bloc (sans ligne vide si l'original n'en a pas) :\n\n"
+        + para
+    )
+    out = claude(prompt, para)
+    if PARA_SEP_RE.search(out) and not PARA_SEP_RE.search(para):
+        warn(rel_path, f"paragraphe {index} : lignes vides retirées de la traduction")
+        out = PARA_SEP_RE.sub("\n", out)
+    return out
+
+
+def translate_frontmatter(fm):
+    if not fm or not needs_translation(fm):
+        return fm
+    return claude(
+        f"Traduis les valeurs de ce frontmatter YAML en anglais (pas les clés), "
+        f"en conservant les délimiteurs --- :\n\n{fm}",
+        fm,
+        max_tokens=2048,
+    )
+
+
+# ---------------------------------------------------------------- traitement d'une page
+
+def git_show(ref, rel_path):
     result = subprocess.run(
-        ['git', 'show', f'HEAD~1:{rel_path}'],
-        capture_output=True, text=True, encoding='utf-8', cwd='fr'
+        ["git", "show", f"{ref}:{rel_path}"],
+        capture_output=True, text=True, encoding="utf-8", cwd=FR_DIR,
     )
     return result.stdout if result.returncode == 0 else None
 
 
-def claude(prompt, max_tokens=8192):
-    response = client.messages.create(
-        model="claude-opus-5",
-        max_tokens=max_tokens,
-        system=SYSTEM,
-        output_config={"effort": "medium"},
-        messages=[{"role": "user", "content": prompt}]
-    )
-    return response.content[0].text.strip()
+def translate_new_page(rel_path, new_fr):
+    """Nouvelle page : traduction paragraphe par paragraphe, alignement garanti."""
+    fm, fr_paras = paragraphs(new_fr)
+    en_paras = []
+    for i in range(len(fr_paras)):
+        en_paras.append(translate_para(rel_path, fr_paras, i, en_paras[-1] if en_paras else None))
+    return assemble(translate_frontmatter(fm), en_paras)
 
 
-def translate_full(content):
-    return claude(f"Traduis ce fichier markdown en anglais :\n\n{content}")
+def update_page(rel_path, old_fr, new_fr, en):
+    old_fm, old_paras = paragraphs(old_fr)
+    new_fm, new_paras = paragraphs(new_fr)
+    en_fm, en_paras = paragraphs(en)
+
+    if len(en_paras) != len(old_paras):
+        warn(
+            rel_path,
+            f"page EN non alignée sur le FR ({len(en_paras)} paragraphes EN pour "
+            f"{len(old_paras)} FR) : page non modifiée, à corriger à la main",
+        )
+        return None
+
+    matcher = difflib.SequenceMatcher(a=old_paras, b=new_paras, autojunk=False)
+    result = []
+    changes = 0
+    for op, i1, i2, j1, j2 in matcher.get_opcodes():
+        if op == "equal":
+            result.extend(en_paras[i1:i2])
+            continue
+        if op in ("delete", "replace"):
+            print(f"  - suppr./remplacement des paragraphes FR {i1}..{i2 - 1}")
+        for j in range(j1, j2):
+            print(f"  + traduction du paragraphe {j}")
+            result.append(translate_para(rel_path, new_paras, j, result[-1] if result else None))
+        changes += max(i2 - i1, j2 - j1)
+
+    fm = translate_frontmatter(new_fm) if new_fm != old_fm else en_fm
+    if not changes and fm == en_fm:
+        print("  aucun changement de contenu (hors lignes « English version »)")
+        return en  # mise en forme d'origine conservée
+    return assemble(fm, result)
 
 
-def translate_paragraph(heading, para):
-    context = f"Section : {heading}\n\n" if heading else ""
-    return claude(f"Traduis ce bloc markdown en anglais :\n\n{context}{para}", max_tokens=2048)
-
-
-def translate_section(heading, body):
-    text = f"{heading}\n{body}" if heading else body
-    translated = claude(f"Traduis cette section markdown en anglais :\n\n{text}", max_tokens=4096)
-    t_lines = translated.split('\n')
-    if t_lines and HEADING_RE.match(t_lines[0]):
-        return t_lines[0], '\n'.join(t_lines[1:])
-    return heading, translated
-
-
-def translate_frontmatter(fm):
-    return claude(f"Traduis les valeurs de ce frontmatter YAML en anglais (pas les clés) :\n\n{fm}", max_tokens=256)
-
-
-def find_changed_sections(old_content, new_content):
-    _, old_secs = parse_sections(old_content)
-    _, new_secs = parse_sections(new_content)
-
-    if len(old_secs) != len(new_secs):
-        return None  # structural change → full retranslation
-
-    changed = {i for i, ((nh, nb), (oh, ob)) in enumerate(zip(new_secs, old_secs))
-               if nh != oh or nb != ob}
-    return changed
-
-
-def translate_section_partial(heading, old_fr_body, new_fr_body, en_body):
-    """Retranslate only changed paragraphs within a section, preserving EN manual edits."""
-    old_paras = split_paragraphs(old_fr_body)
-    new_paras = split_paragraphs(new_fr_body)
-    en_paras = split_paragraphs(en_body)
-
-    # If paragraph counts don't align → retranslate whole section
-    if len(old_paras) != len(new_paras) or len(new_paras) != len(en_paras):
-        label = (heading or '(intro)')[:60]
-        print(f"    paragraph count mismatch in [{label}] → retranslating whole section")
-        return translate_section(heading, new_fr_body)
-
-    changed_paras = {i for i, (n, o) in enumerate(zip(new_paras, old_paras)) if n != o}
-
-    if not changed_paras:
-        # Heading changed but no body paragraphs changed — translate heading only
-        translated_heading = claude(
-            f"Traduis ce titre markdown en anglais :\n\n{heading}", max_tokens=128
-        ) if heading else heading
-        return translated_heading, en_body
-
-    new_en_paras = list(en_paras)
-    for j in sorted(changed_paras):
-        print(f"    paragraph {j}")
-        new_en_paras[j] = translate_paragraph(heading, new_paras[j])
-
-    new_heading = heading
-    if heading:
-        # Check if heading itself changed vs old section heading
-        # (handled by caller; retranslate heading along with first changed para)
-        pass
-
-    return new_heading, join_paragraphs(new_en_paras)
-
-
-for rel_path in files:
-    rel_path = rel_path.strip()
-    if not rel_path.endswith('.md'):
-        continue
-
-    fr_path = pathlib.Path('fr') / rel_path
-    en_path = pathlib.Path('en') / rel_path
-
+def process(rel_path):
+    fr_path = FR_DIR / rel_path
+    en_path = EN_DIR / rel_path
     if not fr_path.exists():
-        print(f"Skipping {rel_path}: not found in fr/")
-        continue
+        print(f"[IGNORÉ] {rel_path} : absent côté FR")
+        return
+    new_fr = fr_path.read_text(encoding="utf-8")
 
-    new_fr = fr_path.read_text(encoding='utf-8')
-    old_fr = get_old_fr(rel_path)
-
-    # New file or no previous FR version → full translation
-    if not en_path.exists() or old_fr is None:
-        print(f"[FULL] {rel_path}")
+    if not en_path.exists():
+        print(f"[NOUVELLE PAGE] {rel_path}")
         en_path.parent.mkdir(parents=True, exist_ok=True)
-        en_path.write_text(translate_full(new_fr), encoding='utf-8')
-        print(f"  → done")
-        continue
+        en_path.write_text(
+            postprocess(translate_new_page(rel_path, new_fr)), encoding="utf-8", newline="\n"
+        )
+        return
 
-    fr_fm, fr_secs = parse_sections(new_fr)
-    old_fr_fm, old_fr_secs = parse_sections(old_fr)
-    changed = find_changed_sections(old_fr, new_fr)
+    old_fr = git_show(BASE_REF, rel_path)
+    if old_fr is None:
+        warn(rel_path, f"aucune version FR à {BASE_REF} pour comparer : page EN non modifiée")
+        return
 
-    if changed is None:
-        print(f"[FULL - structural change] {rel_path}")
-        en_path.write_text(translate_full(new_fr), encoding='utf-8')
-        print(f"  → done")
-        continue
+    en = en_path.read_text(encoding="utf-8")
+    print(f"[MISE À JOUR] {rel_path}")
+    updated = update_page(rel_path, old_fr, new_fr, en)
+    if updated is None:
+        return
+    updated = postprocess(updated)
+    if updated != en.replace("\r\n", "\n"):
+        en_path.write_text(updated, encoding="utf-8", newline="\n")
+        print("  → page EN écrite")
 
-    if not changed and fr_fm == old_fr_fm:
-        print(f"[SKIP] {rel_path} — no changes detected")
-        continue
 
-    en_content = en_path.read_text(encoding='utf-8')
-    en_fm, en_secs = parse_sections(en_content)
+def main():
+    files = [f.strip() for f in os.environ.get("FILES", "").split() if f.strip()]
+    errors = []
+    for rel_path in files:
+        if not rel_path.endswith(".md"):
+            continue
+        if rel_path in EXCLUDED:
+            print(f"[EXCLU] {rel_path}")
+            continue
+        try:
+            process(rel_path)
+        except Exception as exc:  # une page en échec ne bloque pas les autres
+            print(f"::error file={rel_path}::{exc}")
+            errors.append(f"{rel_path} : {exc}")
 
-    # Section count mismatch between EN and FR → full retranslation
-    if len(fr_secs) != len(en_secs):
-        print(f"[FULL - EN/FR mismatch] {rel_path}")
-        en_path.write_text(translate_full(new_fr), encoding='utf-8')
-        print(f"  → done")
-        continue
+    if warnings or errors:
+        print("\nÀ vérifier :")
+        for line in warnings + errors:
+            print(f"  - {line}")
+    sys.exit(1 if errors or warnings else 0)
 
-    print(f"[PARTIAL] {rel_path} — {len(changed)} section(s) changed")
 
-    new_en_secs = list(en_secs)
-    for i in sorted(changed):
-        new_h, new_b = fr_secs[i]
-        old_h, old_b = old_fr_secs[i]
-        _, en_b = en_secs[i]
-        label = (new_h or '(intro)')[:60]
-        print(f"  section {i}: {label}")
-        new_en_secs[i] = translate_section_partial(new_h, old_b, new_b, en_b)
-
-    # Translate frontmatter if changed
-    if fr_fm != old_fr_fm:
-        print(f"  translating frontmatter")
-        en_fm = translate_frontmatter(fr_fm)
-
-    en_path.write_text(reconstruct(en_fm, new_en_secs), encoding='utf-8')
-    print(f"  → done ({len(changed)} section(s) processed, EN manual edits preserved)")
+if __name__ == "__main__":
+    main()

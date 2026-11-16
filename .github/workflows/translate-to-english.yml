@@ -8,12 +8,21 @@ on:
   workflow_dispatch:
     inputs:
       files:
-        description: "Fichiers à traduire (chemins relatifs séparés par des espaces)"
+        description: "Fichiers à traduire (chemins relatifs séparés par des espaces). Vide = fichiers modifiés depuis « base »."
+        required: false
+        default: ""
+      base:
+        description: "Commit FR de référence pour la comparaison (défaut : commit précédent)"
         required: false
         default: ""
 
 permissions:
   contents: write
+
+# Une seule traduction à la fois, pour éviter les conflits de push sur translated-en.
+concurrency:
+  group: translate-en
+  cancel-in-progress: false
 
 jobs:
   translate:
@@ -22,7 +31,7 @@ jobs:
       - name: Checkout branche FR (source)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
           path: fr
 
       - name: Checkout branche EN (cible)
@@ -34,12 +43,25 @@ jobs:
       - name: Détecter les fichiers modifiés
         id: diff
         working-directory: fr
+        env:
+          INPUT_FILES: ${{ github.event.inputs.files }}
+          INPUT_BASE: ${{ github.event.inputs.base }}
+          PUSH_BEFORE: ${{ github.event.before }}
         run: |
-          if [ -n "${{ github.event.inputs.files }}" ]; then
-            FILES="${{ github.event.inputs.files }}"
-          else
-            FILES=$(git diff --name-only HEAD~1 HEAD -- '*.md' | tr '\n' ' ')
+          BASE="${INPUT_BASE:-$PUSH_BEFORE}"
+          # Pas de commit précédent connu (premier push, force-push…) → commit parent
+          if [ -z "$BASE" ] || ! git cat-file -e "$BASE^{commit}" 2>/dev/null; then
+            BASE="HEAD~1"
           fi
+          if [ -n "$INPUT_FILES" ]; then
+            FILES="$INPUT_FILES"
+          else
+            # Tous les commits du push, pas seulement le dernier ; fichiers supprimés exclus
+            FILES=$(git diff --name-only --diff-filter=d "$BASE" HEAD -- '*.md' | tr '\n' ' ')
+          fi
+          echo "Base : $BASE"
+          echo "Fichiers : $FILES"
+          echo "base=$BASE" >> "$GITHUB_OUTPUT"
           echo "files=$FILES" >> "$GITHUB_OUTPUT"
 
       - name: Traduire avec l'API Anthropic
@@ -47,11 +69,14 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FILES: ${{ steps.diff.outputs.files }}
+          BASE_REF: ${{ steps.diff.outputs.base }}
         run: |
           pip install anthropic --quiet
           python3 fr/scripts/translate.py
 
+      # Exécuté même si une page a échoué : les pages traduites avec succès sont publiées.
       - name: Commit et push vers translated-en
+        if: always() && steps.diff.outputs.files != ''
         working-directory: en
         run: |
           git config user.name "claude-translate-bot"
@@ -59,8 +84,8 @@ jobs:
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "Translate updated pages to English"
+            git pull --rebase origin translated-en
             git push origin translated-en
           else
             echo "Rien à committer"
           fi
-
