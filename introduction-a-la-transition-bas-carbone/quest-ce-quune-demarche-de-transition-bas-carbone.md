@@ -6,7 +6,7 @@ description: Rôles et définitions de la transition bas carbone.
 
 ## Rôle des organisations et nécessité de la transition bas carbone
 
-Les organisations, comme toutes les parties prenantes de la société (collectivités, états, individus), ont un rôle à jouer afin d'anticiper la transition bas carbone :&#x20;
+Les organisations, comme toutes les parties prenantes de la société (collectivités, états, individus), ont un rôle à jouer afin d'anticiper la transition bas carbone :
 
 * Pour limiter les impacts de l'organisation sur le changement climatique (estimer ses impacts pour les réduire)
 * Pour limiter les impacts du changement climatique sur l'organisation (réduire sa dépendance aux énergies fossiles ou au carbone ; réduire sa vulnérabilité aux risques physiques ; anticiper les freins ciblant les activités carbonées et le coût de l'inaction ; développer sa place dans le monde de demain et sa compatibilité avec un monde bas carbone)
@@ -15,11 +15,11 @@ Cette lutte s’insère dans la Responsabilité Sociétale des Organisations ([R
 
 ## Rôle de la comptabilité carbone
 
-La comptabilité carbone est un outil structurant pour engager **la première étape d'une démarche de transition bas carbone** : il s’agit d’identifier les sources d’émissions de gaz à effet de serre (GES) afin de pouvoir les réduire. Une fois les émissions connues, une organisation pourra les déclarer – on parle de _reporting_ – et bâtir un plan de transition en réponse.&#x20;
+La comptabilité carbone est un outil structurant pour engager **la première étape d'une démarche de transition bas carbone** : il s’agit d’identifier les sources d’émissions de gaz à effet de serre (GES) afin de pouvoir les réduire. Une fois les émissions connues, une organisation pourra les déclarer – on parle de _reporting_ – et bâtir un plan de transition en réponse.
 
 Ces actions peuvent suivre deux approches complémentaires : **l’atténuation** (limiter les impacts de l'organisation sur le changement climatique) et **l’adaptation** (limiter les impacts du changement climatique sur l'organisation).
 
-En conclusion, **l'indicateur carbone** ainsi comptabilisé est un indicateur d'activité qui permet :&#x20;
+En conclusion, **l'indicateur carbone** ainsi comptabilisé est un indicateur d'activité qui permet :
 
 * **De prendre des décisions en interne** : afin de « compter pour agir » (identifier les priorités, savoir où agir et comment). Il sert au management des émissions de GES et au pilotage des actions. L'indicateur carbone s'inscrit alors dans une [triple comptabilité](../annexes/glossaire.md) qui vise à coupler la performance économique, sociale et environnementale de l'organisation.
 * **De le publier à l'externe** : pour du _reporting_ règlementaire ou volontaire, ainsi que pour témoigner de ses actions et de ses engagements de manière transparente auprès de ses parties prenantes.
@@ -30,7 +30,7 @@ Attention, la comptabilité carbone n'est pas une mesure mais un calcul. Elle n'
 
 Les démarches de transition bas carbone font progresser les organisations dans leur parcours de transition. Ces démarches, d'une manière générale, suivent un processus structuré en plusieurs étapes clés, présentées dans un « **parcours de transition** » ci-dessous.
 
-&#x20;                                  **Comptabiliser** :arrow\_right: **Planifier et agir** :arrow\_right: **Evaluer**&#x20;
+**Comptabiliser** :arrow\_right: **Planifier et agir** :arrow\_right: **Evaluer**
 
 <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,10 +48,8 @@ Chaque organisation **adapte** ce parcours à son profil et à sa maturité, ass
 
 <figure><img src="../.gitbook/assets/Démarche de transition bas carbone.jpg" alt=""><figcaption><p>Figure 0.1.1 : Exemple de parcours de transition type pour les TPE et PME - Source Réussir sa transition bas carbone, ABC, 2020.</p></figcaption></figure>
 
-🌐 [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Approach-of-the-lowcarbon-transition_Demarche-de-transition-bas-carbone-scaled.png) _<mark style="color:$info;">of this image.</mark>_
-
 {% hint style="warning" %}
-**Pour aller plus loin :** Ces éléments d'introduction sont un indispensable prérequis dans une démarche Bilan Carbone®. Ils doivent être connus, compris et maîtrisés par les parties prenantes impliquées et seront abordés dans l'étape de [Mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes). Ils sont plus amplement détaillés dans les [ressources de sensibilisation et vulgarisation](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) des enjeux.&#x20;
+**Pour aller plus loin :** Ces éléments d'introduction sont un indispensable prérequis dans une démarche Bilan Carbone®. Ils doivent être connus, compris et maîtrisés par les parties prenantes impliquées et seront abordés dans l'étape de [Mobilisation](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes). Ils sont plus amplement détaillés dans les [ressources de sensibilisation et vulgarisation](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) des enjeux.
 {% endhint %}
 
 ***

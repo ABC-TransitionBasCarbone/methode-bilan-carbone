@@ -19,7 +19,7 @@ Pour positionner le rôle et l'intérêt du Bilan Carbone® dans une démarche d
 
 ## :one: Les différentes échelles de comptabilité carbone
 
-Dans le cadre de la comptabilité carbone, on distingue généralement quatre échelles principales :&#x20;
+Dans le cadre de la comptabilité carbone, on distingue généralement quatre échelles principales :
 
 * **Territoires** : cette échelle s'applique à une région géographique spécifique, telle qu'une ville, une région ou un pays. Elle inclue les organisations qui y sont implantées, les individus y habitant, et donc toutes les activités s'y déroulant. [Deux méthodes complémentaires](../annexes/bibliographie/#autres-echelles-de-comptabilisation-des-emissions-de-ges) existent : l'une s'intéresse aux émissions de GES produites strictement sur le territoire (approche inventaire ou cadastrale). L'autre comptabilise également les émissions indirectes, produites en dehors du territoire mais nécessaires à son fonctionnement et aux activités y prenant place (approche empreinte ou responsabilité). Comme pour les organisations, l'approche cadastrale se préoccupe des émissions dont le territoire est directement contributeur - ayant lieu en son sein - alors que l'approche empreinte permet de conclure sur la dépendance du territoire aux énergies fossiles et à sa vulnérabilité face aux enjeux de la transition bas carbone.
 * **Individus** : cette échelle se focalise sur les émissions de GES attribuables aux activités d'une personne. Une [méthode de référence](../annexes/bibliographie/#autres-echelles-de-comptabilisation-des-emissions-de-ges) cadre la méthode d'estimation de l’empreinte d’un individu afin d'apporter une information exhaustive et pédagogique de sa contribution climatique et de ses leviers d'action.
@@ -36,11 +36,11 @@ Toutes ces échelles de comptabilité sont pertinentes, permettant de s'adapter 
 
 ## :two: La place du Bilan Carbone® parmi les standards actuels de comptabilité carbone d'une organisation
 
-Parmi les standards actuels les plus reconnus en matière de comptabilité carbone d'une organisation, on retrouve :&#x20;
+Parmi les standards actuels les plus reconnus en matière de comptabilité carbone d'une organisation, on retrouve :
 
 * La Méthode réglementaire de réalisation des bilans d'émissions des GES, en France ([BEGES-R](../annexes/bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges))\*
 * Le Greenhouse Gas Protocol ([GHG-P](../annexes/bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges))
-* &#x20;L'ISO 14064-1:2006 et ISO 14069:2013 ([ISO](../annexes/bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges))
+* L'ISO 14064-1:2006 et ISO 14069:2013 ([ISO](../annexes/bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges))
 
 \*le BEGES-R est une réglementation associée à une méthode, il en sera donc également question dans le paragraphe [suivant](quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#id-3-la-place-du-bilan-carbone-r-vis-a-vis-des-reglementations) qui concerne les règlementations.
 
@@ -51,17 +51,15 @@ Le Bilan Carbone® et ces standards présentent des similitudes, des complément
 * Les **livrables** Bilan Carbone® sont cohérents avec les informations demandées par les autres standards. L'export des résultats et le formalisme de ces livrables peut néanmoins différer. La restitution du Bilan Carbone® dresse les liens de correspondances nécessaires permettant de suivre la méthode Bilan Carbone® et d'[extraire les résultats dans plusieurs formats](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md). Des précautions peuvent être cependant nécessaires (par exemple travailler en [significativité](../annexes/glossaire.md) pour suivre la philosophie de l’ISO ou du BEGES-R, ne pas amortir les immobilisations dans le cas du GHG-P). Les précautions à identifier sont précisées le cas échéant.
 * Une spécificité importante du Bilan Carbone® réside dans son **positionnement** en tant que [**démarche**](quest-ce-quune-demarche-de-transition-bas-carbone.md) **complète,** dans laquelle la comptabilité carbone n'est qu'une étap&#x65;**.** À l'inverse des autres standards de comptabilité carbone, la méthode Bilan Carbone® met également l'accent sur la mobilisation et la planification de l'action. Les exigences granulaires de la méthode permettent à l'organisation de gagner en maturité à chaque renouvellement de l'exercice, dans une logique progressive et de démarche à long terme, jusqu'à devenir un outil de management environnemental.
 * Le périmètre à prendre en compte dans un Bilan Carbone® inclut également les émissions dont l'organisation est **dépendante**. Cela permet d'agir stratégiquement sur les vulnérabilités de l'organisation. Il ne s'agit pas de déterminer un responsable des émissions, mais plutôt d'identifier qui peut agir pour les réduire.
-* Quelques [**procédés calculatoires**](../annexes/annexes/annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md) diffèrent et doivent être appliqués avec précaution :&#x20;
+* Quelques [**procédés calculatoires**](../annexes/annexes/annexe-1-grands-principes-de-comptabilisation-du-bilan-carbone-r.md) diffèrent et doivent être appliqués avec précaution :
   * Les émissions associées aux consommation énergétiques sont calculées avec une approche basée sur la localisation («location-based») dans le Bilan Carbone® et le BEGES-R. L'ISO intègre la possibilité de le faire également selon une approche basée sur le marché («market-based»). Le GHG-P demande de calculer les deux approches.
   * Les émissions associées aux biens immobilisables doivent être amorties dans le Bilan Carbone® et le BEGES-R. Le GHG-P demande de ne pas amortir ces émissions. L'ISO laisse le choix entre les deux possibilités.
   * Les postes d'émissions sont très similaires entre ces standards, avec néanmoins deux spécificités : l'ISO intègre les «suppressions de GES» ; et le GHG-P n'intègre pas les «déplacements de visiteurs».
   * Ces procédés calculatoires sont déclinés dans les [guides pratiques](../annexes/bibliographie/#guides-pratiques-de-comptabilisation). Il faut retenir qu'il est possible de suivre la méthode Bilan Carbone®, et d'exporter les résultats, selon d'autres standards, en appliquant ces principes calculatoires.
 
-Le tableau ci-dessous est un récapitulatif des similitudes et spécificités entre le Bilan Carbone® et les autres standards actuels de comptabilité carbone d'une organisation :&#x20;
+Le tableau ci-dessous est un récapitulatif des similitudes et spécificités entre le Bilan Carbone® et les autres standards actuels de comptabilité carbone d'une organisation :
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/Schemas-MethodeBilanCarbone-Juin-2025.png" alt=""><figcaption><p>Figure 0.1.2 : La place du Bilan Carbone® parmi les standards actuels de comptabilité carbone d'une organisation</p></figcaption></figure></div>
-
-🌐 [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/The-place-of-the-Bilan-Carbone_La-place-du-Bilan-Carbone-parmi-les-standards-scaled.png) _<mark style="color:$info;">of this image.</mark>_
 
 ## :three: La place du Bilan Carbone® vis-à-vis des réglementations
 
@@ -84,7 +82,7 @@ La méthode Bilan Carbone® est [**compatible**](../6-synthese-et-restitution/6.
 Le Bilan Carbone® conserve plusieurs spécificités complémentaires (logique de démarche, ou logique d'analyse stratégique par exemple), complétées par la formation, les outils et la communauté qui accompagnent cette méthode.
 
 {% hint style="warning" %}
-Le Bilan Carbone® permet la comptabilité carbone sur un périmètre et un pas de temps libre (par exemple un projet, un évènement, un chantier). Si une organisation obligée à la réglementation souhaite utiliser le Bilan Carbone®, deux précautions majeures sont à prendre :&#x20;
+Le Bilan Carbone® permet la comptabilité carbone sur un périmètre et un pas de temps libre (par exemple un projet, un évènement, un chantier). Si une organisation obligée à la réglementation souhaite utiliser le Bilan Carbone®, deux précautions majeures sont à prendre :
 
 * Le périmètre temporel doit être une année complète d'activité (année de reporting).
 * Le périmètre organisationnel doit être celui de la Personne Morale soumise à la règlementation (SIREN).
@@ -97,13 +95,13 @@ Le suivi de la démarche Bilan Carbone®, dans son niveau d'exigence le plus él
 * Le Bilan Carbone® de [niveau Initial](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-initial-un-premier-bilan-carbone-r) et [Standard](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-standard-un-bilan-carbone-r-avec-des-actions-ciblant-lensemble-des-emissions) ne répondent pas à la totalité des exigences de la CSRD (ESRS E1).
 * Le Bilan Carbone® de [niveau Avancé](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-avance-un-bilan-carbone-r-qui-pilote-une-veritable-strategie-de-transition) couvre la majeure partie des exigences, [listées ici.](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md)
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Un tableau de correspondance sera prochainement mis à disposition listant les</mark> <mark style="background-color:blue;"></mark>_<mark style="background-color:blue;">data points</mark>_ <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(informations spécifiques que l'organisation est tenue de divulguer dans le cadre de la CSRD) qu'une démarche Bilan Carbone® de niveau Avancé permettra de compléter.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Un tableau de correspondance sera prochainement mis à disposition listant les</mark> _<mark style="background-color:blue;">data points</mark>_ <mark style="background-color:blue;">(informations spécifiques que l'organisation est tenue de divulguer dans le cadre de la CSRD) qu'une démarche Bilan Carbone® de niveau Avancé permettra de compléter.</mark>
 
 Les déclarations à la CSRD nécessitent un audit par un organisme tiers indépendant. L'ABC et le Conseil National de l'Ordre des Experts Comptables ont rédigé un [guide de l'évaluation](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) d'un Bilan Carbone®, d'un BEGES-R et d'un exercice propre à la CSRD afin que les pratiques d'évaluation soient communes et partagées, pour chercher toujours davantage de synergies et clarifier les enjeux de transition pour toutes les organisations.
 
 ## :four: Le Bilan Carbone® dans une démarche de transition bas carbone
 
-Une organisation rencontre plusieurs besoins tout au long de sa montée en maturité sur les enjeux de transition :&#x20;
+Une organisation rencontre plusieurs besoins tout au long de sa montée en maturité sur les enjeux de transition :
 
 * **Connaître son contexte** : Quelles sont les demandes de ses parties prenantes ? Quelles sont ses obligations réglementaires ? Quelles sont les meilleures pratiques de son secteur ? Une organisation a d'abord besoin de motiver son action de transition. Plusieurs ressources sont à disposition, notamment les [guides sectoriels ](../annexes/bibliographie/#guides-pratiques-de-comptabilisation)de l'ADEME, mais aussi les [contenus proposés par l'ABC](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r). Le Bilan Carbone® propose ici de définir plusieurs périmètres (organisationnel, opérationnel, temporel) afin de dimensionner l'exercice de façon pertinente en regard du contexte de l'organisation. Une analyse des risques et opportunités de transition est demandée dans le cadre du Bilan Carbone® afin d'entamer le travail d'élaboration d'une vision long terme de la transition bas carbone de l'organisation.
 * **Connaître son profil d'émission** (profil GES) : quels sont les postes d'émissions ? comment s'articulent ils ? quelle est la ou les priorité(s) pour l'organisation en matière de réduction ? Les [standards internationaux](quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#la-place-du-bilan-carbone-r-parmi-les-standards-actuels-de-comptabilite-carbone-dune-organisation) mais aussi la [réglementation](quelle-integration-du-bilan-carbone-r-au-sein-dune-demarche-de-transition-bas-carbone.md#la-place-du-bilan-carbone-r-vis-a-vis-des-reglementations) française proposent des méthodes et des formats de restitution sur cet enjeu, à des fins de reporting. Le Bilan Carbone® va plus loin, en accompagnant l'organisation depuis la collecte des données jusqu'à la réalisation du profil GES et son interprétation. Plusieurs déclinaisons sectorielles du Bilan Carbone® permettent aux organisations des secteurs concernés de se focaliser sur les enjeux du secteur. Le Bilan Carbone® propose en parallèle des activités de mobilisation pour faire connaître les premières conclusions et favoriser l'action. Le Bilan Carbone® propose un [process d'audit](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/7-evaluation-et-qualite-du-bilan-carbone-r) volontaire, afin d'assurer une qualité optimale de ses résultats et des actions qui en découlent.
@@ -114,8 +112,6 @@ Une organisation rencontre plusieurs besoins tout au long de sa montée en matur
 Le parcours de transition est non linéaire. Chacune de ses démarches vient nourrir la réflexion de l'organisation et lui faire gagner en maturité. Les parcours sont multiples, et dans une logique de cycle, d'amélioration continue et de renouvellement, le Bilan Carbone® répond au besoin de pilotage régulier des émissions et des résultats.
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/LaPlaceduBilanCarbone_Demarche_Blanc.jpg" alt=""><figcaption><p>Figure 0.1.3 : La place du Bilan Carbone® au sein d'une démarche de transition bas carbone</p></figcaption></figure></div>
-
-<mark style="color:$info;">🌐</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">English version of this image.</mark>_
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] Le troisième panorama de l'ABC sur les</mark> [<mark style="background-color:blue;">différents parcours de transition</mark>](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) <mark style="background-color:blue;">sera prochainement mis à jour et détaillera les différents outils et méthodes à disposition.</mark>
 

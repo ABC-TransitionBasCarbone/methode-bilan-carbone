@@ -10,8 +10,4 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Exemple de détermination de l&#x27;incertitude - DA.png" alt=""><figcaption><p>Figure Annexe 3.1 : Exemple de détermination de l'incertitude des données d'activité.</p></figcaption></figure>
 
-🌐 _English version of this image._
-
 <figure><img src="../../.gitbook/assets/Exemple de détermination de l&#x27;incertitude - FE.png" alt=""><figcaption><p>Figure Annexe 3.2 : Exemple de détermination de l'incertitude du facteur d'émission</p></figcaption></figure>
-
-🌐 _English version of this image._
