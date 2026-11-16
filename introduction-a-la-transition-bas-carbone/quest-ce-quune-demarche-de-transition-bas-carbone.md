@@ -1,4 +1,4 @@
----
+﻿---
 description: Roles and definitions of the low-carbon transition.
 ---
 
@@ -6,7 +6,7 @@ description: Roles and definitions of the low-carbon transition.
 
 ## Role of organisations and the need for low-carbon transition
 
-Organisations, like all stakeholders in society (local authorities, states, individuals), have a role to play in anticipating the low-carbon transition:
+Organisations, like all stakeholders in society (local authorities, states, individuals), have a role to play in anticipating the low-carbon transition:&#x20;
 
 * To limit the organisation's impacts on climate change (estimate its impacts in order to reduce them)
 * To limit the impacts of climate change on the organisation (reduce its dependence on fossil fuels or carbon; reduce its vulnerability to physical risks; anticipate barriers targeting carbon-intensive activities and the cost of inaction; develop its place in tomorrow's world and its compatibility with a low-carbon world)
@@ -15,11 +15,11 @@ This effort falls within the Corporate Social Responsibility ([CSR](../annexes/g
 
 ## Role of carbon accounting
 
-Carbon accounting is a structuring tool for undertaking **the first step of a low carbon transition approach**: identifying greenhouse gas (GHG) emission sources in order to reduce them. Once emissions are known, an organisation can report them – this is referred to as _reporting_ – and build a transition plan in response.
+Carbon accounting is a structuring tool for engaging **the first step of a low-carbon transition approach**: it involves identifying sources of greenhouse gas (GHG) emissions in order to reduce them. Once emissions are known, an organisation can declare them — this is called _reporting_ — and build a transition plan in response.&#x20;
 
 These actions can follow two complementary approaches: **mitigation** (limiting the organisation's impacts on climate change) and **adaptation** (limiting the impacts of climate change on the organisation).
 
-In conclusion, the **carbon indicator** thus accounted for is an activity indicator that makes it possible:
+In conclusion, **the carbon indicator** thus accounted for is an activity indicator that enables:&#x20;
 
 * **Internal decision-making**: in order to "count in order to act" (identify priorities, know where and how to act). It serves the management of GHG emissions and the monitoring of actions. The carbon indicator is then part of a [Triple bottom line (TBL or 3BL)](../annexes/glossaire.md) approach that aims to couple the economic, social and environmental performance of the organisation.
 * **External publication**: for regulatory or voluntary _reporting_, as well as to transparently demonstrate its actions and commitments to its stakeholders.
@@ -30,7 +30,7 @@ Note that carbon accounting is not a measurement but a calculation. It is not ri
 
 Low-carbon transition approaches advance organisations along their transition pathway. These approaches, in general, follow a structured process with several key steps, presented in a "**transition pathway**" below.
 
-**Account** :arrow\_right: **Plan and act** :arrow\_right: **Evaluate**
+&#x20;                                  **Account** :arrow\_right: **Plan and act** :arrow\_right: **Evaluate**&#x20;
 
 <figure><img src="../.gitbook/assets/en-place-of-bilan-carbone-in-the-approach-banner.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ Each organisation **adapts** this pathway to its profile and maturity, thereby e
 <figure><img src="../.gitbook/assets/en-approach-of-the-low-carbon-transition.png" alt=""><figcaption><p>Figure 0.1.1: Example of a typical transition pathway for micro and small enterprises - Source: Réussir sa transition bas carbone, ABC, 2020.</p></figcaption></figure>
 
 {% hint style="warning" %}
-**Going further:** These introductory elements are an essential prerequisite in a Bilan Carbone® approach. They must be known, understood and mastered by the stakeholders involved and will be addressed in the [Stakeholder engagement](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) step. They are described in greater detail in the [awareness and popularisation resources](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) on these issues.
+**To go further:** These introductory elements are an essential prerequisite for a Bilan Carbone® approach. They must be known, understood and mastered by the stakeholders involved and will be addressed in the [Engagement](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) step. They are further detailed in the [awareness and outreach resources](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) on the issues.&#x20;
 {% endhint %}
 
 ***

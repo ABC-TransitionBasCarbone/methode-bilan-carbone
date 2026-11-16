@@ -12,7 +12,7 @@ The Bilan Carbone®, after the accounting stage, naturally leads to the developm
 
 The transition plan must aim to decarbonise the organisation's activity as much as possible by reducing its GHG emissions to the maximum extent. The organisation must think of its transition plan as a continuous improvement approach, considering the advantages of multi-criteria approaches, and as a means of reducing risks while taking advantage of new opportunities linked to the energy and climate transition.
 
-Drawing on its [GHG emissions profile](../4-comptabilisation/4.5-profil-demission.md), its maturity level and its level of [stakeholder engagement](../3-mobilisation-des-parties-prenantes/3-introduction-a-la-mobilisation.md), the organisation must build its transition plan by following these sub-steps:
+Drawing on its [GHG emission profile](../4-comptabilisation/4.5-profil-demission.md), its maturity level and its level of [stakeholder engagement](../3-mobilisation-des-parties-prenantes/3-introduction-a-la-mobilisation.md), the organisation must build its transition plan by following these sub-steps:&#x20;
 
 * Step 5.1: define its [objectives](5.1-definition-des-objectifs.md) in the short, medium or long term.
   * Visualise the reference objectives and pathways whose ambition at the planetary level is that of the Paris Agreement.
@@ -31,7 +31,7 @@ Drawing on its [GHG emissions profile](../4-comptabilisation/4.5-profil-demissio
 
 ## Glossary relating to the Transition Plan
 
-All the terms relating to the steps in developing the transition plan are explained in the [glossary](../annexes/glossaire.md). They are summarised below:
+All terms relating to the transition plan development stages are explained in the [glossary](../annexes/glossaire.md). They are recalled below:&#x20;
 
 * Transition plan: A transition plan defines all the actions (what is done), and the means envisaged (what is committed) for reducing emissions linked to an organisation's activities, and the evolution of those activities in order to make them compatible with a low-carbon world (at a sufficient level) respecting the Paris Agreement.
 * Transition objectives: Within the Bilan Carbone® approach, they aim to reduce GHG emissions and enable the organisation to become more resilient. They are set at several timeframes (time horizons): short, medium or long term. They are consistent with the organisation's overall objectives and integrated into its overall strategy.
@@ -44,9 +44,9 @@ All the terms relating to the steps in developing the transition plan are explai
 
 ## Governance relating to the Transition Plan
 
-The governance of the transition plan is part of the [overall governance](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) of the Bilan Carbone® approach presented previously.
+The governance of the transition plan is part of the [overall governance](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md) of the Bilan Carbone® approach presented previously.&#x20;
 
-The framework within which the transition plan sits is defined by specifying the following elements, which may differ depending on the organisation's maturity level:
+The framework within which the transition plan is set is defined by specifying the following elements, which may differ according to the organisation's maturity level:&#x20;
 
 * A steering committee for the management of the transition plan, which serves to ensure proper monitoring of the transition plan as well as its consistency with the organisation's overall strategy. This **specific steering** of the transition plan is defined in [section 1.2 of the approach](../1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md#exigences-relatives-au-pilotage-du-bilan-carbone-r). Implementation, as well as monitoring of the transition plan, are to be carried out internally.
 * The risks and opportunities associated with the transition: these are detailed in [step 2.5](../2-perimetre-de-la-demarche/2.5-identification-des-risques-et-opportunites-de-transition.md#risques-de-transition). The implementation of the transition plan makes it possible to mitigate the risks and seize the opportunities identified.
@@ -66,67 +66,67 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 {% tab title="Initial Level" %}
 #### Steering
 
-* A: Hierarchical involvement:
-  * A1: A coordinator is appointed internally. They steer the approach and are then responsible for building, implementing and monitoring the transition plan
+* A: Hierarchical involvement:&#x20;
+  * A1: A coordinator is appointed internally. He or she steers the approach, then is responsible for the construction, implementation and monitoring of the transition plan.
 
-#### Transition Plan:
+#### Transition Plan:&#x20;
 
 * O: Vision and Objectives
-  * O1: The organisation's vision is defined by a medium- and long-term objective (time horizon 2030 and 2050), expressed in absolute value, and consistent with the national strategy.
-* P: Action plan
-  * P1: The transition plan contains immediate actions, priority actions and data collection improvement actions.
-* Q: Quantification of actions
-  * Q1: An overall emission reduction potential for the transition plan is assessed quantitatively. The impacts of implementing the actions are assessed qualitatively.
+  * O1: The organisation's vision is defined by a medium and long-term objective (2030 and 2050 time horizon), expressed in absolute value, and in line with the national strategy.
+* P: Action Plan&#x20;
+  * P1: The transition plan contains immediate, priority and data collection improvement actions.
+* Q: Quantification of actions&#x20;
+  * Q1: An overall GHG reduction potential for the transition plan is evaluated quantitatively. The impacts of implementing the actions are evaluated qualitatively.
 * R: Low-carbon pathway
-  * R1: The quantification of the reduction potential makes it possible to build a bottom-up pathway over 3-4 years, i.e. the period for renewing the assessment. It justifies the achievement of a short-term objective (horizon of the next assessment) consistent with the overall objective.
-* S: Monitoring
-  * S1: Indicators for monitoring and implementing the actions are defined. Monitoring of performance indicators (significant emissions) between each renewal of the approach is not required.
+  * R1: The quantification of the reduction potential enables the construction of a bottom-up pathway over 3-4 years, i.e. the assessment renewal period. It justifies the achievement of a short-term objective (horizon of the next assessment) consistent with the overall objective.
+* S: Monitoring&#x20;
+  * S1: Implementation and monitoring indicators for actions are defined. Monitoring of performance indicators (significant emissions) between each renewal of the approach is not required.
 {% endtab %}
 
 {% tab title="Standard Level" %}
 #### Steering
 
-* A: Hierarchical involvement:
-  * A2: A member of the management is in charge of the approach. A coordinator is appointed internally: they steer the approach, then are responsible for building, implementing and monitoring the transition plan. The main operational functions concerned by the transition plan also take part in building it.
+* A: Hierarchical involvement:&#x20;
+  * A2: A member of management is in charge of the approach. A coordinator is appointed internally: he or she steers the approach, then is responsible for the construction, implementation and monitoring of the transition plan. The main operational functions concerned by the transition plan also participate in its construction.
 
-#### Transition Plan:
+#### Transition Plan:&#x20;
 
 * O: Vision and Objectives
-  * O2: The organisation's vision is defined by a medium- and long-term objective (time horizons 2030 and 2050), expressed in absolute value and in relative intensity. They are consistent with the objectives of international sectoral standards.
-* P: Action plan
+  * O2: The organisation's vision is defined by a medium and long-term objective (2030 and 2050 time horizon), expressed in absolute value and in relative intensity. They are consistent with the objectives of international sectoral standards.
+* P: Action Plan&#x20;
   * P2: The transition plan contains immediate, priority, strategic, adaptation and data collection improvement actions.
-* Q: Quantification of actions
-  * Q2: Emission reduction potentials are quantified, at least for immediate and priority actions.
+* Q: Quantification of actions&#x20;
+  * Q2: Emission reduction potentials are quantified, at minimum for immediate and priority actions.
 * R: Low-carbon pathway
-  * R2: The quantification of the reduction potential makes it possible to build a 10-year bottom-up pathway. It justifies the achievement of short-term (horizon of the next assessment) and medium-term (2030 horizon or around ten years) objectives consistent with the overall objective.
-* S: Monitoring
-  * S2: Indicators for monitoring and implementing the actions are defined. Performance indicators make it possible to monitor the most significant emissions. A dashboard-type [monitoring system](../annexes/glossaire.md#dispositif-de-suivi) is used to track these indicators between each renewal of the approach. It makes it possible to analyse trends.
+  * R2: The quantification of the reduction potential enables the construction of a bottom-up pathway over 10 years. It justifies the achievement of short-term objectives (horizon of the next assessment) and medium-term objectives (2030 horizon or over approximately ten years) consistent with the overall objective.
+* S: Monitoring&#x20;
+  * S2: Implementation and monitoring indicators for actions are defined. Performance indicators allow the most significant emissions to be monitored. A [monitoring system](../annexes/glossaire.md#dispositif-de-suivi) of the dashboard type is used for monitoring these indicators between each renewal of the approach. It allows changes to be analysed.
 {% endtab %}
 
 {% tab title="Advanced Level" %}
 #### Steering
 
-* A: Hierarchical involvement:
-  * A3: A member of senior management is in charge of the approach. A coordinator is appointed internally: they steer the approach, then are responsible for building the transition plan with the support of the main operational functions concerned. The implementation and monitoring of the transition plan are the responsibility of the main operational functions, and at least one member of senior management guarantees its application within the organisatio&#x6E;**.**
+* A: Hierarchical involvement:&#x20;
+  * A3: A member of management is in charge of the approach. A coordinator is appointed internally: he or she steers the approach, then is responsible for building the transition plan with the support of the main operational functions concerned. The implementation and monitoring of the transition plan are the responsibility of the main operational functions and at least one member of management is the guarantor of its application within the organisation**.**
 
-#### Transition Plan:
+#### Transition Plan:&#x20;
 
 * O: Vision and Objectives
-  * O3: The organisation's vision is defined by a medium- and long-term objective (time horizon 2030 and 2050), expressed in absolute value and in relative intensity. They are consistent with the objectives of international sectoral standards, and are put into perspective with an analysis of the organisation's activity projections. The vision also relies on adaptation objectives.
-* P: Action plan
-  * P3: The transition plan contains a mix of actions (immediate, priority, strategic, adaptation and collection improvement actions) that are significant and consistent with one another, and also address certain avoided emissions.
-* Q: Quantification of actions
-  * Q3: The emission reduction potentials associated with each action are quantified (including certain strategic actions whose definition and quantification may be based on pre-existing or complementary work)
+  * O3: The organisation's vision is defined by a medium and long-term objective (2030 and 2050 time horizon), expressed in absolute value and in relative intensity. They are consistent with the objectives of international sectoral standards, and are put into perspective with an analysis of the organisation's activity projections. The vision also draws on adaptation objectives.
+* P: Action Plan&#x20;
+  * P3: The transition plan contains a mix of significant and mutually consistent actions (immediate, priority, strategic, adaptation and data collection improvement), also addressing certain avoided emissions.
+* Q: Quantification of actions&#x20;
+  * Q3: The emission reduction potentials linked to each action are quantified (including those of certain strategic actions whose definition and quantification can be based on pre-existing or complementary work).
 * R: Low-carbon pathway
-  * R3: The organisation establishes or consolidates a 30-year bottom-up pathway, based on the reduction potential of its actions and/or its climate strategy (resulting from pre-existing or complementary work). This pathway justifies the achievement of short-term (annual horizon), medium-term (2030 horizon or around ten years) and long-term (2050 horizon) objectives consistent with the overall objective.
-* S: Monitoring
-  * S3: Implementation, monitoring and performance indicators are mandatory and a dashboard-type [monitoring system](../annexes/glossaire.md#dispositif-de-suivi) is used. The transition plan's performance indicators (significant emissions) are embedded in the organisation's overall strategy and are monitored at least annually. The results of the approach are reported periodically to senior management.
+  * R3: The organisation establishes or consolidates a bottom-up pathway over 30 years, based on the reduction potential of actions and/or its climate strategy (derived from pre-existing or complementary work). This pathway justifies the achievement of short-term (annual horizon), medium-term (2030 horizon or over approximately ten years) and long-term (2050 horizon) objectives consistent with the overall objective.
+* S: Monitoring&#x20;
+  * S3: Implementation, monitoring and performance indicators are mandatory and a [monitoring system](../annexes/glossaire.md#dispositif-de-suivi) of the dashboard type is used. The transition plan's performance indicators (significant emissions) are anchored in the organisation's overall strategy and are monitored at minimum annually. The results of the approach are reported periodically to management.
 {% endtab %}
 {% endtabs %}
 
 ## **Deliverables** relating to the Transition Plan
 
-The information and deliverables obtained at the end of step 5, and associated with the above requirements, must be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:
+The information and deliverables obtained at the end of stage 5, and associated with the above requirements, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:&#x20;
 
 * [x] The objectives associated with the transition plan;
 * [x] The action plan via all the action sheets;
