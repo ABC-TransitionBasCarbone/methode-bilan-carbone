@@ -16,7 +16,7 @@ The Bilan Carbone® method does not aim to specify particular cases or conventio
 
 > :mag\_right: _Several complementary resources serve as_ [_practical guides_](../bibliographie/#guides-pratiques-de-comptabilisation) _for the implementation of the principles formulated here by the Bilan Carbone® method (General Carbon Plan, ADEME Sectoral Guides). These resources notably provide common emission factors, practical advice or assumptions in the absence of certain data, average service lives, etc._
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/Description des postes et sous postes du Bilan Carbone.png" alt=""><figcaption><p>Figure Annex 1: Description of Bilan Carbone® categories and sub-categories</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/en-description-of-emission-categories.png" alt=""><figcaption><p>Figure Annex 1: Description of Bilan Carbone® categories and sub-categories</p></figcaption></figure></div>
 
 The definitions of the categories, the emission sources they include, and the associated main accounting principles are detailed below:
 
