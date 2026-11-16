@@ -316,6 +316,37 @@ def translate_new_page(rel_path, new_fr):
     return assemble(translate_frontmatter(fm), en_paras)
 
 
+def para_key(para):
+    """Forme normalisée d'un paragraphe, pour la comparaison uniquement : ignore les
+    retouches de mise en forme de GitBook (espaces, &#x20;, balises vides,
+    largeur des séparateurs de tableau, images FR renommées ayant la même version EN)."""
+    key = apply_image_map(para)
+    key = key.replace("&#x20;", " ")
+    key = re.sub(r"<(\w+)[^>]*>\s*</\1>", "", key)  # balises vides : <mark></mark>, <p></p>…
+    key = re.sub(r"-{3,}", "---", key)
+    key = re.sub(r"\s+", " ", key)
+    key = re.sub(r" ?(<[^>]+>) ?", r"\1", key)
+    key = re.sub(r" ?(\\) ?", r"\1", key)
+    return key.strip()
+
+
+def merge_en(old_paras, en_paras, new_paras):
+    """Si chaque nouveau paragraphe FR est la réunion de paragraphes FR consécutifs
+    (lignes vides retirées par GitBook), renvoie les paragraphes EN regroupés de la
+    même façon ; sinon None."""
+    result, cur = [], 0
+    for new in new_paras:
+        target = para_key(new)
+        for k in range(cur + 1, len(old_paras) + 1):
+            if para_key("\n".join(old_paras[cur:k])) == target:
+                result.append("\n".join(en_paras[cur:k]))
+                cur = k
+                break
+        else:
+            return None
+    return result if cur == len(old_paras) else None
+
+
 def update_page(rel_path, old_fr, new_fr, en):
     old_fm, old_paras = paragraphs(old_fr)
     new_fm, new_paras = paragraphs(new_fr)
@@ -330,13 +361,25 @@ def update_page(rel_path, old_fr, new_fr, en):
         )
         return None
 
-    matcher = difflib.SequenceMatcher(a=old_paras, b=new_paras, autojunk=False)
+    # Comparaison sur une forme normalisée : les retouches de mise en forme faites par
+    # GitBook (espaces de fin, doubles espaces, images renommées) ne déclenchent pas
+    # de retraduction.
+    old_keys = [para_key(p) for p in old_paras]
+    new_keys = [para_key(p) for p in new_paras]
+    matcher = difflib.SequenceMatcher(a=old_keys, b=new_keys, autojunk=False)
     result = []
     changes = 0
     for op, i1, i2, j1, j2 in matcher.get_opcodes():
         if op == "equal":
             result.extend(en_paras[i1:i2])
             continue
+        if op == "replace":
+            merged = merge_en(old_paras[i1:i2], en_paras[i1:i2], new_paras[j1:j2])
+            if merged is not None:  # paragraphes FR recollés par GitBook, texte inchangé
+                print(f"  = paragraphes FR {i1}..{i2 - 1} regroupés sans changement de texte")
+                result.extend(merged)
+                changes += 1
+                continue
         if op in ("delete", "replace"):
             print(f"  - suppr./remplacement des paragraphes FR {i1}..{i2 - 1}")
         for j in range(j1, j2):
