@@ -29,13 +29,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout branche FR (source)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
           path: fr
 
       - name: Checkout branche EN (cible)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: translated-en
           path: en

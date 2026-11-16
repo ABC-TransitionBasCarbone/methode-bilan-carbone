@@ -101,11 +101,14 @@ PARA_SEP_RE = re.compile(r"\n[ \t]*\n+")
 
 _client = None
 warnings = []
+blocking = []  # problèmes qui font échouer le run (page non traitée)
 
 
-def warn(rel_path, message):
+def warn(rel_path, message, block=False):
     print(f"::warning file={rel_path}::{message}")
     warnings.append(f"{rel_path} : {message}")
+    if block:
+        blocking.append(rel_path)
 
 
 # ---------------------------------------------------------------- découpage
@@ -246,17 +249,41 @@ def translate_para(rel_path, fr_paras, index, en_before):
     if index + 1 < len(fr_paras):
         context.append(f"Paragraphe suivant (FR) :\n{fr_paras[index + 1]}")
     prompt = (
-        f"Page : {rel_path}\n\nContexte (à ne pas traduire) :\n\n"
+        f"Page : {rel_path}\n\n<contexte>\nÀ ne pas traduire, uniquement pour comprendre :\n\n"
         + "\n\n".join(context)
-        + "\n\n---\n\nTraduis en anglais uniquement le bloc markdown ci-dessous, "
-        "en un seul bloc (sans ligne vide si l'original n'en a pas) :\n\n"
+        + "\n</contexte>\n\n<source>\n"
         + para
+        + "\n</source>\n\nTraduis en anglais le bloc markdown contenu dans <source>. "
+        "Réponds uniquement avec sa traduction anglaise : ne recopie pas le texte français, "
+        "n'ajoute pas les balises <source>, et ne mets pas de ligne vide si l'original n'en a pas."
     )
-    out = claude(prompt, para)
-    if PARA_SEP_RE.search(out) and not PARA_SEP_RE.search(para):
-        warn(rel_path, f"paragraphe {index} : lignes vides retirées de la traduction")
-        out = PARA_SEP_RE.sub("\n", out)
-    return out
+    if DRY_RUN:  # « [EN] <texte FR> » : pas de validation possible
+        return claude(prompt, para)
+    single_block = not PARA_SEP_RE.search(para)
+    problem = None
+    for attempt in range(2):
+        out = claude(prompt if attempt == 0 else prompt + RETRY_NOTE.format(problem=problem), para)
+        out = re.sub(r"^\s*</?source>\s*|\s*</?source>\s*$", "", out).strip()
+        source = para.strip()
+        if source in out and out != source:  # français recopié avant/après la traduction
+            out = out.replace(source, "").strip()
+        if single_block and PARA_SEP_RE.search(out):
+            problem = "ta réponse contenait plusieurs blocs séparés par une ligne vide"
+        elif out == source:
+            problem = "ta réponse était identique au texte français"
+        else:
+            return out
+    if problem.startswith("ta réponse était identique"):
+        # Peut être légitime (noms propres, sigles…) : on garde, mais on le signale
+        warn(rel_path, f"paragraphe {index} laissé identique au français, à vérifier")
+        return out
+    raise RuntimeError(f"paragraphe {index} : traduction invalide ({problem}), page non écrite")
+
+
+RETRY_NOTE = (
+    "\n\nAttention : lors d'une première tentative, {problem}. Réponds uniquement avec "
+    "la traduction anglaise du bloc, en un seul bloc."
+)
 
 
 def translate_frontmatter(fm):
@@ -299,6 +326,7 @@ def update_page(rel_path, old_fr, new_fr, en):
             rel_path,
             f"page EN non alignée sur le FR ({len(en_paras)} paragraphes EN pour "
             f"{len(old_paras)} FR) : page non modifiée, à corriger à la main",
+            block=True,
         )
         return None
 
@@ -341,7 +369,8 @@ def process(rel_path):
 
     old_fr = git_show(BASE_REF, rel_path)
     if old_fr is None:
-        warn(rel_path, f"aucune version FR à {BASE_REF} pour comparer : page EN non modifiée")
+        warn(rel_path, f"aucune version FR à {BASE_REF} pour comparer : page EN non modifiée",
+             block=True)
         return
 
     en = en_path.read_text(encoding="utf-8")
@@ -374,7 +403,9 @@ def main():
         print("\nÀ vérifier :")
         for line in warnings + errors:
             print(f"  - {line}")
-    sys.exit(1 if errors or warnings else 0)
+    # Échec du run uniquement si une page n'a pas pu être traitée ; les simples
+    # avertissements restent visibles dans le résumé du run sans le faire échouer.
+    sys.exit(1 if errors or blocking else 0)
 
 
 if __name__ == "__main__":
