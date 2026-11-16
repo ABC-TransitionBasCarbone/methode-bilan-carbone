@@ -8,12 +8,12 @@ description: >-
 
 <figure><img src="../.gitbook/assets/2147654532.jpg" alt="" width="563"><figcaption><p>Source: Freepik</p></figcaption></figure>
 
-The boundary identification step aims to frame the emissions that will be accounted for. The Bilan Carbone® is **transparent** regarding the boundaries considered. The organisation must define:
+The boundary identification step aims to frame the emissions that will be accounted for. The Bilan Carbone® is **transparent** about the boundaries considered. The organisation must define:
 
-* Step 2.1: the [accounted emissions](2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md), which are at minimum the induced emissions (pillar A).
-* Step 2.2: the scale of carbon accounting: as a reminder, this methodological guide applies at the scale of an organisation, so this involves framing the **[organisational](2.2-perimetre-organisationnel.md) boundary**.
-* Step 2.3: the temporality of the assessment: this involves framing the **[temporal](2.3-perimetre-temporel.md) boundary**.
-* Step 2.4: the identification and mapping of emission sources, enabling the framing of the **[operational](2.4-perimetre-operationnel.md) boundary**.
+* Step 2.1: the [emissions accounted for](2.1-les-emissions-comptabilisees-dans-un-bilan-carbone-r.md), which are at a minimum the induced emissions (Pillar A).
+* Step 2.2: the carbon accounting scale: as a reminder, this methodological guide applies at the scale of an organisation, so this involves framing the [**organisational**](2.2-perimetre-organisationnel.md) **boundary**.
+* Step 2.3: the time frame of the assessment: this involves framing the [**temporal**](2.3-perimetre-temporel.md) **boundary.**
+* Step 2.4: the identification and mapping of emission sources, enabling the framing of the [**operational**](2.4-perimetre-operationnel.md) **boundary.**
 * Step 2.5: the identification of [transition risks and opportunities](2.5-identification-des-risques-et-opportunites-de-transition.md).
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/en-boundaries-of-the-approach.png" alt=""><figcaption><p>Figure 2: Boundaries of the approach</p></figcaption></figure></div>
@@ -44,9 +44,9 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 #### Boundary
 
 * E: Operational boundary
-  * E1: The assessment must take into account all direct emissions and between 80% and 100% of the organisation's indirect emissions.
+  * E1: The assessment must account for all direct GHG emissions and between 80% and 100% of the organisation's indirect GHG emissions.
 * F: Identification of emission sources
-  * F1: The identification of emission sources must be done via a flow mapping.
+  * F1: The identification of emission sources must be carried out through flow mapping.
 * G: Identification of physical and transition risks
   * G1: The organisation identifies the various risks linked to climate change (physical risks, transition risks).
 {% endtab %}
@@ -55,37 +55,34 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 #### Boundary
 
 * E: Operational boundary
-  * E2: The operational boundary includes all direct and indirect emissions of the organisation.
+  * E2: The operational boundary includes all direct and indirect GHG emissions of the organisation.
 * F: Identification of emission sources
-  * F2: The identification of emission sources must be done via a flow mapping.
+  * F2: Emission sources must be identified through flow mapping.
 * G: Identification of physical and transition risks
-  * G2: The organisation identifies the risks specific to it, and formalises a link with the flow mapping to problematise vulnerabilities.
+  * G2: The organisation identifies the risks specific to it, and formalises a link with the flow mapping to frame the vulnerabilities as issues.
 {% endtab %}
 
 {% tab title="Advanced level" %}
 #### Boundary
 
 * E: Operational boundary
-  * E3: The operational boundary includes all direct and indirect emissions of the organisation.
+  * E3: The operational boundary includes all the organisation's direct and indirect emissions.
 * F: Identification of emission sources
-  * F3: The identification of emission sources must be done in a flow mapping or an analytical mapping.
+  * F3: The identification of emission sources must be carried out through a flow mapping or an analytical mapping.
 * G: Identification of physical and transition risks
-  * G3: The organisation carries out or has carried out (resulting from pre-existing or complementary work) a genuine analysis of the physical and transition risks that concern it, and quantifies the effects that these risks may have on its entire value chain.
+  * G3: The organisation carries out or has carried out (from pre-existing or complementary work) a genuine analysis of the physical and transition risks that concern it, and quantifies the effects these risks may have across its entire value chain.
 {% endtab %}
 {% endtabs %}
 
 ## Deliverables relating to the identification of Boundaries
 
-The information and Deliverables obtained at the end of Step 2, and associated with the requirements above, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:
+The information and deliverables obtained at the end of step 2, and associated with the requirements above, must be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:
 
 * [x] The choice of organisational boundary along with a justification (list of facilities and sites concerned);
 * [x] The chosen temporal boundary;
 * [x] The organisation's flow mapping (quantified, where applicable) or the analytical mapping (where applicable);
 * [x] The choice of operational boundary (significance criterion where applicable) and its justification;
 * [x] The physical and transition risks linked to climate change; according to what is required at the maturity level (list of risks and opportunities, risks mapping, or risks analysis where applicable).
-
-
-
 
 ***
 

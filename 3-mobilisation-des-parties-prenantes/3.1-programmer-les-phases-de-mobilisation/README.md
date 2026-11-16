@@ -10,14 +10,11 @@ The method defines the expected outcomes, i.e. the messages and content to be de
 
 Conversely, the method is designed to be flexible and does not impose specific means, tools or formats. [Resources](../../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) are provided in the appendix to give some inspiring examples.
 
-Here are the various recommendations for **adapting** the engagement phases to the different [maturity levels](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)**, steps, stakeholders and organisational profiles.**
+Below are the various recommendations for **adapting** the stakeholder engagement phases to the different [maturity levels](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)**, steps, stakeholders and organisation profiles.**
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/en-stakeholder-engagement-actions.png" alt=""><figcaption><p>Figure 3.1: Engagement actions to be carried out during the Bilan Carbone® approach.</p></figcaption></figure></div>
 
 These recommendations make it possible to comply with the [requirements](../3-introduction-a-la-mobilisation.md#exigences-relatives-aux-etapes-de-mobilisation) in terms of Engagement. They are detailed in the following sub-sections.
-
-
-
 
 ***
 
