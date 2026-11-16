@@ -35,22 +35,16 @@ All terms relating to the engagement steps are explained in the [glossary](../an
     _Objective_: Create the necessary foundation for a good understanding of the issues, acceptance of change and future actions to be undertaken, and enable the organisation to identify the risks and opportunities associated with ecological transition.
 
     _Indicator_: Level of knowledge and understanding of the issues.
-
-
 *   **Empowerment** :person\_raising\_hand:: The main objective of empowerment is to give everyone a role in the approach. Stakeholders must become aware that every degree counts, that every action counts, and therefore that every employee counts in the implementation of these actions. The organisation must become aware that this is a matter of sustainability. New responsibilities will emerge from the approach and will add value to existing positions by taking into account an essential component linked to the durability of the activity.
 
     _Objective_: Involve and empower each stakeholder to get moving and take action.
 
     _Indicator_: Level of participation in the approach and level of transition to action.
-
-
 *   **Co-construction** :thought\_balloon:: The main objective of co-construction is to value initiatives, sharing, and consultation. Co-construction is central, and is therefore closely linked to the other types of engagement: stakeholders being consulted must have a sufficient level of information about the approach, which requires prior effective :brain: awareness and popularisation, as well as transparent :loudspeaker: reporting and communication. Co-construction gives a voice, enables participation, which allows for :person\_raising\_hand: empowerment. It enables identification of the carbon reduction avenues that the organisation and its stakeholders can consider, drawing on their knowledge (of processes, products, the organisation).
 
     _Objective_: Test the choice of actions against real possibilities and possible alternatives, to arrive at a transition plan perceived as a shared project between the organisation and its stakeholders.
 
     _Indicator_: Level of participation in the co-construction of the transition plan.
-
-
 *   **Reporting and communication** :loudspeaker:: The main objective of reporting and communications is to enable the appropriation of results and actions by the various stakeholders concerned. Making the link between global issues, local issues, the organisation's impacts, the role of stakeholders in these impacts, the resulting actions, and the role of stakeholders in the success of these actions.
 
     _Objective_: Make this approach an initiative that goes beyond the project team sphere to reach other relevant stakeholders (primarily internal employees) involved in the implementation of actions, in a logic of cross-functionality, integration, reputation and exemplarity.
@@ -65,8 +59,6 @@ All terms relating to the engagement steps are explained in the [glossary](../an
   * For GHG emissions accounting ([step 4](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/4-comptabilisation)): intermediate [reporting](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
   * For reflections on the transition plan ([step 5](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition)): [co-construction](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation) of actions
   *   For the finalisation of the approach ([step 6](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/6-synthese-et-restitution)): [empowerment](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation), [reporting and communication](3-introduction-a-la-mobilisation.md#glossaire-relatif-aux-etapes-de-mobilisation)
-
-
 * **Targets and stakeholders** :busts\_in\_silhouette:: The stakeholders surrounding the organisation can be distributed as follows. They will be engaged at distinct phases of the engagement process.
   * Project team, internal champions
   * Management
@@ -74,8 +66,6 @@ All terms relating to the engagement steps are explained in the [glossary](../an
   * External upstream stakeholders (suppliers)
   * External downstream stakeholders (clients)
   *   Other external stakeholders (financial and technical partners, local actors, professional federations, or other partners on strategic topics for the organisation such as education, innovation, development).
-
-
 *   **Organisational profile** :bar\_chart:: The different organisational profiles must be taken into account to adapt the messages delivered. They can be broken down by sector & trades, or at minimum between:
 
     * Profile or sector "lower emitter or decarbonising"
@@ -129,8 +119,6 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Deliverables relating to the Engagement steps
 
 The information and deliverables obtained at the end of step 3, and associated with the above requirements, are to be [reported](../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md) at the end of the approach:
@@ -140,9 +128,6 @@ The information and deliverables obtained at the end of step 3, and associated w
 For example: one row per stakeholder engagement action. Additional information is useful (format, date, participation, etc.):
 
 <table data-full-width="true"><thead><tr><th width="215">Engagement Action</th><th width="231">Targets<select multiple><option value="BFrVMg3du4Zx" label="Project team" color="blue"></option><option value="nK9xaJXmdru8" label="Management" color="blue"></option><option value="Qo1i6cKqXeae" label="Other internal collaborators" color="blue"></option><option value="kPIrVsp4HEV1" label="External upstream stakeholders" color="blue"></option><option value="9iVJigfqS5Jp" label="External downstream stakeholders" color="blue"></option><option value="I3feAVYmdmky" label="Other external stakeholders" color="blue"></option></select></th><th width="265">Steps<select><option value="pIOMiNp31Zf6" label="At the launch and scoping of the Bilan Carbone®" color="blue"></option><option value="NeYJHfFhUtG4" label="At the launch of data collection" color="blue"></option><option value="BbmKfsx4yMAz" label="Upon completion of the GHG emission profile" color="blue"></option><option value="3oRPIg4yAB1B" label="For the construction of the transition plan" color="blue"></option><option value="cAkIQHezo1sw" label="In summary of the approach" color="blue"></option></select></th><th>Engagement Phase<select><option value="zIWzZ5K5POeL" label="Presentation and communication" color="blue"></option><option value="tXHZ8k1sbnGl" label="Awareness and popularisation" color="blue"></option><option value="IOBgCGSTvD7D" label="Co-construction" color="blue"></option><option value="GJHNB7pSWFzK" label="Empowerment" color="blue"></option></select></th></tr></thead><tbody><tr><td><p>Action no. 1.</p><p>Date - Format - Participation</p></td><td><span data-option="BFrVMg3du4Zx">Project team, </span><span data-option="nK9xaJXmdru8">Management, </span><span data-option="Qo1i6cKqXeae">Other internal collaborators, </span><span data-option="kPIrVsp4HEV1">External upstream stakeholders</span></td><td><span data-option="cAkIQHezo1sw">In summary of the approach</span></td><td><span data-option="zIWzZ5K5POeL">Reporting and communication</span></td></tr><tr><td>Action no. 2<br>Date - Format - Participation</td><td><span data-option="nK9xaJXmdru8">Management</span></td><td><span data-option="3oRPIg4yAB1B">For the construction of the transition plan</span></td><td><span data-option="tXHZ8k1sbnGl">Awareness and popularisation</span></td></tr><tr><td>[…]</td><td><span data-option="Qo1i6cKqXeae">Other internal collaborators</span></td><td><span data-option="NeYJHfFhUtG4">At the launch of data collection</span></td><td><span data-option="GJHNB7pSWFzK">Empowerment</span></td></tr></tbody></table>
-
-
-
 
 ***
 
