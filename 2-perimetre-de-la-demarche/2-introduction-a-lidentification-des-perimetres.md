@@ -16,9 +16,7 @@ The boundary identification step aims to frame the emissions that will be accoun
 * Step 2.4: the identification and mapping of emission sources, enabling the framing of the **[operational](2.4-perimetre-operationnel.md) boundary**.
 * Step 2.5: the identification of [transition risks and opportunities](2.5-identification-des-risques-et-opportunites-de-transition.md).
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Périmètres de la démarche.png" alt=""><figcaption><p>Figure 2: Boundaries of the approach</p></figcaption></figure></div>
-
-<mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Boundaries-of-the-approach_Perimetres-de-la-demarche--scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<div data-full-width="true"><figure><img src="../.gitbook/assets/en-boundaries-of-the-approach.png" alt=""><figcaption><p>Figure 2: Boundaries of the approach</p></figcaption></figure></div>
 
 ## Glossary relating to the identification of Boundaries
 

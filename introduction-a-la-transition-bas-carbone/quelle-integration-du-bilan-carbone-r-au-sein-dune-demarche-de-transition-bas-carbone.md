@@ -59,9 +59,7 @@ Bilan Carbone® and these standards share similarities, complementarities but al
 
 The table below is a summary of the similarities and specificities between Bilan Carbone® and the other current standards for organisational carbon accounting:&#x20;
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Schemas-MethodeBilanCarbone-Juin-2025.png" alt=""><figcaption><p>Figure 0.1.2: The place of Bilan Carbone® among the current standards for organisational carbon accounting</p></figcaption></figure></div>
-
-🌐 [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/The-place-of-the-Bilan-Carbone_La-place-du-Bilan-Carbone-parmi-les-standards-scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<div data-full-width="true"><figure><img src="../.gitbook/assets/en-place-of-bilan-carbone-among-standards.png" alt=""><figcaption><p>Figure 0.1.2: The place of Bilan Carbone® among the current standards for organisational carbon accounting</p></figcaption></figure></div>
 
 ## :three: The place of Bilan Carbone® with respect to regulations
 
@@ -114,8 +112,6 @@ An organisation encounters several needs throughout its growing maturity on tran
 The transition pathway is non-linear. Each of these approaches feeds the organisation's reflection and increases its maturity. Pathways are multiple, and in a logic of cycle, continuous improvement and renewal, Bilan Carbone® meets the need for regular management of emissions and results.
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/LaPlaceduBilanCarbone_Demarche_Blanc.jpg" alt=""><figcaption><p>Figure 0.1.3: The place of Bilan Carbone® within a low-carbon transition approach</p></figcaption></figure></div>
-
-<mark style="color:$info;">🌐</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">English version of this image.</mark>_
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] The third ABC panorama on the</mark> [<mark style="background-color:blue;">different transition pathways</mark>](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) <mark style="background-color:blue;">will be updated shortly and will detail the different tools and methods available.</mark>
 

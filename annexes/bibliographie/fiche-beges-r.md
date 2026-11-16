@@ -156,6 +156,8 @@ To define which indirect emissions are significant, an organisation should only 
 
 The French regulatory method allows the exclusion of certain indirect emission categories, as long as the magnitude criterion remains respected. On the other hand, direct emission categories cannot be excluded from a declaration boundary.
 
+&#x20;
+
 It is possible to justify the exclusion of an emission category considered significant in the absence of a method for its calculation or the impossibility of accessing source data enabling an acceptable calculation.
 
 {% hint style="success" %}

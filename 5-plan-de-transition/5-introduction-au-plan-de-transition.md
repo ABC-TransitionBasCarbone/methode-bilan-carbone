@@ -6,9 +6,7 @@ description: >-
 
 # 5 - Introduction to the Transition Plan
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Figure 5.0.1: The purpose of the transition plan</p></figcaption></figure>
-
-<mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/The-purpose-of-the-transition-plan_Lintention-du-plan-de-transition-1-scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<figure><img src="../.gitbook/assets/en-purpose-of-the-transition-plan-part-1.png" alt=""><figcaption><p>Figure 5.0.1: The purpose of the transition plan</p></figcaption></figure>
 
 The Bilan Carbone®, after the accounting stage, naturally leads to the development of a transition plan, as any [carbon accounting approach](../introduction-a-la-transition-bas-carbone/quest-ce-quune-demarche-de-transition-bas-carbone.md) is intended to enable action to be taken.
 
@@ -27,9 +25,7 @@ Drawing on its [GHG emission profile](../4-comptabilisation/4.5-profil-demission
 * Step 5.4: Plan the [implementation](5.4-mise-en-oeuvre-du-plan-de-transition.md) of actions.
 * Step 5.5: Prepare the [monitoring and steering](5.5-suivi-et-pilotage-du-plan-de-transition.md) of actions.
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Chronologie de l&#x27;étape de transition.png" alt=""><figcaption><p>Figure 5.0.2: Timeline of the transition plan stage</p></figcaption></figure></div>
-
-<mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Timeline-of-the-transition-plan_Chronologie-de-letape-du-Plan-de-Transition-scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<div data-full-width="true"><figure><img src="../.gitbook/assets/en-timeline-of-the-transition-plan.png" alt=""><figcaption><p>Figure 5.0.2: Timeline of the transition plan stage</p></figcaption></figure></div>
 
 > :mag\_right:_The definition of the transition plan and all of_ [_stage 5_](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/5-plan-de-transition) _are compatible with and inspired by the_ [_ADEME Guide for the construction, implementation and monitoring of a transition plan_](../annexes/bibliographie/#ressources-sur-la-strategie-et-plan-de-transition)_, with the difference that the Bilan Carbone® sets progressive requirements according to the maturity level of the organisation._
 
@@ -45,8 +41,6 @@ All terms relating to the transition plan development stages are explained in th
 * Action plan: Set of concrete actions envisaged and enabling the objectives of the transition plan to be achieved. The action plan is established in the short term (until the assessment is renewed), even if certain actions extend to the medium or long term. It is the operational translation of the transition plan and the organisation's low-carbon transition strategy.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure 5.0.3: Glossary relating to the Transition Plan</p></figcaption></figure>
-
-<mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/The-purpose-of-the-transition-plan_Lintention-du-plan-de-transition-1-scaled.png) _<mark style="color:$info;">of this image.</mark>_
 
 ## Governance relating to the Transition Plan
 

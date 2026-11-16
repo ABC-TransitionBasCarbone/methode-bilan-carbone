@@ -20,9 +20,7 @@ To achieve engagement, the Bilan Carbone® approach involves several **phases**:
 * Step [3.1.4](3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md): For the construction of the transition plan
 * Step [3.1.5](3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md): In summary of the approach
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Mobilisation dans la démarche.png" alt=""><figcaption><p>Figure 3: Timeline of engagement actions</p></figcaption></figure></div>
-
-<mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Stakeholder-engagement-i_La-mobilisation-dans-la-demarche-Bilan-Carbone-scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<div data-full-width="true"><figure><img src="../.gitbook/assets/en-stakeholder-engagement-in-the-approach.png" alt=""><figcaption><p>Figure 3: Timeline of engagement actions</p></figcaption></figure></div>
 
 ## Glossary relating to the Engagement steps
 

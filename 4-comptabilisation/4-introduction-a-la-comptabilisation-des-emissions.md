@@ -26,9 +26,7 @@ These different components of the calculation are detailed step by step:&#x20;
 
 These calculation components are documented and retained by the organisation.
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Chronologie de l&#x27;étape de comptabilisation (1).png" alt=""><figcaption><p>Figure 4: Timeline of the accounting stage</p></figcaption></figure></div>
-
-<mark style="color:$info;">🌐</mark> [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Timeline-of-the-accounting-stage_Chronologie-de-letape-de-comptabilisation-scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<div data-full-width="true"><figure><img src="../.gitbook/assets/en-timeline-of-the-accounting-stage.png" alt=""><figcaption><p>Figure 4: Timeline of the accounting stage</p></figcaption></figure></div>
 
 ## Glossary relating to the Accounting stages
 

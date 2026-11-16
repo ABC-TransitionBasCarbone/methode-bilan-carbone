@@ -32,9 +32,7 @@ Low-carbon transition approaches advance organisations along their transition pa
 
 &#x20;                                  **Account** :arrow\_right: **Plan and act** :arrow\_right: **Evaluate**&#x20;
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
-
-🌐 [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/EN-Place-BC.png) _<mark style="color:$info;">of this image.</mark>_
+<figure><img src="../.gitbook/assets/en-place-of-bilan-carbone-in-the-approach-banner.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **Analyse the current situation**: the first step is carbon accounting, motivated by a stakeholder request, a regulatory obligation to quantify GHG emissions, or a willingness to engage in the fight against climate change. It enables a strategic analysis of the organisation and in particular of its dependencies and vulnerabilities with respect to fossil fuels and the transition of our society towards a low-carbon model. The engagement of internal and external stakeholders is crucial during this step, in order to share the newly acquired knowledge, make the consequences of the _status quo_ visible to all parties and motivate as many people as possible to act.
 * [x] **Build the transition plan**: for carbon accounting to be both useful and usable, it must necessarily lead to the development of a transition plan. Concretely, this is a roadmap that details how the organisation plans to reduce its emissions and improve its resilience to climate and transition risks. The transition plan includes reduction objectives, a transition strategy and the construction of an action programme.
@@ -46,9 +44,7 @@ Each organisation **adapts** this pathway to its profile and maturity, thereby e
 
 :mag\_right: _A panorama of the_ [_different transition pathways_](../annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) _allows an understanding of the different tools and methods available._
 
-<figure><img src="../.gitbook/assets/Démarche de transition bas carbone.jpg" alt=""><figcaption><p>Figure 0.1.1: Example of a typical transition pathway for micro and small enterprises - Source: Réussir sa transition bas carbone, ABC, 2020.</p></figcaption></figure>
-
-🌐 [_<mark style="color:$info;">English version</mark>_](https://abc-transitionbascarbone.fr/wp-content/uploads/2025/11/Approach-of-the-lowcarbon-transition_Demarche-de-transition-bas-carbone-scaled.png) _<mark style="color:$info;">of this image.</mark>_
+<figure><img src="../.gitbook/assets/en-approach-of-the-low-carbon-transition.png" alt=""><figcaption><p>Figure 0.1.1: Example of a typical transition pathway for micro and small enterprises - Source: Réussir sa transition bas carbone, ABC, 2020.</p></figcaption></figure>
 
 {% hint style="warning" %}
 **To go further:** These introductory elements are an essential prerequisite for a Bilan Carbone® approach. They must be known, understood and mastered by the stakeholders involved and will be addressed in the [Engagement](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/3-mobilisation-des-parties-prenantes) step. They are further detailed in the [awareness and outreach resources](../annexes/annexes/annexe-9-ressources-pour-la-mobilisation/) on the issues.&#x20;
