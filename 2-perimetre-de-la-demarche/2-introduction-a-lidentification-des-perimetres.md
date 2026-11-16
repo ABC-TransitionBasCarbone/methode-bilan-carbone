@@ -46,7 +46,7 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 * E: Operational boundary
   * E1: The assessment must take into account all direct emissions and between 80% and 100% of the organisation's indirect emissions.
 * F: Identification of emission sources
-  * F1: The identification of emission sources must be done via a flux mapping.
+  * F1: The identification of emission sources must be done via a flow mapping.
 * G: Identification of physical and transition risks
   * G1: The organisation identifies the various risks linked to climate change (physical risks, transition risks).
 {% endtab %}
@@ -57,9 +57,9 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 * E: Operational boundary
   * E2: The operational boundary includes all direct and indirect emissions of the organisation.
 * F: Identification of emission sources
-  * F2: The identification of emission sources must be done via a flux mapping.
+  * F2: The identification of emission sources must be done via a flow mapping.
 * G: Identification of physical and transition risks
-  * G2: The organisation identifies the risks specific to it, and formalises a link with the flux mapping to problematise vulnerabilities.
+  * G2: The organisation identifies the risks specific to it, and formalises a link with the flow mapping to problematise vulnerabilities.
 {% endtab %}
 
 {% tab title="Advanced level" %}
@@ -68,7 +68,7 @@ As a **reminder**, here is the [summary of requirements](../1-cadrage-de-la-dema
 * E: Operational boundary
   * E3: The operational boundary includes all direct and indirect emissions of the organisation.
 * F: Identification of emission sources
-  * F3: The identification of emission sources must be done in a flux mapping or an analytical mapping.
+  * F3: The identification of emission sources must be done in a flow mapping or an analytical mapping.
 * G: Identification of physical and transition risks
   * G3: The organisation carries out or has carried out (resulting from pre-existing or complementary work) a genuine analysis of the physical and transition risks that concern it, and quantifies the effects that these risks may have on its entire value chain.
 {% endtab %}
@@ -80,7 +80,7 @@ The information and Deliverables obtained at the end of Step 2, and associated w
 
 * [x] The choice of organisational boundary along with a justification (list of facilities and sites concerned);
 * [x] The chosen temporal boundary;
-* [x] The organisation's flux mapping (quantified, where applicable) or the analytical mapping (where applicable);
+* [x] The organisation's flow mapping (quantified, where applicable) or the analytical mapping (where applicable);
 * [x] The choice of operational boundary (significance criterion where applicable) and its justification;
 * [x] The physical and transition risks linked to climate change; according to what is required at the maturity level (list of risks and opportunities, risks mapping, or risks analysis where applicable).
 

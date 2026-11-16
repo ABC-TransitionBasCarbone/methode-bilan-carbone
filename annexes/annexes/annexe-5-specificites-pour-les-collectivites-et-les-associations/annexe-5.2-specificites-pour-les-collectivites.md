@@ -6,7 +6,7 @@ description: >-
 
 # Annex 5.2 - Specificities for Local Authorities
 
-> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex providing scoping information on the specificities of local authorities is being drafted. It will be made available shortly.</mark>
+> <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] An annex providing framework information on the specificities of local authorities is being drafted. It will be made available shortly.</mark>
 
 > :mag\_right: _The_ [_regulatory GHG assessment_](../../bibliographie/#autres-standards-normes-et-reglementations-de-comptabilisation-des-emissions-de-ges) _method is a relevant resource for the specificities of local authorities subject to regulation, particularly regarding boundaries._
 

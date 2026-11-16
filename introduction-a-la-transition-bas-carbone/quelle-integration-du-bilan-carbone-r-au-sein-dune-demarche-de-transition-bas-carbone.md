@@ -74,10 +74,10 @@ Bilan Carbone® Organisation thus makes it possible to meet, in terms of carbon 
 
 The Bilan Carbone® method is [**compatible**](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md) with regulatory requirements:
 
-* Bilan Carbone® at [Beginner level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-initial-un-premier-bilan-carbone-r) meets the regulation on all points.
+* Bilan Carbone® at [Initial level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-initial-un-premier-bilan-carbone-r) meets the regulation on all points.
 * Bilan Carbone® at [Standard level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-standard-un-bilan-carbone-r-avec-des-actions-ciblant-lensemble-des-emissions) and [Advanced level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-avance-un-bilan-carbone-r-qui-pilote-une-veritable-strategie-de-transition) require more.
 
-> :mag\_right: _Since the_ [_evolution_](../annexes/bibliographie/#methode-reglementaire-pour-la-realisation-des-bilans-demissions-de-gaz-a-effet-de-serre) _of French regulations in 2023, there is a very strong correspondence between the philosophies of Bilan Carbone® and BEGES-R, which now also requires emission management (comprehensive inventory also covering significant emissions, analytical commentary on results, renewal of the assessment and comparison of assessments between the reference year and the reporting year)._
+> :mag\_right: _Since the_ [_evolution_](../annexes/bibliographie/#methode-reglementaire-pour-la-realisation-des-bilans-demissions-de-gaz-a-effet-de-serre) _of French regulations in 2023, there is a very strong correspondence between the philosophies of Bilan Carbone® and BEGES-R, which now also requires emission management (comprehensive inventory also covering significant emissions, analytical commentary on results, renewal of the assessment and comparison of assessments between the base year and the reporting year)._
 
 Bilan Carbone® retains several complementary specificities (approach logic, or strategic analysis logic for example), supplemented by the training, tools and community that accompany this method.
 
@@ -92,7 +92,7 @@ Bilan Carbone® allows carbon accounting over a freely chosen boundary and time 
 
 Following the Bilan Carbone® approach, at its highest level of requirements, makes it possible to meet a large part of the requirements of the ESRS E1 standard of the CSRD, which concerns climate change:
 
-* Bilan Carbone® at [Beginner level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-initial-un-premier-bilan-carbone-r) and [Standard level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-standard-un-bilan-carbone-r-avec-des-actions-ciblant-lensemble-des-emissions) do not meet all CSRD (ESRS E1) requirements.
+* Bilan Carbone® at [Initial level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-initial-un-premier-bilan-carbone-r) and [Standard level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-standard-un-bilan-carbone-r-avec-des-actions-ciblant-lensemble-des-emissions) do not meet all CSRD (ESRS E1) requirements.
 * Bilan Carbone® at [Advanced level](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-avance-un-bilan-carbone-r-qui-pilote-une-veritable-strategie-de-transition) covers the majority of requirements, [listed here.](../6-synthese-et-restitution/6.2-compatibilite-de-la-demarche-avec-dautres-referentiels.md)
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A correspondence table will be made available shortly listing the</mark> _<mark style="background-color:blue;">data points</mark>_ <mark style="background-color:blue;">(specific information the organisation is required to disclose under the CSRD) that an Advanced level Bilan Carbone® approach will make it possible to complete.</mark>

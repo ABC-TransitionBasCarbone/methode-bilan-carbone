@@ -20,7 +20,7 @@ The **ISO 14000** series of standards concerns **environmental issues**: environ
 
 **ISO 14064 deals with climate change.** It proposes a methodology for reporting GHG emissions, integrating the notion of significance. We present here an overview of standards 14064-1 (2018) and 14069 (2013) which more specifically concern the reporting of an organisation's emissions.
 
-## **What are the objectives of the approach?**
+## **What are the approach's goals?**
 
 The approach aims to provide a clear and coherent vision for the quantification, monitoring, reporting, as well as validation or verification of GHG inventories or projects.
 
@@ -90,7 +90,7 @@ In parallel, an identification of GHG sources and sinks must be carried out, cov
 {% endtab %}
 {% endtabs %}
 
-Emissions or removals for the reference year can be quantified based on a specific period (for example one year or a period of the year if the organisation's activity has a seasonal character) or averaged over several periods (several years, for example). If available information on the history of GHG emissions or removals is insufficient, the organisation may use its first GHG inventory period as the reference year.
+Emissions or removals for the base year can be quantified based on a specific period (for example one year or a period of the year if the organisation's activity has a seasonal character) or averaged over several periods (several years, for example). If available information on the history of GHG emissions or removals is insufficient, the organisation may use its first GHG inventory period as the base year.
 
 **It is recommended that GHG data be recorded and quantified by source, sink and type, at minimum at installation level.** This data should be retained in its disaggregated form to ensure maximum flexibility in meeting reporting requirements. It is for the organisation to decide on the quantification method, and to justify it.
 
@@ -127,7 +127,7 @@ The **6 significance assessment criteria**, identical to those of the BEGES-R, a
 A specific format for the GHG emission inventory (tCO2eq) is however proposed:
 
 * Direct emissions, GHG removals if quantified, indirect emissions
-* Reference year
+* Base year
 * Uncertainty assessment and reduction, quality management
 * Recommended: temporal, method used, determination and classification of emission or removal differences according to scopes) or GHG projects
 * GHG report verification

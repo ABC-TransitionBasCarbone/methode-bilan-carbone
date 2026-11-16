@@ -20,7 +20,7 @@ Essential introductory section covering the objectives and steps of Bilan Carbon
 * [0.2 - Learn about the steps to follow when engaging in the approach](introduction-au-bilan-carbone-r/0.2-les-etapes-dun-bilan-carbone-r.md)
 * [0.3 - Method summary](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md) : this section presents a summary of the key points of the Bilan Carbone® method. This method summary can be exported in PDF format for physical or offline distribution, if necessary.
 
-## Step 1 - Scoping the approach
+## Step 1 - Framework of the approach
 
 Every organisation must start with this step, which frames the Bilan Carbone® approach and clearly defines what needs to be carried out in the subsequent stages, as the approach adapts to the organisation and its objectives.&#x20;
 
@@ -44,7 +44,7 @@ Engagement is an ongoing process throughout the entire Bilan Carbone® approach,
 
 * [3 - Introduction to engagement](3-mobilisation-des-parties-prenantes/3-introduction-a-la-mobilisation.md) : This introductory sub-section presents the timeline of the step, as well as the definitions, requirements, and expected governance for Step 3.
 * [3.1 - Planning the engagement phases](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/) : This sub-section presents the messages that must be communicated during engagement based on maturity, stakeholders, the stages of the approach and the organisation's profile. It is divided into 5 phases:&#x20;
-  * [3.1.1 : at the launch and scoping of the Bilan Carbone®](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r.md)
+  * [3.1.1 : at the launch and framework of the Bilan Carbone®](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r.md)
   * [3.1.2 : at the launch of data collection](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md)
   * [3.1.3 : for the construction of the GHG profile](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.3-a-lissue-de-la-construction-du-profil-ges.md)
   * [3.1.4 : for the construction of the transition plan](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md)

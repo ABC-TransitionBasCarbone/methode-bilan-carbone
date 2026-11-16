@@ -4,7 +4,7 @@ description: Authorship and contributions to the Bilan Carbone® Methodological 
 
 # 🤝 Contributors: Acknowledgements
 
-Between 2022 and 2024, the Association for Low Carbon Transition (ABC) set up a **Working Group (WG)** dedicated to the evolution of the Bilan Carbone® method, composed of:
+Between 2022 and 2024, the Association for Building the Low Carbon Transition (ABC) set up a **Working Group (WG)** dedicated to the evolution of the Bilan Carbone® method, composed of:
 
 * The ABC team, including board members
 * Recognised historical experts who contributed to previous working groups or demonstrated their expertise

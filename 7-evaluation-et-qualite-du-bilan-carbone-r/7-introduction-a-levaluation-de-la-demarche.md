@@ -41,7 +41,7 @@ As the evaluation is carried out by independent third parties (see the [evaluati
 
 ## Awareness relating to Evaluation
 
-A [mobilisation action](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/) is possible at the end of Step 7. It aims at the [reporting and communication](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md) around the evaluation results, in summary of the approach.
+A [stakeholder engagement action](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/) is possible at the end of Step 7. It aims at the [reporting and communication](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md) around the evaluation results, in summary of the approach.
 
 ## Requirements relating to Evaluation
 

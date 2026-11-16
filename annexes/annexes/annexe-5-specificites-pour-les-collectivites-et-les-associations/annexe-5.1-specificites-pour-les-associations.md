@@ -154,7 +154,7 @@ The association can draw on the [annex](https://www.bilancarbone-methode.com/ann
 * **Physical risks**: Certain associations, particularly those with infrastructure or equipment, could be exposed to risks linked to climate hazards (floods, heatwaves, storms). It is therefore crucial to anticipate these to ensure continuity of activities and the protection of beneficiaries, volunteers and material resources.
 * **Transition risks**: The transition towards a low-carbon model may also present challenges for associations. This includes managing the costs and resources necessary to adapt their practices. However, it may also represent opportunities to strengthen their social and environmental commitment, attract new partners or benefit from conditional financial support.
 
-Within the framework of [mobilisation](https://www.bilancarbone-methode.com/3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r), time for debate and exchange on these risks and the association's vulnerabilities can be organised.
+Within the framework of [stakeholder engagement](https://www.bilancarbone-methode.com/3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r), time for debate and exchange on these risks and the association's vulnerabilities can be organised.
 
 While an exhaustive analysis of the specific risks relating to the association's activities is not required, three reflections are a priority for associations:
 
@@ -166,13 +166,13 @@ Criterion G1 makes it possible to feed the action plan in response to these risk
 
 </details>
 
-## Mobilisation
+## Stakeholder engagement
 
 <details>
 
-<summary>Mobilisation targets: criterion H1</summary>
+<summary>Stakeholder engagement targets: criterion H1</summary>
 
-:information\_source: Criterion H1: Mobilisation targets at least the organisation's internal stakeholders, i.e. the project team, employees and management. [More details here.](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/)
+:information\_source: Criterion H1: Stakeholder engagement targets at least the organisation's internal stakeholders, i.e. the project team, employees and management. [More details here.](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/)
 
 **Specificities and recommended adaptations for an association:**
 
@@ -183,16 +183,16 @@ Criterion G1 makes it possible to feed the action plan in response to these risk
 
 <details>
 
-<summary>Mobilisation messages: criterion I1</summary>
+<summary>Stakeholder engagement messages: criterion I1</summary>
 
-:information\_source: Criterion I1: The following mobilisation phases: awareness and plain-language explanation, accountability, reporting and communication, intervene at least once in the approach. [More details here.](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/)
+:information\_source: Criterion I1: The following stakeholder engagement phases: awareness and plain-language explanation, empowerment, reporting and communication, intervene at least once in the approach. [More details here.](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/)
 
 **Specificities and recommended adaptations for an association:**
 
 It is recommended to adapt messages to the association context, to align with the values, functioning and diversity of profiles involved:
 
 * **Awareness and plain-language explanation**: in addition to awareness messages on carbon & climate issues, it is essential to recall that association actors are often committed to ecological or social justice issues, and that it can be difficult for them to realise that they also have a carbon impact. Awareness must emphasise that reducing GHG emissions does not mean reducing association activity itself — which remains fundamental to society — but rather optimising practices to minimise environmental impact.
-* **Accountability**: messages specifying each person's role in the transition to action must be adapted according to the different profiles (elected representatives, volunteers, beneficiaries, employees), and the scope for action of each within the association.
+* **Empowerment**: messages specifying each person's role in the transition to action must be adapted according to the different profiles (elected representatives, volunteers, beneficiaries, employees), and the scope for action of each within the association.
 * **Co-construction** (optional for the Initial Level): although this phase is optional, it is often relevant to involve volunteers, employees, and beneficiaries in the co-construction of the transition plan. This pool of stakeholders is generally aligned with the association's values and willing to co-create solutions.
 * **Reporting and communication**: This phase remains broadly identical to the standard recommendations, while ensuring that internal communication is well adapted to the association's stakeholders, and prioritising meaningful messages in the association context.
 
@@ -202,27 +202,27 @@ It is recommended to adapt messages to the association context, to align with th
 
 <details>
 
-<summary>Mobilisation steps: criterion J1</summary>
+<summary>Stakeholder engagement steps: criterion J1</summary>
 
-:information\_source: Criterion J1: At least one mobilisation action takes place during the steps of launching the approach, intermediate reporting and synthesis of the approach. [More details here.](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/)
+:information\_source: Criterion J1: At least one stakeholder engagement action takes place during the steps of launching the approach, intermediate reporting and synthesis of the approach. [More details here.](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/)
 
 **Specificities and recommended adaptations for an association:**
 
-There is no specific adaptation for an association on the number of mobilisation actions or the steps concerned. Thus, three mobilisation actions are to be carried out during the approach to involve stakeholders in the approach and then in the implementation of actions. Two additional actions are optional: one at the [launch of data collection](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md), one in [co-construction of the transition plan](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md).
+There is no specific adaptation for an association on the number of stakeholder engagement actions or the steps concerned. Thus, three stakeholder engagement actions are to be carried out during the approach to involve stakeholders in the approach and then in the implementation of actions. Two additional actions are optional: one at the [launch of data collection](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md), one in [co-construction of the transition plan](../../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md).
 
 </details>
 
-:information\_source: The organisation of mobilisation must articulate criteria H1, I1 and J1 coherently (targets, messages, and steps). The order and format of mobilisation remains flexible. For an association, it is nevertheless frequent and recommended to follow the indicative order below:
+:information\_source: The organisation of stakeholder engagement must articulate criteria H1, I1 and J1 coherently (targets, messages, and steps). The order and format of stakeholder engagement remains flexible. For an association, it is nevertheless frequent and recommended to follow the indicative order below:
 
 * Awareness & plain-language explanation of carbon & climate issues: at the launch of the approach, for the project team and the reference elected representative. [Details.](https://www.bilancarbone-methode.com/3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r)
 * Reporting & communication: at the time of presenting the GHG profile, to the project team and the reference elected representative. [Details.](https://www.bilancarbone-methode.com/3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.3-pour-la-construction-du-profil-ges)
-* Reporting & communication of results, and accountability around actions: in synthesis of the approach, for interested internal contributors. [Details.](https://www.bilancarbone-methode.com/3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche)
+* Reporting & communication of results, and empowerment around actions: in synthesis of the approach, for interested internal contributors. [Details.](https://www.bilancarbone-methode.com/3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche)
 
 ## Accounting
 
 :information\_source: The criteria of the Bilan Carbone® method linked to the accounting step are designed in a generalist manner and apply to all organisations, regardless of their size, sector of activity or profile, therefore including associations.
 
-The Bilan Carbone® method does not aim to specify particular calculations or conventions specific to different sectors or organisation profiles. For practical advice and application keys, the association can draw on the [Plan Carbone Général](../../bibliographie/#plan-carbone-general), which notably offers a **sectoral approach dedicated to the association sector.**
+The Bilan Carbone® method does not aim to specify particular calculations or conventions specific to different sectors or organisation profiles. For practical advice and application keys, the association can draw on the [General Carbon Plan](../../bibliographie/#plan-carbone-general), which notably offers a **sectoral approach dedicated to the association sector.**
 
 <details>
 
@@ -268,7 +268,7 @@ The requirements of criterion M1 apply to associations in the same way as for ot
 
 **Specificities and recommended adaptations for an association:**
 
-In connection with criteria E1 and F1, which recommend adapting the operational boundary to the association profile, it is also relevant to present the association's emission profile according to an adapted nomenclature, in addition to the standard Bilan Carbone® nomenclature. Thus, for the presentation of results, it is interesting to distinguish certain categories specific to association functioning, such as emissions **linked to volunteers, beneficiaries, and the day-to-day operation of the association**. This approach offers an operational view of the contributions of each type of stakeholder to the association's overall emissions.
+In connection with criteria E1 and F1, which recommend adapting the operational boundary to the association profile, it is also relevant to present the association's emission profile according to an adapted nomenclature, in addition to the standard Bilan Carbone® nomenclature. Thus, for the reporting of results, it is interesting to distinguish certain categories specific to association functioning, such as emissions **linked to volunteers, beneficiaries, and the day-to-day operation of the association**. This approach offers an operational view of the contributions of each type of stakeholder to the association's overall emissions.
 
 </details>
 
@@ -316,7 +316,7 @@ For a first action plan, it is recommended to plan around ten operational [actio
 
 **Specificities and recommended adaptations for an association:**
 
-The quantification of reduction potential compares the emissions of the reference scenario and the scenario where the action is implemented. Several recommendations:
+The quantification of reduction potential compares the emissions of the baseline scenario and the scenario where the action is implemented. Several recommendations:
 
 * **Quantitative estimate:** For the overall reduction potential, it is advisable to identify the actions with the greatest emission reduction potential, as these are the actions that will make it possible to have the right order of magnitude of the expected volume of reduction. Furthermore, it is advisable to use an approach by broad categories of actions, by cumulating the expected impacts on key categories of the emission profile (for example: travel, energy, inputs). An approximate but representative method may suffice to effectively guide priorities.
 * **Qualitative assessment:** The other qualitative indicators are not negligible, notably the available resources (human, financial and material means). They make it possible to prioritise certain actions when their quantification is more complex (actions with indirect but structuring impacts, or a low but motivating reduction potential, etc.)
@@ -370,7 +370,7 @@ It is nevertheless essential to identify in advance the resource persons in char
 
 **Specificities and recommended adaptations for an association:**
 
-The presentation of [Bilan Carbone® deliverables](../../../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md#restitution-et-livrables-bilan-carbone-r) must be done internally by the persons involved in the approach (see criterion A1). These deliverables bring together all the information making it possible to document the results, choices and assumptions made. They are archived by the association to ensure their accessibility and longevity.
+The reporting of [Bilan Carbone® deliverables](../../../6-synthese-et-restitution/6.1-restitution-du-bilan-carbone-r.md#restitution-et-livrables-bilan-carbone-r) must be done internally by the persons involved in the approach (see criterion A1). These deliverables bring together all the information making it possible to document the results, choices and assumptions made. They are archived by the association to ensure their accessibility and longevity.
 
 It is particularly important, in an association context where volunteers may succeed each other frequently, to anticipate the continuity of the approach. This involves a rigorous handover of skills from an **additional deliverable**: a handover document, which records the choices made throughout the approach (methodological choices, decisions on actions, etc.).
 

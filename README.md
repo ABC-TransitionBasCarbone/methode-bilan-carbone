@@ -16,7 +16,7 @@ To learn more about the changes made, please consult the [change log](avant-prop
 
 This methodological guide presents version 9 of the Bilan Carbone® method as applied to an organisation. It details the objectives, principles, methodology, steps of the approach, and presents various annexes and resources useful for its application and evaluation.
 
-The Bilan Carbone® method, born from the initiative of [ADEME](annexes/glossaire.md) and subsequently carried by the [Association for Low Carbon Transition (ABC)](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r), constitutes an essential pillar in the assessment and reduction of greenhouse gas (GHG) emissions. It encompasses not only the historical method, the reference standard, but also the [tools](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/formation-et-outils-dapplication-de-la-methode) distributed by the ABC or compliant tools, as well as the training provided by accredited [training](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) organisations, thus forming a complete package in service of its community.
+The Bilan Carbone® method, born from the initiative of [ADEME](annexes/glossaire.md) and subsequently carried by the [Association for Building the Low Carbon Transition (ABC)](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r), constitutes an essential pillar in the assessment and reduction of greenhouse gas (GHG) emissions. It encompasses not only the historical method, the reference standard, but also the [tools](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/formation-et-outils-dapplication-de-la-methode) distributed by the ABC or compliant tools, as well as the training provided by accredited [training](formation-et-outils-dapplication-de-la-methode/formations-a-la-methode-bilan-carbone-r.md) organisations, thus forming a complete package in service of its community.
 
 Since its creation in 2004, the Bilan Carbone® has undergone eight successive evolutions, demonstrating its constant commitment to advances in carbon accounting. Version 8, published in 2018, marked a significant milestone by reinforcing the strategic dimension of carbon accounting and enabling organisations to project themselves over the next 30 years.
 
@@ -30,7 +30,7 @@ This new version of the method introduces numerous evolutions:
 
 ### **🧭 Three maturity levels to match the reality of organisations**
 
-Each maturity level (Beginner, Intermediate and Advanced) is defined by specific criteria regarding the frequency of renewal, the monitoring of actions, the boundaries, and the importance of stakeholder engagement.
+Each maturity level (Initial, Standard and Advanced) is defined by specific criteria regarding the frequency of renewal, the monitoring of actions, the boundaries, and the importance of stakeholder engagement.
 
 The Bilan Carbone® has always been adapted to need (from a first assessment to managing an organisation's decarbonisation). These new maturity levels make it possible to set the ambition of the approach, and to standardise practices. The primary objective remains to enable action regardless of one's profile or maturity level.
 
@@ -42,7 +42,7 @@ It is essential to recall the philosophy of the Bilan Carbone®, centred on the 
 
 ### **🏋️‍♀️ Mobilising all stakeholders**
 
-The _awareness of stakeholders_, mandatory in previous versions of the Bilan Carbone®, gives way to the _mobilisation of stakeholders_, with the ambition of putting organisations into action, in motion and in transition. The Bilan Carbone® thus establishes itself as a comprehensive and orchestrated 7-step approach, going beyond a simple carbon accounting method, in which continuous mobilisation is necessary. The method specifies the content and messages, and offers free resources, while leaving the choice of mobilisation formats and tools open.
+The _awareness of stakeholders_, mandatory in previous versions of the Bilan Carbone®, gives way to the _mobilisation of stakeholders_, with the ambition of putting organisations into action, in motion and in transition. The Bilan Carbone® thus establishes itself as a comprehensive and orchestrated 7-step approach, going beyond a simple carbon accounting method, in which continuous stakeholder engagement is necessary. The method specifies the content and messages, and offers free resources, while leaving the choice of stakeholder engagement formats and tools open.
 
 ### 🔢 A more precise and educational uncertainty estimate
 
@@ -58,7 +58,7 @@ The use of the Bilan Carbone® is compatible with other [standards](annexes/bibl
 
 A significant development lies in the **evaluation and auditing of results**, now available on request, meeting a variety of needs such as regulatory compliance, assurance as to the reliability of one's approach for a better transition, quality control of stakeholders' assessments, and transparency in communication.
 
-Beyond the technical aspect, this standardisation of verifications implies the mobilisation of new roles, notably experts in financial accounting, underscoring the evolution towards a **more holistic and regulated approach.**
+Beyond the technical aspect, this standardisation of verifications implies the stakeholder engagement of new roles, notably experts in financial accounting, underscoring the evolution towards a **more holistic and regulated approach.**
 
 ### 🧩 A more modern format for the method
 
@@ -68,9 +68,9 @@ The document as a whole runs to more than 300 pages, which is why it is accompan
 
 ### ⏳ Ongoing evolutions and improvements
 
-The Bilan Carbone® method is intended to be dynamic and living. Work on the method continues in discussion with the carbon accounting ecosystem **in a logic of continuous improvement**. The next areas of reflection in 2025 will focus on the Product footprint, the Territory footprint, or on the framing of the Bilan Carbone® with regard to avoided and sequestered emissions. Consequently, updates will be made to evolve this guide. Each new methodological integration will be the subject of a [transparent publication](avant-propos/historique-et-suivi-des-modifications.md). Any major update will give rise to free upgrade training sessions delivered to the ABC community by its training partners.
+The Bilan Carbone® method is intended to be dynamic and living. Work on the method continues in discussion with the carbon accounting ecosystem **in a logic of continuous improvement**. The next areas of reflection in 2025 will focus on the Product footprint, the Territory footprint, or on the framework of the Bilan Carbone® with regard to avoided and sequestered emissions. Consequently, updates will be made to evolve this guide. Each new methodological integration will be the subject of a [transparent publication](avant-propos/historique-et-suivi-des-modifications.md). Any major update will give rise to free upgrade training sessions delivered to the ABC community by its training partners.
 
-## The Bilan Carbone® and the Association for Low Carbon Transition (ABC)
+## The Bilan Carbone® and the Association for Building the Low Carbon Transition (ABC)
 
 {% hint style="info" %}
 The Bilan Carbone® refers to both:
@@ -83,12 +83,12 @@ The Bilan Carbone® refers to both:
 
 The result of the Bilan Carbone® approach applied to an organisation may be referred to as:
 
-* Beginner, Intermediate or Advanced level Bilan Carbone®, depending on the maturity level chosen by the organisation.
-* **Evaluated** Beginner, Intermediate or Advanced level Bilan Carbone®, depending on the maturity level chosen by the organisation, and if the organisation's Bilan Carbone® has been evaluated using the [associated procedures](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/7-evaluation-et-qualite-du-bilan-carbone-r).
+* Initial, Standard or Advanced level Bilan Carbone®, depending on the maturity level chosen by the organisation.
+* **Evaluated** Initial, Standard or Advanced level Bilan Carbone®, depending on the maturity level chosen by the organisation, and if the organisation's Bilan Carbone® has been evaluated using the [associated procedures](https://app.gitbook.com/s/GBSULMB7RDjF3KmSrnc9/7-evaluation-et-qualite-du-bilan-carbone-r).
 {% endhint %}
 
 {% hint style="info" %}
-The Association for Low Carbon Transition ([ABC](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)) — formerly the Association Bilan Carbone — was created in 2011 by [ADEME](annexes/glossaire.md) and [APCC](annexes/glossaire.md), to carry and disseminate the Bilan Carbone® methodology. It makes available to organisations and citizens the tools and methods enabling them to succeed in defining and implementing their decarbonisation strategy. The ABC brings together more than 1,000 organisations committed to climate action and animates a community of stakeholders around the issues of low-carbon transition and more particularly carbon accounting. Through its missions, the association wishes to mobilise and train the maximum number of stakeholders (organisations and citizens) on the issues related to the fight against climate change.
+The Association for Building the Low Carbon Transition ([ABC](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)) — formerly the Association Bilan Carbone — was created in 2011 by [ADEME](annexes/glossaire.md) and [APCC](annexes/glossaire.md), to carry and disseminate the Bilan Carbone® methodology. It makes available to organisations and citizens the tools and methods enabling them to succeed in defining and implementing their decarbonisation strategy. The ABC brings together more than 1,000 organisations committed to climate action and animates a community of stakeholders around the issues of low-carbon transition and more particularly carbon accounting. Through its missions, the association wishes to mobilise and train the maximum number of stakeholders (organisations and citizens) on the issues related to the fight against climate change.
 
 This new version of the Bilan Carbone® method can be consulted freely and free of charge. However, its use is conditional on [membership](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r) or an up-to-date licence with the ABC as a legal entity, thus ensuring an up-to-date version of the tools as well as various additional services (for more details, consult the [ABC website](annexes/bibliographie/)). Any organisation wishing to use the method or our tools must have within it at least one person trained in the Bilan Carbone® methodology by an accredited training organisation (for more details, see the [general terms of use](annexes/bibliographie/#labc-et-les-ressources-complementaires-au-bilan-carbone-r)).
 {% endhint %}

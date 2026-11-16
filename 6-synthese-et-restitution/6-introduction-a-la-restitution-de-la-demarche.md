@@ -36,7 +36,7 @@ The validation of deliverables depends on the maturity level of the organisation
 
 ## Stakeholder engagement relating to Reporting
 
-A stakeholder engagement action takes place during step 6. It aims at fostering accountability, reporting and communication around the results and the [finalisation of the approach](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md). It is part of the stakeholder engagement phases programming presented previously.
+A stakeholder engagement action takes place during step 6. It aims at fostering empowerment, reporting and communication around the results and the [finalisation of the approach](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.5-en-synthese-de-la-demarche.md). It is part of the stakeholder engagement phases programming presented previously.
 
 ## Requirements relating to Reporting
 

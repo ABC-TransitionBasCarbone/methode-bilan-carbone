@@ -18,7 +18,7 @@ With the **Grenelle 2 Act of 12 July 2010** and the creation of **Article L229-2
 
 The regulatory method was developed within the framework of the work of the national coordination body on greenhouse gas emission assessments, created by Article R. 229-49 of the Environmental Code. **The BEGES-R method is strongly inspired by existing reference frameworks**, in particular those defined at the international level such as **ISO 14064-1**, and its latest iteration was published in July 2022.
 
-## **What are the objectives of the approach?**
+## **What are the approach's goals?**
 
 The BEGES-R method aims to enable French organisations, public or private, to **quantify their GHG emissions in order to identify and mobilise levers for action to reduce their impact on the climate**. By requiring the publication of these assessments on the ADEME [Bilan GES](https://bilans-ges.ademe.fr/) website, the French regulation encourages transparency and pooling.
 
@@ -28,8 +28,8 @@ The latest version of the BEGES-R methodology accompanies Decree No. 2022-982 of
 
 The BEGES-R methodology frames the following steps for organisations:
 
-1. **Scoping**: definition of the organisation's organisational boundary
-2. **Identification of sources and emissions**: definition of the operational boundary and the declaration boundary
+1. **Framework**: definition of the organisation's organisational boundary
+2. **Identification of sources and emissions**: definition of the operational boundary and the reporting boundary
 3. **Data collection**: general principles for assessing GHG emissions
 4. **Assessment calculation and analysis**: Detailed presentation of emission categories
 5. **Transition plan**: definition of a pathway, formalisation of the transition plan and monitoring of past actions
@@ -93,10 +93,10 @@ The BEGES-R method was developed with the objective of supporting the **preparat
 
 <summary><strong>The detailed steps of the BEGES-R methodology</strong></summary>
 
-1. Scoping: Definition of the legal entity's organisational boundary
+1. Framework: Definition of the legal entity's organisational boundary
 2. Identification of sources and emissions
    1. Definition of the operational boundary
-   2. Declaration boundary
+   2. Reporting boundary
 3. Data collection
    1. Identification of data to collect for the calculation of induced emissions
       1. Choice of criteria to determine significant emissions among indirect non-energy-related emissions
@@ -105,7 +105,7 @@ The BEGES-R method was developed with the objective of supporting the **preparat
    3. Valorisation of avoided emissions and consumption of certified renewable energy
 4. Calculation and analysis of the Assessment
    1. Calculation of induced emissions according to the regulatory methodology and emission categories
-   2. If necessary: Recalculation of GHG emissions for the reference year
+   2. If necessary: Recalculation of GHG emissions for the base year
 5. Transition plan
    1. If relevant: Analysis of results obtained over previous years
    2. Definition of medium and long-term reduction objectives
@@ -116,7 +116,7 @@ The BEGES-R method was developed with the objective of supporting the **preparat
 
 </details>
 
-As the preparation of BEGES-R assessments is a regulatory obligation, the scope to be covered is also imposed. As mentioned above, the minimum declaration boundary differs for two types of organisations:
+As the preparation of BEGES-R assessments is a regulatory obligation, the scope to be covered is also imposed. As mentioned above, the minimum reporting boundary differs for two types of organisations:
 
 {% tabs %}
 {% tab title="Legal entities not subject to NFRD" %}
@@ -154,7 +154,7 @@ To define which indirect emissions are significant, an organisation should only 
 5. Indirect emissions associated with sold products
 6. Other indirect emissions
 
-The French regulatory method allows the exclusion of certain indirect emission categories, as long as the magnitude criterion remains respected. On the other hand, direct emission categories cannot be excluded from a declaration boundary.
+The French regulatory method allows the exclusion of certain indirect emission categories, as long as the magnitude criterion remains respected. On the other hand, direct emission categories cannot be excluded from a reporting boundary.
 
 &#x20;
 

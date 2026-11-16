@@ -18,10 +18,10 @@ Version 9 of the method is in an experimental phase until 31/12/2024. Tools and 
 
 We invite you to consult the following 2 resources, which are managed by the ABC:
 
-* The PCG ([Plan Carbone Général](https://www.plancarbonegeneral.com/)) which is an operational guide with practical advice
+* The PCG ([General Carbon Plan](https://www.plancarbonegeneral.com/)) which is an operational guide with practical advice
 * OCP ([Open Carbon Practice](https://www.opencarbonpractice.com/rejoindre-la-communaute)) which is a platform for methodological exchanges between carbon practitioners. Users of the PCG resource can report gaps or propose ideas for improvement by joining the OCP community on Slack.
 
-The Plan Carbone Général is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, particularly with the arrival of this new version of the method.
+The General Carbon Plan is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, particularly with the arrival of this new version of the method.
 
 **Your question concerns the ABC's resources and community:**
 
@@ -53,7 +53,7 @@ These new [maturity levels](../1-cadrage-de-la-demarche/1.1-definir-son-niveau-d
 
 * An accessible entry level: carrying out an assessment according to one's means (financial, human...) so as not to be blocked by lack of resources
 * Adapting the method to the diversity of organisations on the ground (small structure or international activities...)
-* Meeting the personalised needs of organisations: adjusting the approach so that it can meet different objectives (regulatory compliance, steering of internal decisions, or mobilisation of stakeholders with transparency...)
+* Meeting the personalised needs of organisations: adjusting the approach so that it can meet different objectives (regulatory compliance, steering of internal decisions, or stakeholder engagement with transparency...)
 * Encouraging action for any organisation, regardless of its maturity level and profile
 
 </details>
@@ -123,10 +123,10 @@ If your question concerns a practical application of the method, or carbon accou
 
 We invite you to consult the following 2 resources, which are managed by the ABC:
 
-* The PCG ([Plan Carbone Général](https://www.plancarbonegeneral.com/)) which is an operational guide with practical advice
+* The PCG ([General Carbon Plan](https://www.plancarbonegeneral.com/)) which is an operational guide with practical advice
 * OCP ([Open Carbon Practice](https://www.opencarbonpractice.com/rejoindre-la-communaute)) which is a platform for methodological exchanges between carbon practitioners. Users of the PCG resource can report gaps or propose ideas for improvement by joining the OCP community on Slack.
 
-The Plan Carbone Général is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, particularly with the arrival of this new version of the method.
+The General Carbon Plan is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, particularly with the arrival of this new version of the method.
 
 </details>
 

@@ -53,7 +53,7 @@ Management does not need to be involved during this stage, unless access to cert
 Two stakeholder engagement actions take place during the accounting stages, and are part of the stakeholder engagement programming [presented previously](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/).&#x20;
 
 * one upstream of stage 4, i.e. [at the launch of the data collection](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md)
-* the other downstream of stage 4, from the [construction of the emission profile](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.3-a-lissue-de-la-construction-du-profil-ges.md), therefore for the interim presentation.
+* the other downstream of stage 4, from the [construction of the emission profile](../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.3-a-lissue-de-la-construction-du-profil-ges.md), therefore for the interim reporting.
 
 ## Requirements relating to the Accounting stages
 

@@ -18,7 +18,7 @@ Analytical Carbon Accounting is a method for calculating the greenhouse gas (GHG
 
 > :mag\_right: The Bilan Carbone® method's references to analytical carbon accounting are based on the [Analytical Carbon Accounting Guide](https://climatip.gitbook.io/methodologie-de-comptabilite-carbone-analytique), published at the initiative of Mobeetip.
 
-## **What are the objectives of the approach?**
+## **What are the approach's goals?**
 
 Analytical carbon accounting enables:
 
@@ -78,7 +78,7 @@ This definition refers to the [analytical carbon accounting](./#guides-pratiques
 
 As a reminder, the **Bilan Carbone® method** **is structured around 3 main** [**maturity levels**](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md) **(Initial, Standard and Advanced).**
 
-Analytical carbon accounting is possible for all maturity levels. The [objectives of the approach](fiche-cca.md#what-are-the-objectives-of-the-approach) will advance the organisation in its transition journey.
+Analytical carbon accounting is possible for all maturity levels. The [approach's goals](fiche-cca.md#what-are-the-objectives-of-the-approach) will advance the organisation in its transition journey.
 
 It is recommended and **relevant** for an [Advanced level](../../1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md#niveau-avance-un-bilan-carbone-r-qui-pilote-une-veritable-strategie-de-transition) to implement analytical carbon accounting to obtain reading keys by responsibility boundary, and to enable the organisation's Bilan Carbone® to be installed as a decision-making tool.
 
@@ -142,7 +142,7 @@ Nevertheless, the organisation will be able to find below a correspondence table
 
 > <mark style="background-color:blue;">⏳\[</mark>[<mark style="background-color:blue;">WIP</mark>](../../#structures-des-informations-specifiques)<mark style="background-color:blue;">] A future resource will be produced and made available to provide a correspondence table with the nomenclature of a chart of accounts. These correspondences will be integrated into the exports of the Bilan Carbone® tools.</mark>
 
-### Stakeholder mobilisation
+### Stakeholder engagement
 
 For organisations following analytical carbon accounting, the [co-construction](../../3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md) times for actions can be carried out by analytical axes corresponding to stakeholders internal to the organisation (site, team, project, product, subsidiary, franchisee, activity). This enables potential actions to be identified at all scales of the organisation.
 

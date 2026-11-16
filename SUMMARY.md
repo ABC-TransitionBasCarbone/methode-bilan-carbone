@@ -17,7 +17,7 @@
 * [0.2 - The steps of a Bilan Carbone®](introduction-au-bilan-carbone-r/0.2-les-etapes-dun-bilan-carbone-r.md)
 * [0.3 - Method summary](introduction-au-bilan-carbone-r/0.3-synthese-de-la-methode.md)
 
-## 📌 1 - Scoping the approach
+## 📌 1 - Framework of the approach
 
 * [1.1 - Define your Bilan Carbone® maturity level](1-cadrage-de-la-demarche/1.1-definir-son-niveau-de-maturite-bilan-carbone-r.md)
 * [1.2 - Define the coordination of the Bilan Carbone® approach](1-cadrage-de-la-demarche/1.2-definir-le-pilotage-de-la-demarche-bilan-carbone-r.md)
@@ -35,7 +35,7 @@
 
 * [3 - Introduction to engagement](3-mobilisation-des-parties-prenantes/3-introduction-a-la-mobilisation.md)
 * [3.1 - Planning the engagement phases](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/README.md)
-  * [3.1.1 - At the launch and scoping of the Bilan Carbone®](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r.md)
+  * [3.1.1 - At the launch and framework of the Bilan Carbone®](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.1-au-lancement-et-cadrage-du-bilan-carbone-r.md)
   * [3.1.2 - At the launch of data collection](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.2-au-lancement-de-la-collecte-des-donnees.md)
   * [3.1.3 - Following construction of the GHG profile](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.3-a-lissue-de-la-construction-du-profil-ges.md)
   * [3.1.4 - For the construction of the transition plan](3-mobilisation-des-parties-prenantes/3.1-programmer-les-phases-de-mobilisation/3.1.4-pour-la-construction-du-plan-de-transition.md)

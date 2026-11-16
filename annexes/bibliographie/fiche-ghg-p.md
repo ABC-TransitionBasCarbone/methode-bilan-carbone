@@ -24,7 +24,7 @@ The first GHG Protocol standard was published in 2001, and since then, the metho
 The latest version in force dates from 2015, with a new revision planned for 2024.
 {% endhint %}
 
-## **What are the objectives of the approach?**
+## **What are the approach's goals?**
 
 <details>
 
@@ -75,7 +75,7 @@ However, unlike other GHG accounting methods such as the Bilan Carbone®, the GH
 
 The GHG Protocol method is very similar to other approaches and often serves as the standard model for GHG emission reporting:
 
-1. Organisational boundary (equity share & control), operational boundary (scopes 1, 2 and 3), definition of a reference year...
+1. Organisational boundary (equity share & control), operational boundary (scopes 1, 2 and 3), definition of a base year...
 
 {% tabs %}
 {% tab title="Scope 1" %}
@@ -105,7 +105,7 @@ Scope 3 is an optional reporting category that enables all other indirect emissi
 
 **It is important to note that these two approaches are not mutually exclusive, but it is encouraged to make the distinction in reporting.** Fixed asset investments are not taken into account by either approach, as it is considered that the parent company has neither significant influence nor financial control over these entities (exclusion of joint ventures and partnerships).
 
-Companies must select and justify a reference year with verifiable emission data. Most opt for a single year, but an average over several consecutive years can be used to mitigate atypical fluctuations, thus making the data more representative.
+Companies must select and justify a base year with verifiable emission data. Most opt for a single year, but an average over several consecutive years can be used to mitigate atypical fluctuations, thus making the data more representative.
 
 **There are two basic approaches to collecting GHG emission data from a company's installations:**
 

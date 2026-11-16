@@ -11,7 +11,7 @@ description: >-
 
 <details>
 
-<summary>ABC - Association pour la transition Bas Carbone (Association for Low Carbon Transition)</summary>
+<summary>ABC - Association pour la transition Bas Carbone (Association for Building the Low Carbon Transition)</summary>
 
 The [Association pour la transition Bas Carbone (ABC)](https://abc-transitionbascarbone.fr/association-pour-la-transition-bas-carbone/) – formerly the Association Bilan Carbone – was created in 2011 by ADEME and APCC, to carry and disseminate the Bilan Carbone® methodology. It makes available to organisations and citizens tools and methods enabling them to succeed in defining and implementing their decarbonisation strategy. The ABC brings together more than 1,000 organisations committed to the climate and animates a community of actors around the issues of the low-carbon transition and more particularly carbon accounting. The association, through its missions, wishes to mobilise and train the maximum number of actors (organisations and citizens) on the issues related to combating climate change.
 
@@ -156,7 +156,7 @@ The ABC provides a directory of service providers trained and authorised to supp
 
 The IPCC is the Intergovernmental Panel on Climate Change. It is an organisation bringing together 195 UN member states whose objective is to regularly provide an unbiased assessment of the most advanced scientific knowledge on climate. It brings together thousands of volunteer experts from around the world to evaluate, analyse and synthesise the many scientific studies on the subject. IPCC reports are at the heart of international climate negotiations.
 
-Created in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP), the IPCC has published six rounds of reports on climate change at regular intervals.
+Created in 1988 by the World Meteorological Organisation (WMO) and the United Nations Environment Programme (UNEP), the IPCC has published six rounds of reports on climate change at regular intervals.
 
 The sixth and most recent assessment report (AR6 or Sixth Assessment Report), finalised in 2023, is composed of three parts:
 
@@ -414,18 +414,18 @@ A complementary sectoral tool dedicated to carbon stocks and flows in territorie
 
 <details>
 
-<summary>Plan Carbone Général (PCG)</summary>
+<summary>General Carbon Plan (PCG)</summary>
 
-The Plan Carbone Général is a reference operational guide managed by the ABC in partnership with the APCC and on the original idea of SAMI. This guide aims to respond consensually to all practical questions concerning carbon accounting.
+The General Carbon Plan is a reference operational guide managed by the ABC in partnership with the APCC and on the original idea of SAMI. This guide aims to respond consensually to all practical questions concerning carbon accounting.
 
-The Plan Carbone Général currently covers the four main carbon accounting methodologies that are:
+The General Carbon Plan currently covers the four main carbon accounting methodologies that are:
 
 * The Bilan Carbone®
 * The Regulatory GHG Assessment
 * ISO 14064-1
 * The GHG Protocol
 
-The Plan Carbone Général is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, **particularly with the arrival of this new version of the method**. Users of the resource can moreover report gaps or propose ideas for improvement by joining the [Open Carbon Practice](https://app.gitbook.com/s/zOlIAIcT5f1ZANYh0WMo/) community on Slack.
+The General Carbon Plan is an evolving resource that is currently being modified by the ABC; some parts of the resource may therefore undergo significant changes, **particularly with the arrival of this new version of the method**. Users of the resource can moreover report gaps or propose ideas for improvement by joining the [Open Carbon Practice](https://app.gitbook.com/s/zOlIAIcT5f1ZANYh0WMo/) community on Slack.
 
 :link: To consult the PCG: [https://www.plancarbonegeneral.com/](https://www.plancarbonegeneral.com/)
 
@@ -458,7 +458,7 @@ For more information, you can consult:
 
 This is a dual resource adapted to the specificities of associations:
 
-* A [sectoral approach of the Plan Carbone Général](https://www.plancarbonegeneral.com/approches-sectorielles/introduction): practical and concrete advice for accounting for the carbon emissions of an association.
+* A [sectoral approach of the General Carbon Plan](https://www.plancarbonegeneral.com/approches-sectorielles/introduction): practical and concrete advice for accounting for the carbon emissions of an association.
 * An [annex of the Bilan Carbone®](https://www.bilancarbone-methode.com/annexes/annexes/annexe-5-specificites-pour-les-collectivites-et-les-associations): to adapt the steering of a Bilan Carbone® approach within an association. Its ambition is to strengthen the transition to climate action in the association sector by drawing on an adapted and accessible methodology, collectively designed to address the specific challenges of this sector.
 
 This annex is the result of reflections conducted with a Working Group on the carbon footprint of associations, created specifically by the ABC (Association pour la transition Bas Carbone) and the Mouvement Tilt. It constitutes a methodological reference for practical tools aligned with the realities and specificities of this sector.

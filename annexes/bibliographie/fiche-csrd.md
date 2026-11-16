@@ -20,7 +20,7 @@ Adopted in 2014 within the framework of the European Green Deal, the NFRD[^1] un
 
 The **CSRD (Corporate Sustainability Reporting Directive)** is thus the new directive proposed by the European Commission that aims to strengthen the non-financial reporting system of companies, through the integration of new measures (standards, comparability, external verification).
 
-## **What are the objectives of the approach?**
+## **What are the approach's goals?**
 
 The series of new CSRD standards aims to **improve the ESG reporting of companies at the European level** by promoting better **transparency** and **standardisation** of non-financial disclosures of companies. The CSRD aims to increase the confidence of investors and consumers in the data provided by companies while facilitating their interoperability.
 
@@ -80,7 +80,7 @@ The new CSRD directive introduces the notion of double materiality, which consis
 
 Once the double materiality analysis has been carried out, the organisation must draft its report according to the ESRS standards. **Only general information remains mandatory to provide** within the framework of the reporting. For the other ESRS, it is for the company to specify what it deems **relevant** to publish following its double materiality analysis. However, it must be in a position to justify its choices on the basis of this analysis. Only companies that do not integrate ESRS E1 "Climate Change" must systematically publish a justification.
 
-**In principle, the entire value chain, including scope 3, must be taken into account (insofar as this corresponds to the spectrum covered by the double materiality analysis)**. Data must relate to the previous fiscal year, similar to financial reporting: a publication in 2024 will thus be based on 2023 data. The organisation must present its current reference year and must update it for its GHG emission reduction objectives **every 5 years after 2030**.
+**In principle, the entire value chain, including scope 3, must be taken into account (insofar as this corresponds to the spectrum covered by the double materiality analysis)**. Data must relate to the previous fiscal year, similar to financial reporting: a publication in 2024 will thus be based on 2023 data. The organisation must present its current base year and must update it for its GHG emission reduction objectives **every 5 years after 2030**.
 
 **Each ESRS includes a set of DRs** (82 in total, of which 32 relate to the environment), representing the specific information that companies are potentially required to disclose within the framework of the CSRD. This data is linked to crucial aspects of the company, such as its financial, environmental, social and governance performance. To publish this specific information, companies must collect and present [**data points**](#user-content-fn-5)[^5], totalling around 1,200. **Each DR is associated with data points**, which can be narrative, semi-narrative, percentages or monetary data. The number of DRs and data points may evolve subsequently.
 

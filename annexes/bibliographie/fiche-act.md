@@ -19,7 +19,7 @@ In order to improve reporting on the action plan, and more generally, **the ener
 
 It is with this objective in mind that a new method developed in 2015 by CDP and ADEME, initially named **"Assessing low Carbon Transition" (ACT®)**, was developed. To date, ACT® is the only international initiative that creates a **"climate accountability" framework** for companies vis-à-vis the **2°C objective of the Paris Agreement**. ACT® is divided into two components: **"ACT Step by Step"** and **"ACT Assessment"**. The first makes it possible to build a strategy aligned with relevant and ambitious low-carbon pathways, while the second makes it possible to valorise it by assessing its credibility and robustness.
 
-## **What are the objectives of the approach?**
+## **What are the approach's goals?**
 
 **ACT® aims to measure the alignment of an organisation with a future low-carbon world.** These methods are carried out from a reference framework, which makes it possible to valorise strategies compatible with a low-carbon transition pathway. ACT®, through its analysis, awards a rating intended to inform companies and investors, as well as indirectly public authorities, about the **credibility of the low-carbon strategy**. Through ACT®, companies are assessed according to **sectoral criteria**, in accordance with the IEA's[^1] sectoralised 2°C pathways.
 
@@ -144,7 +144,7 @@ The methodologies aim to integrate all significant sources of direct and indirec
 {% endtab %}
 {% endtabs %}
 
-The declaration boundaries of ACT® methods for a given sector are defined based on the main emission sources of that sector, following **the principle of relevance**. This leaves organisations some latitude to adapt these boundaries to their specific sector of activity. **Each ACT® method specifies a detailed list of emission sources to be taken into account, including those that are mandatory and those that are optional.** For example, in the ACT "Generic" methodology, direct emissions from land use, land-use change and forestry (LULUCF) are considered optional.
+The reporting boundaries of ACT® methods for a given sector are defined based on the main emission sources of that sector, following **the principle of relevance**. This leaves organisations some latitude to adapt these boundaries to their specific sector of activity. **Each ACT® method specifies a detailed list of emission sources to be taken into account, including those that are mandatory and those that are optional.** For example, in the ACT "Generic" methodology, direct emissions from land use, land-use change and forestry (LULUCF) are considered optional.
 
 {% hint style="info" %}
 ACT® methodologies have expanded since their creation with the addition of new sectoral methodologies. Currently, the sectoral method on agriculture & agri-food as well as a new method on biodiversity issues are in the piloting phase and will shortly be integrated into the ACT® methodology catalogue. Furthermore, a new ACT methodology dedicated to "[Adaptation](https://actinitiative.org/wp-content/uploads/act-adaptation_final_v.fr_dec23.pdf)" has recently been developed and is the subject of a dedicated sheet.
